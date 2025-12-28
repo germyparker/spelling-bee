@@ -1,4 +1,6 @@
 .env 
 venv
-*.db
+*.db*
 __pycache__
+.vercel
+.env*.local
