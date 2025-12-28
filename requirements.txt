@@ -1,2 +1,2 @@
 python-fasthtml
-MonsterUI
+git+https://github.com/nick3white/monsterui.git
