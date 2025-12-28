@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import random
 import json
 import os
+from dotenv import load_dotenv
 from pathlib import Path
 
 # Import word lists
@@ -11,6 +12,19 @@ from words import ONE_BEE, TWO_BEE, THREE_BEE
 
 # Database setup
 db = database("spelling_bee.db")
+
+load_dotenv()
+TURSO_DATABASE_URL = os.getenv("TURSO_DATABASE_URL")
+TURSO_AUTH_TOKEN = os.getenv("TURSO_AUTH_TOKEN")
+
+
+if TURSO_DATABASE_URL and TURSO_AUTH_TOKEN:
+    # Use Turso for production
+    db = database(f"{TURSO_DATABASE_URL}?authToken={TURSO_AUTH_TOKEN}")
+else:
+    # Fallback to local SQLite for development
+    db = database("spelling_bee.db")
+
 
 users = db.t.users
 if users not in db.t:
@@ -371,11 +385,6 @@ def get_session(user_id):
 @rt
 def index():
     return Container(
-        # bee_gee,
-        # Div(cls="bg", id="bg"),
-        # Canvas(cls="tornado", id="tornado"),
-        # Button(id="correct-btn", onclick="stopTornado()"),
-        # tornado,
         Div(cls="flex justify-between items-center mb-8 px-4 bg-gray-700 relative")(
             H1("🐝 Spelling Bee Study", cls="text-3xl font-bold text-blue-400"),
             Form(
@@ -622,13 +631,6 @@ def toggle_hint(user_id: str):
 @rt
 def check_answer(user_id: str, word_id: int, word: str, answer: str):
     print(f"word : {word}; answer: {answer}")
-    # letters = []
-    # i = 0
-    # while f"letter_{i}" in kwargs:
-    #     letters.append(kwargs[f"letter_{i}"].lower())
-    #     i += 1
-
-    # answer = "".join(letters)
     correct = check_answer_against_alternates(answer, word_id)
 
     if user_id != "guest":
