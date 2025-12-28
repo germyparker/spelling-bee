@@ -6,21 +6,30 @@ import json
 import os
 from dotenv import load_dotenv
 from pathlib import Path
+import libsql_experimental as libsql
 
 # Import word lists
 from words import ONE_BEE, TWO_BEE, THREE_BEE
 
 # Database setup
-db = database("spelling_bee.db")
+# db = database("spelling_bee.db")
 
 load_dotenv()
 TURSO_DATABASE_URL = os.getenv("TURSO_DATABASE_URL")
 TURSO_AUTH_TOKEN = os.getenv("TURSO_AUTH_TOKEN")
 
-
+# turso_db = f"{TURSO_DATABASE_URL}?authToken={TURSO_AUTH_TOKEN}"
+# print(f"rusto url: {turso_db}")
 if TURSO_DATABASE_URL and TURSO_AUTH_TOKEN:
-    # Use Turso for production
-    db = database(f"{TURSO_DATABASE_URL}?authToken={TURSO_AUTH_TOKEN}")
+    url = TURSO_DATABASE_URL
+    auth_token = TURSO_AUTH_TOKEN
+
+    # Create connection with sync_url
+    conn = libsql.connect("spelling_bee_sync.db", sync_url=url, auth_token=auth_token)
+    conn.sync()  # Sync with remote database
+
+    # Now use the synced local database with FastHTML
+    db = database("spelling_bee_sync.db")
 else:
     # Fallback to local SQLite for development
     db = database("spelling_bee.db")
