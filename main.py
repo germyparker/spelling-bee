@@ -350,7 +350,7 @@ def get_user_stats(user_id, difficulty_level):
 
 
 # FastHTML app
-app, rt = fast_app(hdrs=Theme.blue.headers(mode="dark"), live=True)
+app, rt = fast_app(hdrs=Theme.blue.headers(mode="dark"))
 
 session_state = {}
 
@@ -657,4 +657,6 @@ def check_answer(user_id: str, word_id: int, word: str, answer: str):
         )
 
 
-serve()
+# serve(
+#     reload_excludes=["venv/", ".venv/", "*.pyc", "__pycache__/"],
+# )
