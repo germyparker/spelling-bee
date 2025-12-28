@@ -1,0 +1,105 @@
+{
+  "word": "prognosis",
+  "api_response": [
+    {
+      "meta": {
+        "id": "prognosis",
+        "uuid": "42395aad-4b8f-467e-8463-6d921a4b46ac",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "prognosis",
+          "prognoses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "prog*no*sis",
+        "prs": [
+          {
+            "mw": "pr\u00e4g-\u02c8n\u014d-s\u0259s",
+            "sound": {
+              "audio": "progno01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-no*ses",
+          "if": "prog*no*ses",
+          "prs": [
+            {
+              "mw": "-\u02c8n\u014d-\u02ccs\u0113z",
+              "sound": {
+                "audio": "progno02"
+              }
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the prospect of recovery of an individual who has a disease based on the usual course of the disease and the characteristics of the individual who is sick"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|forecast||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Late Latin, from Greek {it}progn\u014dsis,{/it} literally, {ldquo}foreknowledge,{rdquo} from {it}progign\u014dskein{/it} {ldquo}to know before,{rdquo} from {it}pro-{/it} + {it}gign\u014dskein{/it} {ldquo}to know{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "the prospect of recovery of an individual who has a disease based on the usual course of the disease and the characteristics of the individual who is sick",
+        "forecast"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "progno01",
+  "shortdef": [
+    "the prospect of recovery of an individual who has a disease based on the usual course of the disease and the characteristics of the individual who is sick",
+    "forecast"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "pr\u00e4g-\u02c8n\u014d-s\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "prognosis",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/progno01.mp3"
+}

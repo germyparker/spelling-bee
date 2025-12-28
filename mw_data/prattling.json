@@ -1,0 +1,80 @@
+{
+  "word": "prattling",
+  "api_response": [
+    {
+      "meta": {
+        "id": "prattle:1",
+        "uuid": "2d3b302c-6fda-4a26-ae0f-7b5bc4b6a731",
+        "sort": "161108000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "prattle",
+          "prattled",
+          "prattler",
+          "prattlers",
+          "prattles",
+          "prattling",
+          "prattlingly"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "prat*tle",
+        "prs": [
+          {
+            "mw": "\u02c8pra-t\u1d4al",
+            "sound": {
+              "audio": "prattl01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "prat*tled"
+        },
+        {
+          "if": "prat*tling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to talk a great deal about unimportant or uninteresting things"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to talk a great deal about unimportant or uninteresting things"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "prattl01",
+  "shortdef": [
+    "to talk a great deal about unimportant or uninteresting things"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8pra-t\u1d4al",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prattl01.mp3"
+}

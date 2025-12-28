@@ -1,0 +1,133 @@
+{
+  "word": "conjure",
+  "api_response": [
+    {
+      "meta": {
+        "id": "conjure",
+        "uuid": "0342ab1b-38f7-4eaf-8d34-97a1387cd9ff",
+        "sort": "031309000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "conjure",
+          "conjure with",
+          "conjured",
+          "conjures",
+          "conjuring"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*jure",
+        "prs": [
+          {
+            "mw": "\u02c8k\u00e4n-j\u0259r",
+            "sound": {
+              "audio": "conjur03"
+            }
+          },
+          {
+            "mw": "\u02c8k\u0259n-j\u0259r"
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "con*jured"
+        },
+        {
+          "if": "con*jur*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to practice magical arts"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|imagine||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}conjure{/it} up an image"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to produce by or as if by magic "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Conjuring{/it} up portable, waterproof fires was a specialty of Hermione's.",
+                          "aq": {
+                            "auth": "J. K.  Rowling",
+                            "source": "{it}Harry Potter and the Chamber of Secrets{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to practice magical arts",
+        "imagine",
+        "to produce by or as if by magic"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "conjur03",
+  "shortdef": [
+    "to practice magical arts",
+    "imagine",
+    "to produce by or as if by magic"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8k\u00e4n-j\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjur03.mp3"
+}

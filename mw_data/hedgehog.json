@@ -1,0 +1,86 @@
+{
+  "word": "hedgehog",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hedgehog",
+        "uuid": "1abc9178-dde0-460f-b362-51fcfa50bc9c",
+        "sort": "080307000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hedgehog",
+          "hedgehogs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hedge*hog",
+        "prs": [
+          {
+            "mw": "\u02c8hej-\u02cch\u022fg",
+            "sound": {
+              "audio": "hedgeh01"
+            }
+          },
+          {
+            "mw": "-\u02cch\u00e4g"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a mammal of Europe, Asia, and Africa that eats insects, has sharp spines mixed with the hair on its back, and is able to roll itself up into a ball when threatened"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|porcupine||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a mammal of Europe, Asia, and Africa that eats insects, has sharp spines mixed with the hair on its back, and is able to roll itself up into a ball when threatened",
+        "porcupine"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hedgeh01",
+  "shortdef": [
+    "a mammal of Europe, Asia, and Africa that eats insects, has sharp spines mixed with the hair on its back, and is able to roll itself up into a ball when threatened",
+    "porcupine"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8hej-\u02cch\u022fg",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hedgeh01.mp3"
+}

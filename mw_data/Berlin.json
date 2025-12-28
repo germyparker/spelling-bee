@@ -1,0 +1,100 @@
+{
+  "word": "Berlin",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Berlin:g",
+        "uuid": "530aecc6-6b6e-4d9f-943c-0361bd542961",
+        "sort": "270092000",
+        "src": "sd2",
+        "section": "geog",
+        "stems": [
+          "Berlin",
+          "Berliner"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Ber*lin",
+        "prs": [
+          {
+            "mw": "(\u02cc)b\u0259r-\u02c8lin",
+            "sound": {
+              "audio": "ggberl01"
+            }
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "city, capital of Germany; divided 1945\u201390 into "
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "East Berlin"
+                          }
+                        ],
+                        [
+                          "text",
+                          "(capital of East Germany)"
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      " & "
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "West Berlin"
+                          }
+                        ],
+                        [
+                          "text",
+                          "(city of West Germany lying within East Germany)"
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "city, capital of Germany; divided 1945\u201490 into East Berlin(capital of East Germany) &amp; West Berlin(city of West Germany lying within East Germany)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ggberl01",
+  "shortdef": [
+    "city, capital of Germany; divided 1945\u201490 into East Berlin(capital of East Germany) &amp; West Berlin(city of West Germany lying within East Germany)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "geographical name",
+  "pronunciation": "(\u02cc)b\u0259r-\u02c8lin",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/gg/ggberl01.mp3"
+}

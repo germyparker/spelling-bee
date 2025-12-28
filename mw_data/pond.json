@@ -1,0 +1,66 @@
+{
+  "word": "pond",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pond",
+        "uuid": "ef865e16-9cb9-4256-a7ed-99549f7100d0",
+        "sort": "160955000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "pond",
+          "ponds"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pond",
+        "prs": [
+          {
+            "mw": "\u02c8p\u00e4nd",
+            "sound": {
+              "audio": "pond0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a body of water usually smaller than a lake"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a body of water usually smaller than a lake"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "pond0001",
+  "shortdef": [
+    "a body of water usually smaller than a lake"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u00e4nd",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pond0001.mp3"
+}

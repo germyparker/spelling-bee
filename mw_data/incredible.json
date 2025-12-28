@@ -1,0 +1,123 @@
+{
+  "word": "incredible",
+  "api_response": [
+    {
+      "meta": {
+        "id": "incredible",
+        "uuid": "c9cc5f0e-1332-46df-81eb-0e25f8f0ab45",
+        "sort": "090315000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "incredibilities",
+          "incredibility",
+          "incredible",
+          "incredibleness",
+          "incrediblenesses",
+          "incredibly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "in*cred*i*ble",
+        "prs": [
+          {
+            "mw": "in-\u02c8kre-d\u0259-b\u0259l",
+            "sound": {
+              "audio": "incred01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}too strange or unlikely to be believed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "It was an {it}incredible{/it} story."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}extremely or amazingly good, great, or large "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}incredible{/it} strength"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}credere{/it}, meaning {ldquo}to believe,{rdquo} gives us the root {b}cred{/b}. Words from the Latin {it}credere{/it} have something to do with believing someone or something. Something {b}cred{/b}{it}ible{/it} is easy to believe, while something {it}in{/it}{b}cred{/b}{it}ible{/it} is so out of the ordinary that it is difficult to believe. Giving {b}cred{/b}{it}it{/it} to something someone says is believing that it is true."
+          ]
+        ]
+      },
+      "uros": [
+        {
+          "ure": "in*cred*i*bly",
+          "prs": [
+            {
+              "mw": "-bl\u0113"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "too strange or unlikely to be believed",
+        "extremely or amazingly good, great, or large"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "incred01",
+  "shortdef": [
+    "too strange or unlikely to be believed",
+    "extremely or amazingly good, great, or large"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "in-\u02c8kre-d\u0259-b\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incred01.mp3"
+}

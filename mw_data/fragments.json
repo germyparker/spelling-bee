@@ -1,0 +1,86 @@
+{
+  "word": "fragments",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fragment",
+        "uuid": "1cb6add7-2361-480f-a0e0-81c1b6d6cd24",
+        "sort": "060839000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fragment",
+          "fragments"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "frag*ment",
+        "prs": [
+          {
+            "mw": "\u02c8frag-m\u0259nt",
+            "sound": {
+              "audio": "fragme01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a broken or incomplete part "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}fragment{/it} of rock"
+                        },
+                        {
+                          "t": "a {it}fragment{/it} of music"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}frangere{/it}, meaning {ldquo}to break,{rdquo} and its form {it}fractus{/it} give us the roots {b}frag{/b} and {b}fract{/b}. Words from the Latin {it}frangere{/it} have something to do with breaking. Something {b}frag{/b}{it}ile{/it} is easily broken. A {b}fract{/b}{it}ion{/it} is a portion broken off from a whole. To {b}fract{/b}{it}ure{/it} something, such as a bone, is to break it. A {b}frag{/b}{it}ment{/it} is a part that has been broken off from something larger or that is incomplete."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a broken or incomplete part"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fragme01",
+  "shortdef": [
+    "a broken or incomplete part"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8frag-m\u0259nt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fragme01.mp3"
+}

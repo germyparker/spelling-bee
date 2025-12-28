@@ -1,0 +1,83 @@
+{
+  "word": "unleash",
+  "api_response": [
+    {
+      "meta": {
+        "id": "unleash",
+        "uuid": "87e94ef0-96df-4512-8551-a19e0d2005cd",
+        "sort": "210240000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "unleash",
+          "unleashed",
+          "unleashing"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "un*leash",
+        "prs": [
+          {
+            "mw": "\u02cc\u0259n-\u02c8l\u0113sh",
+            "sound": {
+              "audio": "unleas01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "un*leashed"
+        },
+        {
+          "if": "un*leash*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to free from or as if from a leash "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A storm {it}unleashed{/it} its fury."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to free from or as if from a leash"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "unleas01",
+  "shortdef": [
+    "to free from or as if from a leash"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02cc\u0259n-\u02c8l\u0113sh",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unleas01.mp3"
+}

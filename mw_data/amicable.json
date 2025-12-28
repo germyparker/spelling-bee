@@ -1,0 +1,98 @@
+{
+  "word": "amicable",
+  "api_response": [
+    {
+      "meta": {
+        "id": "amicable",
+        "uuid": "dbf8ce61-d661-479e-bb31-c6dec6846edb",
+        "sort": "010622000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "amicabilities",
+          "amicability",
+          "amicable",
+          "amicableness",
+          "amicablenesses",
+          "amicably"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "am*i*ca*ble",
+        "prs": [
+          {
+            "mw": "\u02c8a-mi-k\u0259-b\u0259l",
+            "sound": {
+              "audio": "amicab01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}showing kindness or goodwill "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}I only hoped \u2026 that the parting could be more {it}amicable{/it} than this.{rdquo}",
+                          "aq": {
+                            "auth": "Louise Fitzhugh",
+                            "source": "{it}Harriet the Spy{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "am*i*ca*bly",
+          "prs": [
+            {
+              "mw": "-bl\u0113"
+            }
+          ],
+          "fl": "adverb",
+          "vis": [
+            {
+              "t": "chatting {it}amicably{/it}"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "showing kindness or goodwill"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "amicab01",
+  "shortdef": [
+    "showing kindness or goodwill"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8a-mi-k\u0259-b\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amicab01.mp3"
+}

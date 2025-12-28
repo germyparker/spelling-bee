@@ -1,0 +1,67 @@
+{
+  "word": "latticework",
+  "api_response": [
+    {
+      "meta": {
+        "id": "latticework",
+        "uuid": "1616486b-9a8b-44d7-b3b4-95e95bf6d8be",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "latticework",
+          "latticeworks"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "lat*tice*work",
+        "prs": [
+          {
+            "mw": "\u02c8lat-\u0259-\u02ccsw\u0259rk",
+            "sound": {
+              "audio": "lattic03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a lattice or work made of lattices"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a lattice or work made of lattices"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "lattic03",
+  "shortdef": [
+    "a lattice or work made of lattices"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8lat-\u0259-\u02ccsw\u0259rk",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "latticework",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lattic03.mp3"
+}

@@ -1,0 +1,138 @@
+{
+  "word": "dubious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dubious",
+        "uuid": "91722e38-0873-45ce-98aa-982a43910b27",
+        "sort": "041157000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dubious",
+          "dubiously",
+          "dubiousness",
+          "dubiousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "du*bi*ous",
+        "prs": [
+          {
+            "mw": "\u02c8d\u00fc-b\u0113-\u0259s",
+            "sound": {
+              "audio": "dubiou01"
+            }
+          },
+          {
+            "mw": "\u02c8dy\u00fc-"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}causing doubt {bc}{sx|uncertain||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Our plans are {it}dubious{/it} at this point."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}feeling doubt "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I was {it}dubious{/it} about our chances."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|questionable||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 they all began discussing dragon-slayings historical, {it}dubious{/it}, and mythical \u2026",
+                          "aq": {
+                            "auth": "J. R. R.  Tolkien",
+                            "source": "{it}The Hobbit{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "du*bi*ous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "causing doubt : uncertain",
+        "feeling doubt",
+        "questionable"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "dubiou01",
+  "shortdef": [
+    "causing doubt : uncertain",
+    "feeling doubt",
+    "questionable"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8d\u00fc-b\u0113-\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dubiou01.mp3"
+}

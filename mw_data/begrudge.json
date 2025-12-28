@@ -1,0 +1,83 @@
+{
+  "word": "begrudge",
+  "api_response": [
+    {
+      "meta": {
+        "id": "begrudge",
+        "uuid": "91647b57-f901-454a-9e65-789d629e907c",
+        "sort": "020345000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "begrudge",
+          "begrudged",
+          "begrudging"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "be*grudge",
+        "prs": [
+          {
+            "mw": "bi-\u02c8gr\u0259j",
+            "sound": {
+              "audio": "begrud01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "be*grudged"
+        },
+        {
+          "if": "be*grudg*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give or allow reluctantly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}begrudged{/it} the time spent away from home."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to give or allow reluctantly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "begrud01",
+  "shortdef": [
+    "to give or allow reluctantly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "bi-\u02c8gr\u0259j",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/begrud01.mp3"
+}

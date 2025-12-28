@@ -1,0 +1,83 @@
+{
+  "word": "camphor",
+  "api_response": [
+    {
+      "meta": {
+        "id": "camphor",
+        "uuid": "7aa1a5c4-d127-4d13-a982-ba70b737e4ca",
+        "sort": "030086000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "camphor",
+          "camphor tree",
+          "camphoraceous",
+          "camphors"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cam*phor",
+        "prs": [
+          {
+            "mw": "\u02c8kam-f\u0259r",
+            "sound": {
+              "audio": "campho01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a white fragrant solid that comes from the wood and bark of a tall Asian tree ("
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "camphor tree"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") and is used mostly in medicine, in making plastics, and to repel moths"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a white fragrant solid that comes from the wood and bark of a tall Asian tree (camphor tree) and is used mostly in medicine, in making plastics, and to repel moths"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "campho01",
+  "shortdef": [
+    "a white fragrant solid that comes from the wood and bark of a tall Asian tree (camphor tree) and is used mostly in medicine, in making plastics, and to repel moths"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kam-f\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/campho01.mp3"
+}

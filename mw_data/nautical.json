@@ -1,0 +1,183 @@
+{
+  "word": "nautical",
+  "api_response": [
+    {
+      "meta": {
+        "id": "nautical",
+        "uuid": "58ad2060-ee5a-4ddf-9474-b4fe84609b12",
+        "sort": "140072000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nautical",
+          "nautically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "nau*ti*cal",
+        "prs": [
+          {
+            "mw": "\u02c8n\u022f-ti-k\u0259l",
+            "sound": {
+              "audio": "nautic01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of or relating to sailors, navigation, or ships"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "of or relating to sailors, navigation, or ships"
+      ]
+    },
+    {
+      "meta": {
+        "id": "mile",
+        "uuid": "0d220bac-a950-47fc-91c6-b5bffe76eecb",
+        "sort": "130577000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "a mile a minute",
+          "geographical mile",
+          "mile",
+          "miles",
+          "nautical mile",
+          "statute mile"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mile",
+        "prs": [
+          {
+            "mw": "\u02c8m\u012bl",
+            "sound": {
+              "audio": "mile0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a measure of distance ("
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "statute mile"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") equal to 5280 feet (1609 meters)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a measure of distance ("
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "geographical mile"
+                          }
+                        ],
+                        [
+                          "text",
+                          " or "
+                        ],
+                        [
+                          "riw",
+                          {
+                            "rie": "nautical mile"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") used in air and sea travel equal to about 6076 feet (1852 meters)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "In English we use the word {it}mile{/it} for two different lengths. Though the ancient Roman mile was not the same as either of these, the English word {it}mile{/it} comes from the Latin name for the Roman mile. This Latin word, {it}milia{/it}, came from the phrase {it}milia passuum{/it}, literally, {ldquo}thousands of steps.{rdquo} From the Latin word for {ldquo}thousand,{rdquo} {it}mille{/it}, we also get the words {it}mill{/it} (a thousandth of a dollar) and {it}million{/it} (a thousand thousands)."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a measure of distance (statute mile) equal to 5280 feet (1609 meters)",
+        "a measure of distance (geographical mile or nautical mile) used in air and sea travel equal to about 6076 feet (1852 meters)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "nautic01",
+  "shortdef": [
+    "of or relating to sailors, navigation, or ships"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8n\u022f-ti-k\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/nautic01.mp3"
+}

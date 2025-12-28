@@ -1,0 +1,78 @@
+{
+  "word": "Everest",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Everest, Mount:g",
+        "uuid": "b8d243c2-f034-4925-9cd9-bc56e5c63fbf",
+        "sort": "270209000",
+        "src": "sd2",
+        "section": "geog",
+        "stems": [
+          "Everest, Mount",
+          "Mount Everest",
+          "Chomolungma"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Ev*er*est, Mount",
+        "prs": [
+          {
+            "mw": "\u02c8ev-r\u0259st",
+            "sound": {
+              "audio": "ggever01"
+            }
+          },
+          {
+            "mw": "\u02c8e-v\u0259-"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "mountain 29,035 ft. (8850 m.) "
+                    ],
+                    [
+                      "g",
+                      "S"
+                    ],
+                    [
+                      "text",
+                      " Asia in the Himalayas on border between Nepal & Tibet; highest in the world"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "mountain 29,035 ft. (8850 m.) S Asia in the Himalayas on border between Nepal &amp; Tibet; highest in the world"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ggever01",
+  "shortdef": [
+    "mountain 29,035 ft. (8850 m.) S Asia in the Himalayas on border between Nepal &amp; Tibet; highest in the world"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "geographical name",
+  "pronunciation": "\u02c8ev-r\u0259st",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/gg/ggever01.mp3"
+}

@@ -1,0 +1,229 @@
+{
+  "word": "want",
+  "api_response": [
+    {
+      "meta": {
+        "id": "want:1",
+        "uuid": "57b756ac-dd7d-4562-b5cd-73fe505d3101",
+        "sort": "230068000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "want",
+          "wanted",
+          "wanting",
+          "wants"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "want",
+        "prs": [
+          {
+            "mw": "\u02c8w\u022fnt",
+            "sound": {
+              "audio": "want0001"
+            }
+          },
+          {
+            "mw": "\u02c8w\u00e4nt"
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "want*ed"
+        },
+        {
+          "if": "want*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to desire, wish, or long for something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}want{/it} to go home."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to feel or suffer the need of something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 such a ghastly brew as to make me {it}want{/it} to swoon.",
+                          "aq": {
+                            "auth": "Avi",
+                            "source": "{it}Crispin: The Cross of Lead{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be without {bc}{sx|lack||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He's not the most talented player, but he doesn't {it}want{/it} for enthusiasm."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to desire, wish, or long for something",
+        "to feel or suffer the need of something",
+        "to be without : lack"
+      ]
+    },
+    {
+      "meta": {
+        "id": "want:2",
+        "uuid": "edefe896-85de-44c9-8c8e-a45b6fc43f6f",
+        "sort": "230069000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "want",
+          "wants"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "want"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|lack:2||}, {sx|shortage||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "His actions show a {it}want{/it} of common sense."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the state of being very poor "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They died in {it}want{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a wish for something {bc}{sx|desire||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "lack, shortage",
+        "the state of being very poor",
+        "a wish for something : desire"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "want0001",
+  "shortdef": [
+    "to desire, wish, or long for something",
+    "to feel or suffer the need of something",
+    "to be without : lack"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8w\u022fnt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/want0001.mp3"
+}

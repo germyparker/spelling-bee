@@ -1,0 +1,73 @@
+{
+  "word": "renowned",
+  "api_response": [
+    {
+      "meta": {
+        "id": "renowned",
+        "uuid": "4de1f890-d2f2-4773-bbba-158cabea38bc",
+        "sort": "180535000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "renowned"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "re*nowned",
+        "prs": [
+          {
+            "mw": "ri-\u02c8nau\u0307nd",
+            "sound": {
+              "audio": "renow01v"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}widely and favorably known "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}renowned{/it} author"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "widely and favorably known"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "renow01v",
+  "shortdef": [
+    "widely and favorably known"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "ri-\u02c8nau\u0307nd",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/renow01v.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "et cetera",
+  "api_response": [
+    {
+      "meta": {
+        "id": "et cetera",
+        "uuid": "a8fa1d1e-7eb8-409e-9290-b1e0dbce3fb2",
+        "sort": "050499000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "et cetera"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "et cet*era",
+        "prs": [
+          {
+            "mw": "et-\u02c8se-t\u0259-r\u0259",
+            "sound": {
+              "audio": "etcete02"
+            }
+          },
+          {
+            "mw": "-\u02c8se-tr\u0259"
+          }
+        ]
+      },
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}and others of the same kind {bc}and so forth {bc}and so on"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "and others of the same kind : and so forth : and so on"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "etcete02",
+  "shortdef": [
+    "and others of the same kind : and so forth : and so on"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": null,
+  "pronunciation": "et-\u02c8se-t\u0259-r\u0259",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/etcete02.mp3"
+}

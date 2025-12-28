@@ -1,0 +1,68 @@
+{
+  "word": "dinosaur",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dinosaur",
+        "uuid": "8bf4c5c5-c2f9-4d55-9e4f-9e93d618a72e",
+        "sort": "040605000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dinosaur",
+          "dinosaurian",
+          "dinosauric",
+          "dinosaurs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "di*no*saur",
+        "prs": [
+          {
+            "mw": "\u02c8d\u012b-n\u0259-\u02ccs\u022fr",
+            "sound": {
+              "audio": "dinosa01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of a group of extinct often very large mostly land-dwelling reptiles that lived millions of years ago"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "any of a group of extinct often very large mostly land-dwelling reptiles that lived millions of years ago"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "dinosa01",
+  "shortdef": [
+    "any of a group of extinct often very large mostly land-dwelling reptiles that lived millions of years ago"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8d\u012b-n\u0259-\u02ccs\u022fr",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dinosa01.mp3"
+}

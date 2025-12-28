@@ -1,0 +1,248 @@
+{
+  "word": "psyche",
+  "api_response": [
+    {
+      "meta": {
+        "id": "psyche",
+        "uuid": "976c6846-6bdc-4eb2-b68b-6d345269f849",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "psyche",
+          "psych",
+          "psyches"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "psy*che",
+        "prs": [
+          {
+            "mw": "\u02c8s\u012b-k\u0113",
+            "sound": {
+              "audio": "psych05m"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|soul||1}, {sx|self||}"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|mind||2a}"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Greek {it}psych\u0113{/it} {ldquo}soul{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "soul, self; also : mind"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Psyche:b",
+        "uuid": "5aeeca4c-6c93-4a7d-917f-8c8c41978f89",
+        "src": "sch_dict",
+        "section": "biog",
+        "stems": [
+          "psyche"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Psy*che",
+        "prs": [
+          {
+            "mw": "\u02c8s\u012b-k\u0113"
+          }
+        ]
+      },
+      "fl": "biographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "princess in mythology loved by Cupid"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "princess in mythology loved by Cupid"
+      ]
+    },
+    {
+      "meta": {
+        "id": "psych",
+        "uuid": "d689c5c3-845a-4519-9bb8-ceaa78199037",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "psych",
+          "psyche",
+          "psyched",
+          "psyches",
+          "psyching",
+          "psychs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "psych"
+      },
+      "vrs": [
+        {
+          "vl": "or",
+          "va": "psyche",
+          "prs": [
+            {
+              "mw": "\u02c8s\u012bk"
+            }
+          ]
+        }
+      ],
+      "fl": "transitive verb",
+      "ins": [
+        {
+          "if": "psyched"
+        },
+        {
+          "if": "psych*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make psychologically uneasy "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "often used with {it}out{/it}"
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}psych{/it} out an opponent"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make psychologically ready "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "often used with {it}up{/it}"
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}psyched{/it} myself up for the test"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "short for {it}psychoanalyze{/it}"
+        ]
+      ],
+      "shortdef": [
+        "to make psychologically uneasy \u2014often used with out",
+        "to make psychologically ready \u2014often used with up"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "psych05m",
+  "shortdef": [
+    "soul, self; also : mind"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8s\u012b-k\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "psyche",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/psych05m.mp3"
+}

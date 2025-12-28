@@ -1,0 +1,67 @@
+{
+  "word": "neon",
+  "api_response": [
+    {
+      "meta": {
+        "id": "neon",
+        "uuid": "a2dbb5b2-fac4-4d7d-94fd-1fd635b9865c",
+        "sort": "140147000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "neon",
+          "neoned",
+          "neons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ne*on",
+        "prs": [
+          {
+            "mw": "\u02c8n\u0113-\u02cc\u00e4n",
+            "sound": {
+              "audio": "neon0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a colorless gaseous chemical element found in very small amounts in the air and used in electric lights"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a colorless gaseous chemical element found in very small amounts in the air and used in electric lights"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "neon0001",
+  "shortdef": [
+    "a colorless gaseous chemical element found in very small amounts in the air and used in electric lights"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8n\u0113-\u02cc\u00e4n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/neon0001.mp3"
+}

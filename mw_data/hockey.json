@@ -1,0 +1,144 @@
+{
+  "word": "hockey",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hockey",
+        "uuid": "564713cf-0558-497f-90e4-545cb0bff8c5",
+        "sort": "080506000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hockey",
+          "hockeys"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hock*ey",
+        "prs": [
+          {
+            "mw": "\u02c8h\u00e4-k\u0113",
+            "sound": {
+              "audio": "hockey01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game played on ice or in a field by two teams who try to drive a puck or ball through a goal by hitting it with a stick"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a game played on ice or in a field by two teams who try to drive a puck or ball through a goal by hitting it with a stick"
+      ]
+    },
+    {
+      "meta": {
+        "id": "field hockey",
+        "uuid": "2c4f16b9-aed3-4161-9fda-9cedc4d634ed",
+        "sort": "060290000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "field hockey"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "field hockey"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}hockey played on a field"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "hockey played on a field"
+      ]
+    },
+    {
+      "meta": {
+        "id": "ice hockey",
+        "uuid": "e9b49fbe-c653-4a54-8777-1872cde0a320",
+        "sort": "090022000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ice hockey"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ice hockey"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}hockey played on ice"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "hockey played on ice"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hockey01",
+  "shortdef": [
+    "a game played on ice or in a field by two teams who try to drive a puck or ball through a goal by hitting it with a stick"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8h\u00e4-k\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hockey01.mp3"
+}

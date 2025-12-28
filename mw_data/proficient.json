@@ -1,0 +1,81 @@
+{
+  "word": "proficient",
+  "api_response": [
+    {
+      "meta": {
+        "id": "proficient",
+        "uuid": "e96a31d6-81c8-46c1-b3d5-5134e3b44cd3",
+        "sort": "161340000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "proficient",
+          "proficiently",
+          "proficients"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pro*fi*cient",
+        "prs": [
+          {
+            "mw": "pr\u0259-\u02c8fi-sh\u0259nt",
+            "sound": {
+              "audio": "profic02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very good at doing something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}proficient{/it} reader"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "pro*fi*cient*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "very good at doing something"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "profic02",
+  "shortdef": [
+    "very good at doing something"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "pr\u0259-\u02c8fi-sh\u0259nt",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profic02.mp3"
+}

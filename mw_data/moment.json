@@ -1,0 +1,293 @@
+{
+  "word": "moment",
+  "api_response": [
+    {
+      "meta": {
+        "id": "moment",
+        "uuid": "3311ac0d-30ab-4b62-81d7-d95ecae16ee9",
+        "sort": "130806000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "moment",
+          "moments"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mo*ment",
+        "prs": [
+          {
+            "mw": "\u02c8m\u014d-m\u0259nt",
+            "sound": {
+              "audio": "moment01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a very brief time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A shooting star lasts only a {it}moment{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}present time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm busy at the {it}moment{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|importance||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We met to discuss a subject of great {it}moment{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a very brief time",
+        "present time",
+        "importance"
+      ]
+    },
+    {
+      "meta": {
+        "id": "spur:1",
+        "uuid": "91017f08-0d4a-4007-8f62-f93d491736c3",
+        "sort": "191801000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "on the spur of the moment",
+          "spur",
+          "spurred",
+          "spurs"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "spur",
+        "prs": [
+          {
+            "mw": "\u02c8sp\u0259r",
+            "sound": {
+              "audio": "spur0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pointed device fastened to the back of a rider's boot and used to urge a horse on"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that makes a person want to do something {bc}{sx|incentive||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a mass of jagged rock coming out from the side of a mountain"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a short section of railway track coming away from the main line"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually short pointed growth or projecting part (as a spine on the leg of a rooster)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "spurred",
+          "prs": [
+            {
+              "mw": "\u02c8sp\u0259rd"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "dros": [
+        {
+          "drp": "on the spur of the moment",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}without thinking for a long time "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We decided to go {it}on the spur of the moment{/it}."
+                            }
+                          ]
+                        ],
+                        [
+                          "hint",
+                          [
+                            [
+                              "text",
+                              "{it}Spur-of-the-moment{/it} is often used as an adjective. "
+                            ],
+                            [
+                              "vis",
+                              [
+                                {
+                                  "t": "a {it}spur-of-the-moment{/it} decision"
+                                }
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "a pointed device fastened to the back of a rider's boot and used to urge a horse on",
+        "something that makes a person want to do something : incentive",
+        "a mass of jagged rock coming out from the side of a mountain"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "moment01",
+  "shortdef": [
+    "a very brief time",
+    "present time",
+    "importance"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8m\u014d-m\u0259nt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moment01.mp3"
+}

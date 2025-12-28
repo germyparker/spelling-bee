@@ -1,0 +1,223 @@
+{
+  "word": "search",
+  "api_response": [
+    {
+      "meta": {
+        "id": "search:1",
+        "uuid": "59fd4551-af18-4a0b-a26f-cd361e3bdb50",
+        "sort": "190407000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "search",
+          "searchable",
+          "searched",
+          "searcher",
+          "searchers",
+          "searches",
+          "searching",
+          "searchingly"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "search",
+        "prs": [
+          {
+            "mw": "\u02c8s\u0259rch",
+            "sound": {
+              "audio": "search01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "searched"
+        },
+        {
+          "if": "search*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go through or look around carefully and thoroughly in an effort to find something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 she {it}searched{/it} the nearby shore for signs of an intruder.",
+                          "aq": {
+                            "auth": "E. B. White",
+                            "source": "{it}The Trumpet of the Swan{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to carefully look for someone or something"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to look in the pockets or the clothing of (someone) for something hidden"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to use a computer to find information (as in a database or on the Internet)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "srefs": [
+        "seek"
+      ],
+      "shortdef": [
+        "to go through or look around carefully and thoroughly in an effort to find something",
+        "to carefully look for someone or something",
+        "to look in the pockets or the clothing of (someone) for something hidden"
+      ]
+    },
+    {
+      "meta": {
+        "id": "search:2",
+        "uuid": "2a12b951-956e-4f95-b9ba-dae493bd1bb6",
+        "sort": "190408000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "search",
+          "searches"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "search"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act or instance of looking for someone or something"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an act or instance of looking for someone or something"
+      ]
+    },
+    {
+      "meta": {
+        "id": "search engine",
+        "uuid": "9abb6a8f-9f6b-4856-996f-a51efa8ce9ad",
+        "sort": "190409000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "search engine"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "search engine"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}computer software used to search data (as text or a database) for requested information"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "computer software used to search data (as text or a database) for requested information"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "search01",
+  "shortdef": [
+    "to go through or look around carefully and thoroughly in an effort to find something",
+    "to carefully look for someone or something",
+    "to look in the pockets or the clothing of (someone) for something hidden"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8s\u0259rch",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/search01.mp3"
+}

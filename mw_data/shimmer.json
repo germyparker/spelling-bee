@@ -1,0 +1,127 @@
+{
+  "word": "shimmer",
+  "api_response": [
+    {
+      "meta": {
+        "id": "shimmer:1",
+        "uuid": "0a594119-0016-48c3-9851-9147e2dfce2a",
+        "sort": "190754000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shimmer",
+          "shimmered",
+          "shimmering",
+          "shimmers"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "shim*mer",
+        "prs": [
+          {
+            "mw": "\u02c8shi-m\u0259r",
+            "sound": {
+              "audio": "shimme01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "shim*mered"
+        },
+        {
+          "if": "shim*mer*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to shine with a wavering light {bc}{sx|glimmer||} "
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to shine with a wavering light : glimmer"
+      ]
+    },
+    {
+      "meta": {
+        "id": "shimmer:2",
+        "uuid": "4d8ef5dd-4b92-420e-8eb3-8a18b15a7642",
+        "sort": "190755000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shimmer",
+          "shimmers",
+          "shimmery"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "shimmer"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a wavering light "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}shimmer{/it} of silver leaves"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a wavering light"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "shimme01",
+  "shortdef": [
+    "to shine with a wavering light : glimmer"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8shi-m\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/shimme01.mp3"
+}

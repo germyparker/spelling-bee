@@ -1,0 +1,67 @@
+{
+  "word": "apocalypse",
+  "api_response": [
+    {
+      "meta": {
+        "id": "revelation",
+        "uuid": "2d5e1b57-a688-45d8-aca2-0bd6390f175f",
+        "sort": "180735000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "Apocalypse",
+          "revelation",
+          "revelations"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rev*e*la*tion",
+        "prs": [
+          {
+            "mw": "\u02ccre-v\u0259-\u02c8l\u0101-sh\u0259n",
+            "sound": {
+              "audio": "revela01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a secret or surprising fact that is made known"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a secret or surprising fact that is made known"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "revela01",
+  "shortdef": [
+    "a secret or surprising fact that is made known"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccre-v\u0259-\u02c8l\u0101-sh\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revela01.mp3"
+}

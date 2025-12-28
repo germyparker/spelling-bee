@@ -1,0 +1,66 @@
+{
+  "word": "alfalfa",
+  "api_response": [
+    {
+      "meta": {
+        "id": "alfalfa",
+        "uuid": "97feb398-11e3-48aa-b94e-f011d11a4c17",
+        "sort": "010480000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "alfalfa",
+          "alfalfas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "al*fal*fa",
+        "prs": [
+          {
+            "mw": "al-\u02c8fal-f\u0259",
+            "sound": {
+              "audio": "alfalf01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a plant with purple flowers that is related to the clovers and is grown as a food for horses and cattle"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a plant with purple flowers that is related to the clovers and is grown as a food for horses and cattle"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "alfalf01",
+  "shortdef": [
+    "a plant with purple flowers that is related to the clovers and is grown as a food for horses and cattle"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "al-\u02c8fal-f\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alfalf01.mp3"
+}

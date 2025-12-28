@@ -1,0 +1,130 @@
+{
+  "word": "cluster",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cluster:1",
+        "uuid": "c015d222-a48e-409e-98ea-a7b7f18c8a42",
+        "sort": "030902000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cluster",
+          "clusters",
+          "clustery"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "clus*ter",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u0259-st\u0259r",
+            "sound": {
+              "audio": "cluste01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a number of similar things growing or grouped closely together {bc}{sx|bunch||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}cluster{/it} of houses"
+                        },
+                        {
+                          "t": "a flower {it}cluster{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a number of similar things growing or grouped closely together : bunch"
+      ]
+    },
+    {
+      "meta": {
+        "id": "cluster:2",
+        "uuid": "6355f4c8-594d-4b2d-9d61-880b311a53bd",
+        "sort": "030903000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cluster",
+          "clustered",
+          "clustering",
+          "clusters"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "cluster"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "clus*tered"
+        },
+        {
+          "if": "clus*ter*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to grow, collect, or assemble in a bunch"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to grow, collect, or assemble in a bunch"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "cluste01",
+  "shortdef": [
+    "a number of similar things growing or grouped closely together : bunch"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kl\u0259-st\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cluste01.mp3"
+}

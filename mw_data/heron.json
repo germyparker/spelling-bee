@@ -1,0 +1,66 @@
+{
+  "word": "heron",
+  "api_response": [
+    {
+      "meta": {
+        "id": "heron",
+        "uuid": "839f7910-b63e-408c-94ad-c9bcdf546275",
+        "sort": "080388000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "heron",
+          "herons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "her*on",
+        "prs": [
+          {
+            "mw": "\u02c8her-\u0259n",
+            "sound": {
+              "audio": "heron001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a wading bird that has long legs, a long neck, a long thin bill, and large wings"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a wading bird that has long legs, a long neck, a long thin bill, and large wings"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "heron001",
+  "shortdef": [
+    "a wading bird that has long legs, a long neck, a long thin bill, and large wings"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8her-\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heron001.mp3"
+}

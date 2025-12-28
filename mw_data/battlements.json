@@ -1,0 +1,67 @@
+{
+  "word": "battlements",
+  "api_response": [
+    {
+      "meta": {
+        "id": "battlement",
+        "uuid": "be2c44ad-ea63-4ac2-9f64-5ba5d645c4e4",
+        "sort": "020243000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "battlement",
+          "battlemented",
+          "battlements"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bat*tle*ment",
+        "prs": [
+          {
+            "mw": "\u02c8ba-t\u1d4al-m\u0259nt",
+            "sound": {
+              "audio": "battle08"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a low wall (as at the top of a castle) with openings to shoot through"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a low wall (as at the top of a castle) with openings to shoot through"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "battle08",
+  "shortdef": [
+    "a low wall (as at the top of a castle) with openings to shoot through"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ba-t\u1d4al-m\u0259nt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/battle08.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "circus",
+  "api_response": [
+    {
+      "meta": {
+        "id": "circus",
+        "uuid": "f052187d-441d-425b-bf7f-f8313a1ff3e1",
+        "sort": "030724000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "circus",
+          "circuses",
+          "circusy"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cir*cus",
+        "prs": [
+          {
+            "mw": "\u02c8s\u0259r-k\u0259s",
+            "sound": {
+              "audio": "circus01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a traveling show that often takes place under a tent and that usually includes acts performed by acrobats, clowns, and trained animals"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a traveling show that often takes place under a tent and that usually includes acts performed by acrobats, clowns, and trained animals"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "circus01",
+  "shortdef": [
+    "a traveling show that often takes place under a tent and that usually includes acts performed by acrobats, clowns, and trained animals"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8s\u0259r-k\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circus01.mp3"
+}

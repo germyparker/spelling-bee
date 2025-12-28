@@ -1,0 +1,106 @@
+{
+  "word": "prototype",
+  "api_response": [
+    {
+      "meta": {
+        "id": "prototype",
+        "uuid": "e94246a5-d9c5-4a34-ac00-d5405abf3db2",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "prototype",
+          "prototypes",
+          "prototypal",
+          "prototypical"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pro*to*type",
+        "prs": [
+          {
+            "mw": "\u02c8pr\u014dt-\u0259-\u02cct\u012bp",
+            "sound": {
+              "audio": "protot05"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an original model on which something is patterned"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an individual that exhibits the essential features of a later type"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "pro*to*typ*al",
+          "prs": [
+            {
+              "mw": "\u02ccpr\u014dt-\u0259-\u02c8t\u012b-p\u0259l"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "pro*to*typ*i*cal",
+          "prs": [
+            {
+              "mw": "-\u02c8tip-i-k\u0259l"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "an original model on which something is patterned",
+        "an individual that exhibits the essential features of a later type"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "protot05",
+  "shortdef": [
+    "an original model on which something is patterned",
+    "an individual that exhibits the essential features of a later type"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8pr\u014dt-\u0259-\u02cct\u012bp",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "prototype",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protot05.mp3"
+}

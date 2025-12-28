@@ -1,0 +1,74 @@
+{
+  "word": "nomination",
+  "api_response": [
+    {
+      "meta": {
+        "id": "nomination",
+        "uuid": "6f7d4152-a1d8-4a07-8b43-312e5b301dc4",
+        "sort": "140305000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nomination",
+          "nominations"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "nom*i*na*tion",
+        "prs": [
+          {
+            "mw": "\u02ccn\u00e4-m\u0259-\u02c8n\u0101-sh\u0259n",
+            "sound": {
+              "audio": "nomina07"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or an instance of choosing as a candidate for election, appointment, or honor "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The Senate has to approve the {it}nomination{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act or an instance of choosing as a candidate for election, appointment, or honor"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "nomina07",
+  "shortdef": [
+    "the act or an instance of choosing as a candidate for election, appointment, or honor"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccn\u00e4-m\u0259-\u02c8n\u0101-sh\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/nomina07.mp3"
+}

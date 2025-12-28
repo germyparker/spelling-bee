@@ -1,0 +1,243 @@
+{
+  "word": "faint",
+  "api_response": [
+    {
+      "meta": {
+        "id": "faint:1",
+        "uuid": "06451689-3cfa-4e56-b695-87a765f1bf27",
+        "sort": "060032000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "faint",
+          "fainter",
+          "faintest",
+          "faintish",
+          "faintishness",
+          "faintishnesses",
+          "faintly",
+          "faintness",
+          "faintnesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "faint",
+        "prs": [
+          {
+            "mw": "\u02c8f\u0101nt",
+            "sound": {
+              "audio": "faint001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "faint*er"
+        },
+        {
+          "if": "faint*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not clear or plain {bc}{sx|dim||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}faint{/it} handwriting"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}weak or dizzy and likely to collapse "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I feel {it}faint{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}lacking strength "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}faint{/it} attempt"
+                        },
+                        {
+                          "t": "a {it}faint{/it} breeze"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "faint*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "faint*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "not clear or plain : dim",
+        "weak or dizzy and likely to collapse",
+        "lacking strength"
+      ]
+    },
+    {
+      "meta": {
+        "id": "faint:2",
+        "uuid": "3cf31a29-d79a-4d73-ac59-ebd444599314",
+        "sort": "060033000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "faint",
+          "fainted",
+          "fainting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "faint"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "faint*ed"
+        },
+        {
+          "if": "faint*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to suddenly lose consciousness"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to suddenly lose consciousness"
+      ]
+    },
+    {
+      "meta": {
+        "id": "faint:3",
+        "uuid": "ad0cddc4-4e80-4ff7-848b-d4d3fa0fd9c6",
+        "sort": "060034000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "faint",
+          "faints"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "faint"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act or condition of suddenly losing consciousness"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an act or condition of suddenly losing consciousness"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "faint001",
+  "shortdef": [
+    "not clear or plain : dim",
+    "weak or dizzy and likely to collapse",
+    "lacking strength"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8f\u0101nt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/faint001.mp3"
+}

@@ -1,0 +1,86 @@
+{
+  "word": "lanky",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lanky",
+        "uuid": "d10f35b4-3bca-4fcf-ae12-592b2b29dffa",
+        "sort": "120088000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lankier",
+          "lankiest",
+          "lankily",
+          "lankiness",
+          "lankinesses",
+          "lanky"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "lanky",
+        "prs": [
+          {
+            "mw": "\u02c8la\u014b-k\u0113",
+            "sound": {
+              "audio": "lanky001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "lank*i*er"
+        },
+        {
+          "if": "lank*i*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very tall and thin "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}lanky{/it} teenager"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "very tall and thin"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lanky001",
+  "shortdef": [
+    "very tall and thin"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8la\u014b-k\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lanky001.mp3"
+}

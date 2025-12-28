@@ -1,0 +1,89 @@
+{
+  "word": "oblivion",
+  "api_response": [
+    {
+      "meta": {
+        "id": "oblivion",
+        "uuid": "f3a6d9e2-bac8-4ac7-b709-66ca1df670c5",
+        "sort": "150033000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "oblivion",
+          "oblivions"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "obliv*i*on",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8bli-v\u0113-\u0259n",
+            "sound": {
+              "audio": "oblivi01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the state of forgetting or having forgotten or of being unaware or unconscious"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the state of being forgotten "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "The tradition has drifted into {it}oblivion{/it}."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the state of forgetting or having forgotten or of being unaware or unconscious",
+        "the state of being forgotten"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "oblivi01",
+  "shortdef": [
+    "the state of forgetting or having forgotten or of being unaware or unconscious",
+    "the state of being forgotten"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u0259-\u02c8bli-v\u0113-\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oblivi01.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "cosmetics",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cosmetic",
+        "uuid": "91433954-bb97-4daf-bac6-1862fb5af08c",
+        "sort": "031585000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cosmetic",
+          "cosmetics"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cos*met*ic",
+        "prs": [
+          {
+            "mw": "k\u00e4z-\u02c8met-ik",
+            "sound": {
+              "audio": "cosmet01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a material (as a cream, lotion, or powder) used to improve a person's appearance"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a material (as a cream, lotion, or powder) used to improve a person's appearance"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "cosmet01",
+  "shortdef": [
+    "a material (as a cream, lotion, or powder) used to improve a person's appearance"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "k\u00e4z-\u02c8met-ik",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmet01.mp3"
+}

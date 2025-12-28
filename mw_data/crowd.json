@@ -1,0 +1,245 @@
+{
+  "word": "crowd",
+  "api_response": [
+    {
+      "meta": {
+        "id": "crowd:1",
+        "uuid": "4f1a204a-ff69-495e-9e12-ffc7d1b9dd2a",
+        "sort": "031865000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "crowd",
+          "crowded",
+          "crowding",
+          "crowds"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "crowd",
+        "prs": [
+          {
+            "mw": "\u02c8krau\u0307d",
+            "sound": {
+              "audio": "crowd001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "crowd*ed"
+        },
+        {
+          "if": "crowd*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to push into a small space "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "After the meeting we all {it}crowded{/it} into an elevator."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form a tight group "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Players {it}crowded{/it} around the coach."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to collect in numbers "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "People {it}crowded{/it} at the entrance."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fill or pack by pressing together "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Cars {it}crowded{/it} the roads."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to push into a small space",
+        "to form a tight group",
+        "to collect in numbers"
+      ]
+    },
+    {
+      "meta": {
+        "id": "crowd:2",
+        "uuid": "22331c55-1233-4fbf-b3be-0bd15814d384",
+        "sort": "031866000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "crowd",
+          "crowds",
+          "crwth"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "crowd"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large number of people in one place"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the population as a whole {bc}ordinary people "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "These books appeal to the {it}crowd{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a group of people who spend time together or have a common interest "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She hangs around with a wild {it}crowd{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large number of people in one place",
+        "the population as a whole : ordinary people",
+        "a group of people who spend time together or have a common interest"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "crowd001",
+  "shortdef": [
+    "to push into a small space",
+    "to form a tight group",
+    "to collect in numbers"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8krau\u0307d",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crowd001.mp3"
+}

@@ -1,0 +1,164 @@
+{
+  "word": "attacked",
+  "api_response": [
+    {
+      "meta": {
+        "id": "attack:1",
+        "uuid": "25aaf56f-bb55-4e5f-865c-664bf9f6483c",
+        "sort": "011159000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "attack",
+          "attacked",
+          "attacker",
+          "attackers",
+          "attacking",
+          "attacks"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "at*tack",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8tak",
+            "sound": {
+              "audio": "attack01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "at*tacked"
+        },
+        {
+          "if": "at*tack*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take strong action against {bc}try to hurt, injure, or destroy "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Troops {it}attacked{/it} the fortress at dawn."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to use harsh words against {bc}criticize harshly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "People {it}attacked{/it} the plan as being too complicated."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to begin to affect or to act upon harmfully "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A disease {it}attacked{/it} our crops."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to start to work on in a determined and eager way "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}attacked{/it} the problem."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "at*tack*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to take strong action against : try to hurt, injure, or destroy",
+        "to use harsh words against : criticize harshly",
+        "to begin to affect or to act upon harmfully"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "attack01",
+  "shortdef": [
+    "to take strong action against : try to hurt, injure, or destroy",
+    "to use harsh words against : criticize harshly",
+    "to begin to affect or to act upon harmfully"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u0259-\u02c8tak",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/attack01.mp3"
+}

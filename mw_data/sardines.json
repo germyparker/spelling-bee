@@ -1,0 +1,66 @@
+{
+  "word": "sardines",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sardine",
+        "uuid": "caa05d15-5b08-4b65-bb52-03722eedf04a",
+        "sort": "190134000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sardine",
+          "sardines"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sar*dine",
+        "prs": [
+          {
+            "mw": "s\u00e4r-\u02c8d\u0113n",
+            "sound": {
+              "audio": "sardin01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a young or very small fish often preserved in oil and used for food"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a young or very small fish often preserved in oil and used for food"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sardin01",
+  "shortdef": [
+    "a young or very small fish often preserved in oil and used for food"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "s\u00e4r-\u02c8d\u0113n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sardin01.mp3"
+}

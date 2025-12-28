@@ -1,0 +1,153 @@
+{
+  "word": "eaten",
+  "api_response": [
+    {
+      "meta": {
+        "id": "eat",
+        "uuid": "402a610d-6642-43ad-b343-74aa0d13a62d",
+        "sort": "050048000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ate",
+          "eat",
+          "eat alive",
+          "eat one out of house and home",
+          "eat one's heart out",
+          "eat one's words",
+          "eat out of one's hand",
+          "eat someone's lunch",
+          "eaten",
+          "eater",
+          "eaters",
+          "eating",
+          "eats"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "eat",
+        "prs": [
+          {
+            "mw": "\u02c8\u0113t",
+            "sound": {
+              "audio": "eat00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ate",
+          "prs": [
+            {
+              "mw": "\u02c8\u0101t"
+            }
+          ]
+        },
+        {
+          "if": "eat*en",
+          "prs": [
+            {
+              "mw": "\u02c8\u0113-t\u1d4an"
+            }
+          ]
+        },
+        {
+          "if": "eat*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to chew and swallow food"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take a meal "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Let's {it}eat{/it} at home."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to destroy as if by eating {bc}{sx|corrode||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Acids {it}ate{/it} away the metal."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "eat*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to chew and swallow food",
+        "to take a meal",
+        "to destroy as if by eating : corrode"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "eat00001",
+  "shortdef": [
+    "to chew and swallow food",
+    "to take a meal",
+    "to destroy as if by eating : corrode"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8\u0113t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/eat00001.mp3"
+}

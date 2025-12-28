@@ -1,0 +1,86 @@
+{
+  "word": "parent",
+  "api_response": [
+    {
+      "meta": {
+        "id": "parent",
+        "uuid": "3c4b463a-0e29-41f4-9f2b-616d5f1d153c",
+        "sort": "160154000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "parent",
+          "parental",
+          "parentally",
+          "parentless",
+          "parents"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "par*ent",
+        "prs": [
+          {
+            "mw": "\u02c8per-\u0259nt",
+            "sound": {
+              "audio": "parent01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a father or mother of a child"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an animal or plant that produces offspring"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a father or mother of a child",
+        "an animal or plant that produces offspring"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "parent01",
+  "shortdef": [
+    "a father or mother of a child",
+    "an animal or plant that produces offspring"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8per-\u0259nt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parent01.mp3"
+}

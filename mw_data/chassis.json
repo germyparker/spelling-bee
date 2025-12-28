@@ -1,0 +1,80 @@
+{
+  "word": "chassis",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chassis",
+        "uuid": "3225c64c-3718-47e0-92ce-f561c0db5098",
+        "sort": "030504000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chassis",
+          "chassises"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "chas*sis",
+        "prs": [
+          {
+            "mw": "\u02c8cha-s\u0113",
+            "sound": {
+              "audio": "chassi01"
+            }
+          },
+          {
+            "mw": "\u02c8sha-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "chas*sis",
+          "prs": [
+            {
+              "mw": "-s\u0113z"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the supporting frame of a structure (as an automobile or television)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the supporting frame of a structure (as an automobile or television)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "chassi01",
+  "shortdef": [
+    "the supporting frame of a structure (as an automobile or television)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8cha-s\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chassi01.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "word": "squalor",
+  "api_response": [
+    {
+      "meta": {
+        "id": "squalor",
+        "uuid": "fe48bc4e-a409-4fab-8d9a-512edd62a447",
+        "sort": "191822000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "squalor",
+          "squalors"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "squal*or",
+        "prs": [
+          {
+            "mw": "\u02c8skw\u00e4-l\u0259r",
+            "sound": {
+              "audio": "squalo01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the quality or state of being squalid "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The children had to live in {it}squalor{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the quality or state of being squalid"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "squalo01",
+  "shortdef": [
+    "the quality or state of being squalid"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8skw\u00e4-l\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/squalo01.mp3"
+}

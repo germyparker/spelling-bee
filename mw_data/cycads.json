@@ -1,0 +1,66 @@
+{
+  "word": "cycads",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cycad",
+        "uuid": "b3543546-3efc-4e1f-8a4d-8e71b80d9a53",
+        "sort": "032021000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cycad",
+          "cycads"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cy*cad",
+        "prs": [
+          {
+            "mw": "\u02c8s\u012b-k\u0259d",
+            "sound": {
+              "audio": "cycad001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tropical plant like a palm but related to the conifers"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tropical plant like a palm but related to the conifers"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "cycad001",
+  "shortdef": [
+    "a tropical plant like a palm but related to the conifers"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8s\u012b-k\u0259d",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cycad001.mp3"
+}

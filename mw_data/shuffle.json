@@ -1,0 +1,230 @@
+{
+  "word": "shuffle",
+  "api_response": [
+    {
+      "meta": {
+        "id": "shuffle:1",
+        "uuid": "8ba44d0b-5ef9-44c6-b182-10db1702a939",
+        "sort": "190874000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shuffle",
+          "shuffled",
+          "shuffler",
+          "shufflers",
+          "shuffles",
+          "shuffling"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "shuf*fle",
+        "prs": [
+          {
+            "mw": "\u02c8sh\u0259-f\u0259l",
+            "sound": {
+              "audio": "shuffl01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "shuf*fled"
+        },
+        {
+          "if": "shuf*fling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to slide back and forth without lifting "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}shuffled{/it} his feet."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to walk or move by sliding or dragging the feet "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I just {it}shuffled{/it} along."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to mix up the order of (as playing cards)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to push or move about or from place to place "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}shuffled{/it} the papers on her desk."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to slide back and forth without lifting",
+        "to walk or move by sliding or dragging the feet",
+        "to mix up the order of (as playing cards)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "shuffle:2",
+        "uuid": "24d0d51d-cb0e-4060-b6c1-de24c044155f",
+        "sort": "190875000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shuffle",
+          "shuffles"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "shuffle"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sliding or dragging walk"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act of mixing up or moving so as to change the order or position"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a confusing jumble "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The idea was lost in the {it}shuffle{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sliding or dragging walk",
+        "an act of mixing up or moving so as to change the order or position",
+        "a confusing jumble"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "shuffl01",
+  "shortdef": [
+    "to slide back and forth without lifting",
+    "to walk or move by sliding or dragging the feet",
+    "to mix up the order of (as playing cards)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8sh\u0259-f\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/shuffl01.mp3"
+}

@@ -1,0 +1,91 @@
+{
+  "word": "garbage",
+  "api_response": [
+    {
+      "meta": {
+        "id": "garbage",
+        "uuid": "a3070b22-82e1-4813-8535-a34028efa588",
+        "sort": "070079000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "garbage",
+          "garbages"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gar*bage",
+        "prs": [
+          {
+            "mw": "\u02c8g\u00e4r-bij",
+            "sound": {
+              "audio": "garbag01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}material (as waste food) that has been thrown out"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that is worthless, useless, or untrue "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't watch {it}garbage{/it} on television."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "material (as waste food) that has been thrown out",
+        "something that is worthless, useless, or untrue"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "garbag01",
+  "shortdef": [
+    "material (as waste food) that has been thrown out",
+    "something that is worthless, useless, or untrue"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8g\u00e4r-bij",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garbag01.mp3"
+}

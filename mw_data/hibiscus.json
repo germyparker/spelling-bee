@@ -1,0 +1,76 @@
+{
+  "word": "hibiscus",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hibiscus",
+        "uuid": "07befd4f-fe8e-4014-8b9b-4cdbb0fe7bcf",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "hibiscus",
+          "hibiscuses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hi*bis*cus",
+        "prs": [
+          {
+            "mw": "h\u012b-\u02c8bis-k\u0259s",
+            "sound": {
+              "audio": "hibisc01"
+            }
+          },
+          {
+            "mw": "h\u0259-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of a large genus of herbs, shrubs, or small trees related to the mallows and having toothed leaves and large showy flowers"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Latin, {ldquo}marshmallow plant{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "any of a large genus of herbs, shrubs, or small trees related to the mallows and having toothed leaves and large showy flowers"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "hibisc01",
+  "shortdef": [
+    "any of a large genus of herbs, shrubs, or small trees related to the mallows and having toothed leaves and large showy flowers"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "h\u012b-\u02c8bis-k\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "hibiscus",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hibisc01.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "word": "salvaged",
+  "api_response": [
+    {
+      "meta": {
+        "id": "salvage:2",
+        "uuid": "38a046dc-8f02-4aa7-aefa-2b68e8eb50b9",
+        "sort": "190090000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "salvage",
+          "salvaged",
+          "salvaging"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "salvage"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sal*vaged"
+        },
+        {
+          "if": "sal*vag*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to recover (something usable) especially from wreckage or ruin "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Avoiding the smoldering piles, she picked through the black wood, hoping to find something to {it}salvage{/it}.",
+                          "aq": {
+                            "auth": "Pam Mu\u00f1oz Ryan",
+                            "source": "{it}Esperanza Rising{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to recover (something usable) especially from wreckage or ruin"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "to recover (something usable) especially from wreckage or ruin"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": []
+}

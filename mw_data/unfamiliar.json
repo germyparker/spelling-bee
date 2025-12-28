@@ -1,0 +1,101 @@
+{
+  "word": "unfamiliar",
+  "api_response": [
+    {
+      "meta": {
+        "id": "unfamiliar",
+        "uuid": "87b35da2-7829-47c5-9c19-28f38dde1d88",
+        "sort": "210169000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "unfamiliar",
+          "unfamiliarities",
+          "unfamiliarity",
+          "unfamiliarly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "un*fa*mil*iar",
+        "prs": [
+          {
+            "mw": "\u02cc\u0259n-f\u0259-\u02c8mil-y\u0259r",
+            "sound": {
+              "audio": "unfami01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not well-known {bc}{sx|strange||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}unfamiliar{/it} sight"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}lacking good knowledge of something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm {it}unfamiliar{/it} with this subject."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "not well-known : strange",
+        "lacking good knowledge of something"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "unfami01",
+  "shortdef": [
+    "not well-known : strange",
+    "lacking good knowledge of something"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02cc\u0259n-f\u0259-\u02c8mil-y\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unfami01.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "warlock",
+  "api_response": [
+    {
+      "meta": {
+        "id": "warlock",
+        "uuid": "a8420680-aea9-4af1-995f-4ff8e9a59fce",
+        "sort": "230087000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "warlock",
+          "warlocks"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "war*lock",
+        "prs": [
+          {
+            "mw": "\u02c8w\u022fr-\u02ccl\u00e4k",
+            "sound": {
+              "audio": "warloc01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a man who practices witchcraft"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a man who practices witchcraft"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "warloc01",
+  "shortdef": [
+    "a man who practices witchcraft"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8w\u022fr-\u02ccl\u00e4k",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/warloc01.mp3"
+}

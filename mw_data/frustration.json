@@ -1,0 +1,66 @@
+{
+  "word": "frustration",
+  "api_response": [
+    {
+      "meta": {
+        "id": "frustration",
+        "uuid": "accf0937-8e37-4cc3-9b2f-735a0b4c788c",
+        "sort": "060966000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "frustration",
+          "frustrations"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "frus*tra*tion",
+        "prs": [
+          {
+            "mw": "\u02ccfr\u0259-\u02c8str\u0101-sh\u0259n",
+            "sound": {
+              "audio": "frustr04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|disappointment||1}, {sx|defeat||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "disappointment, defeat"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "frustr04",
+  "shortdef": [
+    "disappointment, defeat"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccfr\u0259-\u02c8str\u0101-sh\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frustr04.mp3"
+}

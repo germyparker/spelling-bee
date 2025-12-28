@@ -1,0 +1,66 @@
+{
+  "word": "fissures",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fissure",
+        "uuid": "68573ff0-4405-45cf-a83b-9558b8fb10fc",
+        "sort": "060421000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fissure",
+          "fissures"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "fis*sure",
+        "prs": [
+          {
+            "mw": "\u02c8fi-sh\u0259r",
+            "sound": {
+              "audio": "fissur01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a narrow opening or crack"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a narrow opening or crack"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fissur01",
+  "shortdef": [
+    "a narrow opening or crack"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8fi-sh\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fissur01.mp3"
+}

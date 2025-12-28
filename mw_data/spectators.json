@@ -1,0 +1,78 @@
+{
+  "word": "spectators",
+  "api_response": [
+    {
+      "meta": {
+        "id": "spectator",
+        "uuid": "aed12596-d5e3-4932-a851-0512a85acaae",
+        "sort": "191627000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "spectator",
+          "spectatorial",
+          "spectators",
+          "spectatorship",
+          "spectatorships"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "spec*ta*tor",
+        "prs": [
+          {
+            "mw": "\u02c8spek-\u02cct\u0101-t\u0259r",
+            "sound": {
+              "audio": "specta05"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who looks on (as at a sports event)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}specere{/it}, meaning {ldquo}to look{rdquo} or {ldquo}to look at,{rdquo} gives us the roots {b}spec{/b}, {b}spic{/b}, and {b}spect{/b}. Words from the Latin {it}specere{/it} have something to do with looking or watching. A {b}spect{/b}{it}ator{/it} is a person who watches something, such as a sports event. Anything {it}con{/it}{b}spic{/b}{it}uous{/it} is easy to see. To {it}in{/it}{b}spect{/b} is to look very closely at all parts of something. A {b}spec{/b}{it}imen{/it}, or sample, is one example or one part that can show what the rest look like."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a person who looks on (as at a sports event)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "specta05",
+  "shortdef": [
+    "a person who looks on (as at a sports event)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8spek-\u02cct\u0101-t\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/specta05.mp3"
+}

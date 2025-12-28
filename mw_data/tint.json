@@ -1,0 +1,134 @@
+{
+  "word": "tint",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tint:1",
+        "uuid": "e1fca391-ac2c-499b-90f4-bff1326af9eb",
+        "sort": "200577000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tint",
+          "tints"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "tint",
+        "prs": [
+          {
+            "mw": "\u02c8tint",
+            "sound": {
+              "audio": "tint0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a slight or pale coloring"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a shade of a color"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a slight or pale coloring",
+        "a shade of a color"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tint:2",
+        "uuid": "f4d4aa96-ff1f-4b93-b9f3-8ece1eceb771",
+        "sort": "200578000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tint",
+          "tinted",
+          "tinting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "tint"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "tint*ed"
+        },
+        {
+          "if": "tint*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give a tint to {bc}{sx|color||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to give a tint to : color"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tint0001",
+  "shortdef": [
+    "a slight or pale coloring",
+    "a shade of a color"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8tint",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tint0001.mp3"
+}

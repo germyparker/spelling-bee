@@ -1,0 +1,99 @@
+{
+  "word": "cadre",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cadre",
+        "uuid": "4d2970f0-bcc8-44dc-82d0-761789a5d620",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "cadre",
+          "cadres"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cad*re",
+        "prs": [
+          {
+            "mw": "\u02c8kad-r\u0113",
+            "sound": {
+              "audio": "cadre002"
+            }
+          },
+          {
+            "mw": "\u02c8k\u00e4d-",
+            "sound": {
+              "audio": "cadre001"
+            }
+          },
+          {
+            "mw": "-\u02ccr\u0101"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a nucleus of trained personnel capable of assuming leadership and control and of training others"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a member of a cadre"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, {ldquo}frame, framework,{rdquo} from Italian {it}quadro,{/it} from Latin {it}quadrum{/it} {ldquo}square{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a nucleus of trained personnel capable of assuming leadership and control and of training others",
+        "a member of a cadre"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "cadre002",
+  "shortdef": [
+    "a nucleus of trained personnel capable of assuming leadership and control and of training others",
+    "a member of a cadre"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kad-r\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "cadre",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cadre002.mp3"
+}

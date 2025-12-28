@@ -1,0 +1,244 @@
+{
+  "word": "dimensional",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dimensional",
+        "uuid": "01a03a66-3759-4c6e-b150-5f12910a9d66",
+        "sort": "040591000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dimensional"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "di*men*sion*al",
+        "prs": [
+          {
+            "mw": "d\u0259-\u02c8men-sh\u0259-n\u0259l"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}relating to the length, width, or height of something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A cube is three-{it}dimensional{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "relating to the length, width, or height of something"
+      ]
+    },
+    {
+      "meta": {
+        "id": "dimension",
+        "uuid": "c428dcc1-c962-41fc-bc47-7add49bf8e3a",
+        "sort": "040590000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dimension",
+          "dimensional",
+          "dimensionalities",
+          "dimensionality",
+          "dimensionally",
+          "dimensionless",
+          "dimensions"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "di*men*sion",
+        "prs": [
+          {
+            "mw": "d\u0259-\u02c8men-sh\u0259n",
+            "sound": {
+              "audio": "dimens01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the length, width, or height of something"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the length, width, or height of something"
+      ]
+    },
+    {
+      "meta": {
+        "id": "three-dimensional",
+        "uuid": "ee9fc33c-d77f-483d-a304-09f5116ea9fe",
+        "sort": "200444000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "three-dimensional",
+          "three-dimensionalities",
+          "three-dimensionality"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "three-dimensional"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}relating to or having the three dimensions of length, width, and height "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A cube is {it}three-dimensional{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}giving the appearance of depth or varying distances "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}three-dimensional{/it} movie"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "relating to or having the three dimensions of length, width, and height",
+        "giving the appearance of depth or varying distances"
+      ]
+    },
+    {
+      "meta": {
+        "id": "two-dimensional",
+        "uuid": "de115aa4-1c3a-4a7f-8db7-3d93ffd2489f",
+        "sort": "201137000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "two-dimensional",
+          "two-dimensionalities",
+          "two-dimensionality"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "two-dimensional"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having the two dimensions of length and width "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A square is {it}two-dimensional{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "having the two dimensions of length and width"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "relating to the length, width, or height of something"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "d\u0259-\u02c8men-sh\u0259-n\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": []
+}

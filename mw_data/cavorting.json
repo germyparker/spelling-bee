@@ -1,0 +1,87 @@
+{
+  "word": "cavorting",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cavort",
+        "uuid": "0695716a-d9f9-46a7-9a65-c3c6c350d550",
+        "sort": "030344000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cavort",
+          "cavorted",
+          "cavorting"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ca*vort",
+        "prs": [
+          {
+            "mw": "k\u0259-\u02c8vort",
+            "sound": {
+              "audio": "cavort01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ca*vort*ed"
+        },
+        {
+          "if": "ca*vort*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or hop about in a lively way "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 I saw the raccoons {it}cavort{/it} around my fireplace \u2026",
+                          "aq": {
+                            "auth": "Jean Craighead George",
+                            "source": "{it}My Side of the Mountain{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move or hop about in a lively way"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "cavort01",
+  "shortdef": [
+    "to move or hop about in a lively way"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "k\u0259-\u02c8vort",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cavort01.mp3"
+}

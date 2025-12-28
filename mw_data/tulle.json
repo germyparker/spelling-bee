@@ -1,0 +1,73 @@
+{
+  "word": "tulle",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tulle",
+        "uuid": "6fb2e44b-3bcc-4c4f-9cb1-54c4359cbb03",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "tulle",
+          "tulles"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tulle",
+        "prs": [
+          {
+            "mw": "\u02c8t\u00fcl",
+            "sound": {
+              "audio": "tulle001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sheer often stiffened silk, rayon, or nylon net used chiefly for veils, evening dresses, or ballet costumes"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, from {it}Tulle,{/it} France"
+        ]
+      ],
+      "shortdef": [
+        "a sheer often stiffened silk, rayon, or nylon net used chiefly for veils, evening dresses, or ballet costumes"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "tulle001",
+  "shortdef": [
+    "a sheer often stiffened silk, rayon, or nylon net used chiefly for veils, evening dresses, or ballet costumes"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8t\u00fcl",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "tulle",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tulle001.mp3"
+}

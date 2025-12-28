@@ -1,0 +1,75 @@
+{
+  "word": "brandished",
+  "api_response": [
+    {
+      "meta": {
+        "id": "brandish",
+        "uuid": "2a7a2562-1963-479c-b152-be35ee0a5ff4",
+        "sort": "020927000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brandish",
+          "brandished",
+          "brandishing"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bran*dish",
+        "prs": [
+          {
+            "mw": "\u02c8bran-dish",
+            "sound": {
+              "audio": "brandi01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bran*dished"
+        },
+        {
+          "if": "bran*dish*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to wave or shake in a threatening manner"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to wave or shake in a threatening manner"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "brandi01",
+  "shortdef": [
+    "to wave or shake in a threatening manner"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8bran-dish",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/brandi01.mp3"
+}

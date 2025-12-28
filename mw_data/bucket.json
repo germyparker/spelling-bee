@@ -1,0 +1,301 @@
+{
+  "word": "bucket",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bucket",
+        "uuid": "eb38396b-7c0a-4835-8989-fbc99719b361",
+        "sort": "021105000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bucket",
+          "buckets"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "buck*et",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0259-k\u0259t",
+            "sound": {
+              "audio": "bucket01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually round container with a handle for holding or carrying liquids or solids"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large container that is part of a machine and is used for collecting, scooping, or carrying"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|bucketful||} "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "a {it}bucket{/it} of water"
+                      }
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}You're sweating {it}buckets{/it},{rdquo} Emma said. {ldquo}Let me have a go at that before you melt away.{rdquo}",
+                          "aq": {
+                            "auth": "Ransom Riggs",
+                            "source": "{it}Miss Peregrine's Home for Peculiar Children{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a usually round container with a handle for holding or carrying liquids or solids",
+        "a large container that is part of a machine and is used for collecting, scooping, or carrying",
+        "bucketful"
+      ]
+    },
+    {
+      "meta": {
+        "id": "drop:1",
+        "uuid": "8d323595-385b-47bb-b919-85a954af5083",
+        "sort": "041114000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "at the drop of a hat",
+          "drop",
+          "drop in the bucket",
+          "drops"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "drop",
+        "prs": [
+          {
+            "mw": "\u02c8dr\u00e4p",
+            "sound": {
+              "audio": "drop0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small amount of liquid that falls in a rounded shape"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "ins": [
+                    {
+                      "if": "drops",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}liquid medicine measured by drops "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "ear {it}drops{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something (as a small round candy) that is shaped like a liquid drop"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small amount "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'll have just a {it}drop{/it} of tea."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the distance of a fall "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a 20-foot {it}drop{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a decrease in amount or quality "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}drop{/it} in sales"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act of delivering something {bc}a place where something is left to be picked up "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a mail {it}drop{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small amount of liquid that falls in a rounded shape",
+        "liquid medicine measured by drops",
+        "something (as a small round candy) that is shaped like a liquid drop"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bucket01",
+  "shortdef": [
+    "a usually round container with a handle for holding or carrying liquids or solids",
+    "a large container that is part of a machine and is used for collecting, scooping, or carrying",
+    "bucketful"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8b\u0259-k\u0259t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bucket01.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "pumpernickel",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pumpernickel",
+        "uuid": "597aface-ac13-4dc6-98fe-9afbd7e1c5e5",
+        "sort": "161524000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "pumpernickel",
+          "pumpernickels"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pum*per*nick*el",
+        "prs": [
+          {
+            "mw": "\u02c8p\u0259m-p\u0259r-\u02ccni-k\u0259l",
+            "sound": {
+              "audio": "pumper02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a dark rye bread"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a dark rye bread"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "pumper02",
+  "shortdef": [
+    "a dark rye bread"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u0259m-p\u0259r-\u02ccni-k\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pumper02.mp3"
+}

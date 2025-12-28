@@ -1,0 +1,78 @@
+{
+  "word": "gorgeous",
+  "api_response": [
+    {
+      "meta": {
+        "id": "gorgeous",
+        "uuid": "66ced127-5eab-404b-932b-9c43ce379864",
+        "sort": "070452000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "gorgeous",
+          "gorgeously",
+          "gorgeousness",
+          "gorgeousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gor*geous",
+        "prs": [
+          {
+            "mw": "\u02c8g\u022fr-j\u0259s",
+            "sound": {
+              "audio": "gorgeo01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very beautiful"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "gor*geous*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "gor*geous*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "very beautiful"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "gorgeo01",
+  "shortdef": [
+    "very beautiful"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8g\u022fr-j\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gorgeo01.mp3"
+}

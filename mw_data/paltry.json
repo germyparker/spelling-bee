@@ -1,0 +1,89 @@
+{
+  "word": "paltry",
+  "api_response": [
+    {
+      "meta": {
+        "id": "paltry",
+        "uuid": "a559d2bd-782c-4bfd-9848-a4b17fcde991",
+        "sort": "160072000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "paltrier",
+          "paltriest",
+          "paltriness",
+          "paltrinesses",
+          "paltry"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pal*try",
+        "prs": [
+          {
+            "mw": "\u02c8p\u022fl-tr\u0113",
+            "sound": {
+              "audio": "paltry01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "pal*tri*er"
+        },
+        {
+          "if": "pal*tri*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of little amount, value, or importance "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}I will not be exchanged for such a trifle. My mere weight? A {it}paltry{/it} treasure you could carry on a shoulder?{rdquo}",
+                          "aq": {
+                            "auth": "Sid Fleishman",
+                            "source": "{it}The Whipping Boy{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "of little amount, value, or importance"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "paltry01",
+  "shortdef": [
+    "of little amount, value, or importance"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8p\u022fl-tr\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paltry01.mp3"
+}

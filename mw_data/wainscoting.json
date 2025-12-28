@@ -1,0 +1,73 @@
+{
+  "word": "wainscoting",
+  "api_response": [
+    {
+      "meta": {
+        "id": "wainscoting",
+        "uuid": "5a2ce2ad-7527-4aa8-be98-4235cd3e94ba",
+        "sort": "230030000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "wainscoting",
+          "wainscotings",
+          "wainscotting",
+          "wainscottings"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "wain*scot*ing"
+      },
+      "vrs": [
+        {
+          "vl": "or",
+          "va": "wain*scot*ting",
+          "prs": [
+            {
+              "mw": "\u02c8w\u0101n-\u02ccsk\u014d-ti\u014b"
+            },
+            {
+              "mw": "-\u02ccsk\u00e4-"
+            }
+          ]
+        }
+      ],
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|wainscot||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "wainscot"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "wainscot"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": []
+}

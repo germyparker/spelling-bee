@@ -1,0 +1,157 @@
+{
+  "word": "scrunch",
+  "api_response": [
+    {
+      "meta": {
+        "id": "scrunch",
+        "uuid": "d9210846-af95-41df-9c11-db10cb29507f",
+        "sort": "190356000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "scrunch",
+          "scrunched",
+          "scrunches",
+          "scrunching"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "scrunch",
+        "prs": [
+          {
+            "mw": "\u02c8skr\u0259nch",
+            "sound": {
+              "audio": "scrunc01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "scrunched"
+        },
+        {
+          "if": "scrunch*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause (as facial features) to draw together"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|crouch:1||}, {sx|hunch||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 he \u2026 {it}scrunched{/it} sideways until his back was against a small tree.",
+                          "aq": {
+                            "auth": "Gary Paulsen",
+                            "source": "{it}Hatchet{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to draw or squeeze together tightly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}scrunched{/it} her fists."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|crumple||1}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|crush:1||1}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cause (as facial features) to draw together",
+        "crouch, hunch",
+        "to draw or squeeze together tightly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "scrunc01",
+  "shortdef": [
+    "to cause (as facial features) to draw together",
+    "crouch, hunch",
+    "to draw or squeeze together tightly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8skr\u0259nch",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scrunc01.mp3"
+}

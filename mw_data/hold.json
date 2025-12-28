@@ -1,0 +1,2237 @@
+{
+  "word": "hold",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hold:1",
+        "uuid": "80a00596-19bb-4252-bcf5-b562584dd7e4",
+        "sort": "080517000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "held",
+          "hold",
+          "hold out",
+          "hold up",
+          "holder",
+          "holders",
+          "holding",
+          "holds"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "hold",
+        "prs": [
+          {
+            "mw": "\u02c8h\u014dld",
+            "sound": {
+              "audio": "hold0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "held",
+          "prs": [
+            {
+              "mw": "\u02c8held"
+            }
+          ]
+        },
+        {
+          "if": "hold*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have or keep a grip on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}hold{/it} a book"
+                        },
+                        {
+                          "t": "She {it}held{/it} the child's hand."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take in and have within {bc}{sx|contain||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "This jar {it}holds{/it} a quart."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|support:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The floor will {it}hold{/it} ten tons."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to carry on by group action "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The club {it}held{/it} a meeting."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have as a position of responsibility "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}holds{/it} the office of treasurer."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to continue in the same way or state {bc}{sx|last||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "According to the forecast, good weather will {it}hold{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to remain fast or fastened "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The lock {it}held{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have or keep possession or control of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Soldiers {it}held{/it} the fort."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have in mind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}hold{/it} different opinions."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to limit the movement or activity of {bc}{sx|restrain||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A nut {it}holds{/it} the bolt."
+                        },
+                        {
+                          "t": "Please {it}hold{/it} the dogs."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to continue in a condition or position "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Can you {it}hold{/it} still a minute?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to continue moving on (a course) without change"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make accept a legal or moral duty "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}held{/it} me to my promise."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|consider||3}, {sx|regard||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He is widely {it}held{/it} to be a genius."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "hold*er",
+          "prs": [
+            {
+              "mw": "\u02c8h\u014dl-d\u0259r"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "dros": [
+        {
+          "drp": "hold out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to continue to be present or exist "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "My money {it}held out{/it} until I got paid."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to refuse to yield or agree "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The soldiers {it}held out{/it} until help arrived."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "hold up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|delay:2||2}"
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to rob while threatening with a weapon"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to have or keep a grip on",
+        "to take in and have within : contain",
+        "support"
+      ]
+    },
+    {
+      "meta": {
+        "id": "hold:2",
+        "uuid": "c9455b64-3d32-4701-879a-d1a62249b15d",
+        "sort": "080518000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hold",
+          "holds",
+          "on hold"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "hold"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or way of holding {bc}{sx|grip||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He had a tight {it}hold{/it} on the rope."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a note or rest in music kept up longer than usual"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act or way of holding : grip",
+        "a note or rest in music kept up longer than usual"
+      ]
+    },
+    {
+      "meta": {
+        "id": "hold:3",
+        "uuid": "1c486817-c65e-44a5-b999-c28da2ee9ba5",
+        "sort": "080519000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hold",
+          "holds",
+          "on hold"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "hold"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the part of a ship below the decks in which cargo is stored"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the cargo compartment of an airplane"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the part of a ship below the decks in which cargo is stored",
+        "the cargo compartment of an airplane"
+      ]
+    },
+    {
+      "meta": {
+        "id": "held",
+        "uuid": "3259ebec-b718-49ad-960c-8812c28ecd52",
+        "sort": "080323000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "held",
+          "hold"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "held"
+      },
+      "cxs": [
+        {
+          "cxl": "past tense and past participle of",
+          "cxtis": [
+            {
+              "cxt": "hold"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    },
+    {
+      "meta": {
+        "id": "take:1",
+        "uuid": "85426ae1-cb8c-42e8-9984-472503b9e338",
+        "sort": "200044000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "take",
+          "take a back seat",
+          "take a bath",
+          "take a hike",
+          "take a powder",
+          "take a walk",
+          "take account of",
+          "take advantage of",
+          "take after",
+          "take aim at",
+          "take apart",
+          "take back",
+          "take care",
+          "take care of",
+          "take charge",
+          "take effect",
+          "take exception",
+          "take five",
+          "take for",
+          "take for a ride",
+          "take for granted",
+          "take heart",
+          "take hold",
+          "take in",
+          "take in vain",
+          "take into account",
+          "take issue",
+          "take it on the chin",
+          "take kindly to",
+          "take no prisoners",
+          "take notice of",
+          "take off",
+          "take on",
+          "take one's time",
+          "take over",
+          "take part",
+          "take place",
+          "take root",
+          "take shape",
+          "take ship",
+          "take ten",
+          "take the cake",
+          "take the count",
+          "take the floor",
+          "take the mickey",
+          "take the mickey out of",
+          "take the plunge",
+          "take to",
+          "take to court",
+          "take to task",
+          "take to the cleaners",
+          "take turns",
+          "take up",
+          "taken",
+          "taker",
+          "takers",
+          "takes",
+          "taking",
+          "took"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "take",
+        "prs": [
+          {
+            "mw": "\u02c8t\u0101k",
+            "sound": {
+              "audio": "take0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "took",
+          "prs": [
+            {
+              "mw": "\u02c8tu\u0307k"
+            }
+          ]
+        },
+        {
+          "if": "tak*en",
+          "prs": [
+            {
+              "mw": "\u02c8t\u0101-k\u0259n"
+            }
+          ]
+        },
+        {
+          "if": "tak*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to get hold of {bc}{sx|grasp||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You should {it}take{/it} it by the handle."
+                        },
+                        {
+                          "t": "He {it}took{/it} my hand."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to carry or go with from one place to another "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'll {it}take{/it} you home."
+                        },
+                        {
+                          "t": "This bus will {it}take{/it} us there."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to get control of {bc}{sx|capture||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}took{/it} the fort"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to receive into the body "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't forget to {it}take{/it} your medicine."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to get possession or use of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}took{/it} the book from the table."
+                        },
+                        {
+                          "t": "We will {it}take{/it} a cottage by the shore for the summer."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to begin to perform the responsibilities of {bc}{sx|assume||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}took{/it} charge."
+                        },
+                        {
+                          "t": "A new mayor {it}took{/it} office."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to do the action of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Let's {it}take{/it} a walk."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to use as a way of going from one place to another "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}take{/it} the bus."
+                        },
+                        {
+                          "t": "We'll {it}take{/it} the highway."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|require||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "It will {it}take{/it} a long time."
+                        },
+                        {
+                          "t": "I {it}take{/it} a size ten."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put up with {bc}{sx|endure||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I don't have to {it}take{/it} that from you."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to come upon "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}took{/it} them by surprise."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to adopt or accept "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}took{/it} my side in the argument."
+                        },
+                        {
+                          "t": "She {it}took{/it} all the credit."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|win:1||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My essay {it}took{/it} second prize."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|choose||1}, {sx|select||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'll {it}take{/it} the red one."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "15",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to sit in or on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Please {it}take{/it} a seat."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "16",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to find out by testing or examining "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Let me {it}take{/it} your temperature."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "17",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to save in some permanent form "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}took{/it} down every word of the speech."
+                        },
+                        {
+                          "t": "Will you {it}take{/it} a picture?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "18",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|believe||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}took{/it} it to be the truth."
+                        },
+                        {
+                          "t": "You can {it}take{/it} my word for it."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "19",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be guided by {bc}{sx|follow||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He refused to {it}take{/it} my advice."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "20",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become affected suddenly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}took{/it} sick just before the holiday."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "21",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|understand||4}, {sx|interpret||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}took{/it} it to mean something different."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "22",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to react in a certain way "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}take{/it} pleasure in music."
+                        },
+                        {
+                          "t": "Don't {it}take{/it} offense."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "23",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|subtract||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Take{/it} 2 from 4."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "24",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|consider||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "For example, {it}take{/it} this sentence \u2026",
+                          "aq": {
+                            "auth": "Andrew Clements",
+                            "source": "{it}Frindle{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "25",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have effect {bc}be successful "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The vaccination {it}took{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "26",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be formed or used with "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Prepositions {it}take{/it} objects."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "27",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|captivate||}, {sx|delight||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We were {it}taken{/it} with its beauty."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "tak*er",
+          "fl": "noun"
+        }
+      ],
+      "dros": [
+        {
+          "drp": "take advantage of",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make good use of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Take advantage of{/it} your free time."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to treat (someone) unfairly"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take after",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|resemble||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Many children {it}take after{/it} their parents."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take back",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to try to cancel (as something said) "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I {it}take{/it} it {it}back{/it}. I really don't hate you."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take care",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be careful"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take care of",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to do what is needed {bc}look after"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take charge",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to assume care or control"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take effect",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to go into existence or operation "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The new rate {it}takes effect{/it} Monday."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to have an intended or expected result "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Wait for the medicine to {it}take effect{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take for granted",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to assume as true, real, or expected"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take hold",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to become attached or established "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The tree I planted never {it}took hold{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take in",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make smaller "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She {it}took{/it} the dress {it}in{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to receive as a guest "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We {it}took in{/it} travelers for the night."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to allow to join "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The club is not {it}taking in{/it} new members."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "4",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to receive and do at home for pay "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She {it}takes in{/it} washing."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "5",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to have within its limits "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The tour {it}takes in{/it} both museums."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "6",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to go to "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Let's {it}take in{/it} a movie."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "7",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to get the meaning of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "He {it}took in{/it} the situation at a glance."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "8",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|cheat:1||1} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "They were {it}taken in{/it} by an old trick."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to take away (a covering) {bc}{sx|remove||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You can {it}take{/it} your shoes {it}off{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|deduct||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'm willing to {it}take off{/it} ten percent."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to leave a surface in beginning a flight or leap "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The plane is {it}taking off{/it} now."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to begin (a task) or struggle against (an opponent) "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She {it}took on{/it} the champion."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to gain or show as or as if a part of oneself "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The city {it}took on{/it} a carnival mood."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|employ:1||1} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The business will {it}take on{/it} more workers."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "4",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make an unusual show of grief or anger "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Don't {it}take on{/it} so."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take over",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to get control of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Military leaders {it}took over{/it} the government."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take part",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to do or join in something together with others "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Come {it}take part{/it} in the fun."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take place",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to come about or occur {bc}{sx|happen||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The meeting {it}took place{/it} yesterday."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "take up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to get together from many sources "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We'll {it}take up{/it} a collection for the gift."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to start something for the first time or after a pause "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'd like to {it}take up{/it} painting."
+                            },
+                            {
+                              "t": "Our class {it}took up{/it} the lesson where we left off."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to change by making tighter or shorter "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She needs to {it}take up{/it} the dress in the back."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "syns": [
+        {
+          "pl": "synonyms",
+          "pt": [
+            [
+              "text",
+              "{sc}take{/sc}, {sc}seize{/sc}, and {sc}grasp{/sc} mean to get a hold on with or as if with the hand. {sc}take{/sc} can be used of any way of getting possession or control of something. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "Please {it}take{/it} this gift."
+                },
+                {
+                  "t": "You {it}took{/it} more food than you can use."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}seize{/sc} is used for an act of taking something suddenly and by force. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "A police officer {it}seized{/it} the thief in the act of escaping."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}grasp{/sc} is used for taking something in the hand and keeping it there firmly. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "{it}Grasp{/it} my arm and walk slowly."
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to get hold of : grasp",
+        "to carry or go with from one place to another",
+        "to get control of : capture"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hold0001",
+  "shortdef": [
+    "to have or keep a grip on",
+    "to take in and have within : contain",
+    "support"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8h\u014dld",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hold0001.mp3"
+}

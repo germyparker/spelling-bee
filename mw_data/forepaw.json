@@ -1,0 +1,67 @@
+{
+  "word": "forepaw",
+  "api_response": [
+    {
+      "meta": {
+        "id": "forepaw",
+        "uuid": "fb8f3070-892b-43a2-aa8f-9082cca4a34b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "forepaw",
+          "forepaws"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "fore*paw",
+        "prs": [
+          {
+            "mw": "-\u02ccp\u022f",
+            "sound": {
+              "audio": "forepa03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the paw of a foreleg"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the paw of a foreleg"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "forepa03",
+  "shortdef": [
+    "the paw of a foreleg"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "-\u02ccp\u022f",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "original_search_term": "forepaw",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forepa03.mp3"
+}

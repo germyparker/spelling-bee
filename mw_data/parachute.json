@@ -1,0 +1,119 @@
+{
+  "word": "parachute",
+  "api_response": [
+    {
+      "meta": {
+        "id": "parachute:1",
+        "uuid": "f4bba84e-8a17-485c-80f9-eecac5b61042",
+        "sort": "160119000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "parachute",
+          "parachutes",
+          "parachutic"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "para*chute",
+        "prs": [
+          {
+            "mw": "\u02c8per-\u0259-\u02ccsh\u00fct",
+            "sound": {
+              "audio": "parach01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a piece of equipment usually made of cloth and attached to someone or something for making a safe jump or drop from an airplane"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a piece of equipment usually made of cloth and attached to someone or something for making a safe jump or drop from an airplane"
+      ]
+    },
+    {
+      "meta": {
+        "id": "parachute:2",
+        "uuid": "1f716bab-73da-4815-8e02-da80563c5c06",
+        "sort": "160120000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "parachute",
+          "parachuted",
+          "parachutes",
+          "parachuting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "parachute"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "para*chut*ed"
+        },
+        {
+          "if": "para*chut*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to transport or come down by parachute"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to transport or come down by parachute"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "parach01",
+  "shortdef": [
+    "a piece of equipment usually made of cloth and attached to someone or something for making a safe jump or drop from an airplane"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8per-\u0259-\u02ccsh\u00fct",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parach01.mp3"
+}

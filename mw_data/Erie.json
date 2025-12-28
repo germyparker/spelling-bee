@@ -1,0 +1,70 @@
+{
+  "word": "Erie",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Erie, Lake:g",
+        "uuid": "ffdb0bc5-5bae-4f25-90a0-df61c4f9b1c5",
+        "sort": "270201000",
+        "src": "sd2",
+        "section": "geog",
+        "stems": [
+          "Erie, Lake",
+          "Lake Erie"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Erie, Lake",
+        "prs": [
+          {
+            "mw": "\u02c8ir-\u0113"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "lake "
+                    ],
+                    [
+                      "g",
+                      "E"
+                    ],
+                    [
+                      "text",
+                      " central North America in U.S. & Canada; one of the Great Lakes"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "lake E central North America in U.S. &amp; Canada; one of the Great Lakes"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "lake E central North America in U.S. &amp; Canada; one of the Great Lakes"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "geographical name",
+  "pronunciation": "\u02c8ir-\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": []
+}

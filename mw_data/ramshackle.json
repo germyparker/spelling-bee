@@ -1,0 +1,73 @@
+{
+  "word": "ramshackle",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ramshackle",
+        "uuid": "ad58a246-524f-4790-b5a1-8916592bcfb2",
+        "sort": "180103000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ramshackle"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ram*shack*le",
+        "prs": [
+          {
+            "mw": "\u02c8ram-\u02ccsha-k\u0259l",
+            "sound": {
+              "audio": "ramsha01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}ready to fall down "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}ramshackle{/it} barn"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "ready to fall down"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ramsha01",
+  "shortdef": [
+    "ready to fall down"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8ram-\u02ccsha-k\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ramsha01.mp3"
+}

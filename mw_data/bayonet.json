@@ -1,0 +1,123 @@
+{
+  "word": "bayonet",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bayonet:1",
+        "uuid": "52d49960-ad81-468d-9348-340f9fbaa643",
+        "sort": "020254000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bayonet",
+          "bayonets"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "bay*o*net",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0101-\u0259-n\u0259t",
+            "sound": {
+              "audio": "bayone01"
+            }
+          },
+          {
+            "mw": "\u02ccb\u0101-\u0259-\u02c8net"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a weapon like a dagger made to fit on the end of a rifle"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a weapon like a dagger made to fit on the end of a rifle"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bayonet:2",
+        "uuid": "9d6cd74a-1f39-4ac4-a6bd-bebf6caad7fb",
+        "sort": "020255000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bayonet",
+          "bayoneted",
+          "bayoneting",
+          "bayonets",
+          "bayonetted",
+          "bayonetting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "bayonet"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bay*o*net*ted"
+        },
+        {
+          "if": "bay*o*net*ting"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to stab with a bayonet"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to stab with a bayonet"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bayone01",
+  "shortdef": [
+    "a weapon like a dagger made to fit on the end of a rifle"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8b\u0101-\u0259-n\u0259t",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bayone01.mp3"
+}

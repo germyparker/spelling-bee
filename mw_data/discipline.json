@@ -1,0 +1,251 @@
+{
+  "word": "discipline",
+  "api_response": [
+    {
+      "meta": {
+        "id": "discipline:1",
+        "uuid": "a759b2b1-03ad-4ff9-b5ec-54bc2fbe5ad6",
+        "sort": "040665000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "disciplinal",
+          "discipline",
+          "disciplines"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "dis*ci*pline",
+        "prs": [
+          {
+            "mw": "\u02c8di-s\u0259-pl\u0259n",
+            "sound": {
+              "audio": "discip09"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|punishment||1}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}strict training that corrects or strengthens "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}Boys need {it}discipline{/it},{rdquo} he said."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}habits and ways of acting that are gotten through practice "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "At this point in the act the penguins always forgot their {it}discipline{/it} \u2026",
+                          "aq": {
+                            "auth": "Richard {amp} Florence Atwater",
+                            "source": "{it}Mr. Popper's Penguins{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}control that is gained by insisting that rules be followed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The teacher tried to maintain {it}discipline{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "punishment",
+        "strict training that corrects or strengthens",
+        "habits and ways of acting that are gotten through practice"
+      ]
+    },
+    {
+      "meta": {
+        "id": "discipline:2",
+        "uuid": "ce9f0434-07e5-4c8c-881d-39adf2db109f",
+        "sort": "040666000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "discipline",
+          "disciplined",
+          "disciplining"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "discipline"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "dis*ci*plined"
+        },
+        {
+          "if": "dis*ci*plin*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to punish as a way to bring about good behavior "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The principal {it}disciplined{/it} the troublemakers."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to train in self-control or obedience "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The diet {it}disciplines{/it} overeaters."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring under control "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}discipline{/it} troops"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "srefs": [
+        "punish"
+      ],
+      "shortdef": [
+        "to punish as a way to bring about good behavior",
+        "to train in self-control or obedience",
+        "to bring under control"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "discip09",
+  "shortdef": [
+    "punishment",
+    "strict training that corrects or strengthens",
+    "habits and ways of acting that are gotten through practice"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8di-s\u0259-pl\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/discip09.mp3"
+}

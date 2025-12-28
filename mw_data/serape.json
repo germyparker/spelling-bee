@@ -1,0 +1,112 @@
+{
+  "word": "serape",
+  "api_response": [
+    {
+      "meta": {
+        "id": "serape",
+        "uuid": "3583cb86-3436-4205-846d-45390c3f99de",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "serape",
+          "sarape",
+          "sarapes",
+          "serapes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "se*ra*pe"
+      },
+      "vrs": [
+        {
+          "vl": "or",
+          "va": "sa*ra*pe",
+          "prs": [
+            {
+              "mw": "s\u0259-\u02c8r\u00e4p-\u0113"
+            },
+            {
+              "mw": "-\u02c8rap-"
+            }
+          ]
+        }
+      ],
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a colorful woolen shawl worn over the shoulder especially by Mexican men"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "art": {
+        "artid": "serape.tif",
+        "capt": "serape"
+      },
+      "et": [
+        [
+          "text",
+          "Mexican Spanish {it}sarape{/it}"
+        ]
+      ],
+      "shortdef": [
+        "a colorful woolen shawl worn over the shoulder especially by Mexican men"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sarape",
+        "uuid": "49a9e0bb-cbd5-4a87-bf41-50371cf50337",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "sarape",
+          "sarapes",
+          "serape"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sarape"
+      },
+      "cxs": [
+        {
+          "cxl": "variant of",
+          "cxtis": [
+            {
+              "cxt": "serape"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "a colorful woolen shawl worn over the shoulder especially by Mexican men"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "serape"
+}

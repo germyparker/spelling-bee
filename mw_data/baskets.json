@@ -1,0 +1,133 @@
+{
+  "word": "baskets",
+  "api_response": [
+    {
+      "meta": {
+        "id": "basket",
+        "uuid": "576792a4-7a12-4d6a-b468-2cdb3936d605",
+        "sort": "020206000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "basket",
+          "basketlike",
+          "baskets"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bas*ket",
+        "prs": [
+          {
+            "mw": "\u02c8ba-skit",
+            "sound": {
+              "audio": "basket01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a container usually made by weaving together materials (as reeds, straw, or strips of wood)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the contents of a basket "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}basket{/it} of berries"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a net hanging from a metal ring through which a ball is shot in basketball"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a shot that scores in basketball"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "bas*ket*like",
+          "prs": [
+            {
+              "mw": "-\u02ccl\u012bk"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "a container usually made by weaving together materials (as reeds, straw, or strips of wood)",
+        "the contents of a basket",
+        "a net hanging from a metal ring through which a ball is shot in basketball"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "basket01",
+  "shortdef": [
+    "a container usually made by weaving together materials (as reeds, straw, or strips of wood)",
+    "the contents of a basket",
+    "a net hanging from a metal ring through which a ball is shot in basketball"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ba-skit",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/basket01.mp3"
+}

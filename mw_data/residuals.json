@@ -1,0 +1,76 @@
+{
+  "word": "residuals",
+  "api_response": [
+    {
+      "meta": {
+        "id": "residual:2",
+        "uuid": "dbca84ee-a8a1-4e4b-ae7a-0617f57ef418",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "residual",
+          "residuals"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "residual"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|remainder||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a payment (as to an actor or writer) for each rerun after an initial showing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "remainder",
+        "a payment (as to an actor or writer) for each rerun after an initial showing"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "remainder",
+    "a payment (as to an actor or writer) for each rerun after an initial showing"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": null,
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "residuals"
+}

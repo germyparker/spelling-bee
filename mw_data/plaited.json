@@ -1,0 +1,92 @@
+{
+  "word": "plaited",
+  "api_response": [
+    {
+      "meta": {
+        "id": "plait:2",
+        "uuid": "cc988b9d-240d-4868-b2df-d1a73ddc0363",
+        "sort": "160743000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "plait",
+          "plaited",
+          "plaiting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "plait"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "plait*ed"
+        },
+        {
+          "if": "plait*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|braid:1||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make by braiding "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The man was {it}plaiting{/it} a basket."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "braid",
+        "to make by braiding"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "braid",
+    "to make by braiding"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": []
+}

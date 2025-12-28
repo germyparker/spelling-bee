@@ -1,0 +1,88 @@
+{
+  "word": "pheromone",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pheromone",
+        "uuid": "93af30bb-4b7b-416e-9ead-2972478de7be",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "pheromone",
+          "pheromonal",
+          "pheromones"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pher*o*mone",
+        "prs": [
+          {
+            "mw": "\u02c8fer-\u0259-\u02ccm\u014dn",
+            "sound": {
+              "audio": "pherom01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a chemical substance (as a scent) that is produced by an animal and serves as a signal to stimulate behavior (as mating) of other individuals of the same species"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "pher*o*mon*al",
+          "prs": [
+            {
+              "mw": "\u02ccfer-\u0259-\u02c8m\u014dn-l",
+              "sound": {
+                "audio": "pherom02"
+              }
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "{it}phero-{/it} (from Greek {it}pherein{/it} {ldquo}to carry{rdquo}) + {it}-mone{/it} (as in {it}hormone{/it})"
+        ]
+      ],
+      "shortdef": [
+        "a chemical substance (as a scent) that is produced by an animal and serves as a signal to stimulate behavior (as mating) of other individuals of the same species"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "pherom01",
+  "shortdef": [
+    "a chemical substance (as a scent) that is produced by an animal and serves as a signal to stimulate behavior (as mating) of other individuals of the same species"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8fer-\u0259-\u02ccm\u014dn",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "pheromone",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pherom01.mp3"
+}

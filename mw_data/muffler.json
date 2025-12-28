@@ -1,0 +1,84 @@
+{
+  "word": "muffler",
+  "api_response": [
+    {
+      "meta": {
+        "id": "muffler",
+        "uuid": "df069c2f-1153-4e55-8da0-5527ac88fdc5",
+        "sort": "131006000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "muffler",
+          "mufflered",
+          "mufflers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "muf*fler",
+        "prs": [
+          {
+            "mw": "\u02c8m\u0259-fl\u0259r",
+            "sound": {
+              "audio": "muffle03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a scarf for the neck"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a device to deaden the noise of an engine (as of an automobile)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a scarf for the neck",
+        "a device to deaden the noise of an engine (as of an automobile)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "muffle03",
+  "shortdef": [
+    "a scarf for the neck",
+    "a device to deaden the noise of an engine (as of an automobile)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8m\u0259-fl\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/muffle03.mp3"
+}

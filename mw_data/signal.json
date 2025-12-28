@@ -1,0 +1,284 @@
+{
+  "word": "signal",
+  "api_response": [
+    {
+      "meta": {
+        "id": "signal:1",
+        "uuid": "531dd234-912f-4d2c-843f-f160cfb90d5d",
+        "sort": "190925000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "signal",
+          "signals"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sig*nal",
+        "prs": [
+          {
+            "mw": "\u02c8sig-n\u1d4al",
+            "sound": {
+              "audio": "signal01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sign, event, or word that serves to start some action "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 the manager gave the {it}signal{/it} for the curtain to go down, and the audience \u2026 cheered.",
+                          "aq": {
+                            "auth": "Richard {amp} Florence Atwater",
+                            "source": "{it}Mr. Popper's Penguins{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sound, a movement of part of the body, or an object that gives warning or a command "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The police officer made a {it}signal{/it} with his hand."
+                        },
+                        {
+                          "t": "a traffic {it}signal{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a radio wave that transmits a message or effect (as in radio or television)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}signum{/it}, meaning {ldquo}mark{rdquo} or {ldquo}indication,{rdquo} gives us the root {b}sign{/b}. Words from the Latin {it}signum{/it} have something to do with marks, signs, or indications. A {b}sign{/b} is a move of the hand that indicates something to others. To {it}de{/it}{b}sign{/b}{it}ate{/it} is to mark someone or something for a special purpose. A {b}sign{/b}{it}al{/it} is an indication that an action should begin."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a sign, event, or word that serves to start some action",
+        "a sound, a movement of part of the body, or an object that gives warning or a command",
+        "a radio wave that transmits a message or effect (as in radio or television)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "signal:2",
+        "uuid": "23b75075-39bd-4d22-bda9-91ff282d50e7",
+        "sort": "190926000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "signal",
+          "signaled",
+          "signaler",
+          "signalers",
+          "signaling",
+          "signalled",
+          "signaller",
+          "signalling",
+          "signals"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "signal"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sig*naled"
+        },
+        {
+          "il": "or",
+          "if": "sig*nalled"
+        },
+        {
+          "if": "sig*nal*ing"
+        },
+        {
+          "il": "or",
+          "if": "sig*nal*ling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to notify by a motion, action, movement, or sound"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to communicate with motions, actions, movements, or sounds"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to notify by a motion, action, movement, or sound",
+        "to communicate with motions, actions, movements, or sounds"
+      ]
+    },
+    {
+      "meta": {
+        "id": "signal:3",
+        "uuid": "321c6e38-c6fa-441d-979b-9dfa867ee3d3",
+        "sort": "190927000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "signal"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "signal"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}unusually great "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}signal{/it} honor"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}used for sending a message, warning, or command "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}signal{/it} light"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "unusually great",
+        "used for sending a message, warning, or command"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "signal01",
+  "shortdef": [
+    "a sign, event, or word that serves to start some action",
+    "a sound, a movement of part of the body, or an object that gives warning or a command",
+    "a radio wave that transmits a message or effect (as in radio or television)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sig-n\u1d4al",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/signal01.mp3"
+}

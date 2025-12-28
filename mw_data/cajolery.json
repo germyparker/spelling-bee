@@ -1,0 +1,98 @@
+{
+  "word": "cajolery",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cajole",
+        "uuid": "e002bbf8-f5db-405d-82f0-80678737fd1c",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "cajole",
+          "cajoled",
+          "cajolement",
+          "cajolements",
+          "cajoler",
+          "cajoleries",
+          "cajolers",
+          "cajolery",
+          "cajoles",
+          "cajoling"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ca*jole",
+        "prs": [
+          {
+            "mw": "k\u0259-\u02c8j\u014dl",
+            "sound": {
+              "audio": "cajole01"
+            }
+          }
+        ]
+      },
+      "fl": "transitive verb",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to coax or persuade especially by flattery or false promises {bc}{sx|wheedle||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ca*jol*ery",
+          "prs": [
+            {
+              "mw": "-\u02c8j\u014dl-r\u0113",
+              "sound": {
+                "audio": "cajole03"
+              }
+            },
+            {
+              "mw": "-\u0259-r\u0113"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French {it}cajoler{/it}"
+        ]
+      ],
+      "shortdef": [
+        "to coax or persuade especially by flattery or false promises : wheedle"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "cajole01",
+  "shortdef": [
+    "to coax or persuade especially by flattery or false promises : wheedle"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "transitive verb",
+  "pronunciation": "k\u0259-\u02c8j\u014dl",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "cajolery",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cajole01.mp3"
+}

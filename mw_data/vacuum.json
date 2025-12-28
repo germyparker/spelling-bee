@@ -1,0 +1,214 @@
+{
+  "word": "vacuum",
+  "api_response": [
+    {
+      "meta": {
+        "id": "vacuum:1",
+        "uuid": "4a44d661-5a06-4eb7-840c-2df21b5af1ac",
+        "sort": "220014000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "vacua",
+          "vacuum",
+          "vacuums"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "vac*u*um",
+        "prs": [
+          {
+            "mw": "\u02c8va-\u02ccky\u00fcm",
+            "sound": {
+              "audio": "vacuum02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "vac*u*ums"
+        },
+        {
+          "il": "or",
+          "if": "vac*ua",
+          "prs": [
+            {
+              "mw": "-ky\u0259-w\u0259"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a space completely empty of matter"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a space from which most of the air has been removed (as by a pump)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|vacuum cleaner||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a space completely empty of matter",
+        "a space from which most of the air has been removed (as by a pump)",
+        "vacuum cleaner"
+      ]
+    },
+    {
+      "meta": {
+        "id": "vacuum:2",
+        "uuid": "237217f1-b911-4bc5-8560-ad4fa2fb6ea2",
+        "sort": "220015000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "vacuum",
+          "vacuumed",
+          "vacuuming"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "vacuum"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "vac*u*umed"
+        },
+        {
+          "if": "vac*u*um*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to use a vacuum cleaner on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She's {it}vacuuming{/it} the carpet."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to use a vacuum cleaner on"
+      ]
+    },
+    {
+      "meta": {
+        "id": "vacuum cleaner",
+        "uuid": "3ac09c0e-03f1-4ad0-aac9-5793bfa90fdb",
+        "sort": "220016000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "vacuum cleaner",
+          "vacuum sweeper"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "vacuum cleaner"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an electrical appliance for cleaning (as floors or rugs) by suction"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an electrical appliance for cleaning (as floors or rugs) by suction"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "vacuum02",
+  "shortdef": [
+    "a space completely empty of matter",
+    "a space from which most of the air has been removed (as by a pump)",
+    "vacuum cleaner"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8va-\u02ccky\u00fcm",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vacuum02.mp3"
+}

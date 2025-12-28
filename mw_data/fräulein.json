@@ -1,0 +1,75 @@
+{
+  "word": "fr\u00e4ulein",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Fraulein",
+        "uuid": "4e476d4a-7940-490a-847c-8251747d4c22",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "fr\u00e4ulein"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Fr\u00e4u*lein",
+        "prs": [
+          {
+            "mw": "\u02c8fr\u022fi-\u02ccl\u012bn"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used by German-speaking people as a courtesy title equivalent to {it}Miss{/it}"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "German"
+        ]
+      ],
+      "shortdef": [
+        "\u2014used by German-speaking people as a courtesy title equivalent to Miss"
+      ]
+    }
+  ],
+  "api_level": "school",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "\u2014used by German-speaking people as a courtesy title equivalent to Miss"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8fr\u022fi-\u02ccl\u012bn",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "fraulein"
+}

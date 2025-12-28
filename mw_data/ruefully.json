@@ -1,0 +1,85 @@
+{
+  "word": "ruefully",
+  "api_response": [
+    {
+      "meta": {
+        "id": "rueful",
+        "uuid": "751f018b-05ea-4b13-9432-e2ea0d40432d",
+        "sort": "181036000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rueful",
+          "ruefully",
+          "ruefulness",
+          "ruefulnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rue*ful",
+        "prs": [
+          {
+            "mw": "\u02c8r\u00fc-f\u0259l",
+            "sound": {
+              "audio": "rueful01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}exciting pity or sympathy"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|mournful||1}, {sx|regretful||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "exciting pity or sympathy",
+        "mournful, regretful"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "rueful01",
+  "shortdef": [
+    "exciting pity or sympathy",
+    "mournful, regretful"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8r\u00fc-f\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rueful01.mp3"
+}

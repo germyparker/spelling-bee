@@ -1,0 +1,87 @@
+{
+  "word": "hors d'oeuvres",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hors d'oeuvre",
+        "uuid": "30d4bad3-f5f4-4e3c-b487-2194b969d28b",
+        "sort": "080629000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hors d'oeuvre",
+          "hors d'oeuvres"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hors d'oeuvre",
+        "prs": [
+          {
+            "mw": "\u022fr-\u02c8d\u0259rv",
+            "sound": {
+              "audio": "horsdo01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "hors d'oeuvres",
+          "prs": [
+            {
+              "mw": "\u022fr-\u02c8d\u0259rv",
+              "sound": {
+                "audio": "horsdo01"
+              }
+            },
+            {
+              "mw": "\u022fr-\u02c8d\u0259rvz"
+            }
+          ]
+        },
+        {
+          "il": "also",
+          "if": "hors d'oeuvre"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a food served in small portions before the main part of a meal"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a food served in small portions before the main part of a meal"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "horsdo01",
+  "shortdef": [
+    "a food served in small portions before the main part of a meal"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u022fr-\u02c8d\u0259rv",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/horsdo01.mp3"
+}

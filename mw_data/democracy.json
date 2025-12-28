@@ -1,0 +1,119 @@
+{
+  "word": "democracy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "democracy",
+        "uuid": "a82b894c-9fe5-4a18-826f-273b4693bfaa",
+        "sort": "040326000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "democracies",
+          "democracy"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "de*moc*ra*cy",
+        "prs": [
+          {
+            "mw": "di-\u02c8m\u00e4-kr\u0259-s\u0113",
+            "sound": {
+              "audio": "democr01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "de*moc*ra*cies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}government by the people {bc}majority rule"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}government in which the highest power is held by the people and is usually used through representatives"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a political unit (as a nation) governed by the people"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}belief in or practice of the idea that all people are socially equal"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "government by the people : majority rule",
+        "government in which the highest power is held by the people and is usually used through representatives",
+        "a political unit (as a nation) governed by the people"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "democr01",
+  "shortdef": [
+    "government by the people : majority rule",
+    "government in which the highest power is held by the people and is usually used through representatives",
+    "a political unit (as a nation) governed by the people"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "di-\u02c8m\u00e4-kr\u0259-s\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/democr01.mp3"
+}

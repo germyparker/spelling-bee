@@ -1,0 +1,69 @@
+{
+  "word": "barrette",
+  "api_response": [
+    {
+      "meta": {
+        "id": "barrette",
+        "uuid": "49e83d01-82c9-4fef-bd57-7ee528eaedf6",
+        "sort": "020182000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "barrette",
+          "barrettes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bar*rette",
+        "prs": [
+          {
+            "mw": "b\u00e4-\u02c8ret",
+            "sound": {
+              "audio": "barret01"
+            }
+          },
+          {
+            "mw": "b\u0259-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a clasp or bar used to hold hair in place"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a clasp or bar used to hold hair in place"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "barret01",
+  "shortdef": [
+    "a clasp or bar used to hold hair in place"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "b\u00e4-\u02c8ret",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/barret01.mp3"
+}

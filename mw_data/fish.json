@@ -1,0 +1,406 @@
+{
+  "word": "fish",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fish:1",
+        "uuid": "096c2530-9f5a-4b09-9daa-aad98e768129",
+        "sort": "060414000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fish",
+          "fish out of water",
+          "fish to fry",
+          "fishes",
+          "fishless",
+          "fishlike",
+          "neither fish nor fowl"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "fish",
+        "prs": [
+          {
+            "mw": "\u02c8fish",
+            "sound": {
+              "audio": "fish0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "fish"
+        },
+        {
+          "il": "or",
+          "if": "fish*es"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of a large group of vertebrate animals that live in water, breathe with gills, and usually have fins and scales"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an animal that lives in water "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "usually used in combination "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "star{it}fish{/it}"
+                              },
+                              {
+                                "t": "shell{it}fish{/it}"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "fish*like",
+          "prs": [
+            {
+              "mw": "-\u02ccl\u012bk"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "any of a large group of vertebrate animals that live in water, breathe with gills, and usually have fins and scales",
+        "an animal that lives in water \u2014usually used in combination"
+      ]
+    },
+    {
+      "meta": {
+        "id": "fish:2",
+        "uuid": "06426c92-853f-4866-949b-3a9b0e84b553",
+        "sort": "060415000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fish",
+          "fished",
+          "fishing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "fish"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "fished"
+        },
+        {
+          "if": "fish*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to catch or try to catch fish"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to search for something by or as if by feeling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}fished{/it} in my purse for change."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to catch or try to catch fish",
+        "to search for something by or as if by feeling"
+      ]
+    },
+    {
+      "meta": {
+        "id": "flying fish",
+        "uuid": "2540bf90-dbe1-46cf-9df7-539486e385c2",
+        "sort": "060616000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "flying fish"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "flying fish"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a fish with large fins that let it jump from the water and glide for a distance through the air"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a fish with large fins that let it jump from the water and glide for a distance through the air"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tropical fish",
+        "uuid": "5117c8d8-e5ff-4762-9bd8-31a7bcad34fa",
+        "sort": "200971000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tropical fish"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tropical fish"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small usually brightly colored fish often kept in aquariums with warm water"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small usually brightly colored fish often kept in aquariums with warm water"
+      ]
+    },
+    {
+      "meta": {
+        "id": "buffalo",
+        "uuid": "aa3724e6-e033-4298-ba45-bd26c6e24d86",
+        "sort": "021122000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "buffalo",
+          "buffalo fish",
+          "buffaloes",
+          "buffalos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "buf*fa*lo",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0259-f\u0259-\u02ccl\u014d",
+            "sound": {
+              "audio": "buffal01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "buffalo"
+        },
+        {
+          "il": "or",
+          "if": "buf*fa*loes"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of several wild oxen and especially the American bison"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "any of several wild oxen and especially the American bison"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tuna",
+        "uuid": "57aa0e2b-b24b-4c16-baa8-d94cbc81134d",
+        "sort": "201049000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tuna",
+          "tuna fish",
+          "tunas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tu*na",
+        "prs": [
+          {
+            "mw": "\u02c8t\u00fc-n\u0259",
+            "sound": {
+              "audio": "tuna0001"
+            }
+          },
+          {
+            "mw": "\u02c8ty\u00fc-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "tuna"
+        },
+        {
+          "il": "or",
+          "if": "tunas"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large sea fish caught for food and sport"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large sea fish caught for food and sport"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fish0001",
+  "shortdef": [
+    "any of a large group of vertebrate animals that live in water, breathe with gills, and usually have fins and scales",
+    "an animal that lives in water \u2014usually used in combination"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8fish",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fish0001.mp3"
+}

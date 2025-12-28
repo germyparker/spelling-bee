@@ -1,0 +1,70 @@
+{
+  "word": "invincible",
+  "api_response": [
+    {
+      "meta": {
+        "id": "invincible",
+        "uuid": "28becbb2-4682-4d9b-8e15-b42608088902",
+        "sort": "090799000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "invincibilities",
+          "invincibility",
+          "invincible",
+          "invincibleness",
+          "invinciblenesses",
+          "invincibly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "in*vin*ci*ble",
+        "prs": [
+          {
+            "mw": "in-\u02c8vin-s\u0259-b\u0259l",
+            "sound": {
+              "audio": "invinc01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}impossible to defeat"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "impossible to defeat"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "invinc01",
+  "shortdef": [
+    "impossible to defeat"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "in-\u02c8vin-s\u0259-b\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invinc01.mp3"
+}

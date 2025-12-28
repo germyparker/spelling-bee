@@ -1,0 +1,69 @@
+{
+  "word": "maracas",
+  "api_response": [
+    {
+      "meta": {
+        "id": "maraca",
+        "uuid": "b355d02e-a5b0-423e-a1a7-c8317fb1df06",
+        "sort": "130189000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "maraca",
+          "maracas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ma*ra*ca",
+        "prs": [
+          {
+            "mw": "m\u0259-\u02c8r\u00e4-k\u0259",
+            "sound": {
+              "audio": "maraca02"
+            }
+          },
+          {
+            "mw": "-\u02c8ra-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a musical rhythm instrument made of a dried gourd with seeds or pebbles inside that is usually played in pairs by shaking"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a musical rhythm instrument made of a dried gourd with seeds or pebbles inside that is usually played in pairs by shaking"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "maraca02",
+  "shortdef": [
+    "a musical rhythm instrument made of a dried gourd with seeds or pebbles inside that is usually played in pairs by shaking"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "m\u0259-\u02c8r\u00e4-k\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maraca02.mp3"
+}

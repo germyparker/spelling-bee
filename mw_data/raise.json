@@ -1,0 +1,410 @@
+{
+  "word": "raise",
+  "api_response": [
+    {
+      "meta": {
+        "id": "raise:1",
+        "uuid": "ce1cef60-aecd-4385-ad35-b82aeb7ac93a",
+        "sort": "180081000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "raise",
+          "raise Cain",
+          "raise eyebrows",
+          "raise hell",
+          "raise the bar",
+          "raised",
+          "raiser",
+          "raisers",
+          "raises",
+          "raising"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "raise",
+        "prs": [
+          {
+            "mw": "\u02c8r\u0101z",
+            "sound": {
+              "audio": "raise001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "raised"
+        },
+        {
+          "if": "rais*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to rise {bc}{sx|lift||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Please {it}raise{/it} your hand."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|collect||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The school is trying to {it}raise{/it} money."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to look after the growth and development of {bc}{sx|grow||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The farmer {it}raised{/it} hogs."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring up a child {bc}{sx|rear||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He was {it}raised{/it} by his grandmother."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring to notice "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "No one {it}raised{/it} any objection."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|increase:1||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They're {it}raising{/it} the rent."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make louder "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't {it}raise{/it} your voice."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give life to {bc}{sx|arouse||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The children made enough noise to {it}raise{/it} the dead."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to set upright by lifting or building "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A monument was {it}raised{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|promote||1}, {sx|elevate||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She was {it}raised{/it} to captain."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give rise to {bc}{sx|provoke||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The joke {it}raised{/it} a laugh."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make light and airy "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Yeast can {it}raise{/it} dough."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to form on the skin "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The burn {it}raised{/it} a blister."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "rais*er",
+          "fl": "noun"
+        }
+      ],
+      "srefs": [
+        "lift"
+      ],
+      "shortdef": [
+        "to cause to rise : lift",
+        "collect",
+        "to look after the growth and development of : grow"
+      ]
+    },
+    {
+      "meta": {
+        "id": "raise:2",
+        "uuid": "eda5d2ec-ea8a-4a14-a6c5-fcfa710c396c",
+        "sort": "180082000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "raise",
+          "raises"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "raise"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an increase in amount (as of pay)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an increase in amount (as of pay)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "raise001",
+  "shortdef": [
+    "to cause to rise : lift",
+    "collect",
+    "to look after the growth and development of : grow"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8r\u0101z",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/raise001.mp3"
+}

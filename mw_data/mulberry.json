@@ -1,0 +1,72 @@
+{
+  "word": "mulberry",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mulberry",
+        "uuid": "5de8fbc0-3e82-4ba7-a0c1-70718b4fc211",
+        "sort": "131010000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mulberries",
+          "mulberry"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mul*ber*ry",
+        "prs": [
+          {
+            "mw": "\u02c8m\u0259l-\u02ccber-\u0113",
+            "sound": {
+              "audio": "mulber01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "mul*ber*ries"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tree that has small edible usually purple fruit and leaves on which silkworms can be fed"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tree that has small edible usually purple fruit and leaves on which silkworms can be fed"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "mulber01",
+  "shortdef": [
+    "a tree that has small edible usually purple fruit and leaves on which silkworms can be fed"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8m\u0259l-\u02ccber-\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mulber01.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "word": "dictatorship",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dictator",
+        "uuid": "9519b182-907e-4560-8310-089f03ea89fa",
+        "sort": "040536000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dictator",
+          "dictators",
+          "dictatorship",
+          "dictatorships"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dic*ta*tor",
+        "prs": [
+          {
+            "mw": "\u02c8dik-\u02cct\u0101-t\u0259r",
+            "sound": {
+              "audio": "dictat05"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who rules with total power and often in a cruel manner"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "dic*ta*tor*ship",
+          "prs": [
+            {
+              "mw": "dik-\u02c8t\u0101-t\u0259r-\u02ccship"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "a person who rules with total power and often in a cruel manner"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "dictat05",
+  "shortdef": [
+    "a person who rules with total power and often in a cruel manner"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8dik-\u02cct\u0101-t\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dictat05.mp3"
+}

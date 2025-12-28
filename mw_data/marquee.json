@@ -1,0 +1,94 @@
+{
+  "word": "marquee",
+  "api_response": [
+    {
+      "meta": {
+        "id": "marquee",
+        "uuid": "20e14211-85db-4b35-9c72-47f436d01df7",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "marquee",
+          "marquees"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mar*quee",
+        "prs": [
+          {
+            "mw": "m\u00e4r-\u02c8k\u0113"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large tent set up for an outdoor party, reception, or exhibition"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a canopy usually of metal and glass projecting over an entrance "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a theater {it}marquee{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French {it}marquise,{/it} literally, {ldquo}marchioness{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a large tent set up for an outdoor party, reception, or exhibition",
+        "a canopy usually of metal and glass projecting over an entrance"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "a large tent set up for an outdoor party, reception, or exhibition",
+    "a canopy usually of metal and glass projecting over an entrance"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "m\u00e4r-\u02c8k\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "marquee"
+}

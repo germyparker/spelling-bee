@@ -1,0 +1,72 @@
+{
+  "word": "belfry",
+  "api_response": [
+    {
+      "meta": {
+        "id": "belfry",
+        "uuid": "3d374d6f-2301-4faa-a2c1-c8673bb1f161",
+        "sort": "020362000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "belfries",
+          "belfry"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bel*fry",
+        "prs": [
+          {
+            "mw": "\u02c8bel-fr\u0113",
+            "sound": {
+              "audio": "belfry01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "belfries"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tower or room in a tower for a bell or set of bells"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tower or room in a tower for a bell or set of bells"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "belfry01",
+  "shortdef": [
+    "a tower or room in a tower for a bell or set of bells"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8bel-fr\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/belfry01.mp3"
+}

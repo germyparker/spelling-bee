@@ -1,0 +1,1436 @@
+{
+  "word": "ahead",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ahead",
+        "uuid": "3d3abec5-c0d1-426d-96dc-ddc05f8b45a7",
+        "sort": "010404000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ahead"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ahead",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8hed",
+            "sound": {
+              "audio": "ahead001"
+            }
+          }
+        ]
+      },
+      "fl": "adverb or adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in or toward the front "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The road stretched {it}ahead{/it} for many miles."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}into or for the future "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You should think {it}ahead{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "in or toward the front",
+        "into or for the future"
+      ]
+    },
+    {
+      "meta": {
+        "id": "ahead of",
+        "uuid": "5a0f5c6f-cf79-4ff5-9a5b-8c2dd1b489d1",
+        "sort": "010405000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ahead of"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ahead of"
+      },
+      "fl": "preposition",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in front of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He stood {it}ahead of{/it} me in line."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}earlier than "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They arrived {it}ahead of{/it} us."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having a lead over "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The other team is {it}ahead of{/it} us by two points."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "in front of",
+        "earlier than",
+        "having a lead over"
+      ]
+    },
+    {
+      "meta": {
+        "id": "get",
+        "uuid": "40831205-d736-4cc1-915a-d4fb17451083",
+        "sort": "070222000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "get",
+          "get a life",
+          "get a move on",
+          "get after",
+          "get ahead",
+          "get along",
+          "get around",
+          "get at",
+          "get away",
+          "get away with",
+          "get back at",
+          "get by",
+          "get cracking",
+          "get even",
+          "get even with",
+          "get going",
+          "get into",
+          "get it",
+          "get it on",
+          "get off",
+          "get on",
+          "get one's act together",
+          "get one's goat",
+          "get out",
+          "get over",
+          "get real",
+          "get religion",
+          "get somewhere",
+          "get there",
+          "get through",
+          "get to",
+          "get together",
+          "get up",
+          "get wind of",
+          "get with it",
+          "gets",
+          "getting",
+          "got",
+          "gotten"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "get",
+        "prs": [
+          {
+            "mw": "\u02c8get",
+            "sound": {
+              "audio": "get00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "got",
+          "prs": [
+            {
+              "mw": "\u02c8g\u00e4t"
+            }
+          ]
+        },
+        {
+          "if": "got"
+        },
+        {
+          "il": "or",
+          "if": "got*ten",
+          "prs": [
+            {
+              "mw": "\u02c8g\u00e4-t\u1d4an"
+            }
+          ]
+        },
+        {
+          "if": "get*ting",
+          "prs": [
+            {
+              "mw": "\u02c8ge-ti\u014b"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to gain possession of (as by receiving, earning, buying, or winning) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Everyone {it}gets{/it} a present."
+                        },
+                        {
+                          "t": "I {it}got{/it} new clothes."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to obtain by request or as a favor "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Did you {it}get{/it} permission?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to come to have "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}got{/it} a good night's sleep."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|catch:1||5} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}got{/it} pneumonia."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|arrive||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}got{/it} home early."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|go||1}, {sx|move||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Get{/it} out!"
+                        },
+                        {
+                          "t": "She {it}gets{/it} about on crutches."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|become||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't {it}get{/it} angry."
+                        },
+                        {
+                          "t": "It's {it}getting{/it} warmer."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to be "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}got{/it} my feet wet."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|prepare||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You relax while I {it}get{/it} dinner."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|irritate||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't let his teasing {it}get{/it} to you."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|hit:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The snowball {it}got{/it} him on the head."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to find out by calculation "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Did you {it}get{/it} the answer yet?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to hear correctly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Sorry, I didn't {it}get{/it} your name."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|understand||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Oh, now I {it}get{/it} it."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "15",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|persuade||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}got{/it} them to lower the price."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "get ahead",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to achieve success (as in business)"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get along",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to approach old age "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She's {it}getting along{/it} in years."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to stay friendly "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The boys {it}got along{/it} well."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to manage with little "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "They {it}get along{/it} on a small income."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get around",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to become known by many people "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The rumor quickly {it}got around{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to avoid having to deal with "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "He found a way to {it}get around{/it} the rules."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to do or give attention to eventually "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'll {it}get around{/it} to it."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get at",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to reach with or as if with the hand "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I can't {it}get at{/it} the switch."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to deal with "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "There's lots to do so let's {it}get at{/it} it."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to say or suggest in an indirect way "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Just what are you {it}getting at{/it}?"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get away",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to avoid being caught "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The robber {it}got away{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get away with",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to not be punished for "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You won't {it}get away with{/it} lying."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get back at",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to get revenge on "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'll {it}get back at{/it} him for what he did."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get by",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to manage with little "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We can {it}get by{/it} with what we have."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to do well enough to avoid failure "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'm just {it}getting by{/it} in this class."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get even",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to get revenge "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Are you going to forgive her, or {it}get even{/it}?"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get into",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to become deeply interested in "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She's really {it}gotten into{/it} music."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get it",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to receive punishment "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You're going to {it}get it{/it} when Mom gets home."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to start out on a journey "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "They {it}got off{/it} on their trip."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to escape punishment or harm "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "He {it}got off{/it} with just a warning."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to approach old age "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "My grandparents are {it}getting on{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to start or continue doing "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Come on, let's {it}get on{/it} with it."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to stay friendly "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The neighbors all {it}got on{/it} fine."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|escape:1||1} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Everyone {it}got out{/it} alive."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to become known "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The secret {it}got out{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get over",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to stop feeling unhappy about "
+                        ],
+                        [
+                          "vimw",
+                          {
+                            "t": "She's disappointed, but she'll {it}get over{/it} it."
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to recover from "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I finally {it}got over{/it} my cold."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to arise from bed"
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|stand:1||1}"
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to find the ability "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I couldn't {it}get up{/it} the nerve to speak."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "get wind of",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to become aware of {bc}hear about "
+                        ],
+                        [
+                          "vimw",
+                          {
+                            "t": "I {it}got wind of{/it} their little scheme."
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to gain possession of (as by receiving, earning, buying, or winning)",
+        "to obtain by request or as a favor",
+        "to come to have"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ahead001",
+  "shortdef": [
+    "in or toward the front",
+    "into or for the future"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adverb or adjective",
+  "pronunciation": "\u0259-\u02c8hed",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ahead001.mp3"
+}

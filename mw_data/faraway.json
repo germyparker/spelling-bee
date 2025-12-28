@@ -1,0 +1,98 @@
+{
+  "word": "faraway",
+  "api_response": [
+    {
+      "meta": {
+        "id": "faraway",
+        "uuid": "a944367a-00fc-4fcc-bde3-1b10c780dc3c",
+        "sort": "060094000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "faraway"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "far*away",
+        "prs": [
+          {
+            "mw": "\u02c8f\u00e4r-\u0259-\u02ccw\u0101",
+            "sound": {
+              "audio": "farawa01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|remote:1||1}, {sx|distant||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}faraway{/it} lands"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}appearing as if lost in a daydream "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He had a {it}faraway{/it} look in his eyes."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "remote, distant",
+        "appearing as if lost in a daydream"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "farawa01",
+  "shortdef": [
+    "remote, distant",
+    "appearing as if lost in a daydream"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8f\u00e4r-\u0259-\u02ccw\u0101",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/farawa01.mp3"
+}

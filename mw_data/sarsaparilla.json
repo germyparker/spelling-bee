@@ -1,0 +1,69 @@
+{
+  "word": "sarsaparilla",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sarsaparilla",
+        "uuid": "32ce84f9-5147-488a-8955-6f8d32839ab5",
+        "sort": "190136000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sarsaparilla",
+          "sarsaparillas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sar*sa*pa*ril*la",
+        "prs": [
+          {
+            "mw": "\u02ccsa-sp\u0259-\u02c8ri-l\u0259",
+            "sound": {
+              "audio": "sarsap01"
+            }
+          },
+          {
+            "mw": "\u02ccs\u00e4r-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sweetened carbonated beverage that tastes somewhat like root beer"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sweetened carbonated beverage that tastes somewhat like root beer"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sarsap01",
+  "shortdef": [
+    "a sweetened carbonated beverage that tastes somewhat like root beer"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccsa-sp\u0259-\u02c8ri-l\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sarsap01.mp3"
+}

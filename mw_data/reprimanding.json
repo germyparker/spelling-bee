@@ -1,0 +1,67 @@
+{
+  "word": "reprimanding",
+  "api_response": [
+    {
+      "meta": {
+        "id": "reprimand:2",
+        "uuid": "6c082117-ced9-4d8f-813d-b333d1bb284c",
+        "sort": "180585000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "reprimand",
+          "reprimanded",
+          "reprimanding"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "reprimand"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "rep*ri*mand*ed"
+        },
+        {
+          "if": "rep*ri*mand*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to criticize (a person) severely or formally"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to criticize (a person) severely or formally"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "to criticize (a person) severely or formally"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": []
+}

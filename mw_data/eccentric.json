@@ -1,0 +1,144 @@
+{
+  "word": "eccentric",
+  "api_response": [
+    {
+      "meta": {
+        "id": "eccentric:1",
+        "uuid": "8452f47a-1bd9-4c70-b087-82dfc8b29d52",
+        "sort": "050057000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "eccentric",
+          "eccentrically"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "ec*cen*tric",
+        "prs": [
+          {
+            "mw": "ik-\u02c8sen-trik",
+            "sound": {
+              "audio": "eccent01"
+            }
+          },
+          {
+            "mw": "ek-"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}acting or thinking strangely "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}eccentric{/it} man"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not of the usual or normal kind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}eccentric{/it} ideas"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "acting or thinking strangely",
+        "not of the usual or normal kind"
+      ]
+    },
+    {
+      "meta": {
+        "id": "eccentric:2",
+        "uuid": "c0978833-5ce1-4d65-9b5a-1369749dc098",
+        "sort": "050058000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "eccentric",
+          "eccentrics"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "eccentric"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who behaves strangely"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who behaves strangely"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "eccent01",
+  "shortdef": [
+    "acting or thinking strangely",
+    "not of the usual or normal kind"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "ik-\u02c8sen-trik",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/eccent01.mp3"
+}

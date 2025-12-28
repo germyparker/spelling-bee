@@ -1,0 +1,110 @@
+{
+  "word": "sharks",
+  "api_response": [
+    {
+      "meta": {
+        "id": "shark:1",
+        "uuid": "c12df587-75cf-4dfd-a7e3-67ec00631c2d",
+        "sort": "190695000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shark",
+          "sharklike",
+          "sharks"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "shark",
+        "prs": [
+          {
+            "mw": "\u02c8sh\u00e4rk",
+            "sound": {
+              "audio": "shark001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large usually gray saltwater fish that has sharp teeth and a skeleton of cartilage"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large usually gray saltwater fish that has sharp teeth and a skeleton of cartilage"
+      ]
+    },
+    {
+      "meta": {
+        "id": "shark:2",
+        "uuid": "704a710d-c88d-4130-b6c8-a7ddc99c25f3",
+        "sort": "190696000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shark",
+          "sharklike",
+          "sharks"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "shark"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who cheats others out of money"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who cheats others out of money"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "shark001",
+  "shortdef": [
+    "a large usually gray saltwater fish that has sharp teeth and a skeleton of cartilage"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sh\u00e4rk",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/shark001.mp3"
+}

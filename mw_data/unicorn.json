@@ -1,0 +1,66 @@
+{
+  "word": "unicorn",
+  "api_response": [
+    {
+      "meta": {
+        "id": "unicorn",
+        "uuid": "8ab28107-3e32-4b0a-875a-7dc7c298ecb3",
+        "sort": "210199000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "unicorn",
+          "unicorns"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "uni*corn",
+        "prs": [
+          {
+            "mw": "\u02c8y\u00fc-n\u0259-\u02cck\u022frn",
+            "sound": {
+              "audio": "unicor01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an imaginary animal that looks like a horse with one horn in the middle of the forehead"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an imaginary animal that looks like a horse with one horn in the middle of the forehead"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "unicor01",
+  "shortdef": [
+    "an imaginary animal that looks like a horse with one horn in the middle of the forehead"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8y\u00fc-n\u0259-\u02cck\u022frn",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unicor01.mp3"
+}

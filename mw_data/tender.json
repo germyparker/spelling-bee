@@ -1,0 +1,391 @@
+{
+  "word": "tender",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tender:1",
+        "uuid": "7231ad34-7659-4fc2-962b-19efdae39cae",
+        "sort": "200245000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tender",
+          "tenderer",
+          "tenderest",
+          "tenderly",
+          "tenderness",
+          "tendernesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "ten*der",
+        "prs": [
+          {
+            "mw": "\u02c8ten-d\u0259r",
+            "sound": {
+              "audio": "tender01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "ten*der*er"
+        },
+        {
+          "if": "ten*der*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not tough "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}tender{/it} steak"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|delicate||4} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}tender{/it} plants"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|young:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He left home at a {it}tender{/it} age."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}feeling or showing love "
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very easily hurt "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}tender{/it} scar"
+                        },
+                        {
+                          "t": "His {it}tender{/it} old feet moved from one smooth rock to another.",
+                          "aq": {
+                            "auth": "Wilson Rawls",
+                            "source": "{it}Where the Red Fern Grows{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ten*der*ly",
+          "fl": "adverb",
+          "vis": [
+            {
+              "t": "She smiled {it}tenderly{/it}."
+            }
+          ]
+        },
+        {
+          "ure": "ten*der*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "not tough",
+        "delicate",
+        "young"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tender:2",
+        "uuid": "32de5b26-b7b7-4948-931d-0a7b1722c789",
+        "sort": "200246000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tender",
+          "tendered",
+          "tendering",
+          "tenders"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "tender"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ten*dered"
+        },
+        {
+          "if": "ten*der*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to offer in payment"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to present for acceptance "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}tendered{/it} her resignation."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to offer in payment",
+        "to present for acceptance"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tender:3",
+        "uuid": "eb74a8a9-a7c3-4ddc-a4f6-8ac01d1f1aa5",
+        "sort": "200247000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tender",
+          "tenders"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "tender"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|offer:2||3}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something (as money) that may be offered in payment"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "offer",
+        "something (as money) that may be offered in payment"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tender:4",
+        "uuid": "24d22a2c-2ea6-4267-8dce-7632d9ce3f18",
+        "sort": "200248000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tender",
+          "tenders"
+        ],
+        "offensive": false
+      },
+      "hom": 4,
+      "hwi": {
+        "hw": "tend*er",
+        "prs": [
+          {
+            "mw": "\u02c8ten-d\u0259r",
+            "sound": {
+              "audio": "tender01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a boat that carries passengers or freight to a larger ship"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a car attached to a locomotive for carrying fuel or water"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a boat that carries passengers or freight to a larger ship",
+        "a car attached to a locomotive for carrying fuel or water"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tender01",
+  "shortdef": [
+    "not tough",
+    "delicate",
+    "young"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8ten-d\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tender01.mp3"
+}

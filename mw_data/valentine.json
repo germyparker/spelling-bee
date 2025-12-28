@@ -1,0 +1,123 @@
+{
+  "word": "valentine",
+  "api_response": [
+    {
+      "meta": {
+        "id": "valentine",
+        "uuid": "725e8c05-2d55-47fe-9b61-54a2bde20226",
+        "sort": "220026000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "valentine",
+          "valentines"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "val*en*tine",
+        "prs": [
+          {
+            "mw": "\u02c8va-l\u0259n-\u02cct\u012bn",
+            "sound": {
+              "audio": "valent01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a greeting card or gift sent or given on Valentine's Day"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sweetheart given something as a sign of affection on Valentine's Day"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a greeting card or gift sent or given on Valentine's Day",
+        "a sweetheart given something as a sign of affection on Valentine's Day"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Valentine's Day",
+        "uuid": "f0cb0627-c76a-45ec-9587-1d154ef39cf6",
+        "sort": "220027000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "Valentine Day",
+          "Valentine's Day"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Valentine's Day"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}February 14 observed in honor of Saint Valentine and as a time for exchanging valentines"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "February 14 observed in honor of Saint Valentine and as a time for exchanging valentines"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "valent01",
+  "shortdef": [
+    "a greeting card or gift sent or given on Valentine's Day",
+    "a sweetheart given something as a sign of affection on Valentine's Day"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8va-l\u0259n-\u02cct\u012bn",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/valent01.mp3"
+}

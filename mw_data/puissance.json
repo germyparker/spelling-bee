@@ -1,0 +1,99 @@
+{
+  "word": "puissance",
+  "api_response": [
+    {
+      "meta": {
+        "id": "puissance",
+        "uuid": "8ed52e7f-4a1e-40e3-9dcd-8adb5c0e0640",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "puissance",
+          "puissances",
+          "puissant",
+          "puissantly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "puis*sance",
+        "prs": [
+          {
+            "mw": "\u02c8pwis-ns",
+            "sound": {
+              "audio": "puissa01"
+            }
+          },
+          {
+            "mw": "\u02c8py\u00fc-\u0259-s\u0259ns",
+            "sound": {
+              "audio": "puissa02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}ability to dominate or sway {bc}{sx|might||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "puis*sant",
+          "prs": [
+            {
+              "mw": "-nt"
+            },
+            {
+              "mw": "-s\u0259nt"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "puis*sant*ly",
+          "fl": "adverb"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Medieval French {it}pussance, puissance,{/it} from {it}pussant{/it} {ldquo}powerful,{rdquo} from {it}poer{/it} {ldquo}to be able, be powerful{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "ability to dominate or sway : might"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "puissa01",
+  "shortdef": [
+    "ability to dominate or sway : might"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8pwis-ns",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "puissance",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/puissa01.mp3"
+}

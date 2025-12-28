@@ -1,0 +1,183 @@
+{
+  "word": "weather",
+  "api_response": [
+    {
+      "meta": {
+        "id": "weather:1",
+        "uuid": "34f110d8-d787-43e5-bc70-f0fa5ca8a05a",
+        "sort": "230205000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "to weather",
+          "under the weather",
+          "weather",
+          "weathers"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "weath*er",
+        "prs": [
+          {
+            "mw": "\u02c8we-t\u035fh\u0259r",
+            "sound": {
+              "audio": "weathe01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the state of the air and atmosphere in regard to how warm or cold, wet or dry, or clear or stormy it is"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the state of the air and atmosphere in regard to how warm or cold, wet or dry, or clear or stormy it is"
+      ]
+    },
+    {
+      "meta": {
+        "id": "weather:2",
+        "uuid": "19209682-c66e-4849-96e1-065f173385c6",
+        "sort": "230206000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "weather",
+          "weathered",
+          "weathering",
+          "weathers"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "weather"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "weath*ered"
+        },
+        {
+          "if": "weath*er*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to change (as in color or structure) by the action of the weather"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be able to last or come safely through "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}weathered{/it} a storm."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to change (as in color or structure) by the action of the weather",
+        "to be able to last or come safely through"
+      ]
+    },
+    {
+      "meta": {
+        "id": "weather vane",
+        "uuid": "e1a8dafa-531b-462b-80a2-f9ea1678b860",
+        "sort": "230209000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "weather vane"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "weather vane"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a movable device usually attached to a roof to show which way the wind is blowing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a movable device usually attached to a roof to show which way the wind is blowing"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "weathe01",
+  "shortdef": [
+    "the state of the air and atmosphere in regard to how warm or cold, wet or dry, or clear or stormy it is"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8we-t\u035fh\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/weathe01.mp3"
+}

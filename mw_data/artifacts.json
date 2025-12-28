@@ -1,0 +1,91 @@
+{
+  "word": "artifacts",
+  "api_response": [
+    {
+      "meta": {
+        "id": "artifact",
+        "uuid": "ec8af194-fe05-49d6-b0de-88063b187b74",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "artifact",
+          "artifacts",
+          "artifactual"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ar*ti*fact",
+        "prs": [
+          {
+            "mw": "\u02c8\u00e4rt-\u0259-\u02ccfakt",
+            "sound": {
+              "audio": "artifa01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually simple object (as a tool or ornament) showing human work or alteration and remaining from a particular period"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ar*ti*fac*tu*al",
+          "prs": [
+            {
+              "mw": "\u02cc\u00e4rt-\u0259-\u02c8fak-ch\u0259-w\u0259l",
+              "sound": {
+                "audio": "artifa02"
+              }
+            },
+            {
+              "mw": "-ch\u0259l"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Latin {it}arte factum{/it} {ldquo}made by skill{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a usually simple object (as a tool or ornament) showing human work or alteration and remaining from a particular period"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "artifa01",
+  "shortdef": [
+    "a usually simple object (as a tool or ornament) showing human work or alteration and remaining from a particular period"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8\u00e4rt-\u0259-\u02ccfakt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "artifacts",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/artifa01.mp3"
+}

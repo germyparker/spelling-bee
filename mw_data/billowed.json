@@ -1,0 +1,124 @@
+{
+  "word": "billowed",
+  "api_response": [
+    {
+      "meta": {
+        "id": "billow:2",
+        "uuid": "09f34992-f1b8-48c1-b42e-f0dc438b4dff",
+        "sort": "020499000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "billow",
+          "billowed",
+          "billowing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "billow"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bil*lowed"
+        },
+        {
+          "if": "bil*low*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to rise or roll in large waves "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}billowing{/it} ocean"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move as a large cloud or mass "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Smoke {it}billowed{/it} from the chimney."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bulge or swell out "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Sails {it}billowed{/it} in the breeze."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to rise or roll in large waves",
+        "to move as a large cloud or mass",
+        "to bulge or swell out"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "to rise or roll in large waves",
+    "to move as a large cloud or mass",
+    "to bulge or swell out"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": []
+}

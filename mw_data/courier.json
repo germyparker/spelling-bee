@@ -1,0 +1,69 @@
+{
+  "word": "courier",
+  "api_response": [
+    {
+      "meta": {
+        "id": "courier",
+        "uuid": "5728ded6-b4de-4681-b012-4981b3864fc5",
+        "sort": "031652000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "courier",
+          "couriers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cou*ri*er",
+        "prs": [
+          {
+            "mw": "\u02c8ku\u0307r-\u0113-\u0259r",
+            "sound": {
+              "audio": "courie01"
+            }
+          },
+          {
+            "mw": "\u02c8k\u0259r-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|messenger||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "messenger"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "courie01",
+  "shortdef": [
+    "messenger"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ku\u0307r-\u0113-\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/courie01.mp3"
+}

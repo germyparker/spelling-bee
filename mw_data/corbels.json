@@ -1,0 +1,138 @@
+{
+  "word": "corbels",
+  "api_response": [
+    {
+      "meta": {
+        "id": "corbel:1",
+        "uuid": "c5478fab-a706-48e8-a963-ef3934df1025",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "corbel",
+          "corbels"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "cor*bel",
+        "prs": [
+          {
+            "mw": "\u02c8k\u022fr-b\u0259l",
+            "sound": {
+              "audio": "corbel01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a bracket-shaped architectural member that projects from a wall and supports a weight"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Medieval French, from {it}corp{/it} {ldquo}raven,{rdquo} from Latin {it}corvus{/it}"
+        ]
+      ],
+      "shortdef": [
+        "a bracket-shaped architectural member that projects from a wall and supports a weight"
+      ]
+    },
+    {
+      "meta": {
+        "id": "corbel:2",
+        "uuid": "914c2a77-7089-4a1e-8933-52d42bb5044c",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "corbel",
+          "corbeled",
+          "corbeling",
+          "corbelled",
+          "corbelling",
+          "corbels"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "corbel"
+      },
+      "fl": "transitive verb",
+      "ins": [
+        {
+          "ifc": "-beled",
+          "if": "corbeled"
+        },
+        {
+          "il": "or",
+          "ifc": "-belled",
+          "if": "corbelled"
+        },
+        {
+          "ifc": "-bel*ing",
+          "if": "corbel*ing"
+        },
+        {
+          "il": "or",
+          "ifc": "-bel*ling",
+          "if": "corbel*ling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to furnish with or make into a corbel"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to furnish with or make into a corbel"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "corbel01",
+  "shortdef": [
+    "a bracket-shaped architectural member that projects from a wall and supports a weight"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8k\u022fr-b\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "corbels",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corbel01.mp3"
+}

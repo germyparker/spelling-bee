@@ -1,0 +1,99 @@
+{
+  "word": "lanyards",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lanyard",
+        "uuid": "39b479d5-0647-4c0b-a924-de2864e81646",
+        "sort": "120090000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lanyard",
+          "lanyards"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "lan*yard",
+        "prs": [
+          {
+            "mw": "\u02c8lan-y\u0259rd",
+            "sound": {
+              "audio": "lanyar01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a short rope or cord used as a fastening on ships"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a cord worn around the neck to hold something (as a knife or whistle)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a strong cord with a hook at one end used in firing a cannon"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a short rope or cord used as a fastening on ships",
+        "a cord worn around the neck to hold something (as a knife or whistle)",
+        "a strong cord with a hook at one end used in firing a cannon"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lanyar01",
+  "shortdef": [
+    "a short rope or cord used as a fastening on ships",
+    "a cord worn around the neck to hold something (as a knife or whistle)",
+    "a strong cord with a hook at one end used in firing a cannon"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8lan-y\u0259rd",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lanyar01.mp3"
+}

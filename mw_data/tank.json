@@ -1,0 +1,99 @@
+{
+  "word": "tank",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tank",
+        "uuid": "bdbb1d55-777a-47df-8de4-6c7a15d94300",
+        "sort": "200082000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "in the tank",
+          "into the tank",
+          "tank",
+          "tankful",
+          "tankfuls",
+          "tanklike",
+          "tanks"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tank",
+        "prs": [
+          {
+            "mw": "\u02c8ta\u014bk",
+            "sound": {
+              "audio": "tank0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an often large container for a liquid "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "water {it}tank{/it}"
+                        },
+                        {
+                          "t": "fish {it}tank{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an enclosed combat vehicle that has heavy armor and guns and a tread which is an endless belt"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an often large container for a liquid",
+        "an enclosed combat vehicle that has heavy armor and guns and a tread which is an endless belt"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tank0001",
+  "shortdef": [
+    "an often large container for a liquid",
+    "an enclosed combat vehicle that has heavy armor and guns and a tread which is an endless belt"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ta\u014bk",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tank0001.mp3"
+}

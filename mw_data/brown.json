@@ -1,0 +1,360 @@
+{
+  "word": "brown",
+  "api_response": [
+    {
+      "meta": {
+        "id": "brown:1",
+        "uuid": "8893697a-2bbb-4140-b925-ca9081162ef7",
+        "sort": "021070000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brown",
+          "browner",
+          "brownest"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "brown",
+        "prs": [
+          {
+            "mw": "\u02c8brau\u0307n",
+            "sound": {
+              "audio": "brown001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of the color of chocolate {bc}colored brown"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of or relating to any of various groups of people having medium to dark pigmentation of the skin"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having a tanned complexion"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "of the color of chocolate : colored brown",
+        "of or relating to any of various groups of people having medium to dark pigmentation of the skin",
+        "having a tanned complexion"
+      ]
+    },
+    {
+      "meta": {
+        "id": "brown:2",
+        "uuid": "eb4b742e-d06b-46a1-9fde-d699ee5ca10f",
+        "sort": "021071000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brown",
+          "brownier",
+          "browniest",
+          "brownish",
+          "browns",
+          "browny"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "brown"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a color like that of chocolate"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "brown*ish",
+          "prs": [
+            {
+              "mw": "\u02c8brau\u0307-nish"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "a color like that of chocolate"
+      ]
+    },
+    {
+      "meta": {
+        "id": "brown:3",
+        "uuid": "9ce0bc53-9436-4917-9d3c-04a280230f3a",
+        "sort": "021072000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brown",
+          "browned",
+          "browning"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "brown"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "browned"
+        },
+        {
+          "if": "brown*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make or become brown"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to make or become brown"
+      ]
+    },
+    {
+      "meta": {
+        "id": "brown sugar",
+        "uuid": "7e84ad11-1dab-4161-9208-a81c45835868",
+        "sort": "021074000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brown sugar"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "brown sugar"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}sugar that contains molasses"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "sugar that contains molasses"
+      ]
+    },
+    {
+      "meta": {
+        "id": "liver",
+        "uuid": "b0dfb41c-f4ef-4844-8bc2-9e59b160aef9",
+        "sort": "120496000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "liver",
+          "liver brown",
+          "liver maroon",
+          "livers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "liv*er",
+        "prs": [
+          {
+            "mw": "\u02c8li-v\u0259r",
+            "sound": {
+              "audio": "liver001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large gland in the body that has a rich blood supply, secretes bile, and helps in storing some nutrients and in forming some body wastes"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large gland in the body that has a rich blood supply, secretes bile, and helps in storing some nutrients and in forming some body wastes"
+      ]
+    },
+    {
+      "meta": {
+        "id": "thrasher",
+        "uuid": "34cfc8cb-57a0-44e2-a5ca-fd93a967da23",
+        "sort": "200435000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brown thrasher",
+          "thrasher",
+          "thrashers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "thrash*er",
+        "prs": [
+          {
+            "mw": "\u02c8thra-sh\u0259r",
+            "sound": {
+              "audio": "thrash02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an American bird (as the common reddish brown "
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "brown thrasher"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") related to the mockingbird and noted for its song"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an American bird (as the common reddish brown brown thrasher) related to the mockingbird and noted for its song"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "brown001",
+  "shortdef": [
+    "of the color of chocolate : colored brown",
+    "of or relating to any of various groups of people having medium to dark pigmentation of the skin",
+    "having a tanned complexion"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8brau\u0307n",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/brown001.mp3"
+}

@@ -1,0 +1,114 @@
+{
+  "word": "pinioning",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pinion",
+        "uuid": "049f61ba-5d55-4936-baf3-e53a978a9cc3",
+        "sort": "160665000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "pinion",
+          "pinioned",
+          "pinioning"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pin*ion",
+        "prs": [
+          {
+            "mw": "\u02c8pin-y\u0259n",
+            "sound": {
+              "audio": "pinion01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "pin*ioned"
+        },
+        {
+          "if": "pin*ion*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to restrain by tying the arms to the body"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to tie up or hold tightly "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "The guards {it}pinioned{/it} the prisoner's arms."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to prevent a bird from flying especially by cutting off the end of one wing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to restrain by tying the arms to the body",
+        "to tie up or hold tightly",
+        "to prevent a bird from flying especially by cutting off the end of one wing"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "pinion01",
+  "shortdef": [
+    "to restrain by tying the arms to the body",
+    "to tie up or hold tightly",
+    "to prevent a bird from flying especially by cutting off the end of one wing"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8pin-y\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pinion01.mp3"
+}

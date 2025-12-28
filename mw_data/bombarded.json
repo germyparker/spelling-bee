@@ -1,0 +1,115 @@
+{
+  "word": "bombarded",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bombard",
+        "uuid": "17181c5c-d709-4e15-a874-6ad8f6044191",
+        "sort": "020760000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bombard",
+          "bombarded",
+          "bombarding"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bom*bard",
+        "prs": [
+          {
+            "mw": "b\u00e4m-\u02c8b\u00e4rd",
+            "sound": {
+              "audio": "bombar02"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bom*bard*ed"
+        },
+        {
+          "if": "bom*bard*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to attack with heavy fire from big guns {bc}{sx|shell||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bombard{/it} a fort"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to hit or attack again and again "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We were {it}bombarded{/it} by ads."
+                        },
+                        {
+                          "t": "Smells he couldn't place {it}bombarded{/it} him.",
+                          "aq": {
+                            "auth": "Brian Selznick",
+                            "source": "{it}Wonderstruck{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to attack with heavy fire from big guns : shell",
+        "to hit or attack again and again"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bombar02",
+  "shortdef": [
+    "to attack with heavy fire from big guns : shell",
+    "to hit or attack again and again"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "b\u00e4m-\u02c8b\u00e4rd",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bombar02.mp3"
+}

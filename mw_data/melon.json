@@ -1,0 +1,113 @@
+{
+  "word": "melon",
+  "api_response": [
+    {
+      "meta": {
+        "id": "melon",
+        "uuid": "d3237a49-788a-4519-939a-100aecf7c96a",
+        "sort": "130400000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "melon",
+          "melons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mel*on",
+        "prs": [
+          {
+            "mw": "\u02c8me-l\u0259n",
+            "sound": {
+              "audio": "melon001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually large fruit (as a watermelon or cantaloupe) that grows on a vine and has juicy sweet flesh and a hard rind"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a usually large fruit (as a watermelon or cantaloupe) that grows on a vine and has juicy sweet flesh and a hard rind"
+      ]
+    },
+    {
+      "meta": {
+        "id": "honeydew melon",
+        "uuid": "913ceffa-c244-4559-bb65-03aaa7623d0c",
+        "sort": "080578000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "honeydew melon"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hon*ey*dew melon",
+        "prs": [
+          {
+            "mw": "\u02c8h\u0259-n\u0113-\u02ccd\u00fc-"
+          },
+          {
+            "mw": "-\u02ccdy\u00fc-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pale melon with greenish sweet flesh and smooth skin"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a pale melon with greenish sweet flesh and smooth skin"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "melon001",
+  "shortdef": [
+    "a usually large fruit (as a watermelon or cantaloupe) that grows on a vine and has juicy sweet flesh and a hard rind"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8me-l\u0259n",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/melon001.mp3"
+}

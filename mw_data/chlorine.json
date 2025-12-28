@@ -1,0 +1,69 @@
+{
+  "word": "chlorine",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chlorine",
+        "uuid": "fde3a26d-1519-4a78-93a1-0b5ac72bf984",
+        "sort": "030623000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chlorine",
+          "chlorines"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "chlo*rine",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u022fr-\u02cc\u0113n",
+            "sound": {
+              "audio": "chlori05"
+            }
+          },
+          {
+            "mw": "-\u0259n"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a chemical element that is a greenish yellow irritating gas of strong odor used as a bleach and as a disinfectant to purify water"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a chemical element that is a greenish yellow irritating gas of strong odor used as a bleach and as a disinfectant to purify water"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "chlori05",
+  "shortdef": [
+    "a chemical element that is a greenish yellow irritating gas of strong odor used as a bleach and as a disinfectant to purify water"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kl\u022fr-\u02cc\u0113n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chlori05.mp3"
+}

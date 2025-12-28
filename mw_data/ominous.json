@@ -1,0 +1,86 @@
+{
+  "word": "ominous",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ominous",
+        "uuid": "5c5b6923-89a5-40e0-93da-a4e330240840",
+        "sort": "150162000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ominous",
+          "ominously",
+          "ominousness",
+          "ominousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "om*i*nous",
+        "prs": [
+          {
+            "mw": "\u02c8\u00e4-m\u0259-n\u0259s",
+            "sound": {
+              "audio": "ominou01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}considered a sign of evil or trouble to come "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 the clouds there seemed to be growing darker, massing in {it}ominous{/it} grey mounds with a yellowish tinge.",
+                          "aq": {
+                            "auth": "Susan Cooper",
+                            "source": "{it}The Dark Is Rising{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "om*i*nous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "considered a sign of evil or trouble to come"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ominou01",
+  "shortdef": [
+    "considered a sign of evil or trouble to come"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8\u00e4-m\u0259-n\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ominou01.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "lasagna",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lasagna",
+        "uuid": "8d3df63a-ced6-44d9-87ca-2e4be6ac15ef",
+        "sort": "120115000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lasagna",
+          "lasagnas",
+          "lasagne",
+          "lasagnes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "la*sa*gna",
+        "prs": [
+          {
+            "mw": "l\u0259-\u02c8z\u00e4n-y\u0259",
+            "sound": {
+              "audio": "lasagn01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}layers of broad flat noodles baked with a sauce usually of tomatoes, cheese, and meat or vegetables"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "layers of broad flat noodles baked with a sauce usually of tomatoes, cheese, and meat or vegetables"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lasagn01",
+  "shortdef": [
+    "layers of broad flat noodles baked with a sauce usually of tomatoes, cheese, and meat or vegetables"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "l\u0259-\u02c8z\u00e4n-y\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lasagn01.mp3"
+}

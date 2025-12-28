@@ -1,0 +1,115 @@
+{
+  "word": "solemnly",
+  "api_response": [
+    {
+      "meta": {
+        "id": "solemn",
+        "uuid": "d1864df7-4238-4faa-8aa0-96d2eab460c5",
+        "sort": "191431000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "solemn",
+          "solemner",
+          "solemnest",
+          "solemnly",
+          "solemnness",
+          "solemnnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sol*emn",
+        "prs": [
+          {
+            "mw": "\u02c8s\u00e4-l\u0259m",
+            "sound": {
+              "audio": "solemn01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very serious or formal in manner, behavior, or expression "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}solemn{/it} procession"
+                        },
+                        {
+                          "t": "a {it}solemn{/it} face"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}done or made seriously and thoughtfully "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}solemn{/it} promise"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "sol*emn*ly",
+          "fl": "adverb"
+        }
+      ],
+      "srefs": [
+        "serious"
+      ],
+      "shortdef": [
+        "very serious or formal in manner, behavior, or expression",
+        "done or made seriously and thoughtfully"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "solemn01",
+  "shortdef": [
+    "very serious or formal in manner, behavior, or expression",
+    "done or made seriously and thoughtfully"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8s\u00e4-l\u0259m",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/solemn01.mp3"
+}

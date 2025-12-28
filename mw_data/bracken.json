@@ -1,0 +1,66 @@
+{
+  "word": "bracken",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bracken",
+        "uuid": "4846c07e-aeef-4e23-9175-ccffe64635fa",
+        "sort": "020904000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bracken",
+          "brackens"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "brack*en",
+        "prs": [
+          {
+            "mw": "\u02c8bra-k\u0259n",
+            "sound": {
+              "audio": "bracke01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large branching fern"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large branching fern"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bracke01",
+  "shortdef": [
+    "a large branching fern"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8bra-k\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bracke01.mp3"
+}

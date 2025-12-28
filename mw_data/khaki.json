@@ -1,0 +1,108 @@
+{
+  "word": "khaki",
+  "api_response": [
+    {
+      "meta": {
+        "id": "khaki",
+        "uuid": "5721f0b3-2174-4459-a23f-50b27401ad77",
+        "sort": "110043000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "khaki",
+          "khakis"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "kha*ki",
+        "prs": [
+          {
+            "mw": "\u02c8ka-k\u0113",
+            "sound": {
+              "audio": "khaki002"
+            }
+          },
+          {
+            "mw": "\u02c8k\u00e4-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a light yellowish brown cloth used especially for military uniforms"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "ins": [
+                    {
+                      "if": "kha*kis",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pair of pants made of khaki"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a light yellowish brown"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a light yellowish brown cloth used especially for military uniforms",
+        "a pair of pants made of khaki",
+        "a light yellowish brown"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "khaki002",
+  "shortdef": [
+    "a light yellowish brown cloth used especially for military uniforms",
+    "a pair of pants made of khaki",
+    "a light yellowish brown"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ka-k\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/khaki002.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "boutique",
+  "api_response": [
+    {
+      "meta": {
+        "id": "boutique",
+        "uuid": "65d6e99c-285e-497b-887d-48642503c9bf",
+        "sort": "020866000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "boutique",
+          "boutiques",
+          "boutiquey"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bou*tique",
+        "prs": [
+          {
+            "mw": "b\u00fc-\u02c8t\u0113k",
+            "sound": {
+              "audio": "boutiq01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small fashionable shop"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small fashionable shop"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "boutiq01",
+  "shortdef": [
+    "a small fashionable shop"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "b\u00fc-\u02c8t\u0113k",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/boutiq01.mp3"
+}

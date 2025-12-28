@@ -1,0 +1,73 @@
+{
+  "word": "ajar",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ajar",
+        "uuid": "43227c25-425d-4815-9931-a6c7bf12d9d6",
+        "sort": "010445000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ajar"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ajar",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8j\u00e4r",
+            "sound": {
+              "audio": "ajar0001"
+            }
+          }
+        ]
+      },
+      "fl": "adverb or adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}slightly open "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I left the door {it}ajar{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "slightly open"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ajar0001",
+  "shortdef": [
+    "slightly open"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adverb or adjective",
+  "pronunciation": "\u0259-\u02c8j\u00e4r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ajar0001.mp3"
+}

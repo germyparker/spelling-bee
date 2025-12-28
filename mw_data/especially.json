@@ -1,0 +1,73 @@
+{
+  "word": "especially",
+  "api_response": [
+    {
+      "meta": {
+        "id": "especial",
+        "uuid": "99277aad-a18c-48ef-8385-859dcdeabaa8",
+        "sort": "050478000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "especial",
+          "especially",
+          "in especial"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "es*pe*cial",
+        "prs": [
+          {
+            "mw": "i-\u02c8spe-sh\u0259l",
+            "sound": {
+              "audio": "especi01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}more than usual {bc}{sx|special||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "es*pe*cial*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "more than usual : special"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "especi01",
+  "shortdef": [
+    "more than usual : special"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "i-\u02c8spe-sh\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/especi01.mp3"
+}

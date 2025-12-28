@@ -1,0 +1,149 @@
+{
+  "word": "officially",
+  "api_response": [
+    {
+      "meta": {
+        "id": "official:2",
+        "uuid": "38da44b5-553d-4c6f-bfbe-ddada4291c19",
+        "sort": "150113000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "official",
+          "officially"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "official"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}relating to a position of authority "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}official{/it} duties"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having authority to perform a duty "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}official{/it} referee"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}coming from or meeting the requirements of an authority "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}official{/it} team baseball"
+                        }
+                      ]
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "We're waiting for the {it}official{/it} announcement."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}proper for a person in office "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The White House is the President's {it}official{/it} residence."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "of*fi*cial*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "relating to a position of authority",
+        "having authority to perform a duty",
+        "coming from or meeting the requirements of an authority"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "relating to a position of authority",
+    "having authority to perform a duty",
+    "coming from or meeting the requirements of an authority"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": null,
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": []
+}

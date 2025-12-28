@@ -1,0 +1,224 @@
+{
+  "word": "rotunda",
+  "api_response": [
+    {
+      "meta": {
+        "id": "rotunda",
+        "uuid": "a0632fbd-3604-41eb-9857-f8e053369e99",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "rotunda",
+          "rotundas",
+          "rotonda"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ro*tun*da",
+        "prs": [
+          {
+            "mw": "r\u014d-\u02c8t\u0259n-d\u0259",
+            "sound": {
+              "audio": "rotund05"
+            }
+          }
+        ]
+      },
+      "vrs": [
+        {
+          "vl": "or",
+          "va": "ro*ton*da",
+          "prs": [
+            {
+              "mw": "-\u02c8t\u00e4n-"
+            }
+          ]
+        }
+      ],
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a round building"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}one covered by a dome"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large round room"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large central area (as in a hotel)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Italian {it}rotonda,{/it} from Latin {it}rotundus{/it} {ldquo}round{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a round building; especially : one covered by a dome",
+        "a large round room",
+        "a large central area (as in a hotel)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "fenestra",
+        "uuid": "ed1489d7-e63c-4e52-a498-e438df914607",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "fenestra",
+          "fenestra cochleae",
+          "fenestra ovalis",
+          "fenestra rotunda",
+          "fenestra vestibuli",
+          "fenestrae",
+          "fenestral"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "fe*nes*tra",
+        "prs": [
+          {
+            "mw": "fi-\u02c8nes-tr\u0259",
+            "sound": {
+              "audio": "fenest01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-trae",
+          "if": "fe*nes*trae",
+          "prs": [
+            {
+              "mw": "-\u02cctr\u0113",
+              "sound": {
+                "audio": "fenest02"
+              }
+            },
+            {
+              "mw": "-\u02cctr\u012b"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small opening"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}either of two membrane-covered apertures in the bone between the middle and inner ear"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "fe*nes*tral",
+          "prs": [
+            {
+              "mw": "-tr\u0259l",
+              "sound": {
+                "audio": "fenest03"
+              }
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Latin, {ldquo}window{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a small opening; especially : either of two membrane-covered apertures in the bone between the middle and inner ear"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "rotund05",
+  "shortdef": [
+    "a round building; especially : one covered by a dome",
+    "a large round room",
+    "a large central area (as in a hotel)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "r\u014d-\u02c8t\u0259n-d\u0259",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "rotunda",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rotund05.mp3"
+}

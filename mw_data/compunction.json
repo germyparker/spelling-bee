@@ -1,0 +1,111 @@
+{
+  "word": "compunction",
+  "api_response": [
+    {
+      "meta": {
+        "id": "compunction",
+        "uuid": "c42532e4-08ee-4369-b414-dd3dd2584ef2",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "compunction",
+          "compunctions",
+          "compunctious"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "com*punc*tion",
+        "prs": [
+          {
+            "mw": "k\u0259m-\u02c8p\u0259ng-sh\u0259n",
+            "sound": {
+              "audio": "compun01"
+            }
+          },
+          {
+            "mw": "-\u02c8p\u0259ngk-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}anxiety caused by a sense of guilt"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a passing feeling of regret for some slight wrong"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "com*punc*tious",
+          "prs": [
+            {
+              "mw": "-sh\u0259s",
+              "sound": {
+                "audio": "compun02"
+              }
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "srefs": [
+        "qualm"
+      ],
+      "et": [
+        [
+          "text",
+          "Late Latin {it}compunctio,{/it} from Latin {it}compungere{/it} {ldquo}to prick hard, sting,{rdquo} from {it}com-{/it} + {it}pungere{/it} {ldquo}to prick{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "anxiety caused by a sense of guilt",
+        "a passing feeling of regret for some slight wrong"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "compun01",
+  "shortdef": [
+    "anxiety caused by a sense of guilt",
+    "a passing feeling of regret for some slight wrong"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "k\u0259m-\u02c8p\u0259ng-sh\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "compunction",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compun01.mp3"
+}

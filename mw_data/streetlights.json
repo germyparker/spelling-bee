@@ -1,0 +1,68 @@
+{
+  "word": "streetlights",
+  "api_response": [
+    {
+      "meta": {
+        "id": "streetlight",
+        "uuid": "8ef425bd-c900-4e08-b093-842e8e0ac9ac",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "streetlight",
+          "streetlamp",
+          "streetlights"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "street*light",
+        "prs": [
+          {
+            "mw": "-\u02ccl\u012bt",
+            "sound": {
+              "audio": "street04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a light usually mounted on a pole that forms one in a series spaced at intervals along a public road"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a light usually mounted on a pole that forms one in a series spaced at intervals along a public road"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "street04",
+  "shortdef": [
+    "a light usually mounted on a pole that forms one in a series spaced at intervals along a public road"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "-\u02ccl\u012bt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "original_search_term": "streetlights",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/street04.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "mosque",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mosque",
+        "uuid": "c9f14321-171a-43a3-8cd2-38fcf089f41b",
+        "sort": "130905000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mosque",
+          "mosques"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mosque",
+        "prs": [
+          {
+            "mw": "\u02c8m\u00e4sk",
+            "sound": {
+              "audio": "mosque01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a building in which Muslims worship"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a building in which Muslims worship"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "mosque01",
+  "shortdef": [
+    "a building in which Muslims worship"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8m\u00e4sk",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mosque01.mp3"
+}

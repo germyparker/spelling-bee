@@ -1,0 +1,82 @@
+{
+  "word": "garishly",
+  "api_response": [
+    {
+      "meta": {
+        "id": "garish",
+        "uuid": "fa95d121-9381-40cd-9375-02a788579035",
+        "sort": "070089000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "garish",
+          "garishly",
+          "garishness",
+          "garishnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gar*ish",
+        "prs": [
+          {
+            "mw": "\u02c8ger-ish",
+            "sound": {
+              "audio": "garish01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}too bright or showy {bc}{sx|gaudy||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She was dressed in {it}garish{/it} colors."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "gar*ish*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "too bright or showy : gaudy"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "garish01",
+  "shortdef": [
+    "too bright or showy : gaudy"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8ger-ish",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garish01.mp3"
+}

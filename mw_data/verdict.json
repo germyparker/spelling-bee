@@ -1,0 +1,100 @@
+{
+  "word": "verdict",
+  "api_response": [
+    {
+      "meta": {
+        "id": "verdict",
+        "uuid": "4d3eff51-6077-46af-9192-158b4ecd9afd",
+        "sort": "220133000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "verdict",
+          "verdicts"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ver*dict",
+        "prs": [
+          {
+            "mw": "\u02c8v\u0259r-dikt",
+            "sound": {
+              "audio": "verdic01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the decision reached by a jury"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|judgment||2}, {sx|opinion||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "What's your {it}verdict{/it} on his proposal?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}v\u0113rus{/it}, meaning {ldquo}true,{rdquo} gives us the root {b}ver{/b}. Words from the Latin {it}v\u0113rus{/it} have something to do with the truth. To {b}ver{/b}{it}ify{/it} is to prove that something is true. A {b}ver{/b}{it}dict{/it} is the judgment of truth that a jury reaches in a court. {b}Ver{/b}{it}y{/it} is another way of saying {ldquo}truly,{rdquo} as in {ldquo}very good.{rdquo}"
+          ]
+        ]
+      },
+      "shortdef": [
+        "the decision reached by a jury",
+        "judgment, opinion"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "verdic01",
+  "shortdef": [
+    "the decision reached by a jury",
+    "judgment, opinion"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8v\u0259r-dikt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verdic01.mp3"
+}

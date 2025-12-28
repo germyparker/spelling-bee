@@ -1,0 +1,278 @@
+{
+  "word": "surprise",
+  "api_response": [
+    {
+      "meta": {
+        "id": "surprise:1",
+        "uuid": "a97dcd70-ed62-41e2-9859-a3594d84db7e",
+        "sort": "192494000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "surprise",
+          "surprises",
+          "surprize",
+          "surprizes"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sur*prise",
+        "prs": [
+          {
+            "mw": "s\u0259r-\u02c8pr\u012bz",
+            "sound": {
+              "audio": "surpri03"
+            }
+          },
+          {
+            "mw": "s\u0259-\u02c8pr\u012bz"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that is unexpected "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I have a {it}surprise{/it} for you."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|astonishment||}, {sx|amazement||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 it held up to them a little white object. They all looked at it in {it}surprise{/it} \u2026",
+                          "aq": {
+                            "auth": "C. S. Lewis",
+                            "source": "{it}The Lion, The Witch and The Wardrobe{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act or instance of coming upon without warning "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They were taken by {it}surprise{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "something that is unexpected",
+        "astonishment, amazement",
+        "an act or instance of coming upon without warning"
+      ]
+    },
+    {
+      "meta": {
+        "id": "surprise:2",
+        "uuid": "52be535c-48ef-4347-a712-f988c4fc30ff",
+        "sort": "192495000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "surprise",
+          "surprised",
+          "surpriser",
+          "surprisers",
+          "surprises",
+          "surprising",
+          "surprize",
+          "surprized",
+          "surprizes",
+          "surprizing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "surprise"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sur*prised"
+        },
+        {
+          "if": "sur*pris*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to feel wonder or amazement because of being unexpected "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "Her resemblance to her father {it}surprised{/it} me."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to come upon without warning "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The robbers were {it}surprised{/it} by police."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to attack without warning {bc}capture by an unexpected attack"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "syns": [
+        {
+          "pl": "synonyms",
+          "pt": [
+            [
+              "text",
+              "{sc}surprise{/sc}, {sc}astonish{/sc}, and {sc}amaze{/sc} mean to impress forcibly by being unexpected, startling, or unusual. {sc}surprise{/sc} is used when something is unexpected even though it by itself is not startling. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "A sudden storm {it}surprised{/it} the hikers."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}astonish{/sc} means to surprise very much with something that is hard or impossible to believe. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "The first airplanes {it}astonished{/it} people."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}amaze{/sc} is used when something causes a person to wonder and puzzle over it. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "The magician {it}amazed{/it} the children."
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cause to feel wonder or amazement because of being unexpected",
+        "to come upon without warning",
+        "to attack without warning : capture by an unexpected attack"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "surpri03",
+  "shortdef": [
+    "something that is unexpected",
+    "astonishment, amazement",
+    "an act or instance of coming upon without warning"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "s\u0259r-\u02c8pr\u012bz",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/surpri03.mp3"
+}

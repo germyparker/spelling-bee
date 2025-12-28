@@ -1,0 +1,82 @@
+{
+  "word": "February",
+  "api_response": [
+    {
+      "meta": {
+        "id": "February",
+        "uuid": "51c690a9-11c7-492b-8ed3-3eb8c99f79fe",
+        "sort": "060180000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "Februaries",
+          "February",
+          "Februarys"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Feb*ru*ary",
+        "prs": [
+          {
+            "mw": "\u02c8fe-by\u0259-\u02ccwer-\u0113",
+            "sound": {
+              "audio": "februa02"
+            }
+          },
+          {
+            "mw": "\u02c8fe-br\u0259-"
+          },
+          {
+            "mw": "\u02c8fe-b\u0259-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the second month of the year"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "In the ancient Roman calendar March was originally the first month of the year and hence February was the last. The last weeks of the year were a time when people made up for their wrongdoing to the gods and purifications were performed. These rituals were called {it}februa{/it} in Latin, and from them the month took its name, {it}Februarius{/it}. English has taken the name from Latin."
+          ]
+        ]
+      },
+      "shortdef": [
+        "the second month of the year"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "februa02",
+  "shortdef": [
+    "the second month of the year"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8fe-by\u0259-\u02ccwer-\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/februa02.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "word": "ancestral",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ancestral",
+        "uuid": "725c67c9-06c1-4967-961c-79a890babff1",
+        "sort": "010670000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ancestral",
+          "ancestrally"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "an*ces*tral",
+        "prs": [
+          {
+            "mw": "an-\u02c8se-str\u0259l",
+            "sound": {
+              "audio": "ancest02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of, relating to, or coming from an ancestor "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They visited their {it}ancestral{/it} home."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "of, relating to, or coming from an ancestor"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ancest02",
+  "shortdef": [
+    "of, relating to, or coming from an ancestor"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "an-\u02c8se-str\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ancest02.mp3"
+}

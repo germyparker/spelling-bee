@@ -1,0 +1,66 @@
+{
+  "word": "gingham",
+  "api_response": [
+    {
+      "meta": {
+        "id": "gingham",
+        "uuid": "3063dce6-7d0d-4a2e-818e-dc314923fcbc",
+        "sort": "070272000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "gingham",
+          "ginghams"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ging*ham",
+        "prs": [
+          {
+            "mw": "\u02c8gi\u014b-\u0259m",
+            "sound": {
+              "audio": "gingha01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a cotton cloth that is often plaid or checked"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a cotton cloth that is often plaid or checked"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "gingha01",
+  "shortdef": [
+    "a cotton cloth that is often plaid or checked"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8gi\u014b-\u0259m",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gingha01.mp3"
+}

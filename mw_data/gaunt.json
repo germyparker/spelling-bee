@@ -1,0 +1,88 @@
+{
+  "word": "gaunt",
+  "api_response": [
+    {
+      "meta": {
+        "id": "gaunt",
+        "uuid": "4184796a-0b1e-4bd0-9a4f-9bc6002a00e6",
+        "sort": "070126000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "gaunt",
+          "gaunter",
+          "gauntest",
+          "gauntlier",
+          "gauntliest",
+          "gauntly",
+          "gauntness",
+          "gauntnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gaunt",
+        "prs": [
+          {
+            "mw": "\u02c8g\u022fnt",
+            "sound": {
+              "audio": "gaunt001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "gaunt*er"
+        },
+        {
+          "if": "gaunt*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very thin and bony (as from illness or hunger) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}gaunt{/it} face"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "very thin and bony (as from illness or hunger)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "gaunt001",
+  "shortdef": [
+    "very thin and bony (as from illness or hunger)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8g\u022fnt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gaunt001.mp3"
+}

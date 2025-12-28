@@ -1,0 +1,83 @@
+{
+  "word": "seep",
+  "api_response": [
+    {
+      "meta": {
+        "id": "seep",
+        "uuid": "5f915842-85be-4556-b7bd-213760c1a227",
+        "sort": "190480000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "seep",
+          "seeped",
+          "seeping"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "seep",
+        "prs": [
+          {
+            "mw": "\u02c8s\u0113p",
+            "sound": {
+              "audio": "seep0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "seeped"
+        },
+        {
+          "if": "seep*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to flow slowly through small openings "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Water {it}seeped{/it} into the basement."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to flow slowly through small openings"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "seep0001",
+  "shortdef": [
+    "to flow slowly through small openings"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8s\u0113p",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/seep0001.mp3"
+}

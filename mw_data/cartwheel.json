@@ -1,0 +1,69 @@
+{
+  "word": "cartwheel",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cartwheel",
+        "uuid": "e5a9d7ad-c482-474e-91d8-2290003c66a0",
+        "sort": "030252000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cartwheel",
+          "cartwheels"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cart*wheel",
+        "prs": [
+          {
+            "mw": "\u02c8k\u00e4rt-\u02cchw\u0113l",
+            "sound": {
+              "audio": "cartwh01"
+            }
+          },
+          {
+            "mw": "-\u02ccw\u0113l"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a handspring made to the side with arms and legs sticking out"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a handspring made to the side with arms and legs sticking out"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "cartwh01",
+  "shortdef": [
+    "a handspring made to the side with arms and legs sticking out"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8k\u00e4rt-\u02cchw\u0113l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cartwh01.mp3"
+}

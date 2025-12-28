@@ -1,0 +1,162 @@
+{
+  "word": "distress",
+  "api_response": [
+    {
+      "meta": {
+        "id": "distress:1",
+        "uuid": "1936e3e7-cb45-444a-8036-2003127cdcc7",
+        "sort": "040833000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "distress",
+          "distresses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "dis*tress",
+        "prs": [
+          {
+            "mw": "di-\u02c8stres",
+            "sound": {
+              "audio": "distre01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}physical or mental pain or suffering"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a state of danger or desperate need "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The ship was in {it}distress{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "physical or mental pain or suffering",
+        "a state of danger or desperate need"
+      ]
+    },
+    {
+      "meta": {
+        "id": "distress:2",
+        "uuid": "84ca69b4-6823-46e8-954d-a2e25f76f2ba",
+        "sort": "040834000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "distress",
+          "distressed",
+          "distressing",
+          "distressingly"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "distress"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "dis*tressed"
+        },
+        {
+          "if": "dis*tress*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to upset or cause to worry "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The news {it}distressed{/it} her."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "dis*tress*ing*ly",
+          "prs": [
+            {
+              "mw": "di-\u02c8stre-si\u014b-l\u0113"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "to upset or cause to worry"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "distre01",
+  "shortdef": [
+    "physical or mental pain or suffering",
+    "a state of danger or desperate need"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "di-\u02c8stres",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/distre01.mp3"
+}

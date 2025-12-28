@@ -1,0 +1,185 @@
+{
+  "word": "junket",
+  "api_response": [
+    {
+      "meta": {
+        "id": "junket:1",
+        "uuid": "52e8c483-7ede-4be3-a40d-3e875df7b132",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "junket",
+          "junkets"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "jun*ket",
+        "prs": [
+          {
+            "mw": "\u02c8j\u0259ng-k\u0259t",
+            "sound": {
+              "audio": "junket01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a dessert of sweetened flavored milk with a jellylike consistency"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a festive social affair"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|journey||}, {sx|trip||}"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}a trip made by an official at public expense"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "Long ago a type of cream cheese was prepared in baskets made of reeds or rushes. In the Middle Ages this cream cheese was called {it}joncate,{/it} a derivative of Latin {it}juncus,{/it} which means {ldquo}reed{rdquo} or {ldquo}rush.{rdquo} {it}Junket{/it} was first used for cream cheese and later for a dessert made of sweetened curdled milk. In the early modern period, indeed, {it}junket{/it} was a popular term for any sweet dish. From this sense of {it}junket{/it} developed the extended sense {ldquo}a feast or banquet.{rdquo} {it}Junket{/it} came to be used for large picnics and later for any pleasure outing or trip."
+          ]
+        ]
+      },
+      "et": [
+        [
+          "text",
+          "Middle English {it}joncate,{/it} derived from Latin {it}juncus{/it} {ldquo}reed, rush{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a dessert of sweetened flavored milk with a jellylike consistency",
+        "a festive social affair",
+        "journey, trip; especially : a trip made by an official at public expense"
+      ]
+    },
+    {
+      "meta": {
+        "id": "junket:2",
+        "uuid": "90e2cf44-e274-443a-8f3c-9fb6fd463f5a",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "junket",
+          "junketed",
+          "junketeer",
+          "junketeers",
+          "junketer",
+          "junketers",
+          "junketing",
+          "junkets"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "junket"
+      },
+      "fl": "intransitive verb",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|banquet||}, {sx|feast||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go on a junket"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "banquet, feast",
+        "to go on a junket"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "junket01",
+  "shortdef": [
+    "a dessert of sweetened flavored milk with a jellylike consistency",
+    "a festive social affair",
+    "journey, trip; especially : a trip made by an official at public expense"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8j\u0259ng-k\u0259t",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "junket",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/junket01.mp3"
+}

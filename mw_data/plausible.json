@@ -1,0 +1,89 @@
+{
+  "word": "plausible",
+  "api_response": [
+    {
+      "meta": {
+        "id": "plausible",
+        "uuid": "4c8b62d7-4b7f-472c-ae44-bbb349641249",
+        "sort": "160780000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "plausible",
+          "plausibleness",
+          "plausiblenesses",
+          "plausibler",
+          "plausiblest",
+          "plausibly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "plau*si*ble",
+        "prs": [
+          {
+            "mw": "\u02c8pl\u022f-z\u0259-b\u0259l",
+            "sound": {
+              "audio": "plausi02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}seeming to be reasonable "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}plausible{/it} excuse"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "plau*si*bly",
+          "prs": [
+            {
+              "mw": "-bl\u0113"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "seeming to be reasonable"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "plausi02",
+  "shortdef": [
+    "seeming to be reasonable"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8pl\u022f-z\u0259-b\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plausi02.mp3"
+}

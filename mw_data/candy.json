@@ -1,0 +1,124 @@
+{
+  "word": "candy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "candy:1",
+        "uuid": "8c5c7024-ef8d-436c-b409-438414712bce",
+        "sort": "030111000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "candies",
+          "candy"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "can*dy",
+        "prs": [
+          {
+            "mw": "\u02c8kan-d\u0113",
+            "sound": {
+              "audio": "candy001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "can*dies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sweet made of sugar often with flavoring and filling"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sweet made of sugar often with flavoring and filling"
+      ]
+    },
+    {
+      "meta": {
+        "id": "candy:2",
+        "uuid": "66e03127-eb52-4ed4-80d4-990dd949e5f8",
+        "sort": "030112000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "candied",
+          "candies",
+          "candy",
+          "candying"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "candy"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "can*died"
+        },
+        {
+          "if": "can*dy*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to coat or become coated with sugar often by cooking"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to coat or become coated with sugar often by cooking"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "candy001",
+  "shortdef": [
+    "a sweet made of sugar often with flavoring and filling"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kan-d\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/candy001.mp3"
+}

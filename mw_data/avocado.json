@@ -1,0 +1,76 @@
+{
+  "word": "avocado",
+  "api_response": [
+    {
+      "meta": {
+        "id": "avocado",
+        "uuid": "1c71d2f8-90f3-493c-9cdb-c4c5d9b786ca",
+        "sort": "011266000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "avocado",
+          "avocadoes",
+          "avocados"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "av*o*ca*do",
+        "prs": [
+          {
+            "mw": "\u02cca-v\u0259-\u02c8k\u00e4-d\u014d",
+            "sound": {
+              "audio": "avocad02"
+            }
+          },
+          {
+            "mw": "\u02cc\u00e4v-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "av*o*ca*dos"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually green fruit that is shaped like a pear or an egg, grows on a tropical American tree, and has a rich oily flesh"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a usually green fruit that is shaped like a pear or an egg, grows on a tropical American tree, and has a rich oily flesh"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "avocad02",
+  "shortdef": [
+    "a usually green fruit that is shaped like a pear or an egg, grows on a tropical American tree, and has a rich oily flesh"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02cca-v\u0259-\u02c8k\u00e4-d\u014d",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avocad02.mp3"
+}

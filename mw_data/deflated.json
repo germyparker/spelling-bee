@@ -1,0 +1,105 @@
+{
+  "word": "deflated",
+  "api_response": [
+    {
+      "meta": {
+        "id": "deflate",
+        "uuid": "12759257-61a0-4829-b32b-99dc40a53e7b",
+        "sort": "040259000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "deflate",
+          "deflated",
+          "deflater",
+          "deflaters",
+          "deflates",
+          "deflating",
+          "deflator",
+          "deflators"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "de*flate",
+        "prs": [
+          {
+            "mw": "di-\u02c8fl\u0101t",
+            "sound": {
+              "audio": "deflat02"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "de*flat*ed"
+        },
+        {
+          "if": "de*flat*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to let the air or gas out of something that has been blown up"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to reduce in size or importance "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The criticism {it}deflated{/it} her confidence."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to let the air or gas out of something that has been blown up",
+        "to reduce in size or importance"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "deflat02",
+  "shortdef": [
+    "to let the air or gas out of something that has been blown up",
+    "to reduce in size or importance"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "di-\u02c8fl\u0101t",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/deflat02.mp3"
+}

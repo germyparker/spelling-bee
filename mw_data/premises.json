@@ -1,0 +1,91 @@
+{
+  "word": "premises",
+  "api_response": [
+    {
+      "meta": {
+        "id": "premise",
+        "uuid": "47eecf50-7fd7-44b1-8126-5b1af3ed9296",
+        "sort": "161164000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "premise",
+          "premises",
+          "premiss",
+          "premisses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "prem*ise",
+        "prs": [
+          {
+            "mw": "\u02c8pre-m\u0259s",
+            "sound": {
+              "audio": "premis01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a statement or idea taken to be true and on which an argument or reasoning may be based"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "ins": [
+                    {
+                      "if": "premises",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a piece of land with the buildings on it"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a statement or idea taken to be true and on which an argument or reasoning may be based",
+        "a piece of land with the buildings on it"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "premis01",
+  "shortdef": [
+    "a statement or idea taken to be true and on which an argument or reasoning may be based",
+    "a piece of land with the buildings on it"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8pre-m\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/premis01.mp3"
+}

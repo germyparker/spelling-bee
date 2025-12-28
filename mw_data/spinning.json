@@ -1,0 +1,305 @@
+{
+  "word": "spinning",
+  "api_response": [
+    {
+      "meta": {
+        "id": "spin:1",
+        "uuid": "7b9e6496-955b-490f-b109-0047e7f67654",
+        "sort": "191671000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "spin",
+          "spin one's wheels",
+          "spinner",
+          "spinners",
+          "spinning",
+          "spins",
+          "spun"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "spin",
+        "prs": [
+          {
+            "mw": "\u02c8spin",
+            "sound": {
+              "audio": "spin0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "spun",
+          "prs": [
+            {
+              "mw": "\u02c8sp\u0259n"
+            }
+          ]
+        },
+        {
+          "if": "spin*ning"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to turn or cause to turn round and round rapidly {bc}{sx|twirl||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He fell after {it}spinning{/it} in circles."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make yarn or thread from (fibers) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}spun{/it} the silk into thread."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make (yarn or thread) from fibers "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She was {it}spinning{/it} yarn from wool."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form threads or a web or cocoon by giving off a sticky fluid that quickly hardens "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A spider was {it}spinning{/it} its web."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to feel as if in a whirl "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My head was {it}spinning{/it}."
+                        },
+                        {
+                          "t": "The room was {it}spinning{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make up and tell using the imagination "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I listened to him {it}spin{/it} a tale."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move swiftly on wheels or in a vehicle "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The car {it}spun{/it} away."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make, shape, or produce by or as if by whirling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The woman {it}spun{/it} sugar as a demonstration."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "spin*ner",
+          "prs": [
+            {
+              "mw": "\u02c8spi-n\u0259r"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to turn or cause to turn round and round rapidly : twirl",
+        "to make yarn or thread from (fibers)",
+        "to make (yarn or thread) from fibers"
+      ]
+    },
+    {
+      "meta": {
+        "id": "spinning wheel",
+        "uuid": "6c65f1b1-5039-4969-a93f-4deb231e6d80",
+        "sort": "191682000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "spinning wheel"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "spinning wheel"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small machine driven by the hand or foot that is used to spin yarn or thread"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small machine driven by the hand or foot that is used to spin yarn or thread"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "spin0001",
+  "shortdef": [
+    "to turn or cause to turn round and round rapidly : twirl",
+    "to make yarn or thread from (fibers)",
+    "to make (yarn or thread) from fibers"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8spin",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/spin0001.mp3"
+}

@@ -1,0 +1,160 @@
+{
+  "word": "scrub",
+  "api_response": [
+    {
+      "meta": {
+        "id": "scrub:1",
+        "uuid": "d6d1d313-3f15-43a3-92e6-d5fdd04f49b4",
+        "sort": "190349000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "scrub",
+          "scrubbable",
+          "scrubbed",
+          "scrubbing",
+          "scrubs"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "scrub",
+        "prs": [
+          {
+            "mw": "\u02c8skr\u0259b",
+            "sound": {
+              "audio": "scrub001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "scrubbed"
+        },
+        {
+          "if": "scrub*bing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to rub hard in washing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to rub hard in washing"
+      ]
+    },
+    {
+      "meta": {
+        "id": "scrub:2",
+        "uuid": "2128d389-b565-4596-9d43-37dac06e1ce0",
+        "sort": "190350000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "scrub",
+          "scrubs"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "scrub"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a thick growth of small or stunted shrubs or trees"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a thick growth of small or stunted shrubs or trees"
+      ]
+    },
+    {
+      "meta": {
+        "id": "scrub:3",
+        "uuid": "e8f0f13e-736c-460c-a4ac-24e6a88703eb",
+        "sort": "190351000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "scrub",
+          "scrubs"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "scrub"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act, an instance, or a period of rubbing hard in washing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act, an instance, or a period of rubbing hard in washing"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "scrub001",
+  "shortdef": [
+    "to rub hard in washing"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8skr\u0259b",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scrub001.mp3"
+}

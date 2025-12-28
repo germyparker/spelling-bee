@@ -1,0 +1,77 @@
+{
+  "word": "Kilimanjaro",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Kilimanjaro:g",
+        "uuid": "dbb0d846-dfed-42f9-9f2b-c29cc356d65c",
+        "src": "sch_dict",
+        "section": "geog",
+        "stems": [
+          "kilimanjaro"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Kil*i*man*ja*ro",
+        "prs": [
+          {
+            "mw": "\u02cckil-\u0259-m\u0259n-\u02c8j\u00e4r-\u014d",
+            "sound": {
+              "audio": "ggkili01"
+            }
+          },
+          {
+            "mw": "-\u02c8jar-"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "mountain "
+                    ],
+                    [
+                      "g",
+                      "NE"
+                    ],
+                    [
+                      "text",
+                      " Tanzania; highest in Africa {dx}see {dxt|kibo||}{/dx}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "mountain NE Tanzania; highest in Africa"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "ggkili01",
+  "shortdef": [
+    "mountain NE Tanzania; highest in Africa"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "geographical name",
+  "pronunciation": "\u02cckil-\u0259-m\u0259n-\u02c8j\u00e4r-\u014d",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "Kilimanjaro",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/gg/ggkili01.mp3"
+}

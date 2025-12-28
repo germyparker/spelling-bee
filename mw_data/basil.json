@@ -1,0 +1,69 @@
+{
+  "word": "basil",
+  "api_response": [
+    {
+      "meta": {
+        "id": "basil",
+        "uuid": "aa391399-4ede-427d-82e9-6f448fa5c0fd",
+        "sort": "020202000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "basil",
+          "basils"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ba*sil",
+        "prs": [
+          {
+            "mw": "\u02c8ba-z\u0259l",
+            "sound": {
+              "audio": "basil002"
+            }
+          },
+          {
+            "mw": "\u02c8b\u0101-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a fragrant mint used in cooking"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a fragrant mint used in cooking"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "basil002",
+  "shortdef": [
+    "a fragrant mint used in cooking"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ba-z\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/basil002.mp3"
+}

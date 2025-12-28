@@ -1,0 +1,83 @@
+{
+  "word": "magnanimous",
+  "api_response": [
+    {
+      "meta": {
+        "id": "magnanimous",
+        "uuid": "93be5451-f4d8-4afc-ae84-d9465b9d5bde",
+        "sort": "130041000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "magnanimous",
+          "magnanimously",
+          "magnanimousness",
+          "magnanimousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mag*nan*i*mous",
+        "prs": [
+          {
+            "mw": "mag-\u02c8na-n\u0259-m\u0259s",
+            "sound": {
+              "audio": "magnan02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}generous and noble"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}anima{/it}, meaning {ldquo}breath{rdquo} or {ldquo}spirit,{rdquo} gives us the root {b}anim{/b}. Words from the Latin {it}anima{/it} have something to do with having breath or spirit. An {b}anim{/b}{it}al{/it} is a living creature that breathes and can move around on its own. To {b}anim{/b}{it}ate{/it} something is to give it breath or life. Someone {it}magn{/it}{b}anim{/b}{it}ous{/it} has a courageous spirit."
+          ]
+        ]
+      },
+      "uros": [
+        {
+          "ure": "mag*nan*i*mous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "generous and noble"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "magnan02",
+  "shortdef": [
+    "generous and noble"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "mag-\u02c8na-n\u0259-m\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnan02.mp3"
+}

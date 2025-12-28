@@ -1,0 +1,447 @@
+{
+  "word": "milk",
+  "api_response": [
+    {
+      "meta": {
+        "id": "milk:1",
+        "uuid": "1c76e4bc-0376-4c46-bd3b-019800ec1d73",
+        "sort": "130583000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "milk",
+          "milks"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "milk",
+        "prs": [
+          {
+            "mw": "\u02c8milk",
+            "sound": {
+              "audio": "milk0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a whitish liquid produced and given off by the breasts or udder of a female mammal as food for her young"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}milk from an animal and especially a cow used as food by people"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a liquid that looks like milk "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "coconut {it}milk{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a whitish liquid produced and given off by the breasts or udder of a female mammal as food for her young",
+        "milk from an animal and especially a cow used as food by people",
+        "a liquid that looks like milk"
+      ]
+    },
+    {
+      "meta": {
+        "id": "milk:2",
+        "uuid": "99368ffc-5110-47e5-ac62-bf9604a1ee4e",
+        "sort": "130584000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "milk",
+          "milked",
+          "milking"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "milk"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "milked"
+        },
+        {
+          "if": "milk*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to draw milk from (as by pressing) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}milk{/it} a cow"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to draw milk from (as by pressing)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "milk shake",
+        "uuid": "9e7a8b16-99ef-42ad-a2f7-42519920c18e",
+        "sort": "130586000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "milk shake"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "milk shake"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a drink made of milk, a flavoring syrup, and ice cream that is shaken or mixed thoroughly"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a drink made of milk, a flavoring syrup, and ice cream that is shaken or mixed thoroughly"
+      ]
+    },
+    {
+      "meta": {
+        "id": "milk tooth",
+        "uuid": "e0223de2-a753-4e5d-9134-dd50696ab8b4",
+        "sort": "130587000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "baby tooth",
+          "deciduous tooth",
+          "milk teeth",
+          "milk tooth"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "milk tooth"
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "milk teeth"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one of the first and temporary teeth of which humans grow 20"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "one of the first and temporary teeth of which humans grow 20"
+      ]
+    },
+    {
+      "meta": {
+        "id": "malted milk",
+        "uuid": "4c5918f0-6d2f-4b45-a9ee-377ffc731ef9",
+        "sort": "130117000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "malted",
+          "malted milk"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "malt*ed milk",
+        "prs": [
+          {
+            "mw": "\u02c8m\u022fl-t\u0259d-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a beverage made by dissolving a powder made from dried milk and cereals in milk"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a beverage made by dissolving a powder made from dried milk and cereals in milk"
+      ]
+    },
+    {
+      "meta": {
+        "id": "skim milk",
+        "uuid": "b50d29ea-bc00-412c-84dc-eb36694177bd",
+        "sort": "191061000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "skim milk",
+          "skimmed milk"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "skim milk"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}milk from which the cream has been removed"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "milk from which the cream has been removed"
+      ]
+    },
+    {
+      "meta": {
+        "id": "cry:1",
+        "uuid": "02598bae-7c88-4f41-9b6d-cb5482e8aecf",
+        "sort": "031897000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cried",
+          "cries",
+          "cry",
+          "cry havoc",
+          "cry over spilled milk",
+          "cry wolf",
+          "crying"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "cry",
+        "prs": [
+          {
+            "mw": "\u02c8kr\u012b",
+            "sound": {
+              "audio": "cry00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "cried"
+        },
+        {
+          "if": "cry*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to shed tears {bc}{sx|weep||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make a loud call {bc}{sx|shout||}, {sx|exclaim||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}Wait!{rdquo} she {it}cried{/it} as the car drove away."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to utter a special sound or call "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We could hear gulls {it}crying{/it} through the fog."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to shed tears : weep",
+        "to make a loud call : shout, exclaim",
+        "to utter a special sound or call"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "milk0001",
+  "shortdef": [
+    "a whitish liquid produced and given off by the breasts or udder of a female mammal as food for her young",
+    "milk from an animal and especially a cow used as food by people",
+    "a liquid that looks like milk"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8milk",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/milk0001.mp3"
+}

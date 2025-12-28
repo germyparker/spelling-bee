@@ -1,0 +1,334 @@
+{
+  "word": "wire",
+  "api_response": [
+    {
+      "meta": {
+        "id": "wire:1",
+        "uuid": "26318e29-63ee-450a-8f36-7fbc2906f647",
+        "sort": "230511000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "from wire to wire",
+          "under the wire",
+          "wire",
+          "wire to wire",
+          "wirelike",
+          "wires"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "wire",
+        "prs": [
+          {
+            "mw": "\u02c8w\u012br",
+            "sound": {
+              "audio": "wire0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}metal in the form of a thread or slender rod"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a number of strands grouped together and used to send or receive electrical signals"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|telegram||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "metal in the form of a thread or slender rod",
+        "a number of strands grouped together and used to send or receive electrical signals",
+        "telegram"
+      ]
+    },
+    {
+      "meta": {
+        "id": "wire:2",
+        "uuid": "0889c234-eefd-4381-aa58-5bbda43a0143",
+        "sort": "230512000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "wire",
+          "wired",
+          "wirer",
+          "wirers",
+          "wires",
+          "wiring"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "wire"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "wired"
+        },
+        {
+          "if": "wir*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to provide or equip with wire "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "An electrician {it}wired{/it} the house."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bind with wire"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to send or send word to by telegraph"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to provide or equip with wire",
+        "to bind with wire",
+        "to send or send word to by telegraph"
+      ]
+    },
+    {
+      "meta": {
+        "id": "barbed wire",
+        "uuid": "be5c028f-bc98-4c46-b0aa-f53384b036bd",
+        "sort": "020143000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "barbed wire",
+          "barbwire"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "barbed wire"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}wire that has sharp points and is often used for fences"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "wire that has sharp points and is often used for fences"
+      ]
+    },
+    {
+      "meta": {
+        "id": "live wire",
+        "uuid": "59612d6f-1d5e-4b78-941a-718537288e99",
+        "sort": "120502000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "live wire",
+          "live-wire"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "live wire"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an alert active person"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an alert active person"
+      ]
+    },
+    {
+      "meta": {
+        "id": "guy:2",
+        "uuid": "4bf99814-d9eb-45b0-a77b-a520612f77c7",
+        "sort": "070764000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "guy",
+          "guy wire",
+          "guyline",
+          "guys"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "guy"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a rope, chain, rod, or wire ("
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "guy wire"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") attached to something to steady it"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a rope, chain, rod, or wire (guy wire) attached to something to steady it"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "wire0001",
+  "shortdef": [
+    "metal in the form of a thread or slender rod",
+    "a number of strands grouped together and used to send or receive electrical signals",
+    "telegram"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8w\u012br",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/wire0001.mp3"
+}

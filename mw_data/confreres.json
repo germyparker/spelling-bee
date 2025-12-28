@@ -1,0 +1,79 @@
+{
+  "word": "confreres",
+  "api_response": [
+    {
+      "meta": {
+        "id": "confrere",
+        "uuid": "e69e4418-de1a-4c46-acfe-b940e9ec22db",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "confrere",
+          "confreres"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*frere",
+        "prs": [
+          {
+            "mw": "\u02c8k\u014d\u207f-\u02ccfre\u0259r",
+            "sound": {
+              "audio": "confre01"
+            }
+          },
+          {
+            "mw": "\u02c8k\u00e4n-",
+            "sound": {
+              "audio": "confre02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|colleague||}, {sx|comrade||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Medieval French, translation of Medieval Latin {it}confrater{/it} {ldquo}fellow, brother,{rdquo} from Latin {it}com-{/it} + {it}frater{/it} {ldquo}brother{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "colleague, comrade"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "confre01",
+  "shortdef": [
+    "colleague, comrade"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8k\u014d\u207f-\u02ccfre\u0259r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "confreres",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confre01.mp3"
+}

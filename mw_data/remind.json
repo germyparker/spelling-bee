@@ -1,0 +1,90 @@
+{
+  "word": "remind",
+  "api_response": [
+    {
+      "meta": {
+        "id": "remind",
+        "uuid": "aa432303-529b-458f-b357-f8f96c1dd77b",
+        "sort": "180502000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "remind",
+          "reminded",
+          "reminder",
+          "reminding"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "re*mind",
+        "prs": [
+          {
+            "mw": "ri-\u02c8m\u012bnd",
+            "sound": {
+              "audio": "remind01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "re*mind*ed"
+        },
+        {
+          "if": "re*mind*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to remember "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm calling to {it}remind{/it} you of your appointment."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "re*mind*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to cause to remember"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "remind01",
+  "shortdef": [
+    "to cause to remember"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "ri-\u02c8m\u012bnd",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remind01.mp3"
+}

@@ -1,0 +1,133 @@
+{
+  "word": "formidable",
+  "api_response": [
+    {
+      "meta": {
+        "id": "formidable",
+        "uuid": "0569eb21-ea1c-4c00-a0d9-54c146aa06ea",
+        "sort": "060766000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "formidabilities",
+          "formidability",
+          "formidable",
+          "formidableness",
+          "formidablenesses",
+          "formidably"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "for*mi*da*ble",
+        "prs": [
+          {
+            "mw": "\u02c8f\u022fr-m\u0259-d\u0259-b\u0259l",
+            "sound": {
+              "audio": "formid02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}causing fear or awe "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}formidable{/it} enemy"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}offering serious difficulties "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}formidable{/it} task"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}large or impressive in size or extent "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}formidable{/it} waterfall"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "for*mi*da*bly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "causing fear or awe",
+        "offering serious difficulties",
+        "large or impressive in size or extent"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "formid02",
+  "shortdef": [
+    "causing fear or awe",
+    "offering serious difficulties",
+    "large or impressive in size or extent"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8f\u022fr-m\u0259-d\u0259-b\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/formid02.mp3"
+}

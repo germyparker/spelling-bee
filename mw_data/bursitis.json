@@ -1,0 +1,67 @@
+{
+  "word": "bursitis",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bursitis",
+        "uuid": "52e39150-87f5-4638-b802-480c268c3baa",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "bursitis",
+          "bursitises"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bur*si*tis",
+        "prs": [
+          {
+            "mw": "b\u0259r-\u02c8s\u012bt-\u0259s",
+            "sound": {
+              "audio": "bursit01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}inflammation of a bursa (as of the shoulder or elbow)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "inflammation of a bursa (as of the shoulder or elbow)"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "bursit01",
+  "shortdef": [
+    "inflammation of a bursa (as of the shoulder or elbow)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "b\u0259r-\u02c8s\u012bt-\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "bursitis",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bursit01.mp3"
+}

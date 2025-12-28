@@ -1,0 +1,132 @@
+{
+  "word": "rummage",
+  "api_response": [
+    {
+      "meta": {
+        "id": "rummage:1",
+        "uuid": "367cdcb6-e1b2-4433-9ca4-05f969caa62c",
+        "sort": "181055000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rummage",
+          "rummaged",
+          "rummager",
+          "rummagers",
+          "rummages",
+          "rummaging"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "rum*mage",
+        "prs": [
+          {
+            "mw": "\u02c8r\u0259-mij",
+            "sound": {
+              "audio": "rummag01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "rum*maged"
+        },
+        {
+          "if": "rum*mag*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to search especially by moving and looking through the contents of a place or container "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 Henry and his father {it}rummaged{/it} through the basement until they found a gallon jar \u2026",
+                          "aq": {
+                            "auth": "Beverly Cleary",
+                            "source": "{it}Henry Huggins{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to search especially by moving and looking through the contents of a place or container"
+      ]
+    },
+    {
+      "meta": {
+        "id": "rummage:2",
+        "uuid": "fa0c7b1f-7053-43bf-b57e-e3ccf118c6cb",
+        "sort": "181056000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rummage",
+          "rummages"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "rummage"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a mixed up collection of different articles"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a mixed up collection of different articles"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "rummag01",
+  "shortdef": [
+    "to search especially by moving and looking through the contents of a place or container"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8r\u0259-mij",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rummag01.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "word": "paparazzi",
+  "api_response": [
+    {
+      "meta": {
+        "id": "paparazzo",
+        "uuid": "e1289e19-b0a9-4d1c-a815-2880967a9413",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "paparazzo",
+          "paparazzi"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pa*pa*raz*zo",
+        "prs": [
+          {
+            "mw": "\u02ccp\u00e4p-\u0259-\u02c8r\u00e4t-s\u014d"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "-raz*zi",
+          "prs": [
+            {
+              "mw": "-s\u0113"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a freelance photographer who aggressively pursues celebrities for the purposes of taking candid photographs"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Italian"
+        ]
+      ],
+      "shortdef": [
+        "a freelance photographer who aggressively pursues celebrities for the purposes of taking candid photographs"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "a freelance photographer who aggressively pursues celebrities for the purposes of taking candid photographs"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccp\u00e4p-\u0259-\u02c8r\u00e4t-s\u014d",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "paparazzi"
+}

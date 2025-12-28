@@ -1,0 +1,108 @@
+{
+  "word": "discoveries",
+  "api_response": [
+    {
+      "meta": {
+        "id": "discovery",
+        "uuid": "61096e2e-ec90-4580-85de-57bf6d34e3d9",
+        "sort": "040691000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "discoveries",
+          "discovery"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dis*cov*ery",
+        "prs": [
+          {
+            "mw": "di-\u02c8sk\u0259v-\u0259-r\u0113",
+            "sound": {
+              "audio": "discov05"
+            }
+          },
+          {
+            "mw": "-\u02c8sk\u0259v-r\u0113"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "dis*cov*er*ies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act of finding out or learning of for the first time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Experiments led to their {it}discovery{/it} of the cure."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something found or learned of for the first time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a recent {it}discovery{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an act of finding out or learning of for the first time",
+        "something found or learned of for the first time"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "discov05",
+  "shortdef": [
+    "an act of finding out or learning of for the first time",
+    "something found or learned of for the first time"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "di-\u02c8sk\u0259v-\u0259-r\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/discov05.mp3"
+}

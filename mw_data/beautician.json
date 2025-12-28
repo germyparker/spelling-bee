@@ -1,0 +1,66 @@
+{
+  "word": "beautician",
+  "api_response": [
+    {
+      "meta": {
+        "id": "beautician",
+        "uuid": "5ba7c5aa-c8f7-4069-9e00-c1d09be591e2",
+        "sort": "020290000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "beautician",
+          "beauticians"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "beau*ti*cian",
+        "prs": [
+          {
+            "mw": "by\u00fc-\u02c8ti-sh\u0259n",
+            "sound": {
+              "audio": "beauti01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who gives beauty treatments (as to skin and hair)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who gives beauty treatments (as to skin and hair)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "beauti01",
+  "shortdef": [
+    "a person who gives beauty treatments (as to skin and hair)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "by\u00fc-\u02c8ti-sh\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/beauti01.mp3"
+}

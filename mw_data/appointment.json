@@ -1,0 +1,143 @@
+{
+  "word": "appointment",
+  "api_response": [
+    {
+      "meta": {
+        "id": "appointment",
+        "uuid": "37954163-4b0a-4b49-aa01-c69943605f45",
+        "sort": "010861000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "appointment",
+          "appointments"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ap*point*ment",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8p\u022fint-m\u0259nt",
+            "sound": {
+              "audio": "appoin04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an agreement to meet at a fixed time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an eight-o'clock doctor's {it}appointment{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act of choosing for a position or office or of being chosen for a position or office "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She became less popular after her {it}appointment{/it} as director."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a position or office to which a person is named "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "her {it}appointment{/it} as ambassador"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "ins": [
+                    {
+                      "if": "appointments",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|furnishings||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an agreement to meet at a fixed time",
+        "the act of choosing for a position or office or of being chosen for a position or office",
+        "a position or office to which a person is named"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "appoin04",
+  "shortdef": [
+    "an agreement to meet at a fixed time",
+    "the act of choosing for a position or office or of being chosen for a position or office",
+    "a position or office to which a person is named"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u0259-\u02c8p\u022fint-m\u0259nt",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appoin04.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "heater",
+  "api_response": [
+    {
+      "meta": {
+        "id": "heater",
+        "uuid": "a8e84719-ac26-45fe-952c-7877a8236f51",
+        "sort": "080288000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "heater",
+          "heaters"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "heat*er",
+        "prs": [
+          {
+            "mw": "\u02c8h\u0113-t\u0259r",
+            "sound": {
+              "audio": "heater01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a device for heating"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a device for heating"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "heater01",
+  "shortdef": [
+    "a device for heating"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8h\u0113-t\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heater01.mp3"
+}

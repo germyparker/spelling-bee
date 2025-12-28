@@ -1,0 +1,69 @@
+{
+  "word": "onslaught",
+  "api_response": [
+    {
+      "meta": {
+        "id": "onslaught",
+        "uuid": "7636c483-fadf-4c8d-8b68-7088336e4115",
+        "sort": "150198000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "onslaught",
+          "onslaughts"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "on*slaught",
+        "prs": [
+          {
+            "mw": "\u02c8\u00e4n-\u02ccsl\u022ft",
+            "sound": {
+              "audio": "onslau01"
+            }
+          },
+          {
+            "mw": "\u02c8\u022fn-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a violent attack"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a violent attack"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "onslau01",
+  "shortdef": [
+    "a violent attack"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8\u00e4n-\u02ccsl\u022ft",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onslau01.mp3"
+}

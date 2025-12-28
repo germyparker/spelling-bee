@@ -1,0 +1,73 @@
+{
+  "word": "Oswego",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Oswego tea",
+        "uuid": "7e30efd5-f209-48f9-98cb-52c7c1995e27",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "oswego tea",
+          "oswego teas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Os*we*go tea",
+        "prs": [
+          {
+            "mw": "\u00e4-\u02ccsw\u0113-g\u014d-",
+            "sound": {
+              "audio": "oswego01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a North American mint with showy scarlet flowers"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "{it}Oswego{/it} river, New York"
+        ]
+      ],
+      "shortdef": [
+        "a North American mint with showy scarlet flowers"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "oswego01",
+  "shortdef": [
+    "a North American mint with showy scarlet flowers"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u00e4-\u02ccsw\u0113-g\u014d-",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "Oswego",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oswego01.mp3"
+}

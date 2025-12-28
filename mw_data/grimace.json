@@ -1,0 +1,132 @@
+{
+  "word": "grimace",
+  "api_response": [
+    {
+      "meta": {
+        "id": "grimace:1",
+        "uuid": "4c06aaf2-85f5-47ad-923b-bff71e3f7e26",
+        "sort": "070605000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "grimace",
+          "grimaced",
+          "grimacer",
+          "grimacers",
+          "grimaces",
+          "grimacing"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "gri*mace",
+        "prs": [
+          {
+            "mw": "\u02c8gri-m\u0259s",
+            "sound": {
+              "audio": "grimac01"
+            }
+          },
+          {
+            "mw": "gri-\u02c8m\u0101s"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a twisting of the face (as in disgust or pain)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a twisting of the face (as in disgust or pain)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "grimace:2",
+        "uuid": "152350fb-1e08-4d09-9897-0ee067a63968",
+        "sort": "070606000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "grimace",
+          "grimaced",
+          "grimacing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "grimace"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "gri*maced"
+        },
+        {
+          "if": "gri*mac*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to twist the face "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}grimaced{/it} in pain."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to twist the face"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "grimac01",
+  "shortdef": [
+    "a twisting of the face (as in disgust or pain)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8gri-m\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grimac01.mp3"
+}

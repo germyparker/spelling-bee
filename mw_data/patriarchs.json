@@ -1,0 +1,92 @@
+{
+  "word": "patriarchs",
+  "api_response": [
+    {
+      "meta": {
+        "id": "patriarch",
+        "uuid": "6747a0b7-1497-40dc-95da-374d336f74cb",
+        "sort": "160258000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "patriarch",
+          "patriarchs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pa*tri*arch",
+        "prs": [
+          {
+            "mw": "\u02c8p\u0101-tr\u0113-\u02cc\u00e4rk",
+            "sound": {
+              "audio": "patria01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a man who heads a family, group, or government"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a respected old man"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}pater{/it}, meaning {ldquo}father,{rdquo} and the Greek word {it}pat\u0113r{/it} give us the root {b}pater{/b} or {b}patr{/b}. Anyone or anything {b}pater{/b}{it}nal{/it}, such as an aunt or uncle, is related to one's father. A {b}patr{/b}{it}iarch{/it} is a father and ruler of a family or tribe. A {b}patr{/b}{it}iot{/it} is a person who loves his or her fatherland or country. A {b}patr{/b}{it}on{/it} is a person who gives support and approval for a project or artist, as fathers support and approve of their children."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a man who heads a family, group, or government",
+        "a respected old man"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "patria01",
+  "shortdef": [
+    "a man who heads a family, group, or government",
+    "a respected old man"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u0101-tr\u0113-\u02cc\u00e4rk",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patria01.mp3"
+}

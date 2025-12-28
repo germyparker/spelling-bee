@@ -1,0 +1,81 @@
+{
+  "word": "precocious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "precocious",
+        "uuid": "bf856661-9d4a-445d-ab7d-12d6cf1f8730",
+        "sort": "161129000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "precocious",
+          "precociously",
+          "precociousness",
+          "precociousnesses",
+          "precocities",
+          "precocity"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pre*co*cious",
+        "prs": [
+          {
+            "mw": "pri-\u02c8k\u014d-sh\u0259s",
+            "sound": {
+              "audio": "precoc02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}showing qualities or abilities of an adult at an unusually early age"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "pre*co*cious*ly",
+          "fl": "adverb",
+          "vis": [
+            {
+              "t": "{it}precociously{/it} talented"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "showing qualities or abilities of an adult at an unusually early age"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "precoc02",
+  "shortdef": [
+    "showing qualities or abilities of an adult at an unusually early age"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "pri-\u02c8k\u014d-sh\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precoc02.mp3"
+}

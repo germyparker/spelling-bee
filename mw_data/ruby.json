@@ -1,0 +1,89 @@
+{
+  "word": "ruby",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ruby",
+        "uuid": "2a35155a-de06-4979-b453-3e88014a0345",
+        "sort": "181027000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rubies",
+          "ruby"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ru*by",
+        "prs": [
+          {
+            "mw": "\u02c8r\u00fc-b\u0113",
+            "sound": {
+              "audio": "ruby0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "rubies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a gemstone of a deep red color"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a deep purplish red"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a gemstone of a deep red color",
+        "a deep purplish red"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ruby0001",
+  "shortdef": [
+    "a gemstone of a deep red color",
+    "a deep purplish red"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8r\u00fc-b\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ruby0001.mp3"
+}

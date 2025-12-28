@@ -1,0 +1,143 @@
+{
+  "word": "yawn",
+  "api_response": [
+    {
+      "meta": {
+        "id": "yawn:1",
+        "uuid": "a39ff4bf-8017-4f72-9f65-3e4f618ead2b",
+        "sort": "250023000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "yawn",
+          "yawned",
+          "yawning",
+          "yawns"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "yawn",
+        "prs": [
+          {
+            "mw": "\u02c8y\u022fn",
+            "sound": {
+              "audio": "yawn0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "yawned"
+        },
+        {
+          "if": "yawn*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to open the mouth wide and take a deep breath usually as an involuntary reaction to being tired or bored"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to open wide "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A pit {it}yawned{/it} below."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to open the mouth wide and take a deep breath usually as an involuntary reaction to being tired or bored",
+        "to open wide"
+      ]
+    },
+    {
+      "meta": {
+        "id": "yawn:2",
+        "uuid": "a94ab61f-2b45-414d-ad66-c1c7366cd404",
+        "sort": "250024000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "yawn",
+          "yawns"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "yawn"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an opening of the mouth while taking a deep breath usually as an involuntary reaction to being tired or bored"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an opening of the mouth while taking a deep breath usually as an involuntary reaction to being tired or bored"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "yawn0001",
+  "shortdef": [
+    "to open the mouth wide and take a deep breath usually as an involuntary reaction to being tired or bored",
+    "to open wide"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8y\u022fn",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/y/yawn0001.mp3"
+}

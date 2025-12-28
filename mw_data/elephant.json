@@ -1,0 +1,69 @@
+{
+  "word": "elephant",
+  "api_response": [
+    {
+      "meta": {
+        "id": "elephant",
+        "uuid": "56658a76-6541-4d1a-ae27-760d0894d0dc",
+        "sort": "050184000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "African elephant",
+          "Asian elephant",
+          "elephant",
+          "elephants",
+          "Indian elephant"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "el*e*phant",
+        "prs": [
+          {
+            "mw": "\u02c8e-l\u0259-f\u0259nt",
+            "sound": {
+              "audio": "elepha01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a huge typically gray mammal of Africa or Asia with the nose drawn out into a long trunk and two large curved tusks"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a huge typically gray mammal of Africa or Asia with the nose drawn out into a long trunk and two large curved tusks"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "elepha01",
+  "shortdef": [
+    "a huge typically gray mammal of Africa or Asia with the nose drawn out into a long trunk and two large curved tusks"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8e-l\u0259-f\u0259nt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/elepha01.mp3"
+}

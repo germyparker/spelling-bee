@@ -1,0 +1,212 @@
+{
+  "word": "Buffalo",
+  "api_response": [
+    {
+      "meta": {
+        "id": "buffalo",
+        "uuid": "aa3724e6-e033-4298-ba45-bd26c6e24d86",
+        "sort": "021122000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "buffalo",
+          "buffalo fish",
+          "buffaloes",
+          "buffalos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "buf*fa*lo",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0259-f\u0259-\u02ccl\u014d",
+            "sound": {
+              "audio": "buffal01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "buffalo"
+        },
+        {
+          "il": "or",
+          "if": "buf*fa*loes"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of several wild oxen and especially the American bison"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "any of several wild oxen and especially the American bison"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Buffalo:g",
+        "uuid": "5c087cd5-4a7e-41b3-9140-c3dd1da9d25b",
+        "sort": "270117000",
+        "src": "sd2",
+        "section": "geog",
+        "stems": [
+          "Buffalo",
+          "Buffalonian"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Buf*fa*lo",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0259-f\u0259-\u02ccl\u014d",
+            "sound": {
+              "audio": "ggbuff01"
+            }
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "city "
+                    ],
+                    [
+                      "g",
+                      "W"
+                    ],
+                    [
+                      "text",
+                      " New York on Lake Erie"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "city W New York on Lake Erie"
+      ]
+    },
+    {
+      "meta": {
+        "id": "buffalo wing",
+        "uuid": "9198cc1c-65b2-4e2d-b8bc-e0e5f49741cb",
+        "sort": "021123000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "buffalo wing"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "buffalo wing"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a deep-fried chicken wing coated with a spicy sauce and usually served with blue cheese dressing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a deep-fried chicken wing coated with a spicy sauce and usually served with blue cheese dressing"
+      ]
+    },
+    {
+      "meta": {
+        "id": "water buffalo",
+        "uuid": "cd82c7ba-7c9f-4c38-a6ff-aa0b48f2f281",
+        "sort": "230136000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "water buffalo"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "water buffalo"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a buffalo of Asia with large curving horns that is often used as a work animal"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a buffalo of Asia with large curving horns that is often used as a work animal"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "buffal01",
+  "shortdef": [
+    "any of several wild oxen and especially the American bison"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8b\u0259-f\u0259-\u02ccl\u014d",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/buffal01.mp3"
+}

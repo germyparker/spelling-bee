@@ -1,0 +1,627 @@
+{
+  "word": "before",
+  "api_response": [
+    {
+      "meta": {
+        "id": "before:1",
+        "uuid": "20bd987c-0e25-4b26-9ff7-b1e52013b597",
+        "sort": "020332000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "before"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "be*fore",
+        "prs": [
+          {
+            "mw": "bi-\u02c8f\u022fr",
+            "sound": {
+              "audio": "before01"
+            }
+          }
+        ]
+      },
+      "fl": "adverb",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}at an earlier time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I've been here {it}before.{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|ahead||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "go on {it}before{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "at an earlier time",
+        "ahead"
+      ]
+    },
+    {
+      "meta": {
+        "id": "before:2",
+        "uuid": "da5327a7-55e7-45c0-9feb-03fa70fbb1fb",
+        "sort": "020333000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "before"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "before"
+      },
+      "fl": "preposition",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in front of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He stood {it}before{/it} a mirror."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}earlier than "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You got there {it}before{/it} me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}before in order "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Your name is listed {it}before{/it} mine."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in the presence of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She spoke {it}before{/it} a crowd."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "in front of",
+        "earlier than",
+        "before in order"
+      ]
+    },
+    {
+      "meta": {
+        "id": "before:3",
+        "uuid": "4b0db3b3-c405-4f07-8c07-fc3cef9082a9",
+        "sort": "020334000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "before"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "before"
+      },
+      "fl": "conjunction",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}ahead of the time when "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Wash {it}before{/it} you eat."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}sooner or quicker than "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'll be done {it}before{/it} you know it."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}more willingly than "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'd starve {it}before{/it} I'd steal."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}until the time that "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "It wasn't long {it}before{/it} he caught on."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "ahead of the time when",
+        "sooner or quicker than",
+        "more willingly than"
+      ]
+    },
+    {
+      "meta": {
+        "id": "accessory",
+        "uuid": "258d6d37-d306-4851-9d52-dccd5167153d",
+        "sort": "010113000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "accessaries",
+          "accessary",
+          "accessories",
+          "accessory",
+          "accessory after the fact",
+          "accessory before the fact"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ac*ces*so*ry",
+        "prs": [
+          {
+            "mw": "ik-\u02c8se-s\u0259-r\u0113",
+            "sound": {
+              "audio": "access10"
+            }
+          },
+          {
+            "mw": "ak-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "ac*ces*so*ries"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who helps another in doing wrong "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}accessory{/it} to theft"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an object or device not necessary in itself but adding to the beauty or usefulness of something else "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "clothing {it}accessories{/it}"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who helps another in doing wrong",
+        "an object or device not necessary in itself but adding to the beauty or usefulness of something else"
+      ]
+    },
+    {
+      "meta": {
+        "id": "mast",
+        "uuid": "a9ade62c-0563-4210-bf3a-e1948098102a",
+        "sort": "130267000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "before the mast",
+          "captain's mast",
+          "mast",
+          "masted",
+          "masts"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mast",
+        "prs": [
+          {
+            "mw": "\u02c8mast",
+            "sound": {
+              "audio": "mast0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a long pole that rises from the bottom of a ship and supports the sails and rigging"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "mast*ed",
+          "prs": [
+            {
+              "mw": "\u02c8mas-t\u0259d"
+            }
+          ],
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "a tall {it}masted{/it} ship"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "a long pole that rises from the bottom of a ship and supports the sails and rigging"
+      ]
+    },
+    {
+      "meta": {
+        "id": "wind:1",
+        "uuid": "38a85e5f-c35b-4f10-b88d-58e6dd8ec2f6",
+        "sort": "230473000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "before the wind",
+          "close to the wind",
+          "have the wind of",
+          "in the wind",
+          "near the wind",
+          "off the wind",
+          "on the wind",
+          "to the wind",
+          "to the winds",
+          "under the wind",
+          "wind",
+          "windless",
+          "windlessly",
+          "winds"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "wind",
+        "prs": [
+          {
+            "mw": "\u02c8wind",
+            "sound": {
+              "audio": "wind0003"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a natural movement of the air "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "northerly {it}winds{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}power to breathe "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Falling down knocked the {it}wind{/it} out of me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}limited knowledge especially about something secret "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They got {it}wind{/it} of our plans."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "ins": [
+                    {
+                      "if": "winds",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}wind instruments of a band or orchestra"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a natural movement of the air",
+        "power to breathe",
+        "limited knowledge especially about something secret"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "before01",
+  "shortdef": [
+    "at an earlier time",
+    "ahead"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adverb",
+  "pronunciation": "bi-\u02c8f\u022fr",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/before01.mp3"
+}

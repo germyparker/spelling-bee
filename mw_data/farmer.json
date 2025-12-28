@@ -1,0 +1,100 @@
+{
+  "word": "farmer",
+  "api_response": [
+    {
+      "meta": {
+        "id": "farm:2",
+        "uuid": "13ff60ef-73f5-4f14-85a8-10cd5bc999b6",
+        "sort": "060102000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "farm",
+          "farmed",
+          "farmer",
+          "farmers",
+          "farming"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "farm"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "farmed"
+        },
+        {
+          "if": "farm*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to use for raising crops or animals "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}farm{/it} the land."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to work on or run a farm"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "farm*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to use for raising crops or animals",
+        "to work on or run a farm"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "to use for raising crops or animals",
+    "to work on or run a farm"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": []
+}

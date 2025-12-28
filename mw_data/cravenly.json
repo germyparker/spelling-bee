@@ -1,0 +1,69 @@
+{
+  "word": "cravenly",
+  "api_response": [
+    {
+      "meta": {
+        "id": "craven",
+        "uuid": "74d85851-ac87-4215-a95f-0ca9f8c2e529",
+        "sort": "031747000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "craven",
+          "cravenly",
+          "cravenness",
+          "cravennesses",
+          "cravens"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cra*ven",
+        "prs": [
+          {
+            "mw": "\u02c8kr\u0101-v\u0259n",
+            "sound": {
+              "audio": "craven01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|cowardly||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "cowardly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "craven01",
+  "shortdef": [
+    "cowardly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8kr\u0101-v\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/craven01.mp3"
+}

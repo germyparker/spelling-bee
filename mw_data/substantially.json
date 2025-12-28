@@ -1,0 +1,186 @@
+{
+  "word": "substantially",
+  "api_response": [
+    {
+      "meta": {
+        "id": "substantial",
+        "uuid": "4c7a1841-b5d7-4b81-a325-116c3d0a12df",
+        "sort": "192309000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "substantial",
+          "substantialities",
+          "substantiality",
+          "substantially",
+          "substantialness",
+          "substantialnesses",
+          "substantials"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sub*stan*tial",
+        "prs": [
+          {
+            "mw": "s\u0259b-\u02c8stan-sh\u0259l",
+            "sound": {
+              "audio": "substa05"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}large in amount "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}substantial{/it} improvement"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|important||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}substantial{/it} difference"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}firmly constructed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Substantial{/it} walls surround the castle."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|abundant||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}substantial{/it} meal"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|prosperous||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}substantial{/it} farmer"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made up of or relating to substance {bc}{sx|material||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "large in amount",
+        "important",
+        "firmly constructed"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "substa05",
+  "shortdef": [
+    "large in amount",
+    "important",
+    "firmly constructed"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "s\u0259b-\u02c8stan-sh\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/substa05.mp3"
+}

@@ -1,0 +1,142 @@
+{
+  "word": "perfume",
+  "api_response": [
+    {
+      "meta": {
+        "id": "perfume:1",
+        "uuid": "9f0f9b86-93be-4455-aea3-b2051cb9dfcf",
+        "sort": "160435000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "perfume",
+          "perfumes"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "per*fume",
+        "prs": [
+          {
+            "mw": "\u02c8p\u0259r-\u02ccfy\u00fcm",
+            "sound": {
+              "audio": "perfum02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a liquid used to make a person smell nice"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pleasant smell {bc}{sx|fragrance||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a liquid used to make a person smell nice",
+        "a pleasant smell : fragrance"
+      ]
+    },
+    {
+      "meta": {
+        "id": "perfume:2",
+        "uuid": "807754ad-30e7-457e-82b8-87f57b35f565",
+        "sort": "160436000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "perfume",
+          "perfumed",
+          "perfuming"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "per*fume",
+        "prs": [
+          {
+            "mw": "p\u0259r-\u02c8fy\u00fcm",
+            "sound": {
+              "audio": "perfum01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "per*fumed"
+        },
+        {
+          "if": "per*fum*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to add a usually pleasant odor to {bc}have the odor of"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to add a usually pleasant odor to : have the odor of"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "perfum02",
+  "shortdef": [
+    "a liquid used to make a person smell nice",
+    "a pleasant smell : fragrance"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u0259r-\u02ccfy\u00fcm",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfum02.mp3"
+}

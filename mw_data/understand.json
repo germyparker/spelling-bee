@@ -1,0 +1,210 @@
+{
+  "word": "understand",
+  "api_response": [
+    {
+      "meta": {
+        "id": "understand",
+        "uuid": "04c075c6-d74e-4479-abb7-5c1f4c803ba3",
+        "sort": "210122000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "understand",
+          "understandabilities",
+          "understandability",
+          "understandable",
+          "understanding",
+          "understands",
+          "understood"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "un*der*stand",
+        "prs": [
+          {
+            "mw": "\u02cc\u0259n-d\u0259r-\u02c8stand",
+            "sound": {
+              "audio": "unders23"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "un*der*stood",
+          "prs": [
+            {
+              "mw": "-\u02c8stu\u0307d"
+            }
+          ]
+        },
+        {
+          "if": "un*der*stand*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to get the meaning of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Do you {it}understand{/it} my instructions?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to know thoroughly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}understand{/it} Spanish."
+                        },
+                        {
+                          "t": "She {it}understands{/it} the situation."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have reason to believe "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}understand{/it} that they will come today."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take as meaning something not clearly made known "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}understand{/it} the letter to be a refusal."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have a sympathetic attitude "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't worry, I {it}understand{/it} how you feel."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to accept as settled "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "It is {it}understood{/it} that I will pay."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to get the meaning of",
+        "to know thoroughly",
+        "to have reason to believe"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "unders23",
+  "shortdef": [
+    "to get the meaning of",
+    "to know thoroughly",
+    "to have reason to believe"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02cc\u0259n-d\u0259r-\u02c8stand",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unders23.mp3"
+}

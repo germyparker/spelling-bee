@@ -1,0 +1,121 @@
+{
+  "word": "breakfast",
+  "api_response": [
+    {
+      "meta": {
+        "id": "breakfast:1",
+        "uuid": "1ca56f00-aa3d-4c2f-8842-a1f14f74a05f",
+        "sort": "020953000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "breakfast",
+          "breakfasted",
+          "breakfaster",
+          "breakfasters",
+          "breakfasting",
+          "breakfasts"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "break*fast",
+        "prs": [
+          {
+            "mw": "\u02c8brek-f\u0259st",
+            "sound": {
+              "audio": "breakf01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the first meal of the day"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the first meal of the day"
+      ]
+    },
+    {
+      "meta": {
+        "id": "breakfast:2",
+        "uuid": "27450285-f024-454b-8f46-d06a68002156",
+        "sort": "020954000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "breakfast",
+          "breakfasted",
+          "breakfasting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "breakfast"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "break*fast*ed"
+        },
+        {
+          "if": "break*fast*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to eat breakfast"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to eat breakfast"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "breakf01",
+  "shortdef": [
+    "the first meal of the day"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8brek-f\u0259st",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/breakf01.mp3"
+}

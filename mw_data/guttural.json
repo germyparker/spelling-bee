@@ -1,0 +1,147 @@
+{
+  "word": "guttural",
+  "api_response": [
+    {
+      "meta": {
+        "id": "guttural",
+        "uuid": "2700fbd5-12c9-42cf-8126-b5a87736a67b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "guttural",
+          "gutturalism",
+          "gutturalisms",
+          "gutturals",
+          "gutturally",
+          "gutturalness"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gut*tur*al",
+        "prs": [
+          {
+            "mw": "\u02c8g\u0259t-\u0259-r\u0259l",
+            "sound": {
+              "audio": "guttur01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of or relating to the throat"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}formed or pronounced in the throat "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}guttural{/it} sounds"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|velar||1}"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "c",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}being or marked by an utterance that is strange or disagreeable"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "guttural",
+          "fl": "noun"
+        },
+        {
+          "ure": "gut*tur*al*ly",
+          "prs": [
+            {
+              "mw": "-r\u0259-l\u0113"
+            }
+          ],
+          "fl": "adverb"
+        },
+        {
+          "ure": "gut*tur*al*ness",
+          "fl": "noun"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle French, derived from Latin {it}guttur{/it} {ldquo}throat{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "of or relating to the throat",
+        "formed or pronounced in the throat",
+        "velar"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "guttur01",
+  "shortdef": [
+    "of or relating to the throat",
+    "formed or pronounced in the throat",
+    "velar"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8g\u0259t-\u0259-r\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "guttural",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guttur01.mp3"
+}

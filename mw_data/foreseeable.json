@@ -1,0 +1,173 @@
+{
+  "word": "foreseeable",
+  "api_response": [
+    {
+      "meta": {
+        "id": "foresee",
+        "uuid": "a8097985-3914-46e9-bb7e-767cb7a20f6f",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "foresee",
+          "foresaw",
+          "foreseeing",
+          "foreseen",
+          "foreseer",
+          "foreseers",
+          "foresees",
+          "foreseeable"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "fore*see",
+        "prs": [
+          {
+            "mw": "f\u014dr-\u02c8s\u0113",
+            "sound": {
+              "audio": "forese01"
+            }
+          },
+          {
+            "mw": "f\u022fr-"
+          }
+        ]
+      },
+      "fl": "transitive verb",
+      "ins": [
+        {
+          "ifc": "-saw",
+          "if": "fore*saw",
+          "prs": [
+            {
+              "mw": "-\u02c8s\u022f",
+              "sound": {
+                "audio": "forese02"
+              }
+            }
+          ]
+        },
+        {
+          "ifc": "-seen",
+          "if": "fore*seen",
+          "prs": [
+            {
+              "mw": "-\u02c8s\u0113n",
+              "sound": {
+                "audio": "forese03"
+              }
+            }
+          ]
+        },
+        {
+          "ifc": "-see*ing",
+          "if": "fore*see*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to see or realize (as a development) beforehand {bc}{sx|expect||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "fore*see*able",
+          "prs": [
+            {
+              "mw": "-\u0259-b\u0259l"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "fore*se*er",
+          "prs": [
+            {
+              "mw": "-\u02c8s\u0113-\u0259r"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "syns": [
+        {
+          "pl": "synonyms",
+          "pt": [
+            [
+              "text",
+              "{sc}foresee{/sc}, {sc}foreknow{/sc}, {sc}anticipate{/sc} mean to know beforehand. {sc}foresee{/sc} implies nothing about how the knowledge is derived and may apply to ordinary reasoning and experience "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "economists should have {it}foreseen{/it} the recession"
+                }
+              ]
+            ],
+            [
+              "text",
+              ". {sc}foreknow{/sc} usually implies the involvement of supernatural forces "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "{it}foreknow{/it} our destinies"
+                }
+              ]
+            ],
+            [
+              "text",
+              ". {sc}anticipate{/sc} implies responding emotionally to or taking action about something before it happens "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "the waiter {it}anticipated{/it} our every need"
+                }
+              ]
+            ],
+            [
+              "text",
+              "."
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to see or realize (as a development) beforehand : expect"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "forese01",
+  "shortdef": [
+    "to see or realize (as a development) beforehand : expect"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "transitive verb",
+  "pronunciation": "f\u014dr-\u02c8s\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "foreseeable",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forese01.mp3"
+}

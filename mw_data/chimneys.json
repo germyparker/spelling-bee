@@ -1,0 +1,73 @@
+{
+  "word": "chimneys",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chimney",
+        "uuid": "04561b25-3981-4958-b056-c596ff0dae8a",
+        "sort": "030602000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chimney",
+          "chimneylike",
+          "chimneys"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "chim*ney",
+        "prs": [
+          {
+            "mw": "\u02c8chim-n\u0113",
+            "sound": {
+              "audio": "chimne01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "chimneys"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a structure that allows smoke to escape (as from a fireplace) and that is often made of brick"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a structure that allows smoke to escape (as from a fireplace) and that is often made of brick"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "chimne01",
+  "shortdef": [
+    "a structure that allows smoke to escape (as from a fireplace) and that is often made of brick"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8chim-n\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chimne01.mp3"
+}

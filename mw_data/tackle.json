@@ -1,0 +1,237 @@
+{
+  "word": "tackle",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tackle:1",
+        "uuid": "7267ac58-eb23-41d7-8878-8a6831c8dabe",
+        "sort": "200020000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tackle",
+          "tackled",
+          "tackler",
+          "tacklers",
+          "tackles",
+          "tackling"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "tack*le",
+        "prs": [
+          {
+            "mw": "\u02c8ta-k\u0259l",
+            "sound": {
+              "audio": "tackle02"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "tack*led"
+        },
+        {
+          "if": "tack*ling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to seize and throw (a person) to the ground"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to begin working on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I decided to {it}tackle{/it} the job."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to seize and throw (a person) to the ground",
+        "to begin working on"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tackle:2",
+        "uuid": "796f3dd4-8d60-4cea-a451-4c3b67c67e49",
+        "sort": "200021000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tackle",
+          "tackles"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "tackle"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a set of special equipment "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "fishing {it}tackle{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an arrangement of ropes and wheels for hoisting or pulling something heavy"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act of seizing and throwing a person to the ground"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a football player positioned on the line of scrimmage"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a set of special equipment",
+        "an arrangement of ropes and wheels for hoisting or pulling something heavy",
+        "an act of seizing and throwing a person to the ground"
+      ]
+    },
+    {
+      "meta": {
+        "id": "block and tackle",
+        "uuid": "b87df536-741d-4e3a-95da-594d1f794ed4",
+        "sort": "020638000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "block and tackle"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "block and tackle"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an arrangement of pulleys in blocks with rope or cable for lifting or hauling"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an arrangement of pulleys in blocks with rope or cable for lifting or hauling"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tackle02",
+  "shortdef": [
+    "to seize and throw (a person) to the ground",
+    "to begin working on"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8ta-k\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tackle02.mp3"
+}

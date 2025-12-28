@@ -1,0 +1,126 @@
+{
+  "word": "nomad",
+  "api_response": [
+    {
+      "meta": {
+        "id": "nomad:1",
+        "uuid": "46e98f0c-14c3-4694-8643-6049c330c826",
+        "sort": "140300000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nomad",
+          "nomadism",
+          "nomadisms",
+          "nomads"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "no*mad",
+        "prs": [
+          {
+            "mw": "\u02c8n\u014d-\u02ccmad",
+            "sound": {
+              "audio": "nomad001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a member of a people having no permanent home but moving from place to place usually in search of food or to graze livestock"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who moves often"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a member of a people having no permanent home but moving from place to place usually in search of food or to graze livestock",
+        "a person who moves often"
+      ]
+    },
+    {
+      "meta": {
+        "id": "nomad:2",
+        "uuid": "ef0beb44-fd46-4d60-be69-feb06f41be28",
+        "sort": "140301000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nomad"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "nomad"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|nomadic||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "nomadic"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "nomad001",
+  "shortdef": [
+    "a member of a people having no permanent home but moving from place to place usually in search of food or to graze livestock",
+    "a person who moves often"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8n\u014d-\u02ccmad",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/nomad001.mp3"
+}

@@ -1,0 +1,156 @@
+{
+  "word": "cozy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "cozy:1",
+        "uuid": "bbbb53b8-d435-40e3-a2fc-2d65972f1029",
+        "sort": "031700000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cozier",
+          "coziest",
+          "cozily",
+          "coziness",
+          "cozinesses",
+          "cozy"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "co*zy",
+        "prs": [
+          {
+            "mw": "\u02c8k\u014d-z\u0113",
+            "sound": {
+              "audio": "cozy0001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "co*zi*er"
+        },
+        {
+          "if": "co*zi*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}enjoying or providing warmth and comfort "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}cozy{/it} fireplace"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "co*zi*ly",
+          "prs": [
+            {
+              "mw": "-z\u0259-l\u0113"
+            }
+          ],
+          "fl": "adverb"
+        },
+        {
+          "ure": "co*zi*ness",
+          "prs": [
+            {
+              "mw": "-z\u0113-n\u0259s"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "enjoying or providing warmth and comfort"
+      ]
+    },
+    {
+      "meta": {
+        "id": "cozy:2",
+        "uuid": "82a5d819-16b9-4340-998e-9b15d4d44be2",
+        "sort": "031701000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cozies",
+          "cozy"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "cozy"
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "co*zies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a padded covering for a container (as a teapot) to keep the contents hot"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a padded covering for a container (as a teapot) to keep the contents hot"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "cozy0001",
+  "shortdef": [
+    "enjoying or providing warmth and comfort"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8k\u014d-z\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [
+    "cosy"
+  ],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cozy0001.mp3"
+}

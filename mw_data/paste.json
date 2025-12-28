@@ -1,0 +1,214 @@
+{
+  "word": "paste",
+  "api_response": [
+    {
+      "meta": {
+        "id": "paste:1",
+        "uuid": "09e21ec7-812e-4e92-85a7-315a8b5708e6",
+        "sort": "160225000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "paste",
+          "pastes"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "paste",
+        "prs": [
+          {
+            "mw": "\u02c8p\u0101st",
+            "sound": {
+              "audio": "paste001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a mixture of flour or starch and water used for sticking things together"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a soft smooth thick mixture "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "tomato {it}paste{/it}"
+                        },
+                        {
+                          "t": "Mix cement and water into a {it}paste{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a mixture of flour or starch and water used for sticking things together",
+        "a soft smooth thick mixture"
+      ]
+    },
+    {
+      "meta": {
+        "id": "paste:2",
+        "uuid": "9313d5da-d5fa-45be-8549-cee0fade30e6",
+        "sort": "160226000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "paste",
+          "pasted",
+          "pasting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "paste"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "past*ed"
+        },
+        {
+          "if": "past*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to stick on or together with an adhesive mixture"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move (something cut or copied from a computer document) to another place"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to stick on or together with an adhesive mixture",
+        "to move (something cut or copied from a computer document) to another place"
+      ]
+    },
+    {
+      "meta": {
+        "id": "porcelain",
+        "uuid": "c7880391-672d-4e9c-8e1f-b2e46a570021",
+        "sort": "160982000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hard-paste porcelain",
+          "porcelain",
+          "porcelainlike",
+          "porcelains",
+          "porcelaneous",
+          "porcellaneous",
+          "true porcelain"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "por*ce*lain",
+        "prs": [
+          {
+            "mw": "\u02c8p\u022fr-s\u0259-l\u0259n",
+            "sound": {
+              "audio": "porcel01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a hard white product of baked clay used especially for dishes, tile, and decorative objects"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a hard white product of baked clay used especially for dishes, tile, and decorative objects"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "paste001",
+  "shortdef": [
+    "a mixture of flour or starch and water used for sticking things together",
+    "a soft smooth thick mixture"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u0101st",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paste001.mp3"
+}

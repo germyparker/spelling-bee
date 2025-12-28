@@ -1,0 +1,69 @@
+{
+  "word": "almanac",
+  "api_response": [
+    {
+      "meta": {
+        "id": "almanac",
+        "uuid": "5d0efebd-c39e-47e2-b5c3-1355464145e6",
+        "sort": "010546000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "almanac",
+          "almanacs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "al*ma*nac",
+        "prs": [
+          {
+            "mw": "\u02c8\u022fl-m\u0259-\u02ccnak",
+            "sound": {
+              "audio": "almana02"
+            }
+          },
+          {
+            "mw": "\u02c8al-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a book published yearly that contains facts about weather and astronomy and other general information"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a book published yearly that contains facts about weather and astronomy and other general information"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "almana02",
+  "shortdef": [
+    "a book published yearly that contains facts about weather and astronomy and other general information"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8\u022fl-m\u0259-\u02ccnak",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/almana02.mp3"
+}

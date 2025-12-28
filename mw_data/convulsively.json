@@ -1,0 +1,86 @@
+{
+  "word": "convulsively",
+  "api_response": [
+    {
+      "meta": {
+        "id": "convulsive",
+        "uuid": "cd5be89e-d19b-42a2-84db-4d5a72f2414a",
+        "sort": "031480000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "convulsive",
+          "convulsively",
+          "convulsiveness",
+          "convulsivenesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*vul*sive",
+        "prs": [
+          {
+            "mw": "k\u0259n-\u02c8v\u0259l-siv",
+            "sound": {
+              "audio": "convul05"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}causing or marked by violent, frantic, or jerky movement "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "By {it}convulsive{/it} efforts he got on his feet, staggered, and fell.",
+                          "aq": {
+                            "auth": "Jack London",
+                            "source": "{it}The Call of the Wild{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "con*vul*sive*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "causing or marked by violent, frantic, or jerky movement"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "convul05",
+  "shortdef": [
+    "causing or marked by violent, frantic, or jerky movement"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "k\u0259n-\u02c8v\u0259l-siv",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convul05.mp3"
+}

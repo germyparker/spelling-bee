@@ -1,0 +1,88 @@
+{
+  "word": "scurrying",
+  "api_response": [
+    {
+      "meta": {
+        "id": "scurry:1",
+        "uuid": "fcc88d7c-0cba-4856-9faf-de4c2bd43d4d",
+        "sort": "190371000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "scurried",
+          "scurry",
+          "scurrying"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "scur*ry",
+        "prs": [
+          {
+            "mw": "\u02c8sk\u0259r-\u0113",
+            "sound": {
+              "audio": "scurry01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "scur*ried"
+        },
+        {
+          "if": "scur*ry*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move quickly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 the stories were the kind that made people {it}scurry{/it} past his house even in broad daylight \u2026",
+                          "aq": {
+                            "auth": "Eleanor Estes",
+                            "source": "{it}The Hundred Dresses{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move quickly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "scurry01",
+  "shortdef": [
+    "to move quickly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8sk\u0259r-\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scurry01.mp3"
+}

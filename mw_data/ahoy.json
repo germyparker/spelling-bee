@@ -1,0 +1,80 @@
+{
+  "word": "ahoy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ahoy",
+        "uuid": "4afb6157-dda9-4c13-a822-0525db827800",
+        "sort": "010406000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ahoy"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ahoy",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8h\u022fi",
+            "sound": {
+              "audio": "ahoy0001"
+            }
+          }
+        ]
+      },
+      "fl": "interjection",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used in calling out to a passing ship or boat "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "Ship {it}ahoy{/it}!"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "\u2014used in calling out to a passing ship or boat"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ahoy0001",
+  "shortdef": [
+    "\u2014used in calling out to a passing ship or boat"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "interjection",
+  "pronunciation": "\u0259-\u02c8h\u022fi",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ahoy0001.mp3"
+}

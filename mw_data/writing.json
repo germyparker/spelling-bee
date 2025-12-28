@@ -1,0 +1,290 @@
+{
+  "word": "writing",
+  "api_response": [
+    {
+      "meta": {
+        "id": "writing",
+        "uuid": "5ea3cd27-8caa-4e47-bedc-3e0589cbf747",
+        "sort": "230712000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "writing",
+          "writing on the wall",
+          "writings"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "writ*ing",
+        "prs": [
+          {
+            "mw": "\u02c8r\u012b-ti\u014b"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act of a person who writes"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|handwriting||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I can't read his {it}writing{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something (as a letter or book) that is written"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act of a person who writes",
+        "handwriting",
+        "something (as a letter or book) that is written"
+      ]
+    },
+    {
+      "meta": {
+        "id": "write",
+        "uuid": "14b39f6b-f318-469d-8198-1bd4f0bb146f",
+        "sort": "230709000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "writ",
+          "writ large",
+          "writ small",
+          "write",
+          "write one's own ticket",
+          "writes",
+          "writing",
+          "written",
+          "wrote"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "write",
+        "prs": [
+          {
+            "mw": "\u02c8r\u012bt",
+            "sound": {
+              "audio": "write001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "wrote",
+          "prs": [
+            {
+              "mw": "\u02c8r\u014dt"
+            }
+          ]
+        },
+        {
+          "if": "writ*ten",
+          "prs": [
+            {
+              "mw": "\u02c8ri-t\u1d4an"
+            }
+          ]
+        },
+        {
+          "if": "writ*ing",
+          "prs": [
+            {
+              "mw": "\u02c8r\u012b-ti\u014b"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form letters or words with pen or pencil "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The kindergartners are learning to {it}write{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form the letters or the words of (as on paper) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Write{/it} your name."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put down on paper "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "For homework, {it}write{/it} about your vacation."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make up and set down for others to read "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm {it}writing{/it} a novel."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to compose music"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to communicate with someone by sending a letter"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to form letters or words with pen or pencil",
+        "to form the letters or the words of (as on paper)",
+        "to put down on paper"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "the act of a person who writes",
+    "handwriting",
+    "something (as a letter or book) that is written"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8r\u012b-ti\u014b",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": []
+}

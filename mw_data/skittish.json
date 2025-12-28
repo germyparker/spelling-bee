@@ -1,0 +1,78 @@
+{
+  "word": "skittish",
+  "api_response": [
+    {
+      "meta": {
+        "id": "skittish",
+        "uuid": "c156e3c4-0399-42be-96f2-993ba1d166cb",
+        "sort": "191077000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "skittish",
+          "skittisher",
+          "skittishest",
+          "skittishly",
+          "skittishness",
+          "skittishnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "skit*tish",
+        "prs": [
+          {
+            "mw": "\u02c8ski-tish",
+            "sound": {
+              "audio": "skitti01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}easily frightened "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}skittish{/it} horse"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "easily frightened"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "skitti01",
+  "shortdef": [
+    "easily frightened"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8ski-tish",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/skitti01.mp3"
+}

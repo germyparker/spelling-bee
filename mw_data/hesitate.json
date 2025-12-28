@@ -1,0 +1,125 @@
+{
+  "word": "hesitate",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hesitate",
+        "uuid": "7f6290a5-93db-4cef-9bd6-955d559ed2b6",
+        "sort": "080395000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hesitate",
+          "hesitated",
+          "hesitater",
+          "hesitaters",
+          "hesitates",
+          "hesitating",
+          "hesitatingly",
+          "hesitation",
+          "hesitations"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hes*i*tate",
+        "prs": [
+          {
+            "mw": "\u02c8he-z\u0259-\u02cct\u0101t",
+            "sound": {
+              "audio": "hesita04"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "hes*i*tat*ed"
+        },
+        {
+          "if": "hes*i*tat*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pause before doing something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}hesitated{/it} before crossing the stream."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be unwilling to do something because of doubt or nervousness "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't {it}hesitate{/it} to ask for help."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "hes*i*ta*tion",
+          "prs": [
+            {
+              "mw": "\u02cchez-\u0259-\u02c8t\u0101-sh\u0259n"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to pause before doing something",
+        "to be unwilling to do something because of doubt or nervousness"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hesita04",
+  "shortdef": [
+    "to pause before doing something",
+    "to be unwilling to do something because of doubt or nervousness"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8he-z\u0259-\u02cct\u0101t",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hesita04.mp3"
+}

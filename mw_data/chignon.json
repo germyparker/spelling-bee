@@ -1,0 +1,73 @@
+{
+  "word": "chignon",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chignon",
+        "uuid": "faf3f4ea-7297-4f6a-b3a0-081541dd6c3c",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "chignon",
+          "chignons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "chi*gnon",
+        "prs": [
+          {
+            "mw": "\u02c8sh\u0113n-\u02ccy\u00e4n",
+            "sound": {
+              "audio": "chigno01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a knot of hair worn at the back of the head"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French"
+        ]
+      ],
+      "shortdef": [
+        "a knot of hair worn at the back of the head"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "chigno01",
+  "shortdef": [
+    "a knot of hair worn at the back of the head"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sh\u0113n-\u02ccy\u00e4n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "chignon",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chigno01.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "word": "mascot",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mascot",
+        "uuid": "e25031f6-3431-47db-ac00-1555ddcca6d1",
+        "sort": "130247000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mascot",
+          "mascots"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mas*cot",
+        "prs": [
+          {
+            "mw": "\u02c8mas-\u02cck\u00e4t",
+            "sound": {
+              "audio": "mascot01"
+            }
+          },
+          {
+            "mw": "-k\u0259t"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person, animal, or object used as a symbol to represent a group (as a school or sports team) and to bring good luck"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person, animal, or object used as a symbol to represent a group (as a school or sports team) and to bring good luck"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "mascot01",
+  "shortdef": [
+    "a person, animal, or object used as a symbol to represent a group (as a school or sports team) and to bring good luck"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8mas-\u02cck\u00e4t",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mascot01.mp3"
+}

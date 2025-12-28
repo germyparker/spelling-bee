@@ -1,0 +1,76 @@
+{
+  "word": "sizzling",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sizzle",
+        "uuid": "9bdc3352-fe5e-4212-a704-6892b56d0c93",
+        "sort": "191035000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sizzle",
+          "sizzled",
+          "sizzles",
+          "sizzling"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "siz*zle",
+        "prs": [
+          {
+            "mw": "\u02c8si-z\u0259l",
+            "sound": {
+              "audio": "sizzle01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "siz*zled"
+        },
+        {
+          "if": "siz*zling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make a hissing or sputtering noise in or as if in frying or burning"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to make a hissing or sputtering noise in or as if in frying or burning"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sizzle01",
+  "shortdef": [
+    "to make a hissing or sputtering noise in or as if in frying or burning"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8si-z\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sizzle01.mp3"
+}

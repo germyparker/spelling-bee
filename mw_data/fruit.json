@@ -1,0 +1,590 @@
+{
+  "word": "fruit",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fruit:1",
+        "uuid": "76db0250-a9d4-4c2d-a59a-450766df4ec9",
+        "sort": "060958000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fruit",
+          "fruited",
+          "fruits"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "fruit",
+        "prs": [
+          {
+            "mw": "\u02c8fr\u00fct",
+            "sound": {
+              "audio": "fruit001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually soft and juicy plant part (as rhubarb, a strawberry, or an orange) that is often eaten as a dessert and is distinguished from a vegetable"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a product of fertilization in a seed plant that consists of the ripened ovary of a flower with its included seeds "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Apples, cucumbers, nuts, and blueberries are all {it}fruits{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|result:2||1}, {sx|product||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You can enjoy the {it}fruits{/it} of your labors."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "fruit*ed",
+          "prs": [
+            {
+              "mw": "-\u0259d"
+            }
+          ],
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "a {it}fruited{/it} plant"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "a usually soft and juicy plant part (as rhubarb, a strawberry, or an orange) that is often eaten as a dessert and is distinguished from a vegetable",
+        "a product of fertilization in a seed plant that consists of the ripened ovary of a flower with its included seeds",
+        "result, product"
+      ]
+    },
+    {
+      "meta": {
+        "id": "fruit:2",
+        "uuid": "bb5b702a-61f1-46d8-b08e-ecf887cc2dcc",
+        "sort": "060959000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fruit",
+          "fruited",
+          "fruiting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "fruit"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "fruit*ed"
+        },
+        {
+          "if": "fruit*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bear or cause to bear fruit"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to bear or cause to bear fruit"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bear:2",
+        "uuid": "ffbc88f5-19ba-4776-a15f-0d7c8d5c179f",
+        "sort": "020277000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bear",
+          "bear a hand",
+          "bear arms",
+          "bear down on",
+          "bear fruit",
+          "bear in mind",
+          "bear up",
+          "bear with",
+          "bearing",
+          "bears",
+          "bore",
+          "born",
+          "borne"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "bear"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bore",
+          "prs": [
+            {
+              "mw": "\u02c8b\u022fr"
+            }
+          ]
+        },
+        {
+          "if": "borne",
+          "prs": [
+            {
+              "mw": "\u02c8b\u022frn"
+            }
+          ]
+        },
+        {
+          "if": "bear*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|support:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bear{/it} weight"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move while holding up and supporting {bc}{sx|carry||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They came {it}bearing{/it} gifts."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to hold in the mind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}bears{/it} a grudge."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put up with "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I can't {it}bear{/it} the suspense."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to assume or accept "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bear{/it} the blame"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have as a feature or characteristic "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}bears{/it} a resemblance to her sister."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}give birth to "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bear{/it} children"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|produce:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "trees {it}bearing{/it} fruit"
+                        },
+                        {
+                          "t": "{it}bear{/it} interest"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or lie in the indicated direction "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Bear{/it} right at the fork."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have a relation to the matter at hand "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "These facts don't {it}bear{/it} on the question."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "bear down on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to push or lean down on "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Bear down{/it} hard {it}on{/it} your pencil."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bear in mind",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to think of especially as a warning "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Bear in mind{/it} that you only get one chance."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bear up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to have strength or courage "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She's {it}bearing up{/it} under the stress."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bear with",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be patient with "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Bear with{/it} me."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "support",
+        "to move while holding up and supporting : carry",
+        "to hold in the mind"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fruit001",
+  "shortdef": [
+    "a usually soft and juicy plant part (as rhubarb, a strawberry, or an orange) that is often eaten as a dessert and is distinguished from a vegetable",
+    "a product of fertilization in a seed plant that consists of the ripened ovary of a flower with its included seeds",
+    "result, product"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8fr\u00fct",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fruit001.mp3"
+}

@@ -1,0 +1,119 @@
+{
+  "word": "fluently",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fluent",
+        "uuid": "db5a6bb9-0282-4305-be4f-da489dcf637d",
+        "sort": "060587000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fluent",
+          "fluently"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "flu*ent",
+        "prs": [
+          {
+            "mw": "\u02c8fl\u00fc-\u0259nt",
+            "sound": {
+              "audio": "fluent01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}able to speak easily and well "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He was {it}fluent{/it} in Spanish."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}smooth and correct "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She speaks {it}fluent{/it} German."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}fluere{/it}, meaning {ldquo}to flow,{rdquo} gives us the root {b}flu{/b}. Words from the Latin {it}fluere{/it} have something to do with flowing. A {b}flu{/b}{it}id{/it} is a substance that flows and is usually a liquid. When someone is {b}flu{/b}{it}ent{/it} in a language the words flow out of her or him. Anything {it}super{/it}{b}flu{/b}{it}ous{/it}, or extra, has flowed forth beyond what is necessary."
+          ]
+        ]
+      },
+      "uros": [
+        {
+          "ure": "flu*ent*ly",
+          "prs": [
+            {
+              "mw": "-\u0259nt-l\u0113"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "able to speak easily and well",
+        "smooth and correct"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fluent01",
+  "shortdef": [
+    "able to speak easily and well",
+    "smooth and correct"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8fl\u00fc-\u0259nt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fluent01.mp3"
+}

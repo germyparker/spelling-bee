@@ -1,0 +1,78 @@
+{
+  "word": "zeal",
+  "api_response": [
+    {
+      "meta": {
+        "id": "zeal",
+        "uuid": "7c2e4b2c-0a79-4922-bc8d-f291ae4dd26c",
+        "sort": "260004000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "zeal",
+          "zeals"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "zeal",
+        "prs": [
+          {
+            "mw": "\u02c8z\u0113l",
+            "sound": {
+              "audio": "zeal0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}eager desire to get something done or see something succeed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Feeling better, she attacked her homework with renewed {it}zeal{/it}.",
+                          "aq": {
+                            "auth": "Louise Fitzhugh",
+                            "source": "{it}Harriet the Spy{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "eager desire to get something done or see something succeed"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "zeal0001",
+  "shortdef": [
+    "eager desire to get something done or see something succeed"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8z\u0113l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zeal0001.mp3"
+}

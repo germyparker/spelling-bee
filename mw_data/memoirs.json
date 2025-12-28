@@ -1,0 +1,149 @@
+{
+  "word": "memoirs",
+  "api_response": [
+    {
+      "meta": {
+        "id": "memoir",
+        "uuid": "6e4c0b1c-68a0-4dc2-bc9e-657a494eb7f6",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "memoir",
+          "memoirist",
+          "memoirists",
+          "memoirs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mem*oir",
+        "prs": [
+          {
+            "mw": "\u02c8mem-\u02ccw\u00e4r",
+            "sound": {
+              "audio": "memoir01"
+            }
+          },
+          {
+            "mw": "-\u02ccw\u022fr"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a story of a personal experience"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|autobiography||} "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "usually used in plural"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "c",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|biography||1}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|report||2}"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "ins": [
+                    {
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the proceedings of a learned society"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French {it}m\u00e9moire,{/it} literally, {ldquo}memory,{rdquo} from Latin {it}memoria{/it}"
+        ]
+      ],
+      "shortdef": [
+        "a story of a personal experience",
+        "autobiography \u2014usually used in plural",
+        "biography"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "memoir01",
+  "shortdef": [
+    "a story of a personal experience",
+    "autobiography \u2014usually used in plural",
+    "biography"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8mem-\u02ccw\u00e4r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "memoirs",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/memoir01.mp3"
+}

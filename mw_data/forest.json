@@ -1,0 +1,207 @@
+{
+  "word": "forest",
+  "api_response": [
+    {
+      "meta": {
+        "id": "forest",
+        "uuid": "53bedefd-1718-4994-b98a-03205211a2d4",
+        "sort": "060730000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "forest",
+          "forestal",
+          "forested",
+          "forestial",
+          "forests"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "for*est",
+        "prs": [
+          {
+            "mw": "\u02c8f\u022fr-\u0259st",
+            "sound": {
+              "audio": "forest01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a growth of trees and underbrush covering a large area"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "for*est*ed",
+          "prs": [
+            {
+              "mw": "-\u0259s-t\u0259d"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "a growth of trees and underbrush covering a large area"
+      ]
+    },
+    {
+      "meta": {
+        "id": "forest ranger",
+        "uuid": "13dd833b-3b91-4259-a3b8-c193728bfa5f",
+        "sort": "060732000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "forest ranger"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "forest ranger"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person in charge of managing and protecting part of a public forest"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person in charge of managing and protecting part of a public forest"
+      ]
+    },
+    {
+      "meta": {
+        "id": "rain forest",
+        "uuid": "107d3a38-45bc-496c-800c-c65e8eed8178",
+        "sort": "180076000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rain forest",
+          "tropical rain forest"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rain forest"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a woodland with a high annual rainfall and very tall trees and that is often found in tropical regions"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a woodland with a high annual rainfall and very tall trees and that is often found in tropical regions"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Black Forest:g",
+        "uuid": "73f5f987-43c4-4c2b-a63b-cfef3e3b24a1",
+        "sort": "270099000",
+        "src": "sd2",
+        "section": "geog",
+        "stems": [
+          "Black Forest",
+          "Schwarzwald"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Black Forest"
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "forested mountain region Germany along "
+                    ],
+                    [
+                      "g",
+                      "E"
+                    ],
+                    [
+                      "text",
+                      " bank of the upper Rhine"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "forested mountain region Germany along E bank of the upper Rhine"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "forest01",
+  "shortdef": [
+    "a growth of trees and underbrush covering a large area"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8f\u022fr-\u0259st",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forest01.mp3"
+}

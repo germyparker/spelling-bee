@@ -1,0 +1,123 @@
+{
+  "word": "emporium",
+  "api_response": [
+    {
+      "meta": {
+        "id": "emporium",
+        "uuid": "d6d396b9-d8b3-4e81-9421-5437ffeb4012",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "emporium",
+          "emporia",
+          "emporiums"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "em*po*ri*um",
+        "prs": [
+          {
+            "mw": "im-\u02c8p\u014dr-\u0113-\u0259m",
+            "sound": {
+              "audio": "empori01"
+            }
+          },
+          {
+            "mw": "em-"
+          },
+          {
+            "mw": "-\u02c8p\u022fr-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-ri*ums",
+          "if": "em*po*ri*ums"
+        },
+        {
+          "il": "or",
+          "ifc": "-ria",
+          "if": "empo*ria",
+          "prs": [
+            {
+              "mw": "-\u0113-\u0259"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a place of trade {bc}{sx|marketplace||}"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}a commercial center"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a store carrying a wide variety of merchandise"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Latin, from Greek {it}emporion,{/it} from {it}emporos{/it} {ldquo}traveler, trader,{rdquo} from {it}en{/it} {ldquo}in{rdquo} + {it}poros{/it} {ldquo}passage{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a place of trade : marketplace; especially : a commercial center",
+        "a store carrying a wide variety of merchandise"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "empori01",
+  "shortdef": [
+    "a place of trade : marketplace; especially : a commercial center",
+    "a store carrying a wide variety of merchandise"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "im-\u02c8p\u014dr-\u0113-\u0259m",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "emporium",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/empori01.mp3"
+}

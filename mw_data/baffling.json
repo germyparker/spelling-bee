@@ -1,0 +1,95 @@
+{
+  "word": "baffling",
+  "api_response": [
+    {
+      "meta": {
+        "id": "baffle",
+        "uuid": "e2cef125-ec7c-4bcb-9561-35575e099786",
+        "sort": "020047000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "baffle",
+          "baffled",
+          "baffling"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "baf*fle",
+        "prs": [
+          {
+            "mw": "\u02c8ba-f\u0259l",
+            "sound": {
+              "audio": "baffle01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "baf*fled"
+        },
+        {
+          "if": "baf*fling",
+          "prs": [
+            {
+              "mw": "\u02c8ba-f\u0259-li\u014b"
+            },
+            {
+              "mw": "\u02c8ba-fli\u014b"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to completely confuse "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "The instructions {it}baffled{/it} us."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "baffled",
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "to completely confuse"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "baffle01",
+  "shortdef": [
+    "to completely confuse"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8ba-f\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/baffle01.mp3"
+}

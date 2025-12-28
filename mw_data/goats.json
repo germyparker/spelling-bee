@@ -1,0 +1,79 @@
+{
+  "word": "goats",
+  "api_response": [
+    {
+      "meta": {
+        "id": "goat",
+        "uuid": "79a80131-a46d-4ff2-a1a2-abbf8cdaafbf",
+        "sort": "070382000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "goat",
+          "goatish",
+          "goatlike",
+          "goats"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "goat",
+        "prs": [
+          {
+            "mw": "\u02c8g\u014dt",
+            "sound": {
+              "audio": "goat0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an animal that has hollow horns that curve backward, is related to the sheep, and is often raised for its milk, wool, and meat"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "goat*like",
+          "prs": [
+            {
+              "mw": "-\u02ccl\u012bk"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "an animal that has hollow horns that curve backward, is related to the sheep, and is often raised for its milk, wool, and meat"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "goat0001",
+  "shortdef": [
+    "an animal that has hollow horns that curve backward, is related to the sheep, and is often raised for its milk, wool, and meat"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8g\u014dt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/goat0001.mp3"
+}

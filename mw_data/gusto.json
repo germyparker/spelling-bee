@@ -1,0 +1,101 @@
+{
+  "word": "gusto",
+  "api_response": [
+    {
+      "meta": {
+        "id": "gusto",
+        "uuid": "d138a6a5-440e-4299-9092-ee89af5af953",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "gusto",
+          "gustoes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gus*to",
+        "prs": [
+          {
+            "mw": "\u02c8g\u0259s-\u02cct\u014d",
+            "sound": {
+              "audio": "gusto001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}enthusiastic vigorous enjoyment or appreciation "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "eat with {it}gusto{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very great vitality"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "srefs": [
+        "taste"
+      ],
+      "et": [
+        [
+          "text",
+          "Italian, from Latin {it}gustus{/it} {ldquo}taste{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "enthusiastic vigorous enjoyment or appreciation",
+        "very great vitality"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "gusto001",
+  "shortdef": [
+    "enthusiastic vigorous enjoyment or appreciation",
+    "very great vitality"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8g\u0259s-\u02cct\u014d",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "gusto",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gusto001.mp3"
+}

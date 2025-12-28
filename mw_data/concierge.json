@@ -1,0 +1,73 @@
+{
+  "word": "concierge",
+  "api_response": [
+    {
+      "meta": {
+        "id": "concierge",
+        "uuid": "e63e3fbc-bf5c-4b2e-9776-a3df824f46bb",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "concierge",
+          "concierges"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*cierge",
+        "prs": [
+          {
+            "mw": "k\u014d\u207f-\u02c8syerzh",
+            "sound": {
+              "audio": "concie01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an attendant at the entrance of a building especially in France who oversees people coming or going, handles mail, and acts as a janitor or porter"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, from Medieval French, probably derived from Latin {it}conservus{/it} {ldquo}fellow slave,{rdquo} from {it}com-{/it} + {it}servus{/it} {ldquo}slave{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "an attendant at the entrance of a building especially in France who oversees people coming or going, handles mail, and acts as a janitor or porter"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "concie01",
+  "shortdef": [
+    "an attendant at the entrance of a building especially in France who oversees people coming or going, handles mail, and acts as a janitor or porter"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "k\u014d\u207f-\u02c8syerzh",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "concierge",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concie01.mp3"
+}

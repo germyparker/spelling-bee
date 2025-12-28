@@ -1,0 +1,77 @@
+{
+  "word": "comfy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "comfy",
+        "uuid": "6aa573ff-87c4-4263-9568-792bb5399d1f",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "comfy",
+          "comfier",
+          "comfiest"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "com*fy",
+        "prs": [
+          {
+            "mw": "\u02c8k\u0259m-f\u0113",
+            "sound": {
+              "audio": "comfy001"
+            }
+          },
+          {
+            "mw": "\u02c8k\u0259mp-"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|comfortable||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "alteration of {it}comfortable{/it}"
+        ]
+      ],
+      "shortdef": [
+        "comfortable"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "comfy001",
+  "shortdef": [
+    "comfortable"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8k\u0259m-f\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "original_search_term": "comfy",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comfy001.mp3"
+}

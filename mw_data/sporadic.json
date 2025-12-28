@@ -1,0 +1,101 @@
+{
+  "word": "sporadic",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sporadic",
+        "uuid": "8fc5efed-0061-4d01-8e99-d21bdf708787",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "sporadic",
+          "sporadically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "spo*rad*ic",
+        "prs": [
+          {
+            "mw": "sp\u0259-\u02c8rad-ik",
+            "sound": {
+              "audio": "sporad01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}occurring occasionally, singly, or in irregular or random instances "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}sporadic{/it} outbreaks of disease"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "spo*rad*i*cal*ly",
+          "prs": [
+            {
+              "mw": "-\u02c8rad-i-k\u0259-l\u0113",
+              "sound": {
+                "audio": "sporad02"
+              }
+            },
+            {
+              "mw": "-kl\u0113"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "srefs": [
+        "infrequent"
+      ],
+      "et": [
+        [
+          "text",
+          "Medieval Latin {it}sporadicus,{/it} from Greek {it}sporadikos,{/it} from {it}sporad\u0113n{/it} {ldquo}here and there,{rdquo} from {it}sporas{/it} {ldquo}scattered{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "occurring occasionally, singly, or in irregular or random instances"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "sporad01",
+  "shortdef": [
+    "occurring occasionally, singly, or in irregular or random instances"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "sp\u0259-\u02c8rad-ik",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "sporadic",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sporad01.mp3"
+}

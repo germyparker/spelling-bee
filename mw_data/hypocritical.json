@@ -1,0 +1,87 @@
+{
+  "word": "hypocritical",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hypocrite",
+        "uuid": "f1c5b1e4-01fc-4c95-84bf-689ef0f7cc47",
+        "sort": "080841000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hypocrite",
+          "hypocrites",
+          "hypocritical",
+          "hypocritically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hyp*o*crite",
+        "prs": [
+          {
+            "mw": "\u02c8hi-p\u0259-\u02cckrit",
+            "sound": {
+              "audio": "hypocr02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who acts in a way that goes against what he or she claims to believe or feel "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She's a {it}hypocrite{/it} who complains about litter and then litters herself."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "hyp*o*crit*i*cal",
+          "prs": [
+            {
+              "mw": "\u02cchi-p\u0259-\u02c8kri-ti-k\u0259l"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "a person who acts in a way that goes against what he or she claims to believe or feel"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hypocr02",
+  "shortdef": [
+    "a person who acts in a way that goes against what he or she claims to believe or feel"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8hi-p\u0259-\u02cckrit",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypocr02.mp3"
+}

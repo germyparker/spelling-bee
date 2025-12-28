@@ -1,0 +1,104 @@
+{
+  "word": "whittled",
+  "api_response": [
+    {
+      "meta": {
+        "id": "whittle",
+        "uuid": "57c61c3d-972a-46b2-ba0d-986957079710",
+        "sort": "230390000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "whittle",
+          "whittled",
+          "whittles",
+          "whittling"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "whit*tle",
+        "prs": [
+          {
+            "mw": "\u02c8hwi-t\u1d4al",
+            "sound": {
+              "audio": "whittl01"
+            }
+          },
+          {
+            "mw": "\u02c8wi-"
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "whit*tled"
+        },
+        {
+          "if": "whit*tling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cut or shave off chips from wood {bc}shape by cutting or shaving off chips from wood"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to reduce little by little "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}whittled{/it} down the list."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cut or shave off chips from wood : shape by cutting or shaving off chips from wood",
+        "to reduce little by little"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "whittl01",
+  "shortdef": [
+    "to cut or shave off chips from wood : shape by cutting or shaving off chips from wood",
+    "to reduce little by little"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8hwi-t\u1d4al",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/whittl01.mp3"
+}

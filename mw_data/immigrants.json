@@ -1,0 +1,66 @@
+{
+  "word": "immigrants",
+  "api_response": [
+    {
+      "meta": {
+        "id": "immigrant",
+        "uuid": "5fee09d2-aadc-41c4-a3ad-f7f9f113b2ed",
+        "sort": "090118000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "immigrant",
+          "immigrants"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "im*mi*grant",
+        "prs": [
+          {
+            "mw": "\u02c8i-mi-gr\u0259nt",
+            "sound": {
+              "audio": "immigr01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who comes to a country to live there"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who comes to a country to live there"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "immigr01",
+  "shortdef": [
+    "a person who comes to a country to live there"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8i-mi-gr\u0259nt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immigr01.mp3"
+}

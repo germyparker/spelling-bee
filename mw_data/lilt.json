@@ -1,0 +1,76 @@
+{
+  "word": "lilt",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lilt",
+        "uuid": "bf5df70d-92a0-4139-ae5d-83c127d25a2b",
+        "sort": "120407000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lilt",
+          "lilted",
+          "lilting",
+          "lilts"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "lilt",
+        "prs": [
+          {
+            "mw": "\u02c8lilt",
+            "sound": {
+              "audio": "lilt0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "lilt*ed"
+        },
+        {
+          "if": "lilt*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to sing or play in a lively cheerful manner"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to sing or play in a lively cheerful manner"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lilt0001",
+  "shortdef": [
+    "to sing or play in a lively cheerful manner"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8lilt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lilt0001.mp3"
+}

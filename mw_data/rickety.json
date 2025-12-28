@@ -1,0 +1,77 @@
+{
+  "word": "rickety",
+  "api_response": [
+    {
+      "meta": {
+        "id": "rickety",
+        "uuid": "aedf3880-c099-4fd4-a364-1cba5fdd6b34",
+        "sort": "180795000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rickety"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rick*ety",
+        "prs": [
+          {
+            "mw": "\u02c8ri-k\u0259-t\u0113",
+            "sound": {
+              "audio": "ricket05"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in poor condition and likely to break "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Just below them, hugging the shore, rose a village of thatched huts, with a small, {it}rickety{/it} pier, boats on the sand, and nets spread for mending.",
+                          "aq": {
+                            "auth": "Lloyd Alexander",
+                            "source": "{it}Time Cat{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "in poor condition and likely to break"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ricket05",
+  "shortdef": [
+    "in poor condition and likely to break"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8ri-k\u0259-t\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ricket05.mp3"
+}

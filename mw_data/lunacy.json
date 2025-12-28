@@ -1,0 +1,97 @@
+{
+  "word": "lunacy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lunacy",
+        "uuid": "4193c06b-eee5-49e4-b078-ca456fe8bf8b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "lunacy",
+          "lunacies"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "lu*na*cy",
+        "prs": [
+          {
+            "mw": "\u02c8l\u00fc-n\u0259-s\u0113",
+            "sound": {
+              "audio": "lunacy01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-cies",
+          "if": "lu*na*cies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}insanity especially interrupted by lucid intervals"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}extreme foolishness"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "{it}lunatic{/it}"
+        ]
+      ],
+      "shortdef": [
+        "insanity especially interrupted by lucid intervals",
+        "extreme foolishness"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "lunacy01",
+  "shortdef": [
+    "insanity especially interrupted by lucid intervals",
+    "extreme foolishness"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8l\u00fc-n\u0259-s\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "lunacy",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lunacy01.mp3"
+}

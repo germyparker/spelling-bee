@@ -1,0 +1,68 @@
+{
+  "word": "safari",
+  "api_response": [
+    {
+      "meta": {
+        "id": "safari",
+        "uuid": "5ad0b589-5d62-444f-9f93-e60b0bf3b797",
+        "sort": "190029000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "safari",
+          "safaried",
+          "safariing",
+          "safaris"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sa*fa*ri",
+        "prs": [
+          {
+            "mw": "s\u0259-\u02c8f\u00e4r-\u0113",
+            "sound": {
+              "audio": "safari01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a trip to see or hunt animals especially in Africa"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a trip to see or hunt animals especially in Africa"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "safari01",
+  "shortdef": [
+    "a trip to see or hunt animals especially in Africa"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "s\u0259-\u02c8f\u00e4r-\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/safari01.mp3"
+}

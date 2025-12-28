@@ -1,0 +1,66 @@
+{
+  "word": "commotion",
+  "api_response": [
+    {
+      "meta": {
+        "id": "commotion",
+        "uuid": "e77e7baf-d8cf-4238-afd7-b4d1140c66cc",
+        "sort": "031115000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "commotion",
+          "commotions"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "com*mo*tion",
+        "prs": [
+          {
+            "mw": "k\u0259-\u02c8m\u014d-sh\u0259n",
+            "sound": {
+              "audio": "commot01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}noisy excitement and confusion {bc}{sx|turmoil||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "noisy excitement and confusion : turmoil"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "commot01",
+  "shortdef": [
+    "noisy excitement and confusion : turmoil"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "k\u0259-\u02c8m\u014d-sh\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commot01.mp3"
+}

@@ -1,0 +1,109 @@
+{
+  "word": "jeered",
+  "api_response": [
+    {
+      "meta": {
+        "id": "jeer:1",
+        "uuid": "5689b58c-8c65-4536-a0db-00d048ff5ed3",
+        "sort": "100059000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "jeer",
+          "jeered",
+          "jeerer",
+          "jeerers",
+          "jeering",
+          "jeeringly",
+          "jeers"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "jeer",
+        "prs": [
+          {
+            "mw": "\u02c8jir",
+            "sound": {
+              "audio": "jeer0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "jeered"
+        },
+        {
+          "if": "jeer*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to speak or cry out in scorn "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "The crowd {it}jeered{/it} when the movie suddenly stopped running."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to scorn or mock with taunts "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "They {it}jeered{/it} the penalized player."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to speak or cry out in scorn",
+        "to scorn or mock with taunts"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "jeer0001",
+  "shortdef": [
+    "to speak or cry out in scorn",
+    "to scorn or mock with taunts"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8jir",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jeer0001.mp3"
+}

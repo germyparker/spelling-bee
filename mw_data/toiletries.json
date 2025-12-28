@@ -1,0 +1,85 @@
+{
+  "word": "toiletries",
+  "api_response": [
+    {
+      "meta": {
+        "id": "toiletry",
+        "uuid": "be19283f-e2d0-4624-900d-c9b209b17b40",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "toiletry",
+          "toiletries"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "toi*let*ry",
+        "prs": [
+          {
+            "mw": "\u02c8t\u022fi-l\u0259-tr\u0113",
+            "sound": {
+              "audio": "toilet02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-ries",
+          "if": "toi*let*ries"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an article or preparation (as a soap, lotion, toothpaste, or cologne) used in grooming oneself "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "usually used in plural"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an article or preparation (as a soap, lotion, toothpaste, or cologne) used in grooming oneself \u2014usually used in plural"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "toilet02",
+  "shortdef": [
+    "an article or preparation (as a soap, lotion, toothpaste, or cologne) used in grooming oneself \u2014usually used in plural"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8t\u022fi-l\u0259-tr\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "toiletries",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/toilet02.mp3"
+}

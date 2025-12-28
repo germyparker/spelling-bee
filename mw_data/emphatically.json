@@ -1,0 +1,72 @@
+{
+  "word": "emphatically",
+  "api_response": [
+    {
+      "meta": {
+        "id": "emphatic",
+        "uuid": "0b99aa9b-d18d-4730-9d1a-ea479040d54d",
+        "sort": "050261000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "emphatic",
+          "emphatically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "em*phat*ic",
+        "prs": [
+          {
+            "mw": "im-\u02c8fa-tik",
+            "sound": {
+              "audio": "emphat01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}spoken or done forcefully"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "em*phat*ic*al*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "spoken or done forcefully"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "emphat01",
+  "shortdef": [
+    "spoken or done forcefully"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "im-\u02c8fa-tik",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/emphat01.mp3"
+}

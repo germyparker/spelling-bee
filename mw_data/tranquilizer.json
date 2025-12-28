@@ -1,0 +1,68 @@
+{
+  "word": "tranquilizer",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tranquilizer",
+        "uuid": "08bf5942-2f1c-4a88-b105-e4c8f4ccbbdd",
+        "sort": "200804000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tranquilizer",
+          "tranquilizers",
+          "tranquillizer",
+          "tranquillizers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tran*quil*iz*er",
+        "prs": [
+          {
+            "mw": "\u02c8tra\u014b-kw\u0259-\u02ccl\u012b-z\u0259r",
+            "sound": {
+              "audio": "tranqu04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a drug used to make someone calm and relaxed"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a drug used to make someone calm and relaxed"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tranqu04",
+  "shortdef": [
+    "a drug used to make someone calm and relaxed"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8tra\u014b-kw\u0259-\u02ccl\u012b-z\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tranqu04.mp3"
+}

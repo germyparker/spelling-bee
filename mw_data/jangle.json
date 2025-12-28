@@ -1,0 +1,137 @@
+{
+  "word": "jangle",
+  "api_response": [
+    {
+      "meta": {
+        "id": "jangle:1",
+        "uuid": "da9a02b5-72ef-45c8-bf63-10014e7d50f9",
+        "sort": "100034000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "jangle",
+          "jangled",
+          "jangler",
+          "janglers",
+          "jangles",
+          "jangling"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "jan*gle",
+        "prs": [
+          {
+            "mw": "\u02c8ja\u014b-g\u0259l",
+            "sound": {
+              "audio": "jangle01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "jan*gled"
+        },
+        {
+          "if": "jan*gling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make or cause to make a sound like the harsh ringing of a bell "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}jangled{/it} his keys."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "hs": {
+        "pl": "Headscratcher",
+        "pt": [
+          [
+            "text",
+            "{b}Jangle{/b} and {it}jingle{/it} are close in spelling, and in meaning, too. To {b}jangle{/b} is to make a harsh ringing sound, while to {it}jingle{/it} is to make a light ringing sound."
+          ]
+        ]
+      },
+      "shortdef": [
+        "to make or cause to make a sound like the harsh ringing of a bell"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jangle:2",
+        "uuid": "49746bb3-5b9d-4cee-b737-cea5946d5498",
+        "sort": "100035000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "jangle",
+          "jangles"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "jangle"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a harsh often ringing sound"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a harsh often ringing sound"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "jangle01",
+  "shortdef": [
+    "to make or cause to make a sound like the harsh ringing of a bell"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8ja\u014b-g\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jangle01.mp3"
+}

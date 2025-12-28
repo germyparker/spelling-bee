@@ -1,0 +1,67 @@
+{
+  "word": "bronchitis",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bronchitis",
+        "uuid": "967b8af5-704e-4ed7-a81f-543c85359ee4",
+        "sort": "021049000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bronchitic",
+          "bronchitis",
+          "bronchitises"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bron*chi*tis",
+        "prs": [
+          {
+            "mw": "br\u00e4n-\u02c8k\u012b-t\u0259s",
+            "sound": {
+              "audio": "bronch06"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sore raw state of the bronchial tubes"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sore raw state of the bronchial tubes"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bronch06",
+  "shortdef": [
+    "a sore raw state of the bronchial tubes"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "br\u00e4n-\u02c8k\u012b-t\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bronch06.mp3"
+}

@@ -1,0 +1,157 @@
+{
+  "word": "miniature",
+  "api_response": [
+    {
+      "meta": {
+        "id": "miniature:1",
+        "uuid": "9dec1c35-d44c-403d-bc6d-e843ce7e658a",
+        "sort": "130632000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "in miniature",
+          "miniature",
+          "miniatures",
+          "miniaturist",
+          "miniaturistic",
+          "miniaturists"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "min*i*a*ture",
+        "prs": [
+          {
+            "mw": "\u02c8mi-n\u0113-\u0259-\u02ccchu\u0307r",
+            "sound": {
+              "audio": "miniat01"
+            }
+          },
+          {
+            "mw": "\u02c8mi-ni-\u02ccchu\u0307r"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a copy of something that is much smaller than the original "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "I made a {it}miniature{/it} of the Eiffel Tower."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a very small portrait or painting"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "{it}Minium{/it} was the Latin name for a red pigment used in ancient times. In the days before printed books, this substance was used to decorate manuscripts. The Latin verb meaning to color with {it}minium{/it} was {it}miniare{/it}. In early Italian, its meaning was broadened to the point where it simply meant {ldquo}to decorate a manuscript,{rdquo} and the noun {it}miniatura{/it} was used to refer to any manuscript illustration, no matter what color. Since the illustrations in manuscripts (called illuminations) are small by comparison with most other paintings, the word {it}miniature{/it}, borrowed into English from Italian {it}miniature{/it}, came to mean any small painting, and eventually anything very small."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a copy of something that is much smaller than the original",
+        "a very small portrait or painting"
+      ]
+    },
+    {
+      "meta": {
+        "id": "miniature:2",
+        "uuid": "7fca45e3-c4f9-4be3-95c0-9db16af61735",
+        "sort": "130633000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "miniature"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "miniature"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very small "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}miniature{/it} books"
+                        },
+                        {
+                          "t": "a {it}miniature{/it} breed of dogs"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "very small"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "miniat01",
+  "shortdef": [
+    "a copy of something that is much smaller than the original",
+    "a very small portrait or painting"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8mi-n\u0113-\u0259-\u02ccchu\u0307r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/miniat01.mp3"
+}

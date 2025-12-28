@@ -1,0 +1,76 @@
+{
+  "word": "mercantile",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mercantile",
+        "uuid": "7e8dbe28-32e0-40f3-87ff-7689dbe8e2b3",
+        "sort": "130438000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mercantile"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mer*can*tile",
+        "prs": [
+          {
+            "mw": "\u02c8m\u0259r-k\u0259n-\u02cct\u0113l",
+            "sound": {
+              "audio": "mercan01"
+            }
+          },
+          {
+            "mw": "-\u02cct\u012bl"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of or relating to merchants or trade "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}mercantile{/it} businesses"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "of or relating to merchants or trade"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "mercan01",
+  "shortdef": [
+    "of or relating to merchants or trade"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8m\u0259r-k\u0259n-\u02cct\u0113l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mercan01.mp3"
+}

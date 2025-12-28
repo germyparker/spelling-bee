@@ -1,0 +1,69 @@
+{
+  "word": "enthusiastic",
+  "api_response": [
+    {
+      "meta": {
+        "id": "enthusiastic",
+        "uuid": "6c65f17f-fdf0-46db-b5f1-c7ed8262daea",
+        "sort": "050386000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "enthusiastic",
+          "enthusiastically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "en*thu*si*as*tic",
+        "prs": [
+          {
+            "mw": "in-\u02ccth\u00fc-z\u0113-\u02c8a-stik",
+            "sound": {
+              "audio": "enthus04"
+            }
+          },
+          {
+            "mw": "-\u02ccthy\u00fc-"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}feeling strong excitement about something {bc}full of enthusiasm"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "feeling strong excitement about something : full of enthusiasm"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "enthus04",
+  "shortdef": [
+    "feeling strong excitement about something : full of enthusiasm"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "in-\u02ccth\u00fc-z\u0113-\u02c8a-stik",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/enthus04.mp3"
+}

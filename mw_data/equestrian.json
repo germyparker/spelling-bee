@@ -1,0 +1,73 @@
+{
+  "word": "equestrian",
+  "api_response": [
+    {
+      "meta": {
+        "id": "equestrian",
+        "uuid": "fa3f7e11-0203-45de-996c-3efab9959102",
+        "sort": "050431000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "equestrian"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "eques*tri*an",
+        "prs": [
+          {
+            "mw": "i-\u02c8kwe-str\u0113-\u0259n",
+            "sound": {
+              "audio": "equest01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}relating to the act of riding horses "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}equestrian{/it} sports"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "relating to the act of riding horses"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "equest01",
+  "shortdef": [
+    "relating to the act of riding horses"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "i-\u02c8kwe-str\u0113-\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/equest01.mp3"
+}

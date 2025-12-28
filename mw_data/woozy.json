@@ -1,0 +1,81 @@
+{
+  "word": "woozy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "woozy",
+        "uuid": "ac4c4675-a885-42c3-8db2-9d7c4c0a1a86",
+        "sort": "230615000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "woozier",
+          "wooziest",
+          "woozily",
+          "wooziness",
+          "woozinesses",
+          "woozy"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "woo*zy",
+        "prs": [
+          {
+            "mw": "\u02c8w\u00fc-z\u0113",
+            "sound": {
+              "audio": "woozy002"
+            }
+          },
+          {
+            "mw": "\u02c8wu\u0307-"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "woo*zi*er"
+        },
+        {
+          "if": "woo*zi*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}slightly dizzy, nauseous, or weak"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "slightly dizzy, nauseous, or weak"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "woozy002",
+  "shortdef": [
+    "slightly dizzy, nauseous, or weak"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8w\u00fc-z\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/woozy002.mp3"
+}

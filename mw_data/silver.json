@@ -1,0 +1,270 @@
+{
+  "word": "silver",
+  "api_response": [
+    {
+      "meta": {
+        "id": "silver:1",
+        "uuid": "a67ea24d-4692-451d-988c-054e8796d8c9",
+        "sort": "190951000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "silver",
+          "silvers"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sil*ver",
+        "prs": [
+          {
+            "mw": "\u02c8sil-v\u0259r",
+            "sound": {
+              "audio": "silver01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a soft white metallic chemical element that can be polished and is used for money, jewelry and ornaments, and table utensils"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}coin made of silver"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|silverware||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "table {it}silver{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a medal made of silver that is given to someone who wins second place in a contest"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a medium gray"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a soft white metallic chemical element that can be polished and is used for money, jewelry and ornaments, and table utensils",
+        "coin made of silver",
+        "silverware"
+      ]
+    },
+    {
+      "meta": {
+        "id": "silver:2",
+        "uuid": "cb26b19c-f979-4519-8eb8-0b992c008b37",
+        "sort": "190952000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "silver"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "silver"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made of, coated with, or yielding the soft white metallic chemical element silver "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}silver{/it} teapot"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having the medium gray color of silver "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}silver{/it} hair"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "made of, coated with, or yielding the soft white metallic chemical element silver",
+        "having the medium gray color of silver"
+      ]
+    },
+    {
+      "meta": {
+        "id": "silver:3",
+        "uuid": "d6ed3687-37a9-406f-9e68-c2f51b55a970",
+        "sort": "190953000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "silver",
+          "silvered",
+          "silvering"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "silver"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sil*vered"
+        },
+        {
+          "if": "sil*ver*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to coat with or as if with silver "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Before us, the countryside unfolded, {it}silvered{/it} by frost and moonlight.",
+                          "aq": {
+                            "auth": "Richard Peck",
+                            "source": "{it}A Year Down Yonder{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to coat with or as if with silver"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "silver01",
+  "shortdef": [
+    "a soft white metallic chemical element that can be polished and is used for money, jewelry and ornaments, and table utensils",
+    "coin made of silver",
+    "silverware"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sil-v\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/silver01.mp3"
+}

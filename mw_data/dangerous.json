@@ -1,0 +1,110 @@
+{
+  "word": "dangerous",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dangerous",
+        "uuid": "5f0d0acf-64cd-40e0-ae2e-2672337ab28f",
+        "sort": "040051000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dangerous",
+          "dangerously",
+          "dangerousness",
+          "dangerousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dan*ger*ous",
+        "prs": [
+          {
+            "mw": "\u02c8d\u0101n-j\u0259-r\u0259s",
+            "sound": {
+              "audio": "danger02"
+            }
+          },
+          {
+            "mw": "\u02c8d\u0101nj-r\u0259s"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}involving possible harm or death {bc}full of danger "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}dangerous{/it} work"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}able or likely to injure "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A chain saw is a {it}dangerous{/it} tool."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "dan*ger*ous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "involving possible harm or death : full of danger",
+        "able or likely to injure"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "danger02",
+  "shortdef": [
+    "involving possible harm or death : full of danger",
+    "able or likely to injure"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8d\u0101n-j\u0259-r\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/danger02.mp3"
+}

@@ -1,0 +1,118 @@
+{
+  "word": "fugitive",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fugitive:1",
+        "uuid": "52c8880e-8e92-4268-87c9-86b98350509f",
+        "sort": "060974000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fugitive",
+          "fugitively",
+          "fugitiveness",
+          "fugitivenesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "fu*gi*tive",
+        "prs": [
+          {
+            "mw": "\u02c8fy\u00fc-j\u0259-tiv",
+            "sound": {
+              "audio": "fugiti01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}running away or trying to escape "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}fugitive{/it} prisoner"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "running away or trying to escape"
+      ]
+    },
+    {
+      "meta": {
+        "id": "fugitive:2",
+        "uuid": "cc3c814e-4c2a-46eb-b262-6d4b8340b97e",
+        "sort": "060975000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fugitive",
+          "fugitives"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "fugitive"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who is running away"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who is running away"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fugiti01",
+  "shortdef": [
+    "running away or trying to escape"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8fy\u00fc-j\u0259-tiv",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fugiti01.mp3"
+}

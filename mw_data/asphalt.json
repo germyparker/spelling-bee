@@ -1,0 +1,86 @@
+{
+  "word": "asphalt",
+  "api_response": [
+    {
+      "meta": {
+        "id": "asphalt",
+        "uuid": "89d2c671-fd5a-4ef0-a95f-e36f3e4a8af0",
+        "sort": "011054000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "asphalt",
+          "asphaltic",
+          "asphalts",
+          "asphaltum",
+          "asphaltums"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "as*phalt",
+        "prs": [
+          {
+            "mw": "\u02c8as-\u02ccf\u022flt",
+            "sound": {
+              "audio": "asphal01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a dark-colored substance obtained from natural deposits in the earth or from petroleum"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of various materials made of asphalt that are used for pavements and as a waterproof cement"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a dark-colored substance obtained from natural deposits in the earth or from petroleum",
+        "any of various materials made of asphalt that are used for pavements and as a waterproof cement"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "asphal01",
+  "shortdef": [
+    "a dark-colored substance obtained from natural deposits in the earth or from petroleum",
+    "any of various materials made of asphalt that are used for pavements and as a waterproof cement"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8as-\u02ccf\u022flt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/asphal01.mp3"
+}

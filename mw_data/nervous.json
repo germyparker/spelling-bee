@@ -1,0 +1,214 @@
+{
+  "word": "nervous",
+  "api_response": [
+    {
+      "meta": {
+        "id": "nervous",
+        "uuid": "f8ef1f2b-4ca4-4336-a9fa-8dd944da1cd2",
+        "sort": "140157000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nervous",
+          "nervously",
+          "nervousness",
+          "nervousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ner*vous",
+        "prs": [
+          {
+            "mw": "\u02c8n\u0259r-v\u0259s",
+            "sound": {
+              "audio": "nervou01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having or showing feelings of worry, fear, or anxiety "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Having to give a speech makes me {it}nervous{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}easily becoming worried, frightened, or anxious "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She's a {it}nervous{/it} driver."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of, relating to, or made up of nerves or nerve cells "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}nervous{/it} tissue"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ner*vous*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "ner*vous*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "having or showing feelings of worry, fear, or anxiety",
+        "easily becoming worried, frightened, or anxious",
+        "of, relating to, or made up of nerves or nerve cells"
+      ]
+    },
+    {
+      "meta": {
+        "id": "nervous system",
+        "uuid": "ecea6d12-0bf5-4939-9967-3bb7b662e20a",
+        "sort": "140158000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nervous system"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "nervous system"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a system of the body that in vertebrates includes the brain, spinal cord, nerves, and sense organs and receives, interprets, and responds to stimuli from inside and outside the body"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a system of the body that in vertebrates includes the brain, spinal cord, nerves, and sense organs and receives, interprets, and responds to stimuli from inside and outside the body"
+      ]
+    },
+    {
+      "meta": {
+        "id": "nerve impulse",
+        "uuid": "bc56f803-5c49-443f-9d73-5dc7a4342bca",
+        "sort": "140156000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "nerve impulse",
+          "nervous impulse"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "nerve impulse"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an electrical signal carried by nerve cells which relays information from the body's sense organs to the brain and spinal cord or instructions from the brain and spinal cord to a body part (as a muscle or gland)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an electrical signal carried by nerve cells which relays information from the body's sense organs to the brain and spinal cord or instructions from the brain and spinal cord to a body part (as a muscle or gland)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "nervou01",
+  "shortdef": [
+    "having or showing feelings of worry, fear, or anxiety",
+    "easily becoming worried, frightened, or anxious",
+    "of, relating to, or made up of nerves or nerve cells"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8n\u0259r-v\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/nervou01.mp3"
+}

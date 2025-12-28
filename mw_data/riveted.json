@@ -1,0 +1,108 @@
+{
+  "word": "riveted",
+  "api_response": [
+    {
+      "meta": {
+        "id": "rivet:2",
+        "uuid": "83e91484-1ee4-4df7-ac2a-ee5c95ef7f3e",
+        "sort": "180873000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rivet",
+          "riveted",
+          "riveting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "rivet"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "riv*et*ed"
+        },
+        {
+          "if": "riv*et*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fasten with rivets"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to attract and hold (as someone's attention) completely "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We were {it}riveted{/it} by the story."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make (someone) unable to move because of fear or shock"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to fasten with rivets",
+        "to attract and hold (as someone's attention) completely",
+        "to make (someone) unable to move because of fear or shock"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "to fasten with rivets",
+    "to attract and hold (as someone's attention) completely",
+    "to make (someone) unable to move because of fear or shock"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": []
+}

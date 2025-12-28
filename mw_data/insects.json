@@ -1,0 +1,109 @@
+{
+  "word": "insects",
+  "api_response": [
+    {
+      "meta": {
+        "id": "insect",
+        "uuid": "381ca397-4110-4523-8bb9-cba3396fb7f1",
+        "sort": "090567000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "insect",
+          "insects"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "in*sect",
+        "prs": [
+          {
+            "mw": "\u02c8in-\u02ccsekt",
+            "sound": {
+              "audio": "insect01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of a group of small and often winged animals that are arthropods having six jointed legs and a body formed of a head, thorax, and abdomen "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Flies, bees, and lice are true {it}insects{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an animal (as a spider or a centipede) similar to the true insects "
+                    ],
+                    [
+                      "hint",
+                      [
+                        [
+                          "text",
+                          "This meaning is not scientifically accurate but may be encountered in common everyday use."
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "The distinct parts into which insects\u2019 bodies are divided\u2014head, thorax, and abdomen\u2014inspired the Greek name used for them by the philosopher Aristotle: {it}entomon{/it}, the {ldquo}notched{rdquo} or {ldquo}segmented{rdquo} animal. ({it}Entomon{/it} is a noun derived from the verb {it}entemnein{/it}, {ldquo}to cut up{rdquo} or {ldquo}to cut into.{rdquo}) The Romans used {it}insectum{/it}, a literal translation of Greek {it}entomon{/it}, as their name for the creatures, and this Latin word has provided us with the ordinary English word for insects."
+          ]
+        ]
+      },
+      "shortdef": [
+        "any of a group of small and often winged animals that are arthropods having six jointed legs and a body formed of a head, thorax, and abdomen",
+        "an animal (as a spider or a centipede) similar to the true insects This meaning is not scientifically accurate but may be encountered in common everyday use."
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "insect01",
+  "shortdef": [
+    "any of a group of small and often winged animals that are arthropods having six jointed legs and a body formed of a head, thorax, and abdomen",
+    "an animal (as a spider or a centipede) similar to the true insects This meaning is not scientifically accurate but may be encountered in common everyday use."
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8in-\u02ccsekt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insect01.mp3"
+}

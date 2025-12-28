@@ -1,0 +1,287 @@
+{
+  "word": "giant",
+  "api_response": [
+    {
+      "meta": {
+        "id": "giant:1",
+        "uuid": "f4f553e4-76a6-4862-b14e-235114b5a060",
+        "sort": "070235000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "giant",
+          "giantlike",
+          "giants"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "gi*ant",
+        "prs": [
+          {
+            "mw": "\u02c8j\u012b-\u0259nt",
+            "sound": {
+              "audio": "giant001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an imaginary person of great size and strength"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person or thing that is very large, successful, or powerful "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He grew up to be a {it}giant{/it} of a man."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an imaginary person of great size and strength",
+        "a person or thing that is very large, successful, or powerful"
+      ]
+    },
+    {
+      "meta": {
+        "id": "giant:2",
+        "uuid": "0e7efd8c-6f3d-431b-8802-f09f63bdecf1",
+        "sort": "070236000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "giant"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "giant"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}much larger than ordinary {bc}{sx|huge||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "much larger than ordinary : huge"
+      ]
+    },
+    {
+      "meta": {
+        "id": "giant panda",
+        "uuid": "7bc9540f-8e04-42a3-a1c9-60abf98e0475",
+        "sort": "070237000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "giant panda"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "giant panda"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|panda||2}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "panda"
+      ]
+    },
+    {
+      "meta": {
+        "id": "giant sequoia",
+        "uuid": "c19637c3-7e80-4f10-8e3a-55c65fdbf775",
+        "sort": "070238000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "big tree",
+          "giant sequoia",
+          "sequoia"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "giant sequoia"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an evergreen tree of California that has needles for leaves and can sometimes grow to over 270 feet (about 82 meters) in height"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an evergreen tree of California that has needles for leaves and can sometimes grow to over 270 feet (about 82 meters) in height"
+      ]
+    },
+    {
+      "meta": {
+        "id": "panda",
+        "uuid": "c9d45e2f-da1b-4f68-9abf-d79b5d6a4ae6",
+        "sort": "160082000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "giant panda",
+          "panda",
+          "pandas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pan*da",
+        "prs": [
+          {
+            "mw": "\u02c8pan-d\u0259",
+            "sound": {
+              "audio": "panda001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|red panda||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large black-and-white mammal of chiefly central China that feeds mostly on bamboo shoots and is related to the bear"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "A picture of a panda\u2014the red panda\u2014as well as the word {it}panda{/it} itself first appeared in Europe in 1825. It is not known where Fr\u00e9d\u00e9ric Cuvier, the French naturalist who published the picture, found the word, but it is assumed to be from a language of Nepal. When the panda of China first became known in Europe, it was thought to be a kind of bear. In 1901 scientists decided it was most closely related to the red panda and hence named it {ldquo}giant panda.{rdquo} Though the kinship between the two animals is now known to be much more distant, the name {it}panda{/it} is still firmly attached to both."
+          ]
+        ]
+      },
+      "shortdef": [
+        "red panda",
+        "a large black-and-white mammal of chiefly central China that feeds mostly on bamboo shoots and is related to the bear"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "giant001",
+  "shortdef": [
+    "an imaginary person of great size and strength",
+    "a person or thing that is very large, successful, or powerful"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8j\u012b-\u0259nt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/giant001.mp3"
+}

@@ -1,0 +1,137 @@
+{
+  "word": "ebony",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ebony:1",
+        "uuid": "f1cc9007-5754-4272-b2e9-c5a97feb0d3e",
+        "sort": "050054000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ebonies",
+          "ebony"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "eb*o*ny",
+        "prs": [
+          {
+            "mw": "\u02c8e-b\u0259-n\u0113",
+            "sound": {
+              "audio": "ebony001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "eb*o*nies"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a hard heavy blackish wood that comes from tropical trees"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a hard heavy blackish wood that comes from tropical trees"
+      ]
+    },
+    {
+      "meta": {
+        "id": "ebony:2",
+        "uuid": "0f30f1b2-c232-445c-b217-7abc6d0fde7e",
+        "sort": "050055000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ebony"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "ebony"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made of or like ebony "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}ebony{/it} table"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very dark or black"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "made of or like ebony",
+        "very dark or black"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ebony001",
+  "shortdef": [
+    "a hard heavy blackish wood that comes from tropical trees"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8e-b\u0259-n\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/ebony001.mp3"
+}

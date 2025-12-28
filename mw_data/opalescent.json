@@ -1,0 +1,93 @@
+{
+  "word": "opalescent",
+  "api_response": [
+    {
+      "meta": {
+        "id": "opalescent",
+        "uuid": "67b54353-fa05-4b1b-923b-dffab0f8bca1",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "opalescent",
+          "opalescence",
+          "opalescences",
+          "opalescently",
+          "opalesce"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "opal*es*cent",
+        "prs": [
+          {
+            "mw": "\u02cc\u014d-p\u0259-\u02c8les-nt",
+            "sound": {
+              "audio": "opales01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}reflecting an iridescent light"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "opal*esce",
+          "prs": [
+            {
+              "mw": "-\u02c8les"
+            }
+          ],
+          "fl": "intransitive verb"
+        },
+        {
+          "ure": "opal*es*cence",
+          "prs": [
+            {
+              "mw": "-\u02c8les-ns",
+              "sound": {
+                "audio": "opales02"
+              }
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "reflecting an iridescent light"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "opales01",
+  "shortdef": [
+    "reflecting an iridescent light"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02cc\u014d-p\u0259-\u02c8les-nt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "opalescent",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opales01.mp3"
+}

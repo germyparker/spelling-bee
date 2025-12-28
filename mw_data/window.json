@@ -1,0 +1,165 @@
+{
+  "word": "window",
+  "api_response": [
+    {
+      "meta": {
+        "id": "window",
+        "uuid": "b53ffaa1-b294-4979-9145-b535828efe92",
+        "sort": "230481000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "out the window",
+          "window",
+          "windowless",
+          "windows"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "win*dow",
+        "prs": [
+          {
+            "mw": "\u02c8win-d\u014d",
+            "sound": {
+              "audio": "window01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an opening in a wall to let in light and air"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the glass and frame that fill a window opening"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of the areas into which a computer display may be divided and on which different types of information may be shown"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "win*dow*less",
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "a {it}windowless{/it} room"
+            }
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "To people living in cold regions around the world, a window in a house was only practical when glass became available to provide light while sealing out the weather. As a result, in English and other languages of northern Europe, words for {ldquo}window{rdquo} appear relatively late, after glass was introduced from southern Europe. In Old English, {ldquo}window{rdquo} was {it}\u0113agduru{/it}, literally {ldquo}eye-door,{rdquo} or {it}\u0113agthyrel{/it}, {ldquo}eye-hole{rdquo}\u2014since a window, like an eye, is a means of seeing out. The word {it}window{/it} itself comes from a word {it}vindauga{/it} in Old Norse (the language of the Vikings) that means literally {ldquo}wind-eye.{rdquo}"
+          ]
+        ]
+      },
+      "shortdef": [
+        "an opening in a wall to let in light and air",
+        "the glass and frame that fill a window opening",
+        "any of the areas into which a computer display may be divided and on which different types of information may be shown"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bay window",
+        "uuid": "cdaddc33-117e-4092-b80c-765e878443be",
+        "sort": "020257000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bay window"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bay window",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0101-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large window or a set of windows that sticks out from the wall of a building"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large window or a set of windows that sticks out from the wall of a building"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "window01",
+  "shortdef": [
+    "an opening in a wall to let in light and air",
+    "the glass and frame that fill a window opening",
+    "any of the areas into which a computer display may be divided and on which different types of information may be shown"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8win-d\u014d",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/window01.mp3"
+}

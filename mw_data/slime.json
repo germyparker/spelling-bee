@@ -1,0 +1,83 @@
+{
+  "word": "slime",
+  "api_response": [
+    {
+      "meta": {
+        "id": "slime",
+        "uuid": "d35be26b-6b31-49e4-bb86-90d91a974bb4",
+        "sort": "191154000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "slime",
+          "slimes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "slime",
+        "prs": [
+          {
+            "mw": "\u02c8sl\u012bm",
+            "sound": {
+              "audio": "slime001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}soft slippery mud"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a soft slippery material (as on the skin of a slug or catfish)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "soft slippery mud",
+        "a soft slippery material (as on the skin of a slug or catfish)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "slime001",
+  "shortdef": [
+    "soft slippery mud",
+    "a soft slippery material (as on the skin of a slug or catfish)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sl\u012bm",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/slime001.mp3"
+}

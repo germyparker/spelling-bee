@@ -1,0 +1,68 @@
+{
+  "word": "Adriatic",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Adriatic:g",
+        "uuid": "739fefd3-c096-4214-b920-977bb4fb8f94",
+        "sort": "270003000",
+        "src": "sd2",
+        "section": "geog",
+        "stems": [
+          "Adriatic Sea"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Adri*at*ic Sea",
+        "prs": [
+          {
+            "mw": "\u02cc\u0101-dr\u0113-\u02c8a-tik",
+            "sound": {
+              "audio": "ggadri02"
+            }
+          },
+          {
+            "mw": "\u02cca-"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "arm of Mediterranean between Italy & Balkan Peninsula"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "arm of Mediterranean between Italy &amp; Balkan Peninsula"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ggadri02",
+  "shortdef": [
+    "arm of Mediterranean between Italy &amp; Balkan Peninsula"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "geographical name",
+  "pronunciation": "\u02cc\u0101-dr\u0113-\u02c8a-tik",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/gg/ggadri02.mp3"
+}

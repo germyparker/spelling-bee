@@ -1,0 +1,66 @@
+{
+  "word": "hypnosis",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hypnosis",
+        "uuid": "b057cdc1-a977-4a77-9858-660bbedb93bb",
+        "sort": "080835000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hypnoses",
+          "hypnosis"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hyp*no*sis",
+        "prs": [
+          {
+            "mw": "hip-\u02c8n\u014d-s\u0259s",
+            "sound": {
+              "audio": "hypnos02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a state which resembles sleep but is produced by a person who can then make suggestions to which the person in this state can respond"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a state which resembles sleep but is produced by a person who can then make suggestions to which the person in this state can respond"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hypnos02",
+  "shortdef": [
+    "a state which resembles sleep but is produced by a person who can then make suggestions to which the person in this state can respond"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "hip-\u02c8n\u014d-s\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypnos02.mp3"
+}

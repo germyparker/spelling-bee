@@ -1,0 +1,142 @@
+{
+  "word": "lure",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lure:1",
+        "uuid": "05bcbca2-7227-4bf8-9d11-812c9bb21831",
+        "sort": "120681000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lure",
+          "lures"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "lure",
+        "prs": [
+          {
+            "mw": "\u02c8lu\u0307r",
+            "sound": {
+              "audio": "lure0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that attracts or tempts"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an artificial bait for catching fish"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "something that attracts or tempts",
+        "an artificial bait for catching fish"
+      ]
+    },
+    {
+      "meta": {
+        "id": "lure:2",
+        "uuid": "b7130a57-0118-40b1-a24e-e67977478a4b",
+        "sort": "120682000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lure",
+          "lured",
+          "luring"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "lure"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "lured"
+        },
+        {
+          "if": "lur*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to tempt by offering pleasure or gain "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Men were {it}lured{/it} by tales of treasure."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to tempt by offering pleasure or gain"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lure0001",
+  "shortdef": [
+    "something that attracts or tempts",
+    "an artificial bait for catching fish"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8lu\u0307r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lure0001.mp3"
+}

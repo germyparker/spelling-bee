@@ -1,0 +1,66 @@
+{
+  "word": "anguish",
+  "api_response": [
+    {
+      "meta": {
+        "id": "anguish",
+        "uuid": "4526d410-af55-4392-8afe-04924eb7f1d0",
+        "sort": "010702000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "anguish",
+          "anguishes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "an*guish",
+        "prs": [
+          {
+            "mw": "\u02c8a\u014b-gwish",
+            "sound": {
+              "audio": "anguis01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}great physical or emotional pain"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "great physical or emotional pain"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "anguis01",
+  "shortdef": [
+    "great physical or emotional pain"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8a\u014b-gwish",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anguis01.mp3"
+}

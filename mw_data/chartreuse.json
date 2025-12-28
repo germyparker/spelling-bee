@@ -1,0 +1,79 @@
+{
+  "word": "chartreuse",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chartreuse",
+        "uuid": "2987cde5-c968-46ce-a123-625027649776",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "chartreuse",
+          "chartreuses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "char*treuse",
+        "prs": [
+          {
+            "mw": "sh\u00e4r-\u02c8tr\u00fcz",
+            "sound": {
+              "audio": "chartr02"
+            }
+          },
+          {
+            "mw": "-\u02c8tr\u00fcs",
+            "sound": {
+              "audio": "chartr01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a brilliant yellow green"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "{it}Chartreuse,{/it} trademark used for a green or yellow liqueur"
+        ]
+      ],
+      "shortdef": [
+        "a brilliant yellow green"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "chartr02",
+  "shortdef": [
+    "a brilliant yellow green"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "sh\u00e4r-\u02c8tr\u00fcz",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "chartreuse",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chartr02.mp3"
+}

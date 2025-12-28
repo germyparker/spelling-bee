@@ -1,0 +1,76 @@
+{
+  "word": "manticores",
+  "api_response": [
+    {
+      "meta": {
+        "id": "manticore",
+        "uuid": "bda61b5d-f0c6-46cf-84d9-0fe2e1163dd1",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "manticore",
+          "manticores"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "man*ti*core",
+        "prs": [
+          {
+            "mw": "\u02c8mant-i-\u02cck\u014dr",
+            "sound": {
+              "audio": "mantic02"
+            }
+          },
+          {
+            "mw": "-\u02cck\u022fr"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a legendary animal with the head of a man, the body of a lion, and the tail of a dragon or scorpion"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Latin {it}mantichora,{/it} from Greek {it}mantich\u014dras{/it}"
+        ]
+      ],
+      "shortdef": [
+        "a legendary animal with the head of a man, the body of a lion, and the tail of a dragon or scorpion"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "mantic02",
+  "shortdef": [
+    "a legendary animal with the head of a man, the body of a lion, and the tail of a dragon or scorpion"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8mant-i-\u02cck\u014dr",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "manticores",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mantic02.mp3"
+}

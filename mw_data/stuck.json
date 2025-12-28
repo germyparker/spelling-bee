@@ -1,0 +1,401 @@
+{
+  "word": "stuck",
+  "api_response": [
+    {
+      "meta": {
+        "id": "stuck",
+        "uuid": "34b29c4c-fc0c-4ad0-90b9-e9e2ac1fd0ca",
+        "sort": "192237000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stick",
+          "stuck"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "stuck"
+      },
+      "cxs": [
+        {
+          "cxl": "past tense and past participle of",
+          "cxtis": [
+            {
+              "cxt": "stick"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    },
+    {
+      "meta": {
+        "id": "stick:2",
+        "uuid": "a935554e-6cf0-45b3-8b87-163012acc2f7",
+        "sort": "192044000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stick",
+          "stick in one's craw",
+          "stick it to",
+          "stick one's neck out",
+          "stick to one's guns",
+          "sticking",
+          "sticks",
+          "stuck",
+          "stuck on"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "stick"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "stuck",
+          "prs": [
+            {
+              "mw": "\u02c8st\u0259k"
+            }
+          ]
+        },
+        {
+          "if": "stick*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to push into or through "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}stuck{/it} a needle in my finger."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to stab or pierce with something pointed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Ow! The thorn {it}stuck{/it} me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put in place by or as if by pushing "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}stuck{/it} candles in the cake."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to push out, up, into, or under "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}stuck{/it} out my hand."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put in a specified place or position "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}stuck{/it} a cap on my head."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to remain in a place, situation, or environment "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We decided to {it}stick{/it} where we were."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to halt the movement or action of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The car was {it}stuck{/it} in traffic."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|baffle||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I got {it}stuck{/it} on the first problem."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to burden with something unpleasant "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She was {it}stuck{/it} with paying the bill."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fix or become fixed in place by or as if by gluing "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Stick{/it} a stamp on the letter."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cling or cause to cling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My wet clothes {it}stuck{/it} to me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become blocked or jammed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The door is {it}stuck{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to push into or through",
+        "to stab or pierce with something pointed",
+        "to put in place by or as if by pushing"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stuck-up",
+        "uuid": "352ca95d-828c-4c61-a65d-4b4c6ada4bdd",
+        "sort": "192238000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stuck-up"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "stuck-up",
+        "prs": [
+          {
+            "mw": "\u02c8st\u0259k-\u02c8\u0259p"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|vain||2}, {sx|conceited||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "vain, conceited"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [],
+  "is_inflection": true,
+  "base_word": "stick",
+  "functional_label": null,
+  "pronunciation": null,
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": []
+}

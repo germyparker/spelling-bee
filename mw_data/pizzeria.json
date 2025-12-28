@@ -1,0 +1,73 @@
+{
+  "word": "pizzeria",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pizzeria",
+        "uuid": "c49b02e6-82df-43b9-bf76-0d543dfa07db",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "pizzeria",
+          "pizzerias"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "piz*ze*ria",
+        "prs": [
+          {
+            "mw": "\u02ccp\u0113t-s\u0259-\u02c8r\u0113-\u0259",
+            "sound": {
+              "audio": "pizzer01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an establishment where pizzas are made or sold"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Italian, from {it}pizza{/it}"
+        ]
+      ],
+      "shortdef": [
+        "an establishment where pizzas are made or sold"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "pizzer01",
+  "shortdef": [
+    "an establishment where pizzas are made or sold"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccp\u0113t-s\u0259-\u02c8r\u0113-\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "pizzeria",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pizzer01.mp3"
+}

@@ -1,0 +1,73 @@
+{
+  "word": "prot\u00e9g\u00e9",
+  "api_response": [
+    {
+      "meta": {
+        "id": "protege",
+        "uuid": "540b126b-8bcd-4b4f-bb4d-ca3311629e08",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "protege",
+          "proteges"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pro*t\u00e9*g\u00e9",
+        "prs": [
+          {
+            "mw": "\u02c8pr\u014dt-\u0259-\u02cczh\u0101",
+            "sound": {
+              "audio": "proteg01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one under the care and protection of someone influential especially for the furthering of his or her career"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, from {it}prot\u00e9ger{/it} {ldquo}to protect,{rdquo} from Latin {it}protegere{/it}"
+        ]
+      ],
+      "shortdef": [
+        "one under the care and protection of someone influential especially for the furthering of his or her career"
+      ]
+    }
+  ],
+  "api_level": "school",
+  "has_audio": true,
+  "audio_file": "proteg01",
+  "shortdef": [
+    "one under the care and protection of someone influential especially for the furthering of his or her career"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8pr\u014dt-\u0259-\u02cczh\u0101",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "protege",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proteg01.mp3"
+}

@@ -1,0 +1,259 @@
+{
+  "word": "answer",
+  "api_response": [
+    {
+      "meta": {
+        "id": "answer:1",
+        "uuid": "02b8d182-8710-4cbd-8b82-56b5d3f65187",
+        "sort": "010744000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "answer",
+          "answers"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "an*swer",
+        "prs": [
+          {
+            "mw": "\u02c8an-s\u0259r",
+            "sound": {
+              "audio": "answer01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something said or written in reply (as to a question)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a solution of a problem "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Money is not the {it}answer{/it} to improving this situation."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "something said or written in reply (as to a question)",
+        "a solution of a problem"
+      ]
+    },
+    {
+      "meta": {
+        "id": "answer:2",
+        "uuid": "9d8fdcbd-b9e1-40d6-a67a-243f418c54f1",
+        "sort": "010745000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "answer",
+          "answer back",
+          "answered",
+          "answerer",
+          "answerers",
+          "answering",
+          "answers"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "answer"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "an*swered"
+        },
+        {
+          "if": "an*swer*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to speak or write in order to satisfy a question"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to write a response to a letter or e-mail"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pick up (a ringing telephone)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to open (a door) when someone knocks on it"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to react to something with an action "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}answered{/it} a job ad."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take responsibility "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The camp director {it}answered{/it} for the children's safety."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "answer back",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to reply rudely"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to speak or write in order to satisfy a question",
+        "to write a response to a letter or e-mail",
+        "to pick up (a ringing telephone)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "answer01",
+  "shortdef": [
+    "something said or written in reply (as to a question)",
+    "a solution of a problem"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8an-s\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/answer01.mp3"
+}

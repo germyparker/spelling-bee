@@ -1,0 +1,77 @@
+{
+  "word": "dollop",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dollop",
+        "uuid": "963f1979-be99-45c5-af41-94d36731e7dc",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "dollop",
+          "dollops"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dol*lop",
+        "prs": [
+          {
+            "mw": "\u02c8d\u00e4l-\u0259p"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|lump||1}, {sx|blob||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}dollop{/it} of jelly"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "origin unknown"
+        ]
+      ],
+      "shortdef": [
+        "lump, blob"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "lump, blob"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8d\u00e4l-\u0259p",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "original_search_term": "dollop"
+}

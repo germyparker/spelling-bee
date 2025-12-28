@@ -1,0 +1,139 @@
+{
+  "word": "asleep",
+  "api_response": [
+    {
+      "meta": {
+        "id": "asleep:1",
+        "uuid": "4ab8c429-a133-4f5c-9551-1b06c8ec1440",
+        "sort": "011048000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "asleep"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "asleep",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8sl\u0113p",
+            "sound": {
+              "audio": "asleep01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}being in a state of sleep"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having no feeling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My foot is {it}asleep{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "being in a state of sleep",
+        "having no feeling"
+      ]
+    },
+    {
+      "meta": {
+        "id": "asleep:2",
+        "uuid": "e7c22257-a48a-4430-b1ab-7c9f18a4e802",
+        "sort": "011049000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "asleep"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "asleep"
+      },
+      "fl": "adverb",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}into a state of sleep "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I fell {it}asleep{/it} during the movie."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "into a state of sleep"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "asleep01",
+  "shortdef": [
+    "being in a state of sleep",
+    "having no feeling"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u0259-\u02c8sl\u0113p",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/asleep01.mp3"
+}

@@ -1,0 +1,695 @@
+{
+  "word": "draw",
+  "api_response": [
+    {
+      "meta": {
+        "id": "draw:1",
+        "uuid": "2bf1db53-29ab-4650-9411-21b024c5803b",
+        "sort": "041049000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "draw",
+          "draw a bead on",
+          "draw a blank",
+          "draw a line",
+          "draw on",
+          "draw out",
+          "draw straws",
+          "draw the line",
+          "draw up",
+          "draw upon",
+          "drawable",
+          "drawing",
+          "drawn",
+          "draws",
+          "drew"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "draw",
+        "prs": [
+          {
+            "mw": "\u02c8dr\u022f",
+            "sound": {
+              "audio": "draw0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "drew",
+          "prs": [
+            {
+              "mw": "\u02c8dr\u00fc"
+            }
+          ]
+        },
+        {
+          "if": "drawn",
+          "prs": [
+            {
+              "mw": "\u02c8dr\u022fn"
+            }
+          ]
+        },
+        {
+          "if": "draw*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to move by pulling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Draw{/it} the curtains, please."
+                        },
+                        {
+                          "t": "She {it}drew{/it} a chair up to the table."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to create a picture of by making lines on a surface "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}drew{/it} a map on the chalkboard."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring or pull out "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Draw{/it} your sword!"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move in a particular direction "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}drew{/it} back in horror."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bend (a bow) by pulling back the string"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or go slowly or steadily "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Spring is {it}drawing{/it} near."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|attract||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The fair {it}drew{/it} a crowd."
+                        },
+                        {
+                          "t": "He didn't want to {it}draw{/it} attention to himself."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to get as a response "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The speech {it}drew{/it} cheers."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring or get from a source "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}draw{/it} blood"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|inhale||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Draw{/it} a deep breath."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to let air flow through "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The fireplace is {it}drawing{/it} well."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|withdraw||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}drew{/it} money from the bank."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take or get at random "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}drew{/it} names from a hat."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to think of after considering information "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}draw{/it} a conclusion"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "15",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to write out in proper form "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The lawyer {it}drew{/it} up her will."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "draw on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make use of something "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The story {it}draws on{/it} old legends."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to come closer "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Night {it}draws on{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "draw out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make last longer "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Questions {it}drew out{/it} the meeting."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to talk freely "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Her friendliness {it}drew out{/it} the new student."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "draw up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to bring or come to a stop "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The car {it}drew up{/it} to the door."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to straighten up "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "He {it}drew{/it} himself {it}up{/it} to his full height."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cause to move by pulling",
+        "to create a picture of by making lines on a surface",
+        "to bring or pull out"
+      ]
+    },
+    {
+      "meta": {
+        "id": "draw:2",
+        "uuid": "fc83f514-8ddf-4583-a62d-9025abe7240e",
+        "sort": "041050000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "draw",
+          "draws"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "draw"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or the result of pulling out "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The outlaw was quick on the {it}draw{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tie game or contest"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something or someone that attracts people "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "The roller coaster is the park's main {it}draw{/it}."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act or the result of pulling out",
+        "a tie game or contest",
+        "something or someone that attracts people"
+      ]
+    },
+    {
+      "meta": {
+        "id": "drew",
+        "uuid": "858a7f8a-8eb7-4c9e-9795-d36e4c597fa4",
+        "sort": "041080000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "draw",
+          "drew"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "drew"
+      },
+      "cxs": [
+        {
+          "cxl": "past tense of",
+          "cxtis": [
+            {
+              "cxt": "draw"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "draw0001",
+  "shortdef": [
+    "to cause to move by pulling",
+    "to create a picture of by making lines on a surface",
+    "to bring or pull out"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8dr\u022f",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/draw0001.mp3"
+}

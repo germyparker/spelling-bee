@@ -1,0 +1,343 @@
+{
+  "word": "sugar",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sugar:1",
+        "uuid": "933cd7d3-350c-434c-9a76-f6e65a4069a0",
+        "sort": "192350000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sugar",
+          "sugarless",
+          "sugars"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sug*ar",
+        "prs": [
+          {
+            "mw": "\u02c8shu\u0307-g\u0259r",
+            "sound": {
+              "audio": "sugar001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sweet material that consists essentially of sucrose obtained from sugarcane or sugar beets, is typically colorless or white when pure, and is commonly used to sweeten foods and beverages"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of numerous soluble and usually sweet carbohydrates (as glucose or sucrose) that occur naturally especially in plants"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sweet material that consists essentially of sucrose obtained from sugarcane or sugar beets, is typically colorless or white when pure, and is commonly used to sweeten foods and beverages",
+        "any of numerous soluble and usually sweet carbohydrates (as glucose or sucrose) that occur naturally especially in plants"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sugar:2",
+        "uuid": "db15001f-ffbb-4f68-a789-718f73c78a83",
+        "sort": "192351000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sugar",
+          "sugared",
+          "sugaring",
+          "sugars"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "sugar"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "su*gared"
+        },
+        {
+          "if": "su*gar*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to mix, cover, or sprinkle with sugar "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The baker {it}sugared{/it} the doughnuts."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to mix, cover, or sprinkle with sugar"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sugar beet",
+        "uuid": "68e2c265-aba8-4871-83bb-29a44f534595",
+        "sort": "192352000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sugar beet"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sugar beet"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large beet with white roots that is grown as a source of sugar"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large beet with white roots that is grown as a source of sugar"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sugar maple",
+        "uuid": "11c295e2-80d9-427d-bb18-cdd85c8a9d37",
+        "sort": "192354000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hard maple",
+          "rock maple",
+          "sugar maple"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sugar maple"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a maple tree of the northeastern United States with hard strong wood and a sweet sap that is used to make maple syrup and maple sugar"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a maple tree of the northeastern United States with hard strong wood and a sweet sap that is used to make maple syrup and maple sugar"
+      ]
+    },
+    {
+      "meta": {
+        "id": "brown sugar",
+        "uuid": "7e84ad11-1dab-4161-9208-a81c45835868",
+        "sort": "021074000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "brown sugar"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "brown sugar"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}sugar that contains molasses"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "sugar that contains molasses"
+      ]
+    },
+    {
+      "meta": {
+        "id": "maple",
+        "uuid": "b5a89fea-6b29-47f4-b601-47fd81f18646",
+        "sort": "130186000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "maple",
+          "maple sugar",
+          "maple syrup",
+          "maples"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ma*ple",
+        "prs": [
+          {
+            "mw": "\u02c8m\u0101-p\u0259l",
+            "sound": {
+              "audio": "maple001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tree having deeply notched leaves, seeds with a winglike part, and hard pale wood and including some whose sap is evaporated to a sweet syrup ("
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "maple syrup"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") and a brownish sugar ("
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "maple sugar"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ")"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tree having deeply notched leaves, seeds with a winglike part, and hard pale wood and including some whose sap is evaporated to a sweet syrup (maple syrup) and a brownish sugar (maple sugar)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sugar001",
+  "shortdef": [
+    "a sweet material that consists essentially of sucrose obtained from sugarcane or sugar beets, is typically colorless or white when pure, and is commonly used to sweeten foods and beverages",
+    "any of numerous soluble and usually sweet carbohydrates (as glucose or sucrose) that occur naturally especially in plants"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8shu\u0307-g\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sugar001.mp3"
+}

@@ -1,0 +1,123 @@
+{
+  "word": "hoist",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hoist:1",
+        "uuid": "e4cf4ad1-fb72-4994-a1db-98b8fe0af6e0",
+        "sort": "080515000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hoist",
+          "hoisted",
+          "hoister",
+          "hoisters",
+          "hoisting",
+          "hoists"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "hoist",
+        "prs": [
+          {
+            "mw": "\u02c8h\u022fist",
+            "sound": {
+              "audio": "hoise003"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "hoist*ed"
+        },
+        {
+          "if": "hoist*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to lift up especially with a pulley"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "srefs": [
+        "lift"
+      ],
+      "shortdef": [
+        "to lift up especially with a pulley"
+      ]
+    },
+    {
+      "meta": {
+        "id": "hoist:2",
+        "uuid": "88e3328a-de4e-4337-af87-d2667e94a283",
+        "sort": "080516000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hoist",
+          "hoists"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "hoist"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a device used for lifting heavy loads"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a device used for lifting heavy loads"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hoise003",
+  "shortdef": [
+    "to lift up especially with a pulley"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8h\u022fist",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hoise003.mp3"
+}

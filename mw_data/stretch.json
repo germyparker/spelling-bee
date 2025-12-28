@@ -1,0 +1,387 @@
+{
+  "word": "stretch",
+  "api_response": [
+    {
+      "meta": {
+        "id": "stretch:1",
+        "uuid": "2e8145e8-f656-4070-9b3a-83f4d2bc022b",
+        "sort": "192188000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stretch",
+          "stretch a point",
+          "stretch one's legs",
+          "stretchabilities",
+          "stretchability",
+          "stretchable",
+          "stretched",
+          "stretches",
+          "stretchier",
+          "stretchiest",
+          "stretching",
+          "stretchy"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "stretch",
+        "prs": [
+          {
+            "mw": "\u02c8strech",
+            "sound": {
+              "audio": "stretc01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "stretched"
+        },
+        {
+          "if": "stretch*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to reach out {bc}{sx|extend||}, {sx|spread||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}stretched{/it} my neck to see better."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pull or draw out in length or width or both {bc}{sx|expand||}, {sx|enlarge||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Don't {it}stretch{/it} my sweater."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to extend (as the body) in a flat position "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}stretched{/it} out on the bed."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to extend the body or limbs "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You should {it}stretch{/it} before exercising."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pull tight "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Stretch{/it} the canvas over a frame."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to reach or continue "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A wire was {it}stretched{/it} between two posts."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|exaggerate||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I think you're {it}stretching{/it} the truth."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become extended without breaking "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Rubber {it}stretches{/it} easily."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to extend over a continuous period "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "His fascination with dinosaurs {it}stretches{/it} back to childhood."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to reach out : extend, spread",
+        "to pull or draw out in length or width or both : expand, enlarge",
+        "to extend (as the body) in a flat position"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stretch:2",
+        "uuid": "e2a91c86-4a81-4059-ba69-c6af65929e35",
+        "sort": "192189000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stretch",
+          "stretches"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "stretch"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act of extending or drawing out beyond ordinary or normal limits "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The story was a {it}stretch{/it} of the imagination."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the ability to be pulled or drawn out in length or width or both "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The fabric has a lot of {it}stretch.{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or an instance of stretching the body or one of its parts"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a continuous extent in length, area, or time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a short {it}stretch{/it} of beach"
+                        },
+                        {
+                          "t": "a long {it}stretch{/it} of silence"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act of extending or drawing out beyond ordinary or normal limits",
+        "the ability to be pulled or drawn out in length or width or both",
+        "the act or an instance of stretching the body or one of its parts"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "stretc01",
+  "shortdef": [
+    "to reach out : extend, spread",
+    "to pull or draw out in length or width or both : expand, enlarge",
+    "to extend (as the body) in a flat position"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8strech",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/stretc01.mp3"
+}

@@ -1,0 +1,77 @@
+{
+  "word": "mango",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mango",
+        "uuid": "5e0f700d-abf5-437b-ad47-3f87d5fe3834",
+        "sort": "130143000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mango",
+          "mangoes",
+          "mangos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "man*go",
+        "prs": [
+          {
+            "mw": "\u02c8ma\u014b-g\u014d",
+            "sound": {
+              "audio": "mango001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "man*goes"
+        },
+        {
+          "il": "or",
+          "if": "man*gos"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tropical fruit with yellowish red skin and juicy mildly tart yellow flesh"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tropical fruit with yellowish red skin and juicy mildly tart yellow flesh"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "mango001",
+  "shortdef": [
+    "a tropical fruit with yellowish red skin and juicy mildly tart yellow flesh"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ma\u014b-g\u014d",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mango001.mp3"
+}

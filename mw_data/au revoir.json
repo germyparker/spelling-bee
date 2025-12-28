@@ -1,0 +1,79 @@
+{
+  "word": "au revoir",
+  "api_response": [
+    {
+      "meta": {
+        "id": "au revoir",
+        "uuid": "c810fbd9-4fcd-479d-af35-434902bd191b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "au revoir",
+          "au revoirs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "au re*voir",
+        "prs": [
+          {
+            "mw": "\u02cc\u014dr-\u0259-\u02c8vw\u00e4r",
+            "sound": {
+              "audio": "au_rev02"
+            }
+          },
+          {
+            "mw": "\u02cc\u022fr-",
+            "sound": {
+              "audio": "au_rev01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|good-bye||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, literally, {ldquo}till seeing again{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "good-bye"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "au_rev02",
+  "shortdef": [
+    "good-bye"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02cc\u014dr-\u0259-\u02c8vw\u00e4r",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "au revoir",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/au_rev02.mp3"
+}

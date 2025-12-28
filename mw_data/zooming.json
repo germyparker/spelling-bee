@@ -1,0 +1,120 @@
+{
+  "word": "zooming",
+  "api_response": [
+    {
+      "meta": {
+        "id": "zoom:1",
+        "uuid": "ca7b9200-324c-45db-aa6e-ffff6d7ce99f",
+        "sort": "260040000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "zoom",
+          "zoomed",
+          "zooming",
+          "zooms"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "zoom",
+        "prs": [
+          {
+            "mw": "\u02c8z\u00fcm",
+            "sound": {
+              "audio": "zoom0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "zoomed"
+        },
+        {
+          "if": "zoom*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move quickly often with a loud low hum or buzz "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He \u2026 spun the truck around and {it}zoomed{/it} off \u2026",
+                          "aq": {
+                            "auth": "Oliver Butterworth",
+                            "source": "{it}The Enormous Egg{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move upward quickly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The airplane {it}zoomed{/it} into the sky."
+                        }
+                      ]
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "His new song {it}zoomed{/it} to the top of the sales charts."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move quickly often with a loud low hum or buzz",
+        "to move upward quickly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "zoom0001",
+  "shortdef": [
+    "to move quickly often with a loud low hum or buzz",
+    "to move upward quickly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8z\u00fcm",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zoom0001.mp3"
+}

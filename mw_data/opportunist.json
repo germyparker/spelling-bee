@@ -1,0 +1,205 @@
+{
+  "word": "opportunist",
+  "api_response": [
+    {
+      "meta": {
+        "id": "opportunist",
+        "uuid": "1e54f170-7f98-4a94-8041-45ae76aedcdb",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "opportunist",
+          "opportunists"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "op*por*tun*ist",
+        "prs": [
+          {
+            "mw": "\u02cc\u00e4p-\u0259r-\u02c8t\u00fc-\u02ccn\u0259st",
+            "sound": {
+              "audio": "opport04"
+            }
+          },
+          {
+            "mw": "-\u02c8ty\u00fc-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one that is opportunistic or that practices opportunism"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "opportunist",
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "one that is opportunistic or that practices opportunism"
+      ]
+    },
+    {
+      "meta": {
+        "id": "opportunistic",
+        "uuid": "4fb5292f-9680-414c-896f-01629006c2d5",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "opportunistic",
+          "opportunist",
+          "opportunistically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "op*por*tu*nis*tic",
+        "prs": [
+          {
+            "mw": "-t\u00fc-\u02c8nis-tik",
+            "sound": {
+              "audio": "opport05"
+            }
+          },
+          {
+            "mw": "-ty\u00fc-"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "bs",
+                {
+                  "sense": {
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}taking advantage of opportunities as they arise: as"
+                      ]
+                    ]
+                  }
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}exploiting opportunities with little regard to principle or consequences "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a politician considered {it}opportunistic{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}feeding on whatever food is available "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}opportunistic{/it} feeders"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "c",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}being or caused by a usually harmless microorganism that can become pathogenic under some circumstances (as when a person is already weakened by illness) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}opportunistic{/it} infections"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "op*por*tu*nis*ti*cal*ly",
+          "prs": [
+            {
+              "mw": "-ti-k(\u0259-)l\u0113",
+              "sound": {
+                "audio": "opport06"
+              }
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "taking advantage of opportunities as they arise: as",
+        "exploiting opportunities with little regard to principle or consequences",
+        "feeding on whatever food is available"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "opport04",
+  "shortdef": [
+    "one that is opportunistic or that practices opportunism"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02cc\u00e4p-\u0259r-\u02c8t\u00fc-\u02ccn\u0259st",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "opportunist",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opport04.mp3"
+}

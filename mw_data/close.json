@@ -1,0 +1,903 @@
+{
+  "word": "close",
+  "api_response": [
+    {
+      "meta": {
+        "id": "close:1",
+        "uuid": "4618aece-eb44-4abd-9458-8674c7a67a60",
+        "sort": "030861000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "closable",
+          "close",
+          "close in",
+          "close one's doors",
+          "close one's eyes to",
+          "close ranks",
+          "close the door",
+          "closeable",
+          "closed",
+          "closes",
+          "closing"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "close",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u014dz",
+            "sound": {
+              "audio": "close_01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "closed"
+        },
+        {
+          "if": "clos*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cover the opening of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}closed{/it} the box."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to change the position of so as to prevent passage through an opening {bc}{sx|shut||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Please {it}close{/it} the door."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring or come to an end "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}closed{/it} my account."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to end the operation of for a period of time or permanently "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The school was {it}closed{/it} for summer."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring the parts or edges of together "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}close{/it} a book"
+                        },
+                        {
+                          "t": "{it}Close{/it} your eyes."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|approach:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I was still behind. The finish line was {it}closing{/it}.",
+                          "aq": {
+                            "auth": "Jerry Spinelli",
+                            "source": "{it}Crash{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|decrease:1||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I ran faster and the gap between us {it}closed{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "close in",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to come or move nearer or closer "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "A storm {it}closed in{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cover the opening of",
+        "to change the position of so as to prevent passage through an opening : shut",
+        "to bring or come to an end"
+      ]
+    },
+    {
+      "meta": {
+        "id": "close:2",
+        "uuid": "7e237e62-02e2-4738-9cdf-bf397394c71f",
+        "sort": "030862000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "close",
+          "closes"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "close",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u014dz",
+            "sound": {
+              "audio": "close001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the point at which something ends "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}close{/it} of business"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the point at which something ends"
+      ]
+    },
+    {
+      "meta": {
+        "id": "close:3",
+        "uuid": "70d9da9c-c19b-4b63-94cc-29bb5653e157",
+        "sort": "030863000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "close",
+          "close to home",
+          "close to the bone",
+          "close to the vest",
+          "closelier",
+          "closeliest",
+          "closely",
+          "closeness",
+          "closenesses",
+          "closer",
+          "closest"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "close",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u014ds",
+            "sound": {
+              "audio": "close002"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "clos*er"
+        },
+        {
+          "if": "clos*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not far apart in space, time, degree, or effect "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I was {it}close{/it} to the aisle and in good position to scrutinize the feet of new arrivals.",
+                          "aq": {
+                            "auth": "Gail Carson Levine",
+                            "source": "{it}Ella Enchanted{/it}"
+                          }
+                        },
+                        {
+                          "t": "It's {it}close{/it} to nine o'clock."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very similar "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The material is a {it}close{/it} match with the curtains."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}almost reaching a particular condition "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Illness brought her {it}close{/it} to death."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having a strong liking each one for the other "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}close{/it} friends"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}strict and careful in attention to details "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}close{/it} examination"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}decided by a narrow margin "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "It was a {it}close{/it} election."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|short:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}close{/it} haircut"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having little extra space "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We all fit, but it was {it}close{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}kept secret or tending to keep secrets"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}lacking fresh or moving air "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}close{/it} room"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "close*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "close*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "not far apart in space, time, degree, or effect",
+        "very similar",
+        "almost reaching a particular condition"
+      ]
+    },
+    {
+      "meta": {
+        "id": "close:4",
+        "uuid": "7dc90e74-bdf3-4361-8620-ebbd4c8d3f09",
+        "sort": "030864000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "close",
+          "closer",
+          "closest"
+        ],
+        "offensive": false
+      },
+      "hom": 4,
+      "hwi": {
+        "hw": "close",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u014ds",
+            "sound": {
+              "audio": "close002"
+            }
+          }
+        ]
+      },
+      "fl": "adverb",
+      "ins": [
+        {
+          "if": "clos*er"
+        },
+        {
+          "if": "clos*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a short distance or time away "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The time drew {it}closer{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a short distance or time away"
+      ]
+    },
+    {
+      "meta": {
+        "id": "close call",
+        "uuid": "9651feab-6495-4f37-b59b-5e9d8003196c",
+        "sort": "030865000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "close call"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "close call",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u014ds-",
+            "sound": {
+              "audio": "close_03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a barely successful escape from a difficult or dangerous situation"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a barely successful escape from a difficult or dangerous situation"
+      ]
+    },
+    {
+      "meta": {
+        "id": "close-up",
+        "uuid": "f2f66890-aad7-4ffe-bc44-e567ddff79d0",
+        "sort": "030868000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "close-up",
+          "close-ups"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "close-up",
+        "prs": [
+          {
+            "mw": "\u02c8kl\u014ds-\u02cc\u0259p"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a photograph taken at close range"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a photograph taken at close range"
+      ]
+    },
+    {
+      "meta": {
+        "id": "wind:1",
+        "uuid": "38a85e5f-c35b-4f10-b88d-58e6dd8ec2f6",
+        "sort": "230473000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "before the wind",
+          "close to the wind",
+          "have the wind of",
+          "in the wind",
+          "near the wind",
+          "off the wind",
+          "on the wind",
+          "to the wind",
+          "to the winds",
+          "under the wind",
+          "wind",
+          "windless",
+          "windlessly",
+          "winds"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "wind",
+        "prs": [
+          {
+            "mw": "\u02c8wind",
+            "sound": {
+              "audio": "wind0003"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a natural movement of the air "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "northerly {it}winds{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}power to breathe "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Falling down knocked the {it}wind{/it} out of me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}limited knowledge especially about something secret "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They got {it}wind{/it} of our plans."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "ins": [
+                    {
+                      "if": "winds",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}wind instruments of a band or orchestra"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a natural movement of the air",
+        "power to breathe",
+        "limited knowledge especially about something secret"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "close_01",
+  "shortdef": [
+    "to cover the opening of",
+    "to change the position of so as to prevent passage through an opening : shut",
+    "to bring or come to an end"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8kl\u014dz",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/close_01.mp3"
+}

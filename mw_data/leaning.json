@@ -1,0 +1,158 @@
+{
+  "word": "leaning",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lean:1",
+        "uuid": "719e2b18-733b-4eb3-a01b-24bd58596835",
+        "sort": "120214000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lean",
+          "lean on",
+          "leaned",
+          "leaning",
+          "leans"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "lean",
+        "prs": [
+          {
+            "mw": "\u02c8l\u0113n",
+            "sound": {
+              "audio": "lean0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "leaned"
+        },
+        {
+          "if": "lean*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bend or tilt from an upright position "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Lean{/it} the ladder against the wall."
+                        },
+                        {
+                          "t": "I {it}leaned{/it} forward."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bend and rest on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You can {it}lean{/it} on me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|depend||1} "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "She {it}leans{/it} on her friends for help."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to tend or move toward in opinion, taste, or desire "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}leans{/it} towards city life."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to bend or tilt from an upright position",
+        "to bend and rest on",
+        "depend"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lean0001",
+  "shortdef": [
+    "to bend or tilt from an upright position",
+    "to bend and rest on",
+    "depend"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8l\u0113n",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lean0001.mp3"
+}

@@ -1,0 +1,152 @@
+{
+  "word": "bait",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bait:1",
+        "uuid": "03d57654-f395-465d-81f0-f3d93b64c943",
+        "sort": "020057000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bait",
+          "baits"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "bait",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0101t",
+            "sound": {
+              "audio": "bait0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that is used to attract fish or animals so they can be caught"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "something that is used to attract fish or animals so they can be caught"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bait:2",
+        "uuid": "874a0fa9-1e35-4172-bde8-cfa35382bd71",
+        "sort": "020058000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bait",
+          "baited",
+          "baiter",
+          "baiters",
+          "baiting",
+          "baits"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "bait"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bait*ed"
+        },
+        {
+          "if": "bait*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put something (as food) on or in to attract and catch fish or animals "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bait{/it} a trap"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to torment by mean or unjust attacks "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}baited{/it} him by using a nickname he hated."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to put something (as food) on or in to attract and catch fish or animals",
+        "to torment by mean or unjust attacks"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bait0001",
+  "shortdef": [
+    "something that is used to attract fish or animals so they can be caught"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8b\u0101t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bait0001.mp3"
+}

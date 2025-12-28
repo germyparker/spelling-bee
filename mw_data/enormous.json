@@ -1,0 +1,85 @@
+{
+  "word": "enormous",
+  "api_response": [
+    {
+      "meta": {
+        "id": "enormous",
+        "uuid": "13e23af1-1d03-436f-b8ff-598e6a46fc5e",
+        "sort": "050360000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "enormous",
+          "enormously",
+          "enormousness",
+          "enormousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "enor*mous",
+        "prs": [
+          {
+            "mw": "i-\u02c8n\u022fr-m\u0259s",
+            "sound": {
+              "audio": "enormo01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}unusually great in size, number, or degree "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}enormous{/it} animal"
+                        },
+                        {
+                          "t": "an {it}enormous{/it} problem"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "enor*mous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "unusually great in size, number, or degree"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "enormo01",
+  "shortdef": [
+    "unusually great in size, number, or degree"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "i-\u02c8n\u022fr-m\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/enormo01.mp3"
+}

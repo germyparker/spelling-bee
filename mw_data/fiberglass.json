@@ -1,0 +1,68 @@
+{
+  "word": "fiberglass",
+  "api_response": [
+    {
+      "meta": {
+        "id": "fiberglass",
+        "uuid": "3cb24275-8077-47d0-9948-b8c4d36d03ee",
+        "sort": "060268000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "fiberglass",
+          "fiberglasses",
+          "fibreglass",
+          "fibreglasses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "fi*ber*glass",
+        "prs": [
+          {
+            "mw": "\u02c8f\u012b-b\u0259r-\u02ccglas",
+            "sound": {
+              "audio": "fiberg01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}glass in the form of fibers used in various products (as filters and insulation)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "glass in the form of fibers used in various products (as filters and insulation)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "fiberg01",
+  "shortdef": [
+    "glass in the form of fibers used in various products (as filters and insulation)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8f\u012b-b\u0259r-\u02ccglas",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fiberg01.mp3"
+}

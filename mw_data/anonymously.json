@@ -1,0 +1,112 @@
+{
+  "word": "anonymously",
+  "api_response": [
+    {
+      "meta": {
+        "id": "anonymous",
+        "uuid": "75aedf59-bede-4942-a58e-faacc31298e5",
+        "sort": "010740000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "anonymous",
+          "anonymously",
+          "anonymousness",
+          "anonymousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "anon*y*mous",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8n\u00e4-n\u0259-m\u0259s",
+            "sound": {
+              "audio": "anonym03"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not named or identified "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}anonymous{/it} caller"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made or done by someone unknown "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}anonymous{/it} phone call"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "anon*y*mous*ly",
+          "fl": "adverb",
+          "vis": [
+            {
+              "t": "A large sum has been {it}anonymously{/it} donated."
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "not named or identified",
+        "made or done by someone unknown"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "anonym03",
+  "shortdef": [
+    "not named or identified",
+    "made or done by someone unknown"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u0259-\u02c8n\u00e4-n\u0259-m\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anonym03.mp3"
+}

@@ -1,0 +1,73 @@
+{
+  "word": "rakish",
+  "api_response": [
+    {
+      "meta": {
+        "id": "rakish",
+        "uuid": "2775608e-f081-49da-a648-8f934c20e237",
+        "sort": "180087000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "rakish"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rak*ish",
+        "prs": [
+          {
+            "mw": "\u02c8r\u0101-kish",
+            "sound": {
+              "audio": "rakish01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|jaunty||}, {sx|dashing||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He wears his hat at a {it}rakish{/it} angle."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "jaunty, dashing"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "rakish01",
+  "shortdef": [
+    "jaunty, dashing"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8r\u0101-kish",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rakish01.mp3"
+}

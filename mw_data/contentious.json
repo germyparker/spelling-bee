@@ -1,0 +1,82 @@
+{
+  "word": "contentious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "contentious",
+        "uuid": "d870e1c6-ad00-4657-9e08-502e1a5ee625",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "contentious",
+          "contentiously",
+          "contentiousness",
+          "contentiousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*ten*tious",
+        "prs": [
+          {
+            "mw": "k\u0259n-\u02c8ten-ch\u0259s",
+            "sound": {
+              "audio": "conten07"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}inclined to quarrels and disputes often over unimportant matters"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "con*ten*tious*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "con*ten*tious*ness",
+          "fl": "noun"
+        }
+      ],
+      "srefs": [
+        "belligerent"
+      ],
+      "shortdef": [
+        "inclined to quarrels and disputes often over unimportant matters"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "conten07",
+  "shortdef": [
+    "inclined to quarrels and disputes often over unimportant matters"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "k\u0259n-\u02c8ten-ch\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "contentious",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conten07.mp3"
+}

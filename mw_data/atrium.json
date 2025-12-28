@@ -1,0 +1,68 @@
+{
+  "word": "atrium",
+  "api_response": [
+    {
+      "meta": {
+        "id": "atrium",
+        "uuid": "6a83b972-bbd3-4a1c-b895-0575c711d141",
+        "sort": "011153000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "atria",
+          "atrial",
+          "atrium",
+          "atriums"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "atri*um",
+        "prs": [
+          {
+            "mw": "\u02c8\u0101-tr\u0113-\u0259m",
+            "sound": {
+              "audio": "atrium01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the part of the heart that receives blood from the veins"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the part of the heart that receives blood from the veins"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "atrium01",
+  "shortdef": [
+    "the part of the heart that receives blood from the veins"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8\u0101-tr\u0113-\u0259m",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atrium01.mp3"
+}

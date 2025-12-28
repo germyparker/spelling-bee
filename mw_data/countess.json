@@ -1,0 +1,83 @@
+{
+  "word": "countess",
+  "api_response": [
+    {
+      "meta": {
+        "id": "countess",
+        "uuid": "96215bc3-a63b-4880-8021-fbadb0c046ec",
+        "sort": "031635000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "countess",
+          "countesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "count*ess",
+        "prs": [
+          {
+            "mw": "\u02c8kau\u0307n-t\u0259s",
+            "sound": {
+              "audio": "counte75"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the wife or widow of a count or an earl"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a woman who holds the rank of a count or an earl in her own right"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the wife or widow of a count or an earl",
+        "a woman who holds the rank of a count or an earl in her own right"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "counte75",
+  "shortdef": [
+    "the wife or widow of a count or an earl",
+    "a woman who holds the rank of a count or an earl in her own right"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kau\u0307n-t\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte75.mp3"
+}

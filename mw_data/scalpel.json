@@ -1,0 +1,81 @@
+{
+  "word": "scalpel",
+  "api_response": [
+    {
+      "meta": {
+        "id": "scalpel",
+        "uuid": "ec951143-e30f-4e5e-8f60-615cef5bf3be",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "scalpel",
+          "scalpels"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "scal*pel",
+        "prs": [
+          {
+            "mw": "\u02c8skal-p\u0259l",
+            "sound": {
+              "audio": "scalpe01"
+            }
+          },
+          {
+            "l": "also",
+            "mw": "skal-\u02c8pel"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small straight thin-bladed knife used especially in surgery"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "art": {
+        "artid": "scalpel.tif",
+        "capt": "scalpel"
+      },
+      "et": [
+        [
+          "text",
+          "Latin {it}scalpellum{/it} {ldquo}small knife,{rdquo} from {it}scalprum{/it} {ldquo}chisel, knife,{rdquo} from {it}scalpere{/it} {ldquo}to carve{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a small straight thin-bladed knife used especially in surgery"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "scalpe01",
+  "shortdef": [
+    "a small straight thin-bladed knife used especially in surgery"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8skal-p\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "scalpel",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scalpe01.mp3"
+}

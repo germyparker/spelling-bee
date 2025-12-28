@@ -1,0 +1,95 @@
+{
+  "word": "wooden",
+  "api_response": [
+    {
+      "meta": {
+        "id": "wooden",
+        "uuid": "214f2804-ca9e-4604-9c39-ef283ab0dac6",
+        "sort": "230595000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "wooden",
+          "woodener",
+          "woodenest",
+          "woodenly",
+          "woodenness",
+          "woodennesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "wood*en",
+        "prs": [
+          {
+            "mw": "\u02c8wu\u0307-d\u1d4an",
+            "sound": {
+              "audio": "wooden01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made of wood"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}lacking spirit, ease, or charm "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}wooden{/it} manner"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "made of wood",
+        "lacking spirit, ease, or charm"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "wooden01",
+  "shortdef": [
+    "made of wood",
+    "lacking spirit, ease, or charm"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8wu\u0307-d\u1d4an",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/wooden01.mp3"
+}

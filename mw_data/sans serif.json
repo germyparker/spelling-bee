@@ -1,0 +1,74 @@
+{
+  "word": "sans serif",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sans serif",
+        "uuid": "05ff3611-82d3-4ec8-9651-a87b4ce4617c",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "sans serif",
+          "sans serifs",
+          "sanserif",
+          "sanserifs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sans ser*if"
+      },
+      "vrs": [
+        {
+          "vl": "or",
+          "va": "san*ser*if",
+          "prs": [
+            {
+              "mw": "san-\u02c8ser-\u0259f",
+              "sound": {
+                "audio": "sansse01"
+              }
+            }
+          ]
+        }
+      ],
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a letter or typeface with no serifs"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a letter or typeface with no serifs"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "a letter or typeface with no serifs"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "sans serif"
+}

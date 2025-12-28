@@ -1,0 +1,83 @@
+{
+  "word": "gangly",
+  "api_response": [
+    {
+      "meta": {
+        "id": "gangly",
+        "uuid": "a780c221-f2f1-44b9-867a-8125ad45710e",
+        "sort": "070065000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ganglier",
+          "gangliest",
+          "gangly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gan*gly",
+        "prs": [
+          {
+            "mw": "\u02c8ga\u014b-gl\u0113",
+            "sound": {
+              "audio": "gangly01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "gan*gli*er"
+        },
+        {
+          "if": "gan*gli*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}tall, thin, and awkward "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}gangly{/it} teenager"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "tall, thin, and awkward"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "gangly01",
+  "shortdef": [
+    "tall, thin, and awkward"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8ga\u014b-gl\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gangly01.mp3"
+}

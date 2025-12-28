@@ -1,0 +1,82 @@
+{
+  "word": "laborious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "laborious",
+        "uuid": "e48fbd12-9d1a-40ca-b6d8-26b965b25247",
+        "sort": "120014000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "laborious",
+          "laboriously",
+          "laboriousness",
+          "laboriousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "la*bo*ri*ous",
+        "prs": [
+          {
+            "mw": "l\u0259-\u02c8b\u022fr-\u0113-\u0259s",
+            "sound": {
+              "audio": "labori02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}requiring much effort "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Rebuilding was a slow and {it}laborious{/it} task."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "la*bo*ri*ous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "requiring much effort"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "labori02",
+  "shortdef": [
+    "requiring much effort"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "l\u0259-\u02c8b\u022fr-\u0113-\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/labori02.mp3"
+}

@@ -1,0 +1,465 @@
+{
+  "word": "syndrome",
+  "api_response": [
+    {
+      "meta": {
+        "id": "syndrome",
+        "uuid": "38885181-7e20-42d9-8c93-ae7a2d9c11ff",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "syndrome",
+          "syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "syn*drome",
+        "prs": [
+          {
+            "mw": "\u02c8sin-\u02ccdr\u014dm",
+            "sound": {
+              "audio": "syndro01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a group of signs and symptoms that occur together and characterize a particular abnormality or condition"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Greek {it}syndrom\u0113,{/it} from {it}syn-{/it} + {it}dramein{/it} {ldquo}to run{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a group of signs and symptoms that occur together and characterize a particular abnormality or condition"
+      ]
+    },
+    {
+      "meta": {
+        "id": "acquired immune deficiency syndrome",
+        "uuid": "37c55b8d-9713-4b9a-bdaa-1d20dfd92615",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "acquired immune deficiency syndrome",
+          "acquired immune deficiency syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "acquired immune deficiency syndrome",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8kw\u012brd-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|aids||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "aids"
+      ]
+    },
+    {
+      "meta": {
+        "id": "acquired immunodeficiency syndrome",
+        "uuid": "67189e68-477e-4f7a-8219-199de3085fbb",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "acquired immunodeficiency syndrome",
+          "acquired immunodeficiency syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "acquired immunodeficiency syndrome"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|aids||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "aids"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Down syndrome",
+        "uuid": "27c34402-a5fb-467c-a622-ce043511ae3a",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "down syndrome",
+          "down's syndrome",
+          "down syndromes",
+          "downs syndrome"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Down syndrome",
+        "prs": [
+          {
+            "mw": "\u02c8dau\u0307n-"
+          }
+        ]
+      },
+      "vrs": [
+        {
+          "vl": "or",
+          "va": "Down's syndrome",
+          "prs": [
+            {
+              "mw": "\u02c8dau\u0307nz-"
+            }
+          ]
+        }
+      ],
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a genetic disorder marked by moderate to severe mental retardation, by distinctive physical characteristics (as slanting eyes and broad hands with short fingers), and by the presence of three chromosomes of the chromosome pair numbered 21 in human beings"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "J.L.H. {it}Down,{/it} died 1896, English physician"
+        ]
+      ],
+      "shortdef": [
+        "a genetic disorder marked by moderate to severe mental retardation, by distinctive physical characteristics (as slanting eyes and broad hands with short fingers), and by the presence of three chromosomes of the chromosome pair numbered 21 in human beings"
+      ]
+    },
+    {
+      "meta": {
+        "id": "fetal alcohol syndrome",
+        "uuid": "ffc6e9e0-f0bb-4bc9-b96c-5b5faff445c5",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "fetal alcohol syndrome",
+          "fetal alcohol syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "fetal alcohol syndrome"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a variable group of birth defects including mental retardation and deficient growth that tend to occur in the offspring of women who drink large amounts of alcohol during pregnancy"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a variable group of birth defects including mental retardation and deficient growth that tend to occur in the offspring of women who drink large amounts of alcohol during pregnancy"
+      ]
+    },
+    {
+      "meta": {
+        "id": "premenstrual syndrome",
+        "uuid": "2ea5c854-c7cc-4d91-8839-6d6d6562bd3e",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "premenstrual syndrome",
+          "pms",
+          "premenstrual syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "premenstrual syndrome"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a varying group of symptoms manifested by some women prior to menstruation that may include irritability, insomnia, fatigue, anxiety, depression, headache, edema, and abdominal pain "
+                    ],
+                    [
+                      "ca",
+                      {
+                        "intro": "called also",
+                        "cats": [
+                          {
+                            "cat": "PMS"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a varying group of symptoms manifested by some women prior to menstruation that may include irritability, insomnia, fatigue, anxiety, depression, headache, edema, and abdominal pain \u2014called also PMS"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sudden infant death syndrome",
+        "uuid": "b657e7af-4ddb-421b-8f02-9a2c9644ead7",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "sudden infant death syndrome",
+          "crib death",
+          "sudden infant death syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sudden infant death syndrome"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}death of an apparently healthy infant usually before one year of age that is of unknown cause and occurs usually during sleep "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "abbreviation {it}SIDS{/it}"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "death of an apparently healthy infant usually before one year of age that is of unknown cause and occurs usually during sleep \u2014abbreviation SIDS"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Turner's syndrome",
+        "uuid": "7e93ba07-d06f-4229-a32e-efd3f9351d9b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "turner's syndrome",
+          "turners syndrome",
+          "turner's syndromes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Tur*ner's syndrome",
+        "prs": [
+          {
+            "mw": "\u02c8t\u0259r-n\u0259rz-",
+            "sound": {
+              "audio": "turner04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a genetically determined condition associated with the presence of one X chromosome and no Y chromosome and characterized by an outwardly female bodily type with incomplete and infertile sex organs"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Henry Hubert {it}Turner,{/it} died 1970, American physician"
+        ]
+      ],
+      "shortdef": [
+        "a genetically determined condition associated with the presence of one X chromosome and no Y chromosome and characterized by an outwardly female bodily type with incomplete and infertile sex organs"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Parkinson's disease",
+        "uuid": "ca177d2e-54fe-4897-b375-9246aa835fed",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "parkinson's disease",
+          "parkinsons disease",
+          "parkinson's",
+          "parkinson's syndrome",
+          "paralysis agitans",
+          "parkinson's diseases"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Par*kin*son's disease",
+        "prs": [
+          {
+            "mw": "\u02c8p\u00e4r-k\u0259n-s\u0259nz-",
+            "sound": {
+              "audio": "parkin03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a neurological disease chiefly of later life that tends to get steadily worse, is linked to decreased dopamine production by the brain, and is marked especially by stiff and trembling muscles, slowness of movement, and a shuffling walk"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a neurological disease chiefly of later life that tends to get steadily worse, is linked to decreased dopamine production by the brain, and is marked especially by stiff and trembling muscles, slowness of movement, and a shuffling walk"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "syndro01",
+  "shortdef": [
+    "a group of signs and symptoms that occur together and characterize a particular abnormality or condition"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sin-\u02ccdr\u014dm",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "syndrome",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/syndro01.mp3"
+}

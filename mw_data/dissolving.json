@@ -1,0 +1,160 @@
+{
+  "word": "dissolving",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dissolve",
+        "uuid": "cf88eda2-bfc8-45b4-9a47-8ad4525f28dc",
+        "sort": "040812000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dissolvable",
+          "dissolve",
+          "dissolved",
+          "dissolvent",
+          "dissolvents",
+          "dissolver",
+          "dissolvers",
+          "dissolves",
+          "dissolving"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dis*solve",
+        "prs": [
+          {
+            "mw": "di-\u02c8z\u00e4lv",
+            "sound": {
+              "audio": "dissol05"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "dis*solved"
+        },
+        {
+          "if": "dis*solv*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become part of a liquid "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Sugar {it}dissolves{/it} in water."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring to an end {bc}{sx|terminate||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The businessmen {it}dissolved{/it} their partnership."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fade away as if by melting or breaking up "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "His anger quickly {it}dissolved{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be overcome by a strong feeling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}dissolved{/it} into tears."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to become part of a liquid",
+        "to bring to an end : terminate",
+        "to fade away as if by melting or breaking up"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "dissol05",
+  "shortdef": [
+    "to become part of a liquid",
+    "to bring to an end : terminate",
+    "to fade away as if by melting or breaking up"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "di-\u02c8z\u00e4lv",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dissol05.mp3"
+}

@@ -1,0 +1,580 @@
+{
+  "word": "sweet",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sweet:1",
+        "uuid": "1a1510d2-b539-43ba-8862-7a8ef6cda498",
+        "sort": "192559000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sweet",
+          "sweet on",
+          "sweeter",
+          "sweetest",
+          "sweetly",
+          "sweetness",
+          "sweetnesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sweet",
+        "prs": [
+          {
+            "mw": "\u02c8sw\u0113t",
+            "sound": {
+              "audio": "sweet001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "sweet*er"
+        },
+        {
+          "if": "sweet*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}containing or tasting of sugar "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}sweet{/it} muffins"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having a pleasant sound, smell, or appearance "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}sweet{/it} fragrance"
+                        },
+                        {
+                          "t": "{it}sweet{/it} voices"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very gentle, kind, or friendly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}sweet{/it} personality"
+                        },
+                        {
+                          "t": "It was {it}sweet{/it} of you to remember."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}pleasing to the mind or feelings {bc}{sx|agreeable||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}sweet{/it} memories"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}much loved {bc}{sx|dear||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "my {it}sweet{/it} child"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}agreeable to oneself but not to others "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You took your {it}sweet{/it} time!"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not sour, stale, or spoiled "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}sweet{/it} milk"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not salt or salted "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}sweet{/it} butter"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having a mild taste {bc}not sharp "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}sweet{/it} peppers"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "sweet*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "sweet*ness",
+          "fl": "noun"
+        }
+      ],
+      "dros": [
+        {
+          "drp": "sweet on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}in love with"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "containing or tasting of sugar",
+        "having a pleasant sound, smell, or appearance",
+        "very gentle, kind, or friendly"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sweet:2",
+        "uuid": "f1f5488f-02b4-4443-ab3d-c41dac39c1bc",
+        "sort": "192560000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sweet",
+          "sweets"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "sweet"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something (as candy) that contains or tastes of sugar"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|darling:1||1}, {sx|dear||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "something (as candy) that contains or tastes of sugar",
+        "darling, dear"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sweet corn",
+        "uuid": "253bfd85-e521-44bc-9817-9740af6e8c3c",
+        "sort": "192561000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sweet corn"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sweet corn"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}corn with kernels rich in sugar that is cooked and eaten as a vegetable while young"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "corn with kernels rich in sugar that is cooked and eaten as a vegetable while young"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sweet pea",
+        "uuid": "9a8c29e9-e858-4cda-8e08-289eb005e26e",
+        "sort": "192566000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sweet pea"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sweet pea"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a climbing plant that is grown for its fragrant flowers of many colors"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a climbing plant that is grown for its fragrant flowers of many colors"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sweet potato",
+        "uuid": "aaaeca84-1e1a-4e49-a3a9-672295b51387",
+        "sort": "192567000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sweet potato"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sweet potato"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the large sweet edible root of a tropical vine that is cooked and eaten as a vegetable"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the large sweet edible root of a tropical vine that is cooked and eaten as a vegetable"
+      ]
+    },
+    {
+      "meta": {
+        "id": "laurel",
+        "uuid": "dafcaa65-7201-4ca1-851a-cbdad38e7821",
+        "sort": "120166000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bay",
+          "laurel",
+          "laurels",
+          "mountain laurel",
+          "sweet bay"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "lau*rel",
+        "prs": [
+          {
+            "mw": "\u02c8l\u022fr-\u0259l",
+            "sound": {
+              "audio": "laurel01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small evergreen European tree with shiny pointed leaves used in ancient times to crown victors (as in sports)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tree or shrub (as the American "
+                    ],
+                    [
+                      "ri",
+                      [
+                        [
+                          "riw",
+                          {
+                            "rie": "mountain laurel"
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      "text",
+                      ") that resembles the European laurel"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a crown of laurel used as a mark of honor"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small evergreen European tree with shiny pointed leaves used in ancient times to crown victors (as in sports)",
+        "a tree or shrub (as the American mountain laurel) that resembles the European laurel",
+        "a crown of laurel used as a mark of honor"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sweet001",
+  "shortdef": [
+    "containing or tasting of sugar",
+    "having a pleasant sound, smell, or appearance",
+    "very gentle, kind, or friendly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8sw\u0113t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sweet001.mp3"
+}

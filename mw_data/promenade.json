@@ -1,0 +1,86 @@
+{
+  "word": "promenade",
+  "api_response": [
+    {
+      "meta": {
+        "id": "promenade",
+        "uuid": "c2ef3dfa-2435-43c1-9b3f-cbf87583c4f0",
+        "sort": "161366000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "promenade",
+          "promenades"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "prom*e*nade",
+        "prs": [
+          {
+            "mw": "\u02ccpr\u00e4-m\u0259-\u02c8n\u0101d",
+            "sound": {
+              "audio": "promen02"
+            }
+          },
+          {
+            "mw": "-\u02c8n\u00e4d"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a walk or ride for pleasure or to be seen"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a place for walking"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a walk or ride for pleasure or to be seen",
+        "a place for walking"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "promen02",
+  "shortdef": [
+    "a walk or ride for pleasure or to be seen",
+    "a place for walking"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccpr\u00e4-m\u0259-\u02c8n\u0101d",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promen02.mp3"
+}

@@ -1,0 +1,84 @@
+{
+  "word": "steeple",
+  "api_response": [
+    {
+      "meta": {
+        "id": "steeple",
+        "uuid": "047dc68b-7c09-4030-a2f0-34524ce25922",
+        "sort": "192002000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "steeple",
+          "steepled",
+          "steeples"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "stee*ple",
+        "prs": [
+          {
+            "mw": "\u02c8st\u0113-p\u0259l",
+            "sound": {
+              "audio": "steepl01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tall pointed structure usually built on top of a church tower"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a church tower"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tall pointed structure usually built on top of a church tower",
+        "a church tower"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "steepl01",
+  "shortdef": [
+    "a tall pointed structure usually built on top of a church tower",
+    "a church tower"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8st\u0113-p\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/steepl01.mp3"
+}

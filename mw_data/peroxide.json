@@ -1,0 +1,106 @@
+{
+  "word": "peroxide",
+  "api_response": [
+    {
+      "meta": {
+        "id": "peroxide",
+        "uuid": "7f774fa1-cd57-4cf4-a940-fcfc12750577",
+        "sort": "160460000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "peroxide",
+          "peroxides",
+          "peroxidic"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "per*ox*ide",
+        "prs": [
+          {
+            "mw": "p\u0259-\u02c8r\u00e4k-\u02ccs\u012bd",
+            "sound": {
+              "audio": "peroxi02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|hydrogen peroxide||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "hydrogen peroxide"
+      ]
+    },
+    {
+      "meta": {
+        "id": "hydrogen peroxide",
+        "uuid": "fe24ead3-decb-46d5-a665-27ff5017817e",
+        "sort": "080815000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hydrogen peroxide"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hydrogen peroxide"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a liquid chemical containing hydrogen and oxygen and used for bleaching and as an antiseptic"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a liquid chemical containing hydrogen and oxygen and used for bleaching and as an antiseptic"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "peroxi02",
+  "shortdef": [
+    "hydrogen peroxide"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "p\u0259-\u02c8r\u00e4k-\u02ccs\u012bd",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peroxi02.mp3"
+}

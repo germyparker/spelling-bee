@@ -1,0 +1,150 @@
+{
+  "word": "gallop",
+  "api_response": [
+    {
+      "meta": {
+        "id": "gallop:1",
+        "uuid": "6d7442ce-b8f8-4708-b6b4-782b4a0fab4b",
+        "sort": "070045000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "gallop",
+          "galloped",
+          "galloping"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "gal*lop",
+        "prs": [
+          {
+            "mw": "\u02c8ga-l\u0259p",
+            "sound": {
+              "audio": "gallop01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "gal*loped"
+        },
+        {
+          "if": "gal*lop*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to run or cause to run at a gallop"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to ride on a galloping horse"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to run or cause to run at a gallop",
+        "to ride on a galloping horse"
+      ]
+    },
+    {
+      "meta": {
+        "id": "gallop:2",
+        "uuid": "5475ad9b-7694-4073-aee1-f60b0e2890ee",
+        "sort": "070046000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "gallop",
+          "gallops"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "gallop"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the fast springing way an animal with four feet and especially a horse runs when all four of its feet leave the ground at the same time"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a ride or run on a galloping horse"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the fast springing way an animal with four feet and especially a horse runs when all four of its feet leave the ground at the same time",
+        "a ride or run on a galloping horse"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "gallop01",
+  "shortdef": [
+    "to run or cause to run at a gallop",
+    "to ride on a galloping horse"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8ga-l\u0259p",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gallop01.mp3"
+}

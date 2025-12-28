@@ -1,0 +1,148 @@
+{
+  "word": "snug",
+  "api_response": [
+    {
+      "meta": {
+        "id": "snug",
+        "uuid": "e5f05688-25bc-4409-96f7-ce189d0e7bc1",
+        "sort": "191365000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "snug",
+          "snugger",
+          "snuggest",
+          "snugly",
+          "snugness",
+          "snugnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "snug",
+        "prs": [
+          {
+            "mw": "\u02c8sn\u0259g",
+            "sound": {
+              "audio": "snug0001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "snug*ger"
+        },
+        {
+          "if": "snug*gest"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}fitting closely and comfortably "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}snug{/it} coat"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|comfortable||1}, {sx|cozy||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}snug{/it} corner"
+                        },
+                        {
+                          "t": "I was {it}snug{/it} in the deep feathery bed \u2026",
+                          "aq": {
+                            "auth": "Mildred D. Taylor",
+                            "source": "{it}Roll of Thunder, Hear My Cry{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}offering protection or a hiding place "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}snug{/it} harbor"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "snug*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "fitting closely and comfortably",
+        "comfortable, cozy",
+        "offering protection or a hiding place"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "snug0001",
+  "shortdef": [
+    "fitting closely and comfortably",
+    "comfortable, cozy",
+    "offering protection or a hiding place"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8sn\u0259g",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/snug0001.mp3"
+}

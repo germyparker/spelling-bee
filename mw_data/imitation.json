@@ -1,0 +1,146 @@
+{
+  "word": "imitation",
+  "api_response": [
+    {
+      "meta": {
+        "id": "imitation:1",
+        "uuid": "cf201a81-1ca3-4263-8da3-a384138cac8a",
+        "sort": "090106000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "imitation",
+          "imitations"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "im*i*ta*tion",
+        "prs": [
+          {
+            "mw": "\u02cci-m\u0259-\u02c8t\u0101-sh\u0259n",
+            "sound": {
+              "audio": "imitat03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act of copying someone or something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She does great {it}imitations{/it} of celebrities."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|copy:1||1} "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "These diamonds are just {it}imitations{/it}."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act of copying someone or something",
+        "copy"
+      ]
+    },
+    {
+      "meta": {
+        "id": "imitation:2",
+        "uuid": "1704d2d6-9de1-41a3-8a13-b7004ec664a5",
+        "sort": "090107000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "imitation"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "imitation"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made to look like something else and especially something valuable "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}imitation{/it} pearls"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "made to look like something else and especially something valuable"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "imitat03",
+  "shortdef": [
+    "the act of copying someone or something",
+    "copy"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02cci-m\u0259-\u02c8t\u0101-sh\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imitat03.mp3"
+}

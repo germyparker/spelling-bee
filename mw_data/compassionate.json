@@ -1,0 +1,68 @@
+{
+  "word": "compassionate",
+  "api_response": [
+    {
+      "meta": {
+        "id": "compassionate",
+        "uuid": "2546198f-15e6-4bdf-82a3-e3aa3b4e53a6",
+        "sort": "031142000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "compassionate",
+          "compassionately",
+          "compassionateness",
+          "compassionatenesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "com*pas*sion*ate",
+        "prs": [
+          {
+            "mw": "k\u0259m-\u02c8pa-sh\u0259-n\u0259t",
+            "sound": {
+              "audio": "compas05"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having or showing pity for and desire to help someone"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "having or showing pity for and desire to help someone"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "compas05",
+  "shortdef": [
+    "having or showing pity for and desire to help someone"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "k\u0259m-\u02c8pa-sh\u0259-n\u0259t",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compas05.mp3"
+}

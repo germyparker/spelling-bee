@@ -1,0 +1,94 @@
+{
+  "word": "mysterious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mysterious",
+        "uuid": "df7c1293-8e49-4787-8bf2-20538198788c",
+        "sort": "131110000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mysterious",
+          "mysteriously",
+          "mysteriousness",
+          "mysteriousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mys*te*ri*ous",
+        "prs": [
+          {
+            "mw": "mi-\u02c8stir-\u0113-\u0259s",
+            "sound": {
+              "audio": "myster01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}strange, unknown, or hard to understand or explain "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}mysterious{/it} noise"
+                        },
+                        {
+                          "t": "a {it}mysterious{/it} stranger"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "mys*te*ri*ous*ly",
+          "fl": "adverb",
+          "vis": [
+            {
+              "t": "She {it}mysteriously{/it} disappeared."
+            }
+          ]
+        },
+        {
+          "ure": "mys*te*ri*ous*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "strange, unknown, or hard to understand or explain"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "myster01",
+  "shortdef": [
+    "strange, unknown, or hard to understand or explain"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "mi-\u02c8stir-\u0113-\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/myster01.mp3"
+}

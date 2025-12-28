@@ -1,0 +1,101 @@
+{
+  "word": "blossoms",
+  "api_response": [
+    {
+      "meta": {
+        "id": "blossom:1",
+        "uuid": "166eabb2-9cf2-4565-9fbf-af3d70beb279",
+        "sort": "020658000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "blossom",
+          "blossoms",
+          "blossomy"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "blos*som",
+        "prs": [
+          {
+            "mw": "\u02c8bl\u00e4-s\u0259m",
+            "sound": {
+              "audio": "blosso01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|flower:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "cherry {it}blossoms{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|bloom:1||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The tree is in full {it}blossom{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "flower",
+        "bloom"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "blosso01",
+  "shortdef": [
+    "flower",
+    "bloom"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8bl\u00e4-s\u0259m",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/blosso01.mp3"
+}

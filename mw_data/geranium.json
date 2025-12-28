@@ -1,0 +1,76 @@
+{
+  "word": "geranium",
+  "api_response": [
+    {
+      "meta": {
+        "id": "geranium",
+        "uuid": "24fc546d-474b-4a8e-b8e3-a7b89abbaba3",
+        "sort": "070209000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cranesbill",
+          "geranium",
+          "geraniums"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ge*ra*ni*um",
+        "prs": [
+          {
+            "mw": "j\u0259-\u02c8r\u0101-n\u0113-\u0259m",
+            "sound": {
+              "audio": "gerani03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a plant often grown for its bright flowers"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "Many of the plants of the geranium family have long, thin, pointed fruits that look a bit like the bill of a bird. The ancient Greeks thought that the fruit of the wild geranium looked like the bill of a crane, and so gave the plant the name {it}geranion{/it}, literally, {ldquo}little crane.{rdquo} The English word {it}geranium{/it} came from this Greek name."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a plant often grown for its bright flowers"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "gerani03",
+  "shortdef": [
+    "a plant often grown for its bright flowers"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "j\u0259-\u02c8r\u0101-n\u0113-\u0259m",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gerani03.mp3"
+}

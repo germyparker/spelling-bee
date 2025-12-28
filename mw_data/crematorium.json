@@ -1,0 +1,94 @@
+{
+  "word": "crematorium",
+  "api_response": [
+    {
+      "meta": {
+        "id": "crematorium",
+        "uuid": "afdcb289-2a40-4bc2-9d79-173a808d19dd",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "crematorium",
+          "crematoria",
+          "crematoriums"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cre*ma*to*ri*um",
+        "prs": [
+          {
+            "mw": "\u02cckr\u0113-m\u0259-\u02c8t\u014dr-\u0113-\u0259m",
+            "sound": {
+              "audio": "cremat04"
+            }
+          },
+          {
+            "mw": "\u02cckrem-\u0259-"
+          },
+          {
+            "mw": "-\u02c8t\u022fr-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-ri*ums",
+          "if": "cre*ma*to*ri*ums"
+        },
+        {
+          "il": "or",
+          "ifc": "-ria",
+          "if": "cre*ma*to*ria",
+          "prs": [
+            {
+              "mw": "-\u0113-\u0259",
+              "sound": {
+                "audio": "cremat09"
+              }
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|crematory||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "crematory"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "cremat04",
+  "shortdef": [
+    "crematory"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02cckr\u0113-m\u0259-\u02c8t\u014dr-\u0113-\u0259m",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "crematorium",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cremat04.mp3"
+}

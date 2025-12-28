@@ -1,0 +1,91 @@
+{
+  "word": "exuberant",
+  "api_response": [
+    {
+      "meta": {
+        "id": "exuberant",
+        "uuid": "727b5d56-8369-496d-b9f0-653263dc5718",
+        "sort": "050713000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "exuberance",
+          "exuberances",
+          "exuberant",
+          "exuberantly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ex*u*ber*ant",
+        "prs": [
+          {
+            "mw": "ig-\u02c8z\u00fc-b\u0259-r\u0259nt",
+            "sound": {
+              "audio": "exuber02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}filled with energy and enthusiasm "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The audience applause \u2026 rose in an {it}exuberant{/it} swell \u2026",
+                          "aq": {
+                            "auth": "Lois Lowry",
+                            "source": "{it}The Giver{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ex*u*ber*ance",
+          "prs": [
+            {
+              "mw": "-b\u0259-r\u0259ns"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "filled with energy and enthusiasm"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "exuber02",
+  "shortdef": [
+    "filled with energy and enthusiasm"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "ig-\u02c8z\u00fc-b\u0259-r\u0259nt",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exuber02.mp3"
+}

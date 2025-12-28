@@ -1,0 +1,62 @@
+{
+  "word": "repugnant",
+  "api_response": [
+    {
+      "meta": {
+        "id": "repugnant",
+        "uuid": "60030a46-e289-4072-bd4b-a31a962cf67d",
+        "sort": "180600000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "repugnant",
+          "repugnantly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "re*pug*nant",
+        "prs": [
+          {
+            "mw": "ri-\u02c8p\u0259g-n\u0259nt"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}causing a strong feeling of dislike or distrust"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "causing a strong feeling of dislike or distrust"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "causing a strong feeling of dislike or distrust"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "ri-\u02c8p\u0259g-n\u0259nt",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": []
+}

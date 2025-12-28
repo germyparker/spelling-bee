@@ -1,0 +1,516 @@
+{
+  "word": "wheels",
+  "api_response": [
+    {
+      "meta": {
+        "id": "wheel:1",
+        "uuid": "446c9f9b-593a-4a06-a639-61e24eaaf436",
+        "sort": "230307000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "wheel",
+          "wheeled",
+          "wheelless",
+          "wheels"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "wheel",
+        "prs": [
+          {
+            "mw": "\u02c8hw\u0113l",
+            "sound": {
+              "audio": "wheel001"
+            }
+          },
+          {
+            "mw": "\u02c8w\u0113l"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a disk or circular frame that can turn on a central point"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that is round "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}wheel{/it} of cheese"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|steering wheel||} "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "His hands tightly gripped the {it}wheel{/it}."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something having a wheel as its main part "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a spinning {it}wheel{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "ins": [
+                    {
+                      "if": "wheels",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}moving power {bc}necessary parts "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}wheels{/it} of government"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "wheeled",
+          "prs": [
+            {
+              "mw": "\u02c8hw\u0113ld"
+            },
+            {
+              "mw": "\u02c8w\u0113ld"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "a disk or circular frame that can turn on a central point",
+        "something that is round",
+        "steering wheel"
+      ]
+    },
+    {
+      "meta": {
+        "id": "training wheels",
+        "uuid": "2fc9b5bb-1a60-46d3-a8f7-9d58afccbadf",
+        "sort": "200793000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "training wheels"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "training wheels"
+      },
+      "fl": "noun plural",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pair of small wheels connected to the rear axle of a bicycle to help a beginning rider keep balance"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a pair of small wheels connected to the rear axle of a bicycle to help a beginning rider keep balance"
+      ]
+    },
+    {
+      "meta": {
+        "id": "Ferris wheel",
+        "uuid": "17f80d30-1fcf-4ffe-9f34-1855aa7b19a7",
+        "sort": "060229000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "Ferris wheel",
+          "Ferris wheels"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Fer*ris wheel",
+        "prs": [
+          {
+            "mw": "\u02c8fer-\u0259s-",
+            "sound": {
+              "audio": "ferris01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an amusement park ride consisting of a large vertical wheel that is moved by a motor and has seats around its rim"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an amusement park ride consisting of a large vertical wheel that is moved by a motor and has seats around its rim"
+      ]
+    },
+    {
+      "meta": {
+        "id": "spin:1",
+        "uuid": "7b9e6496-955b-490f-b109-0047e7f67654",
+        "sort": "191671000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "spin",
+          "spin one's wheels",
+          "spinner",
+          "spinners",
+          "spinning",
+          "spins",
+          "spun"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "spin",
+        "prs": [
+          {
+            "mw": "\u02c8spin",
+            "sound": {
+              "audio": "spin0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "spun",
+          "prs": [
+            {
+              "mw": "\u02c8sp\u0259n"
+            }
+          ]
+        },
+        {
+          "if": "spin*ning"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to turn or cause to turn round and round rapidly {bc}{sx|twirl||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He fell after {it}spinning{/it} in circles."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make yarn or thread from (fibers) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}spun{/it} the silk into thread."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make (yarn or thread) from fibers "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She was {it}spinning{/it} yarn from wool."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form threads or a web or cocoon by giving off a sticky fluid that quickly hardens "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A spider was {it}spinning{/it} its web."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to feel as if in a whirl "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My head was {it}spinning{/it}."
+                        },
+                        {
+                          "t": "The room was {it}spinning{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make up and tell using the imagination "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I listened to him {it}spin{/it} a tale."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move swiftly on wheels or in a vehicle "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The car {it}spun{/it} away."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make, shape, or produce by or as if by whirling "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The woman {it}spun{/it} sugar as a demonstration."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "spin*ner",
+          "prs": [
+            {
+              "mw": "\u02c8spi-n\u0259r"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to turn or cause to turn round and round rapidly : twirl",
+        "to make yarn or thread from (fibers)",
+        "to make (yarn or thread) from fibers"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "wheel001",
+  "shortdef": [
+    "a disk or circular frame that can turn on a central point",
+    "something that is round",
+    "steering wheel"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8hw\u0113l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/wheel001.mp3"
+}

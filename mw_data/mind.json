@@ -1,0 +1,2613 @@
+{
+  "word": "mind",
+  "api_response": [
+    {
+      "meta": {
+        "id": "mind:1",
+        "uuid": "cf6097fa-753a-4f4a-8ccd-e8d9f3e83a54",
+        "sort": "130619000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mind",
+          "minds"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "mind",
+        "prs": [
+          {
+            "mw": "\u02c8m\u012bnd",
+            "sound": {
+              "audio": "mind0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the part of a person that thinks, reasons, feels, understands, and remembers"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|memory||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Keep my advice in {it}mind{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|intention||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I changed my {it}mind{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person's view or opinion about something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Speak your {it}mind{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the part of a person that thinks, reasons, feels, understands, and remembers",
+        "memory",
+        "intention"
+      ]
+    },
+    {
+      "meta": {
+        "id": "mind:2",
+        "uuid": "3ebdae56-6f11-4e2f-80d2-ac4254e7ae2c",
+        "sort": "130620000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "mind",
+          "minded",
+          "minding"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "mind"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "mind*ed"
+        },
+        {
+          "if": "mind*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pay attention to "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Mind{/it} what you're doing."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|obey||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Be sure to {it}mind{/it} the teacher."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be bothered by "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}Don't {it}mind{/it} the boys,{rdquo} Abigail whispered. {ldquo}They tease.{rdquo}",
+                          "aq": {
+                            "auth": "Alice Dalgliesh",
+                            "source": "{it}The Courage of Sarah Noble{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to object to {bc}{sx|dislike||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I don't {it}mind{/it} the cold."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take charge of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Please {it}mind{/it} the children."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be careful about "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You should {it}mind{/it} what you say."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "srefs": [
+        "obey"
+      ],
+      "shortdef": [
+        "to pay attention to",
+        "obey",
+        "to be bothered by"
+      ]
+    },
+    {
+      "meta": {
+        "id": "frame of mind",
+        "uuid": "b7101408-2e7b-466f-8630-a0d17df93aec",
+        "sort": "060847000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "frame of mind"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "frame of mind"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a particular state or mood"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a particular state or mood"
+      ]
+    },
+    {
+      "meta": {
+        "id": "presence of mind",
+        "uuid": "3e0e205a-7af0-47c1-b279-69f70df8fbe3",
+        "sort": "161185000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "presence of mind"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "presence of mind"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the ability to think clearly and act quickly in an emergency"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the ability to think clearly and act quickly in an emergency"
+      ]
+    },
+    {
+      "meta": {
+        "id": "back:1",
+        "uuid": "8059fa0b-8abf-4817-b26e-d1d6154e9ca1",
+        "sort": "020016000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "back",
+          "back of one's hand",
+          "back of one's mind",
+          "back of the hand",
+          "backed",
+          "backless",
+          "backs",
+          "behind one's back",
+          "in back of"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "back",
+        "prs": [
+          {
+            "mw": "\u02c8bak",
+            "sound": {
+              "audio": "back0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the rear part of the human body from the neck to the end of the spine {bc}the upper part of the body of an animal"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the part of something that is opposite or away from the front part"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a player in a team game who plays behind the forward line of players"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "backed",
+          "prs": [
+            {
+              "mw": "\u02c8bakt"
+            }
+          ],
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "a high-{it}backed{/it} chair"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "the rear part of the human body from the neck to the end of the spine : the upper part of the body of an animal",
+        "the part of something that is opposite or away from the front part",
+        "a player in a team game who plays behind the forward line of players"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bear:2",
+        "uuid": "ffbc88f5-19ba-4776-a15f-0d7c8d5c179f",
+        "sort": "020277000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bear",
+          "bear a hand",
+          "bear arms",
+          "bear down on",
+          "bear fruit",
+          "bear in mind",
+          "bear up",
+          "bear with",
+          "bearing",
+          "bears",
+          "bore",
+          "born",
+          "borne"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "bear"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bore",
+          "prs": [
+            {
+              "mw": "\u02c8b\u022fr"
+            }
+          ]
+        },
+        {
+          "if": "borne",
+          "prs": [
+            {
+              "mw": "\u02c8b\u022frn"
+            }
+          ]
+        },
+        {
+          "if": "bear*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|support:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bear{/it} weight"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move while holding up and supporting {bc}{sx|carry||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They came {it}bearing{/it} gifts."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to hold in the mind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}bears{/it} a grudge."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put up with "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I can't {it}bear{/it} the suspense."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to assume or accept "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bear{/it} the blame"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have as a feature or characteristic "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}bears{/it} a resemblance to her sister."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}give birth to "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}bear{/it} children"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|produce:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "trees {it}bearing{/it} fruit"
+                        },
+                        {
+                          "t": "{it}bear{/it} interest"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or lie in the indicated direction "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Bear{/it} right at the fork."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have a relation to the matter at hand "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "These facts don't {it}bear{/it} on the question."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "bear down on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to push or lean down on "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Bear down{/it} hard {it}on{/it} your pencil."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bear in mind",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to think of especially as a warning "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Bear in mind{/it} that you only get one chance."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bear up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to have strength or courage "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She's {it}bearing up{/it} under the stress."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bear with",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be patient with "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Bear with{/it} me."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "support",
+        "to move while holding up and supporting : carry",
+        "to hold in the mind"
+      ]
+    },
+    {
+      "meta": {
+        "id": "blow:1",
+        "uuid": "bf9498d7-4faf-4394-8365-3da344ae1263",
+        "sort": "020667000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "blew",
+          "blow",
+          "blow a gasket",
+          "blow hot and cold",
+          "blow off steam",
+          "blow one's cool",
+          "blow one's cover",
+          "blow one's mind",
+          "blow one's stack",
+          "blow one's top",
+          "blow over",
+          "blow smoke",
+          "blow the whistle",
+          "blow up",
+          "blower",
+          "blowers",
+          "blowing",
+          "blown",
+          "blows"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "blow",
+        "prs": [
+          {
+            "mw": "\u02c8bl\u014d",
+            "sound": {
+              "audio": "blow0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "blew",
+          "prs": [
+            {
+              "mw": "\u02c8bl\u00fc"
+            }
+          ]
+        },
+        {
+          "if": "blown",
+          "prs": [
+            {
+              "mw": "\u02c8bl\u014dn"
+            }
+          ]
+        },
+        {
+          "if": "blow*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or be moved usually with speed and force "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Wind is {it}blowing{/it} from the north."
+                        },
+                        {
+                          "t": "The door {it}blew{/it} shut."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move in or with the wind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Dust {it}blew{/it} through the cracks."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to send forth a strong stream of air from the mouth or from a bellows "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "If you are cold, {it}blow{/it} on your hands."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make a sound or cause to sound by blowing "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The whistle {it}blows{/it} loudly."
+                        },
+                        {
+                          "t": "{it}Blow{/it} your horn."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to clear by forcing air through "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Blow{/it} your nose."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to shape by forcing air into "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The workers showed how they {it}blow{/it} glass."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to enter or leave very quickly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}blew{/it} into the room."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fail in performing or keeping "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The actor {it}blew{/it} his lines."
+                        },
+                        {
+                          "t": "The team {it}blew{/it} a big lead."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "blow*er",
+          "prs": [
+            {
+              "mw": "\u02c8bl\u014d-\u0259r"
+            }
+          ],
+          "fl": "noun"
+        }
+      ],
+      "dros": [
+        {
+          "drp": "blow over",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to pass without effect "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "His anger will {it}blow over{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "blow up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|explode||1}"
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to fill with a gas "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}blow up{/it} a balloon"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move or be moved usually with speed and force",
+        "to move in or with the wind",
+        "to send forth a strong stream of air from the mouth or from a bellows"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bring",
+        "uuid": "5707498e-ebc3-4498-ab6c-976385c0962a",
+        "sort": "021012000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bring",
+          "bring about",
+          "bring back",
+          "bring forth",
+          "bring forward",
+          "bring home",
+          "bring on",
+          "bring out",
+          "bring to",
+          "bring to account",
+          "bring to bear",
+          "bring to book",
+          "bring to light",
+          "bring to mind",
+          "bring to terms",
+          "bring up",
+          "bring up the rear",
+          "bringer",
+          "bringers",
+          "bringing",
+          "brings",
+          "brought"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bring",
+        "prs": [
+          {
+            "mw": "\u02c8bri\u014b",
+            "sound": {
+              "audio": "bring001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "brought",
+          "prs": [
+            {
+              "mw": "\u02c8br\u022ft"
+            }
+          ]
+        },
+        {
+          "if": "bring*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to come by carrying or leading {bc}take along "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Students were told to {it}bring{/it} lunches."
+                        },
+                        {
+                          "t": "{it}Bring{/it} all your friends!"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to reach a certain state or take a certain action "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Bring{/it} the water to a boil."
+                        },
+                        {
+                          "t": "I couldn't {it}bring{/it} myself to say it."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to arrive or exist "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Their cries {it}brought{/it} help."
+                        },
+                        {
+                          "t": "The storm {it}brought{/it} snow and ice."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to sell for "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The house {it}brought{/it} a high price."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "bring*er",
+          "fl": "noun"
+        }
+      ],
+      "dros": [
+        {
+          "drp": "bring about",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to happen"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bring back",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to return to a person's memory "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Seeing him {it}brought{/it} it all {it}back{/it} to me."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bring forth",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to happen or exist {bc}{sx|produce||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Her statement {it}brought forth{/it} protest."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bring on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to happen to "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You've {it}brought{/it} these problems {it}on{/it} yourself."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bring out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to produce and make available "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The manufacturer {it}brought out{/it} a new model."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to appear "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "His friends {it}bring out{/it} the best in him."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bring to",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to bring back from unconsciousness {bc}{sx|revive||}"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "bring up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to bring to maturity through care and education "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}bring up{/it} a child"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to mention when talking "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}bring up{/it} a subject"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cause to come by carrying or leading : take along",
+        "to cause to reach a certain state or take a certain action",
+        "to cause to arrive or exist"
+      ]
+    },
+    {
+      "meta": {
+        "id": "call:1",
+        "uuid": "c11bd118-b5cf-4013-bf4b-d9675cfa6ae1",
+        "sort": "030057000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "call",
+          "call a spade a spade",
+          "call for",
+          "call forth",
+          "call in question",
+          "call into question",
+          "call it a day",
+          "call it quits",
+          "call names",
+          "call off",
+          "call on",
+          "call one's bluff",
+          "call out",
+          "call the shots",
+          "call the tune",
+          "call time",
+          "call to account",
+          "call to mind",
+          "call upon",
+          "called",
+          "calling",
+          "calls"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "call",
+        "prs": [
+          {
+            "mw": "\u02c8k\u022fl",
+            "sound": {
+              "audio": "call0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "called"
+        },
+        {
+          "if": "call*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to speak in a loud clear voice so as to be heard at a distance {bc}{sx|shout||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}called{/it} for help."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to announce or read (something) loudly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}called{/it} the roll."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to tell, order, or ask to come "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Please {it}call{/it} everyone to dinner."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give the order for "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}call{/it} a meeting"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to utter a cry "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "birds {it}calling{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to get in touch with by telephone "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}calls{/it} home every day."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make a short visit "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}called{/it} at a neighbor's house."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|name:2||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}called{/it} the cat {ldquo}Patches.{rdquo}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to address someone or something as "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "What did you {it}call{/it} me?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to regard as being of a certain kind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Would you {it}call{/it} that generous?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to say or guess what the result will be "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The election is too close to {it}call{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to estimate as being "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Let's {it}call{/it} it an even dollar."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|suspend||4}, {sx|end||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The game was {it}called{/it} on account of rain."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "call for",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to require as necessary or suitable "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We'll do whatever is {it}called for{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make a request or demand "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The newspaper {it}called for{/it} an investigation."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "call off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|cancel||2} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The party was {it}called off{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause or tell to stop attacking or chasing "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Call off{/it} your dog."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "call on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to choose to answer "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The teacher {it}called on{/it} me first."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|visit:1||1} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}call on{/it} a friend"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "call out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to speak in a loud voice "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Nokomis snored and often talked in her sleep, {it}calling out{/it} to people from long ago.",
+                              "aq": {
+                                "auth": "Louise Erdrich",
+                                "source": "{it}The Birchbark House{/it}"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to announce or read (something) loudly "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}call out{/it} a number"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to order (a group of people) to come or go somewhere "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}call out{/it} the troops"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "call to mind",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to be thought of or remembered"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to speak in a loud clear voice so as to be heard at a distance : shout",
+        "to announce or read (something) loudly",
+        "to tell, order, or ask to come"
+      ]
+    },
+    {
+      "meta": {
+        "id": "cross:2",
+        "uuid": "540ddd1e-97a0-4f24-95d6-d7bc0eaec41a",
+        "sort": "031841000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cross",
+          "cross off",
+          "cross out",
+          "cross someone's mind",
+          "cross yourself",
+          "crossed",
+          "crossing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "cross"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "crossed"
+        },
+        {
+          "if": "cross*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move, pass, or extend across or past "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Look both ways before you {it}cross{/it} the street."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to place one over the other "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Cross{/it} your fingers!"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to lie or be situated across "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A path {it}crosses{/it} the front yard."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go across {bc}{sx|intersect||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to turn (the eyes) toward the nose"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to draw a line across "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Remember to {it}cross{/it} your {it}t{/it}'s."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to act against {bc}{sx|oppose||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She's tough, and I wouldn't dare to {it}cross{/it} her."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause (an animal or plant) to breed with one of another kind {bc}produce hybrids"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pass going in opposite directions "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Their letters {it}crossed{/it} in the mail."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "cross off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to draw a line through (something) "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You can {it}cross{/it} my name {it}off{/it} the list."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cross out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to draw a line through (something) to show that it is wrong "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I {it}crossed out{/it} the misspelled word."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cross someone's mind",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be thought of by someone "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Losing never {it}crossed her mind.{/it}"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cross yourself",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to touch the forehead, chest, and shoulders as an expression of Christian faith (as in prayer)"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move, pass, or extend across or past",
+        "to place one over the other",
+        "to lie or be situated across"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "mind0001",
+  "shortdef": [
+    "the part of a person that thinks, reasons, feels, understands, and remembers",
+    "memory",
+    "intention"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8m\u012bnd",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mind0001.mp3"
+}

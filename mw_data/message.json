@@ -1,0 +1,214 @@
+{
+  "word": "message",
+  "api_response": [
+    {
+      "meta": {
+        "id": "message",
+        "uuid": "a9c56a24-4a7c-4314-ad9a-66078c4c5c03",
+        "sort": "130474000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "message",
+          "messages"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mes*sage",
+        "prs": [
+          {
+            "mw": "\u02c8me-sij",
+            "sound": {
+              "audio": "messag01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the exchange of information in writing, in speech, or by signals"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an underlying theme or idea "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the book's {it}message{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the exchange of information in writing, in speech, or by signals",
+        "an underlying theme or idea"
+      ]
+    },
+    {
+      "meta": {
+        "id": "message board",
+        "uuid": "6f45e4e3-4493-4e22-b169-c53756675417",
+        "sort": "130475000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "message board"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "message board"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a public computer system on the Internet that allows people to read and leave messages for other users"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a public computer system on the Internet that allows people to read and leave messages for other users"
+      ]
+    },
+    {
+      "meta": {
+        "id": "text message",
+        "uuid": "691e82b7-b03a-4544-848f-6c4baea5cbb5",
+        "sort": "200309000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "text message"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "text message"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a short message that is sent electronically to a cell phone or other device"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a short message that is sent electronically to a cell phone or other device"
+      ]
+    },
+    {
+      "meta": {
+        "id": "instant messaging",
+        "uuid": "8d23ee1a-e1c8-4148-ad5e-02a3a95acf5d",
+        "sort": "090615000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "instant message",
+          "instant messaging"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "instant mes*sag*ing",
+        "prs": [
+          {
+            "mw": "-\u02c8me-si-ji\u014b"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a system for sending messages quickly over the Internet from one computer to another"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a system for sending messages quickly over the Internet from one computer to another"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "messag01",
+  "shortdef": [
+    "the exchange of information in writing, in speech, or by signals",
+    "an underlying theme or idea"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8me-sij",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/messag01.mp3"
+}

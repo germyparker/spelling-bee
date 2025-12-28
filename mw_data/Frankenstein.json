@@ -1,0 +1,108 @@
+{
+  "word": "Frankenstein",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Frankenstein",
+        "uuid": "913c910b-f606-427a-90e2-c64421cf49c6",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "frankenstein",
+          "frankensteinian",
+          "frankensteins"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Fran*ken*stein",
+        "prs": [
+          {
+            "mw": "\u02c8frang-k\u0259n-\u02ccst\u012bn",
+            "sound": {
+              "audio": "franke01"
+            }
+          },
+          {
+            "mw": "-\u02ccst\u0113n"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a monster in the shape of a man"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a monstrous creation"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a work or agency that ruins its originator"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "from {it}Frankenstein,{/it} a student of physiology in Mary W. Shelley's novel {it}Frankenstein{/it} whose life is ruined by a monster he creates"
+        ]
+      ],
+      "shortdef": [
+        "a monster in the shape of a man",
+        "a monstrous creation",
+        "a work or agency that ruins its originator"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "franke01",
+  "shortdef": [
+    "a monster in the shape of a man",
+    "a monstrous creation",
+    "a work or agency that ruins its originator"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8frang-k\u0259n-\u02ccst\u012bn",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "Frankenstein",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/franke01.mp3"
+}

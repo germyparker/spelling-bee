@@ -1,0 +1,75 @@
+{
+  "word": "ratify",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ratify",
+        "uuid": "f4c245a1-b9f6-4058-9ce4-cb9fe0753f47",
+        "sort": "180160000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ratified",
+          "ratify",
+          "ratifying"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rat*i*fy",
+        "prs": [
+          {
+            "mw": "\u02c8ra-t\u0259-f\u012b",
+            "sound": {
+              "audio": "ratify01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "rat*i*fied"
+        },
+        {
+          "if": "rat*i*fy*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give legal approval to (as by a vote)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to give legal approval to (as by a vote)"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ratify01",
+  "shortdef": [
+    "to give legal approval to (as by a vote)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8ra-t\u0259-f\u012b",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ratify01.mp3"
+}

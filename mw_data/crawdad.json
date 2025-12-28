@@ -1,0 +1,73 @@
+{
+  "word": "crawdad",
+  "api_response": [
+    {
+      "meta": {
+        "id": "crawdad",
+        "uuid": "013e6ba9-81fe-4cde-8dd7-ef24e94f9fa7",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "crawdad",
+          "crawdads"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "craw*dad",
+        "prs": [
+          {
+            "mw": "\u02c8kr\u022f-\u02ccdad",
+            "sound": {
+              "audio": "crawda01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|crayfish||1}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "alteration of {it}crawfish{/it}"
+        ]
+      ],
+      "shortdef": [
+        "crayfish"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "crawda01",
+  "shortdef": [
+    "crayfish"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8kr\u022f-\u02ccdad",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "crawdad",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crawda01.mp3"
+}

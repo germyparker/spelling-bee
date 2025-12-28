@@ -1,0 +1,117 @@
+{
+  "word": "barricade",
+  "api_response": [
+    {
+      "meta": {
+        "id": "barricade:1",
+        "uuid": "42a7b0f8-b686-45a4-9380-1dcbd4de9723",
+        "sort": "020183000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "barricade",
+          "barricaded",
+          "barricading"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "bar*ri*cade",
+        "prs": [
+          {
+            "mw": "\u02c8ber-\u0259-\u02cck\u0101d",
+            "sound": {
+              "audio": "barric01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "bar*ri*cad*ed"
+        },
+        {
+          "if": "bar*ri*cad*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to block off with a temporary barrier"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to block off with a temporary barrier"
+      ]
+    },
+    {
+      "meta": {
+        "id": "barricade:2",
+        "uuid": "69fb8294-5ad7-47db-b127-8002455fb59a",
+        "sort": "020184000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "barricade",
+          "barricades"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "barricade"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a temporary barrier for protection against attack or for blocking the way"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a temporary barrier for protection against attack or for blocking the way"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "barric01",
+  "shortdef": [
+    "to block off with a temporary barrier"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8ber-\u0259-\u02cck\u0101d",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/barric01.mp3"
+}

@@ -1,0 +1,314 @@
+{
+  "word": "hollow",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hollow:1",
+        "uuid": "93d4b484-9db5-422d-80e1-70bb34d83bb0",
+        "sort": "080527000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hollow",
+          "hollower",
+          "hollowest",
+          "hollowly",
+          "hollowness",
+          "hollownesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "hol*low",
+        "prs": [
+          {
+            "mw": "\u02c8h\u00e4-l\u014d",
+            "sound": {
+              "audio": "hollow01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "hol*low*er"
+        },
+        {
+          "if": "hol*low*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having a space inside {bc}not solid "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}hollow{/it} chocolate egg"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}curved inward {bc}{sx|sunken||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}hollow{/it} cheeks"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}suggesting a sound made in an empty place "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}hollow{/it} roar"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not sincere "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}hollow{/it} promise"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "hol*low*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "having a space inside : not solid",
+        "curved inward : sunken",
+        "suggesting a sound made in an empty place"
+      ]
+    },
+    {
+      "meta": {
+        "id": "hollow:2",
+        "uuid": "183c1738-2510-4db2-9fbf-af8acf427008",
+        "sort": "080528000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hollow",
+          "hollows"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "hollow"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a low spot in a surface "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Circling around through the flats, I came to the {it}hollow{/it} above the Pritchards' place.",
+                          "aq": {
+                            "auth": "Wilson Rawls",
+                            "source": "{it}Where the Red Fern Grows{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small valley"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an empty space within something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Owls live in the {it}hollow{/it} of the tree."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a low spot in a surface",
+        "a small valley",
+        "an empty space within something"
+      ]
+    },
+    {
+      "meta": {
+        "id": "hollow:3",
+        "uuid": "3f3ed526-f231-42b6-ba43-9c04c771485f",
+        "sort": "080529000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hollow",
+          "hollowed",
+          "hollowing"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "hollow"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "hol*lowed"
+        },
+        {
+          "if": "hol*low*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make or become hollow "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The canoe was made by {it}hollowing{/it} out a log."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to make or become hollow"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hollow01",
+  "shortdef": [
+    "having a space inside : not solid",
+    "curved inward : sunken",
+    "suggesting a sound made in an empty place"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8h\u00e4-l\u014d",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hollow01.mp3"
+}

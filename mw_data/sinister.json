@@ -1,0 +1,99 @@
+{
+  "word": "sinister",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sinister",
+        "uuid": "3cd4e855-0cfd-4ad9-ad46-2e4eeb096dd8",
+        "sort": "190990000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sinister",
+          "sinisterly",
+          "sinisterness",
+          "sinisternesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sin*is*ter",
+        "prs": [
+          {
+            "mw": "\u02c8si-n\u0259s-t\u0259r",
+            "sound": {
+              "audio": "sinist01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}threatening evil, harm, or danger "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We heard {it}sinister{/it} rumors."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|evil:1||1}, {sx|corrupt||} "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "We feared he would do something far more {it}sinister.{/it}"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "threatening evil, harm, or danger",
+        "evil, corrupt"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sinist01",
+  "shortdef": [
+    "threatening evil, harm, or danger",
+    "evil, corrupt"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8si-n\u0259s-t\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sinist01.mp3"
+}

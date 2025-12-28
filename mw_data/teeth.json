@@ -1,0 +1,2215 @@
+{
+  "word": "teeth",
+  "api_response": [
+    {
+      "meta": {
+        "id": "teeth",
+        "uuid": "47f9ce9b-ed72-484c-8b1e-bc8ab2e2ea15",
+        "sort": "200203000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "teeth",
+          "tooth"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "teeth"
+      },
+      "cxs": [
+        {
+          "cxl": "plural of",
+          "cxtis": [
+            {
+              "cxt": "tooth"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    },
+    {
+      "meta": {
+        "id": "tooth",
+        "uuid": "c21eddf9-5286-47c4-9a2b-8596ec6a18d4",
+        "sort": "200674000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "in the teeth of",
+          "teeth",
+          "to the teeth",
+          "tooth",
+          "toothless",
+          "toothlike"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tooth",
+        "prs": [
+          {
+            "mw": "\u02c8t\u00fcth",
+            "sound": {
+              "audio": "tooth001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "teeth",
+          "prs": [
+            {
+              "mw": "\u02c8t\u0113th"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one of the hard bony structures set in sockets on the jaws of most vertebrates and used especially to chew and bite"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something like or suggesting an animal's tooth in shape, arrangement, or action "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}teeth{/it} of a comb"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one of the projections around the rim of a wheel that fit between the projections on another part causing the other part to move as the wheel turns"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "tooth*less",
+          "prs": [
+            {
+              "mw": "\u02c8t\u00fcth-l\u0259s"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "one of the hard bony structures set in sockets on the jaws of most vertebrates and used especially to chew and bite",
+        "something like or suggesting an animal's tooth in shape, arrangement, or action",
+        "one of the projections around the rim of a wheel that fit between the projections on another part causing the other part to move as the wheel turns"
+      ]
+    },
+    {
+      "meta": {
+        "id": "baby tooth",
+        "uuid": "37bb56c5-5ea3-45ef-bcc3-eba1b3df330c",
+        "sort": "020014000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "baby teeth",
+          "baby tooth"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "baby tooth"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|milk tooth||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "milk tooth"
+      ]
+    },
+    {
+      "meta": {
+        "id": "cut:1",
+        "uuid": "72c985e5-c41e-4493-817a-a32eab75ea4d",
+        "sort": "032003000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "cut",
+          "cut a deal",
+          "cut back",
+          "cut both ways",
+          "cut corners",
+          "cut down",
+          "cut ice",
+          "cut in",
+          "cut into",
+          "cut it",
+          "cut loose",
+          "cut off",
+          "cut one's teeth",
+          "cut out",
+          "cut the mustard",
+          "cut to the chase",
+          "cuts",
+          "cutting"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "cut",
+        "prs": [
+          {
+            "mw": "\u02c8k\u0259t",
+            "sound": {
+              "audio": "cut00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "cut"
+        },
+        {
+          "if": "cut*ting"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to penetrate or divide with or as if with an edged tool {bc}{sx|cleave||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}cut{/it} a finger"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to undergo shaping or penetrating with an edged tool "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Cheese {it}cuts{/it} easily."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to divide into two or more parts "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}cut{/it} a deck of cards"
+                        },
+                        {
+                          "t": "Would you {it}cut{/it} the cake?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to shorten or remove with scissors, a knife, or clippers"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go by a short or direct path or course "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}cut{/it} across the lawn."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to destroy the connection of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Soldiers {it}cut{/it} electricity to the enemy."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to intentionally not attend "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He developed a habit of {it}cutting{/it} class."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move quickly or suddenly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The driver {it}cut{/it} across two lanes of traffic."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make less "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}cut{/it} costs"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to experience the growth of through the gum "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The baby is {it}cutting{/it} teeth."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to stop or cause to stop "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Cut{/it} the motor."
+                        },
+                        {
+                          "t": "{it}Cut{/it} that whispering."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause painful feelings "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "That remark really {it}cut{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to shape by carving or grinding "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}cut{/it} a gem"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to remove (something) from a computer document in a way that allows you to move it to another part of the document or to another document"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "cut back",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to use less or do less of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I {it}cut back{/it} on watching TV."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to reduce the size or amount of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You'll have to {it}cut back{/it} on your vacation plans."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cut down",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to knock down and wound or kill"
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to reduce the size or amount of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The new route {it}cuts down{/it} on travel time."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "to use less or do less of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'm {it}cutting down{/it} on sweets."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cut in",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|interrupt||1}"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cut into",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to reduce the amount of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The increase in supply costs {it}cut into{/it} their profit."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cut off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|isolate||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The flood {it}cut{/it} us {it}off{/it} from the rest of the city."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|discontinue||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "His father threatened to {it}cut off{/it} his allowance."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to stop or interrupt while speaking "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She always {it}cuts{/it} me {it}off{/it} while I'm talking."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "cut out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to form by removing with scissors, a knife, or a saw"
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to assign through necessity "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You've got your work {it}cut out{/it} for you."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to put an end to "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Cut out{/it} that nonsense!"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to penetrate or divide with or as if with an edged tool : cleave",
+        "to undergo shaping or penetrating with an edged tool",
+        "to divide into two or more parts"
+      ]
+    },
+    {
+      "meta": {
+        "id": "fly:1",
+        "uuid": "311b0f61-33f2-4b73-ab2b-d0738a395e5b",
+        "sort": "060611000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "flew",
+          "flies",
+          "flown",
+          "fly",
+          "fly at",
+          "fly blind",
+          "fly high",
+          "fly in the face of",
+          "fly in the teeth of",
+          "flying"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "fly",
+        "prs": [
+          {
+            "mw": "\u02c8fl\u012b",
+            "sound": {
+              "audio": "fly00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "flew",
+          "prs": [
+            {
+              "mw": "\u02c8fl\u00fc"
+            }
+          ]
+        },
+        {
+          "if": "flown",
+          "prs": [
+            {
+              "mw": "\u02c8fl\u014dn"
+            }
+          ]
+        },
+        {
+          "if": "fly*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move in or pass through the air with wings "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Birds and airplanes {it}fly{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move through the air or before the wind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Paper was {it}flying{/it} in all directions."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to float or cause to float, wave, or soar in the wind "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}fly{/it} a kite"
+                        },
+                        {
+                          "t": "{it}fly{/it} a flag"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to run away {bc}{sx|flee||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 calling out to him to {it}fly{/it}, for God's sake, by the window \u2026",
+                          "aq": {
+                            "auth": "Charles Dickens",
+                            "source": "{it}The Cricket on the Hearth{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pass or move swiftly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Time {it}flies{/it}."
+                        },
+                        {
+                          "t": "Cars were {it}flying{/it} past us."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to operate or travel in an aircraft "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}fly{/it} a jet"
+                        },
+                        {
+                          "t": "I'm {it}flying{/it} home today."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become suddenly emotional "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}flew{/it} into a rage."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move in or pass through the air with wings",
+        "to move through the air or before the wind",
+        "to float or cause to float, wave, or soar in the wind"
+      ]
+    },
+    {
+      "meta": {
+        "id": "milk tooth",
+        "uuid": "e0223de2-a753-4e5d-9134-dd50696ab8b4",
+        "sort": "130587000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "baby tooth",
+          "deciduous tooth",
+          "milk teeth",
+          "milk tooth"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "milk tooth"
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "milk teeth"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one of the first and temporary teeth of which humans grow 20"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "one of the first and temporary teeth of which humans grow 20"
+      ]
+    },
+    {
+      "meta": {
+        "id": "set:1",
+        "uuid": "f474712c-299e-48ad-aef2-f56fd5b570c3",
+        "sort": "190610000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "set",
+          "set about",
+          "set apart",
+          "set aside",
+          "set at",
+          "set eyes on",
+          "set foot in",
+          "set foot on",
+          "set forth",
+          "set forward",
+          "set in",
+          "set in motion",
+          "set off",
+          "set one straight",
+          "set one's hand to",
+          "set one's heart on",
+          "set one's house in order",
+          "set one's sights on",
+          "set one's teeth on edge",
+          "set out",
+          "set sail",
+          "set store by",
+          "set store on",
+          "set the stage",
+          "set to music",
+          "set up",
+          "set upon",
+          "sets",
+          "setting"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "set",
+        "prs": [
+          {
+            "mw": "\u02c8set",
+            "sound": {
+              "audio": "set00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "set"
+        },
+        {
+          "if": "set*ting"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put or fix in a place or condition "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}set{/it} the box on a table."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to be, become, or do "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Police {it}set{/it} the prisoner free."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|start:1||4} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}set{/it} a fire."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fix or decide on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}set{/it} the wedding date."
+                        },
+                        {
+                          "t": "Have you {it}set{/it} a price?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to furnish as a model "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "You should {it}set{/it} an example for the others."
+                        },
+                        {
+                          "t": "She ran to the front and {it}set{/it} the pace."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to adjust or put in order for use "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Please {it}set{/it} the table."
+                        },
+                        {
+                          "t": "Did you {it}set{/it} the alarm?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fix firmly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}sets{/it} his feet and takes aim."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pass below the horizon {bc}go down "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The sun is {it}setting{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to begin some activity "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}set{/it} to work on the cleaning project."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to sit "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}set{/it} the baby in her chair."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to arrange in a desired and especially a normal position "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Doctors {it}set{/it} the broken bone."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become or cause to become firm or solid "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Wait for the cement to {it}set{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cover and warm eggs to hatch them "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The hen {it}set{/it} for days."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to locate the plot of (a story)"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "15",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to provide (as words or verses) with music"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "set aside",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to reserve for some purpose"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "set eyes on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to catch sight of {bc}{sx|see||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Though he lived nearby, I had never {it}set eyes on{/it} him."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "set in",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make its appearance {bc}{sx|begin||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "They needed to leave arctic waters before winter {it}set in{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "set off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to start a journey "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We {it}set off{/it} for home."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|explode||1} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We {it}set off{/it} fireworks."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make noticeable "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The phrase is {it}set off{/it} by commas."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "4",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to cause to start "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The story {it}set{/it} them {it}off{/it} laughing."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "set out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to begin on a course or journey "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We arrived a month after we {it}set out{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to begin with a purpose "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "He {it}set out{/it} to win."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "set up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to place or secure in position "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Help me {it}set up{/it} the tables."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to put in operation "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The community {it}set up{/it} an animal shelter."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to put or fix in a place or condition",
+        "to cause to be, become, or do",
+        "start"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sink:1",
+        "uuid": "c99e289f-75ed-4ba7-b3f0-4e263fd8fb93",
+        "sort": "190991000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sank",
+          "sink",
+          "sink one's teeth into",
+          "sinkable",
+          "sinking",
+          "sinks",
+          "sunk"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sink",
+        "prs": [
+          {
+            "mw": "\u02c8si\u014bk",
+            "sound": {
+              "audio": "sink0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sank",
+          "prs": [
+            {
+              "mw": "\u02c8sa\u014bk"
+            }
+          ]
+        },
+        {
+          "il": "or",
+          "if": "sunk",
+          "prs": [
+            {
+              "mw": "\u02c8s\u0259\u014bk"
+            }
+          ]
+        },
+        {
+          "if": "sunk"
+        },
+        {
+          "if": "sink*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or cause to move downward so as to be swallowed up "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The ship {it}sank{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fall or drop to a lower level "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They both {it}sank{/it} gratefully to the floor.",
+                          "aq": {
+                            "auth": "Jane Yolen",
+                            "source": "{it}The Devil's Arithmetic{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to penetrate or cause to penetrate "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}sank{/it} an ax into the tree."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go into or become absorbed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Water {it}sank{/it} into the ground."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become known or felt "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She had to let the news {it}sink{/it} in."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to lessen in amount "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The temperature {it}sank{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form by digging or boring "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We'll {it}sink{/it} a well for water."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to spend (money) unwisely"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to descend into a feeling of sadness or dread "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "When I realized I had not won, my heart {it}sank{/it}."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move or cause to move downward so as to be swallowed up",
+        "to fall or drop to a lower level",
+        "to penetrate or cause to penetrate"
+      ]
+    },
+    {
+      "meta": {
+        "id": "skin:1",
+        "uuid": "95c2fea8-3c88-47ed-9490-af458adf0288",
+        "sort": "191064000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "by the skin of one's teeth",
+          "skin",
+          "skinless",
+          "skinned",
+          "skins",
+          "under one's skin",
+          "under the skin"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "skin",
+        "prs": [
+          {
+            "mw": "\u02c8skin",
+            "sound": {
+              "audio": "skin0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the usually flexible outer layer of an animal body that in vertebrate animals is made up of two layers of cells forming an inner dermis and an outer epidermis"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the hide of an animal"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an outer or surface layer "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "potato {it}skins{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "skin*less",
+          "prs": [
+            {
+              "mw": "-l\u0259s"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "skinned",
+          "prs": [
+            {
+              "mw": "\u02c8skind"
+            }
+          ],
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "smooth-{it}skinned{/it}"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "the usually flexible outer layer of an animal body that in vertebrate animals is made up of two layers of cells forming an inner dermis and an outer epidermis",
+        "the hide of an animal",
+        "an outer or surface layer"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": null,
+  "pronunciation": null,
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": []
+}

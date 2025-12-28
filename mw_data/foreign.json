@@ -1,0 +1,146 @@
+{
+  "word": "foreign",
+  "api_response": [
+    {
+      "meta": {
+        "id": "foreign",
+        "uuid": "75f670bb-a734-42ed-bed0-143a852239c3",
+        "sort": "060717000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "foreign",
+          "foreignness",
+          "foreignnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "for*eign",
+        "prs": [
+          {
+            "mw": "\u02c8f\u022fr-\u0259n",
+            "sound": {
+              "audio": "foreig01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}located outside of a place or country and especially outside of a person's own country "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}foreign{/it} nation"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}belonging to a place or country other than the one under consideration "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Do you speak a {it}foreign{/it} language?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}relating to or having to do with other nations "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}foreign{/it} trade"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}not normally belonging or wanted where found "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}foreign{/it} material in food"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "located outside of a place or country and especially outside of a person's own country",
+        "belonging to a place or country other than the one under consideration",
+        "relating to or having to do with other nations"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "foreig01",
+  "shortdef": [
+    "located outside of a place or country and especially outside of a person's own country",
+    "belonging to a place or country other than the one under consideration",
+    "relating to or having to do with other nations"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8f\u022fr-\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreig01.mp3"
+}

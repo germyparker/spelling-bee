@@ -1,0 +1,137 @@
+{
+  "word": "chocolate",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chocolate",
+        "uuid": "eb8cfeae-cb72-4191-954b-a2ca4873fd3d",
+        "sort": "030628000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chocolate",
+          "chocolates"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "choc*o*late",
+        "prs": [
+          {
+            "mw": "\u02c8ch\u00e4-k\u0259-l\u0259t",
+            "sound": {
+              "audio": "chocol11"
+            }
+          },
+          {
+            "mw": "\u02c8ch\u00e4-kl\u0259t"
+          },
+          {
+            "mw": "\u02c8ch\u022f-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a food prepared from ground roasted cacao beans"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a candy made or coated with chocolate"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a beverage of chocolate in water or milk "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 he ordered \u2026 a pot of coffee and another of {it}chocolate{/it}.",
+                          "aq": {
+                            "auth": "Esther Forbes",
+                            "source": "{it}Johnny Tremain{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "chocolate",
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "{it}chocolate{/it} ice cream"
+            }
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "The word {it}chocolate{/it}, like {it}chili{/it} and {it}tomato{/it}, comes from a language called Nahuatl spoken by Indigenous people in central Mexico. The Nahuatl word {it}chocol\u0101tl{/it} looks like a compound, but its parts are not known for certain, and this has led to much discussion about its origin. One interesting idea is that the real source is {it}chicol\u0101tl{/it}, a Nahuatl dialect word, made from {it}chicolli{/it}, {ldquo}hook{rdquo}\u2014here referring to the small hooked stick used to beat chocolate and hot water to a froth\u2014and {it}\u0101tl{/it}, {ldquo}liquid, water.{rdquo}"
+          ]
+        ]
+      },
+      "shortdef": [
+        "a food prepared from ground roasted cacao beans",
+        "a candy made or coated with chocolate",
+        "a beverage of chocolate in water or milk"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "chocol11",
+  "shortdef": [
+    "a food prepared from ground roasted cacao beans",
+    "a candy made or coated with chocolate",
+    "a beverage of chocolate in water or milk"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ch\u00e4-k\u0259-l\u0259t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chocol11.mp3"
+}

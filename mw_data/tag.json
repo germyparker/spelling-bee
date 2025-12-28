@@ -1,0 +1,278 @@
+{
+  "word": "tag",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tag:1",
+        "uuid": "4d3120d4-5ca3-46c6-ba44-574e259902f9",
+        "sort": "200031000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tag",
+          "tags"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "tag",
+        "prs": [
+          {
+            "mw": "\u02c8tag",
+            "sound": {
+              "audio": "tag00001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small flap or tab fixed or hanging on something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a price {it}tag{/it}"
+                        },
+                        {
+                          "t": "a name {it}tag{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small flap or tab fixed or hanging on something"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tag:2",
+        "uuid": "d2279176-2d89-40e3-bb17-cbb18659ea7a",
+        "sort": "200032000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tag",
+          "tag along",
+          "tagged",
+          "tagging",
+          "tags"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "tag"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "tagged"
+        },
+        {
+          "if": "tag*ging"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to follow closely and continually"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put a tab or label on"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "tag along",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to follow another's lead in going from one place to another"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to follow closely and continually",
+        "to put a tab or label on"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tag:3",
+        "uuid": "9e897136-67cd-4507-867e-31a81abd245c",
+        "sort": "200033000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tag",
+          "tags"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "tag"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a game in which one player who is it chases the others and tries to touch one of them to make that person it"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a game in which one player who is it chases the others and tries to touch one of them to make that person it"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tag:4",
+        "uuid": "fc6e9c02-8621-4d55-bff9-fa7b50f8534d",
+        "sort": "200034000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tag",
+          "tagged",
+          "tagging",
+          "tags"
+        ],
+        "offensive": false
+      },
+      "hom": 4,
+      "hwi": {
+        "hw": "tag"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "tagged"
+        },
+        {
+          "if": "tag*ging"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to touch in or as if in a game of tag"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to touch a runner in baseball with the ball and cause the runner to be out"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to touch in or as if in a game of tag",
+        "to touch a runner in baseball with the ball and cause the runner to be out"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tag00001",
+  "shortdef": [
+    "a small flap or tab fixed or hanging on something"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8tag",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tag00001.mp3"
+}

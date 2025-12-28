@@ -1,0 +1,105 @@
+{
+  "word": "kitchen",
+  "api_response": [
+    {
+      "meta": {
+        "id": "kitchen",
+        "uuid": "02838afe-7f41-4992-9894-41c13dcb8b17",
+        "sort": "110104000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "kitchen",
+          "kitchens"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "kitch*en",
+        "prs": [
+          {
+            "mw": "\u02c8ki-ch\u0259n",
+            "sound": {
+              "audio": "kitche01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a room in which food is prepared and cooking is done"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a room in which food is prepared and cooking is done"
+      ]
+    },
+    {
+      "meta": {
+        "id": "kitchen garden",
+        "uuid": "3970b426-07c0-4f79-82b1-9656a50b2896",
+        "sort": "110106000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "kitchen garden"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "kitchen garden"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a piece of land where vegetables are grown for household use"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a piece of land where vegetables are grown for household use"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "kitche01",
+  "shortdef": [
+    "a room in which food is prepared and cooking is done"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ki-ch\u0259n",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kitche01.mp3"
+}

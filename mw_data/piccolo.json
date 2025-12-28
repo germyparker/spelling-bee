@@ -1,0 +1,74 @@
+{
+  "word": "piccolo",
+  "api_response": [
+    {
+      "meta": {
+        "id": "piccolo",
+        "uuid": "b81476b3-e2c5-49f2-8029-fcb15368e747",
+        "sort": "160590000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "piccolo",
+          "piccoloist",
+          "piccoloists",
+          "piccolos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pic*co*lo",
+        "prs": [
+          {
+            "mw": "\u02c8pi-k\u0259-\u02ccl\u014d",
+            "sound": {
+              "audio": "piccol01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "pic*co*los"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a high-pitched instrument resembling a small flute"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a high-pitched instrument resembling a small flute"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "piccol01",
+  "shortdef": [
+    "a high-pitched instrument resembling a small flute"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8pi-k\u0259-\u02ccl\u014d",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/piccol01.mp3"
+}

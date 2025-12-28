@@ -1,0 +1,100 @@
+{
+  "word": "reclusive",
+  "api_response": [
+    {
+      "meta": {
+        "id": "recluse:1",
+        "uuid": "26d2118f-37ba-4f2c-b562-b983664dc256",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "recluse",
+          "reclusive",
+          "reclusively",
+          "reclusiveness",
+          "reclusivenesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "re*cluse",
+        "prs": [
+          {
+            "mw": "\u02c8rek-\u02ccl\u00fcs",
+            "sound": {
+              "audio": "reclus01"
+            }
+          },
+          {
+            "mw": "ri-\u02c8kl\u00fcs",
+            "sound": {
+              "audio": "reclus02"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}marked by withdrawal from society {bc}{sx|solitary||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "re*clu*sive",
+          "prs": [
+            {
+              "mw": "ri-\u02c8kl\u00fc-siv",
+              "sound": {
+                "audio": "reclus03"
+              }
+            },
+            {
+              "mw": "-ziv"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Medieval French {it}reclus,{/it} literally, {ldquo}shut up,{rdquo} from Late Latin {it}reclusus,{/it} past participle of {it}recludere{/it} {ldquo}to shut up,{rdquo} from Latin {it}re-{/it} + {it}claudere{/it} {ldquo}to close{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "marked by withdrawal from society : solitary"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "reclus01",
+  "shortdef": [
+    "marked by withdrawal from society : solitary"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8rek-\u02ccl\u00fcs",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "reclusive",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reclus01.mp3"
+}

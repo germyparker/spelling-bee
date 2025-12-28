@@ -1,0 +1,83 @@
+{
+  "word": "scavenger",
+  "api_response": [
+    {
+      "meta": {
+        "id": "scavenger",
+        "uuid": "193a3445-99e8-46a5-a518-32e9bfd0945d",
+        "sort": "190240000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "scavenger",
+          "scavengers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "scav*en*ger",
+        "prs": [
+          {
+            "mw": "\u02c8ska-v\u0259n-j\u0259r",
+            "sound": {
+              "audio": "scaven02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person who picks over junk or garbage for useful items"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an animal (as a vulture) that feeds on dead or decaying material"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person who picks over junk or garbage for useful items",
+        "an animal (as a vulture) that feeds on dead or decaying material"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "scaven02",
+  "shortdef": [
+    "a person who picks over junk or garbage for useful items",
+    "an animal (as a vulture) that feeds on dead or decaying material"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ska-v\u0259n-j\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scaven02.mp3"
+}

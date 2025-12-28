@@ -1,0 +1,83 @@
+{
+  "word": "equations",
+  "api_response": [
+    {
+      "meta": {
+        "id": "equation",
+        "uuid": "ebb835c2-f4d8-4a9d-9541-06849f8cce32",
+        "sort": "050428000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "equation",
+          "equations"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "equa*tion",
+        "prs": [
+          {
+            "mw": "i-\u02c8kw\u0101-zh\u0259n",
+            "sound": {
+              "audio": "equati01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a statement of the equality of two mathematical expressions"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an expression representing a chemical reaction by means of chemical symbols"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a statement of the equality of two mathematical expressions",
+        "an expression representing a chemical reaction by means of chemical symbols"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "equati01",
+  "shortdef": [
+    "a statement of the equality of two mathematical expressions",
+    "an expression representing a chemical reaction by means of chemical symbols"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "i-\u02c8kw\u0101-zh\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/equati01.mp3"
+}

@@ -1,0 +1,91 @@
+{
+  "word": "graffitist",
+  "api_response": [
+    {
+      "meta": {
+        "id": "graffito",
+        "uuid": "a06c4f86-c71a-4b94-b58d-7b36a8cf2ddb",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "graffito",
+          "graffiti",
+          "graffitist",
+          "graffitists",
+          "graffitos"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "graf*fi*to",
+        "prs": [
+          {
+            "mw": "gra-\u02c8f\u0113t-\u014d",
+            "sound": {
+              "audio": "graffi01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "ifc": "-ti",
+          "if": "graf*fi*ti",
+          "prs": [
+            {
+              "mw": "-\u0113",
+              "sound": {
+                "audio": "graffi02"
+              }
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an inscription or drawing made on a public surface (as a rock or wall)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Italian"
+        ]
+      ],
+      "shortdef": [
+        "an inscription or drawing made on a public surface (as a rock or wall)"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "graffi01",
+  "shortdef": [
+    "an inscription or drawing made on a public surface (as a rock or wall)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "gra-\u02c8f\u0113t-\u014d",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "graffitist",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/graffi01.mp3"
+}

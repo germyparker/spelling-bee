@@ -1,0 +1,199 @@
+{
+  "word": "ration",
+  "api_response": [
+    {
+      "meta": {
+        "id": "ration:1",
+        "uuid": "03cf4d18-3df0-487a-b2f7-e82ae21716b5",
+        "sort": "180163000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ration",
+          "rations"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "ra*tion",
+        "prs": [
+          {
+            "mw": "\u02c8ra-sh\u0259n",
+            "sound": {
+              "audio": "ration02"
+            }
+          },
+          {
+            "mw": "\u02c8r\u0101-sh\u0259n"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a food allowance for one day"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "ins": [
+                    {
+                      "if": "rations",
+                      "spl": "plural"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|provision:1||1}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the amount each person is allowed by an authority "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The government set a gas {it}ration{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a food allowance for one day",
+        "provision",
+        "the amount each person is allowed by an authority"
+      ]
+    },
+    {
+      "meta": {
+        "id": "ration:2",
+        "uuid": "8cc47b69-7d90-4aa6-84de-ea9b2fa143f6",
+        "sort": "180164000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ration",
+          "rationed",
+          "rationing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "ration"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ra*tioned"
+        },
+        {
+          "if": "ra*tion*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to control the amount an individual can use "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The government {it}rationed{/it} gas."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to use sparingly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Ration{/it} your water on the hike."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to control the amount an individual can use",
+        "to use sparingly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "ration02",
+  "shortdef": [
+    "a food allowance for one day",
+    "provision",
+    "the amount each person is allowed by an authority"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ra-sh\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ration02.mp3"
+}

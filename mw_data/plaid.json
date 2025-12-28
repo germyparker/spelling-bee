@@ -1,0 +1,95 @@
+{
+  "word": "plaid",
+  "api_response": [
+    {
+      "meta": {
+        "id": "plaid",
+        "uuid": "8bda8fdc-663e-421f-a4e7-3d208739ec6c",
+        "sort": "160737000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "plaid",
+          "plaided",
+          "plaids"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "plaid",
+        "prs": [
+          {
+            "mw": "\u02c8plad",
+            "sound": {
+              "audio": "plaid001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pattern consisting of rectangles formed by crossed lines of various widths"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|tartan||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "plaid",
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "a {it}plaid{/it} skirt"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "a pattern consisting of rectangles formed by crossed lines of various widths",
+        "tartan"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "plaid001",
+  "shortdef": [
+    "a pattern consisting of rectangles formed by crossed lines of various widths",
+    "tartan"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8plad",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plaid001.mp3"
+}

@@ -1,0 +1,75 @@
+{
+  "word": "hyperventilated",
+  "api_response": [
+    {
+      "meta": {
+        "id": "hyperventilate",
+        "uuid": "42433400-40e6-4d53-a138-ef183c14e6c9",
+        "sort": "080830000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "hyperventilate",
+          "hyperventilated",
+          "hyperventilating"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "hy*per*ven*ti*late",
+        "prs": [
+          {
+            "mw": "\u02cch\u012b-p\u0259r-\u02c8ven-t\u0259-\u02ccl\u0101t",
+            "sound": {
+              "audio": "hyperv02"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "hy*per*ven*ti*lat*ed"
+        },
+        {
+          "if": "hy*per*ven*ti*lat*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to breathe very quickly and deeply"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to breathe very quickly and deeply"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "hyperv02",
+  "shortdef": [
+    "to breathe very quickly and deeply"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02cch\u012b-p\u0259r-\u02c8ven-t\u0259-\u02ccl\u0101t",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hyperv02.mp3"
+}

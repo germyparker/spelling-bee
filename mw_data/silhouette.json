@@ -1,0 +1,159 @@
+{
+  "word": "silhouette",
+  "api_response": [
+    {
+      "meta": {
+        "id": "silhouette:1",
+        "uuid": "87217382-4827-48b1-8fc8-cc2994f14115",
+        "sort": "190939000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "silhouette",
+          "silhouettes"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sil*hou*ette",
+        "prs": [
+          {
+            "mw": "\u02ccsi-l\u0259-\u02c8wet",
+            "sound": {
+              "audio": "silhou01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|outline:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "In the dim light, their faces were just {it}silhouettes{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a drawing, picture, or portrait of the outline of a person or object filled in with a solid usually black color"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "A man named \u00c9tienne de {it}Silhouette{/it} was once in charge of the finances of France. He was a miser who did not like to spend his money or the country's money. According to one story he was too cheap to buy paintings for the walls of his mansion, and so he made simple outline drawings to hang in place of paintings. In French and in English {it}silhouette{/it} still means {ldquo}an outline drawing.{rdquo}"
+          ]
+        ]
+      },
+      "shortdef": [
+        "outline",
+        "a drawing, picture, or portrait of the outline of a person or object filled in with a solid usually black color"
+      ]
+    },
+    {
+      "meta": {
+        "id": "silhouette:2",
+        "uuid": "e7c4dc74-84f0-46d0-bbf9-9a0ed9dc9d6d",
+        "sort": "190940000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "silhouette",
+          "silhouetted",
+          "silhouetting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "silhouette"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sil*hou*ett*ed"
+        },
+        {
+          "if": "sil*hou*ett*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to represent by an outline {bc}show against a light background "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "An airplane was {it}silhouetted{/it} against the sky."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to represent by an outline : show against a light background"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "silhou01",
+  "shortdef": [
+    "outline",
+    "a drawing, picture, or portrait of the outline of a person or object filled in with a solid usually black color"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccsi-l\u0259-\u02c8wet",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/silhou01.mp3"
+}

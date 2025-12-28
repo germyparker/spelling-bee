@@ -1,0 +1,74 @@
+{
+  "word": "vigilance",
+  "api_response": [
+    {
+      "meta": {
+        "id": "vigilance",
+        "uuid": "4fdc98b9-0bdb-4a23-bd11-6c15d205cc0a",
+        "sort": "220218000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "vigilance",
+          "vigilances"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "vig*i*lance",
+        "prs": [
+          {
+            "mw": "\u02c8vi-j\u0259-l\u0259ns",
+            "sound": {
+              "audio": "vigila01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the quality or state of staying alert especially to possible danger "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The guards maintained their {it}vigilance{/it} in watching for intruders."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the quality or state of staying alert especially to possible danger"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "vigila01",
+  "shortdef": [
+    "the quality or state of staying alert especially to possible danger"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8vi-j\u0259-l\u0259ns",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vigila01.mp3"
+}

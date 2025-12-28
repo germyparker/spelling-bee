@@ -1,0 +1,89 @@
+{
+  "word": "dexterity",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dexterity",
+        "uuid": "0407d61d-b8ea-45a4-9c88-3a1c698a02f7",
+        "sort": "040507000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dexterities",
+          "dexterity"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dex*ter*i*ty",
+        "prs": [
+          {
+            "mw": "dek-\u02c8ster-\u0259-t\u0113",
+            "sound": {
+              "audio": "dexter02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "dex*ter*i*ties"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}skill and ease in the use of the hands or body"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the ability to think and act quickly and cleverly"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "skill and ease in the use of the hands or body",
+        "the ability to think and act quickly and cleverly"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "dexter02",
+  "shortdef": [
+    "skill and ease in the use of the hands or body",
+    "the ability to think and act quickly and cleverly"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "dek-\u02c8ster-\u0259-t\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dexter02.mp3"
+}

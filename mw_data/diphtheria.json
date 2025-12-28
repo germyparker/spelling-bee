@@ -1,0 +1,71 @@
+{
+  "word": "diphtheria",
+  "api_response": [
+    {
+      "meta": {
+        "id": "diphtheria",
+        "uuid": "cff697ff-778b-4b6a-bd90-49ce467cc791",
+        "sort": "040610000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "diphtheria",
+          "diphtherial",
+          "diphtherias",
+          "diphtheritic"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "diph*the*ria",
+        "prs": [
+          {
+            "mw": "dif-\u02c8thir-\u0113-\u0259",
+            "sound": {
+              "audio": "diphth02"
+            }
+          },
+          {
+            "mw": "dip-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a contagious disease that often makes breathing and swallowing difficult"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a contagious disease that often makes breathing and swallowing difficult"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "diphth02",
+  "shortdef": [
+    "a contagious disease that often makes breathing and swallowing difficult"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "dif-\u02c8thir-\u0113-\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/diphth02.mp3"
+}

@@ -1,0 +1,109 @@
+{
+  "word": "limbs",
+  "api_response": [
+    {
+      "meta": {
+        "id": "limb",
+        "uuid": "aa052e17-85ee-4b8d-961c-91b7d762e9db",
+        "sort": "120411000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "limb",
+          "limbed",
+          "limbier",
+          "limbiest",
+          "limbless",
+          "limbs",
+          "limby",
+          "out on a limb"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "limb",
+        "prs": [
+          {
+            "mw": "\u02c8lim",
+            "sound": {
+              "audio": "limb0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of the paired parts (as an arm, wing, or leg) of an animal that stick out from the body and are used mostly in moving and grasping"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large branch of a tree"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "limbed",
+          "prs": [
+            {
+              "mw": "\u02c8limd"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "limb*less",
+          "prs": [
+            {
+              "mw": "\u02c8lim-l\u0259s"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "any of the paired parts (as an arm, wing, or leg) of an animal that stick out from the body and are used mostly in moving and grasping",
+        "a large branch of a tree"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "limb0001",
+  "shortdef": [
+    "any of the paired parts (as an arm, wing, or leg) of an animal that stick out from the body and are used mostly in moving and grasping",
+    "a large branch of a tree"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8lim",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/limb0001.mp3"
+}

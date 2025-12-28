@@ -1,0 +1,245 @@
+{
+  "word": "send",
+  "api_response": [
+    {
+      "meta": {
+        "id": "send",
+        "uuid": "9bf949ae-e707-4e79-9b67-56adac9e4837",
+        "sort": "190539000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "send",
+          "send for",
+          "send packing",
+          "sender",
+          "senders",
+          "sending",
+          "sends",
+          "sent"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "send",
+        "prs": [
+          {
+            "mw": "\u02c8send",
+            "sound": {
+              "audio": "send0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sent",
+          "prs": [
+            {
+              "mw": "\u02c8sent"
+            }
+          ]
+        },
+        {
+          "if": "send*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to go "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The sick student was {it}sent{/it} home."
+                        },
+                        {
+                          "t": "I'll {it}send{/it} a message."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to set in motion by physical force "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The hitter {it}sent{/it} the ball out of the ballpark."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to move in a particular direction or manner "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The high demand {it}sent{/it} prices up."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause someone to pass a message on or do an errand "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Let's {it}send{/it} out for pizza."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give an order or request to come or go "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Our principal {it}sent{/it} for the child."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring into a certain condition "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "His remarks {it}sent{/it} me into a rage."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "send*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to cause to go",
+        "to set in motion by physical force",
+        "to cause to move in a particular direction or manner"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sent",
+        "uuid": "85e03929-f7e9-423d-ba4d-93f29022ab07",
+        "sort": "190558000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "send",
+          "sent"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sent"
+      },
+      "cxs": [
+        {
+          "cxl": "past tense and past participle of",
+          "cxtis": [
+            {
+              "cxt": "send"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "send0001",
+  "shortdef": [
+    "to cause to go",
+    "to set in motion by physical force",
+    "to cause to move in a particular direction or manner"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8send",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/send0001.mp3"
+}

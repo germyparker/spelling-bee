@@ -1,0 +1,169 @@
+{
+  "word": "journey",
+  "api_response": [
+    {
+      "meta": {
+        "id": "journey:1",
+        "uuid": "5131b674-c0f0-4ba1-9789-7ea2f95e3b6f",
+        "sort": "100144000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "journey",
+          "journeys"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "jour*ney",
+        "prs": [
+          {
+            "mw": "\u02c8j\u0259r-n\u0113",
+            "sound": {
+              "audio": "journe01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "jour*neys"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an act of traveling from one place to another"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "syns": [
+        {
+          "pl": "synonyms",
+          "pt": [
+            [
+              "text",
+              "{sc}journey{/sc}, {sc}trip{/sc}, and {sc}tour{/sc} mean travel from one place to another. {sc}journey{/sc} usually means traveling a long distance and often in dangerous or difficult circumstances. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "They made the long {it}journey{/it} across the desert."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}trip{/sc} can be used when the traveling is brief, swift, or ordinary. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "We took our weekly {it}trip{/it} to the store."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}tour{/sc} is used for a journey with several stops that ends at the place where it began. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "Sightseers took a {it}tour{/it} of the city."
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an act of traveling from one place to another"
+      ]
+    },
+    {
+      "meta": {
+        "id": "journey:2",
+        "uuid": "f36d6faa-068f-46b0-a685-166f1fe3684c",
+        "sort": "100145000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "journey",
+          "journeyed",
+          "journeyer",
+          "journeyers",
+          "journeying",
+          "journeys"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "journey"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "jour*neyed"
+        },
+        {
+          "if": "jour*ney*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to travel to a distant place"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to travel to a distant place"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "journe01",
+  "shortdef": [
+    "an act of traveling from one place to another"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8j\u0259r-n\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/journe01.mp3"
+}

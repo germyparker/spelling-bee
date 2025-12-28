@@ -1,0 +1,129 @@
+{
+  "word": "suspicious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "suspicious",
+        "uuid": "e851a31a-6f37-4629-899a-a1d85bec153d",
+        "sort": "192517000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "suspicious",
+          "suspiciously",
+          "suspiciousness",
+          "suspiciousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sus*pi*cious",
+        "prs": [
+          {
+            "mw": "s\u0259-\u02c8spi-sh\u0259s",
+            "sound": {
+              "audio": "suspic03"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}likely to arouse suspicion "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}suspicious{/it} actions"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}likely to distrust or be distrustful "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Trolls are \u2026 mighty {it}suspicious{/it} about anything new to them.",
+                          "aq": {
+                            "auth": "J. R. R.  Tolkien",
+                            "source": "{it}The Hobbit{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}showing distrust "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}suspicious{/it} glance"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "likely to arouse suspicion",
+        "likely to distrust or be distrustful",
+        "showing distrust"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "suspic03",
+  "shortdef": [
+    "likely to arouse suspicion",
+    "likely to distrust or be distrustful",
+    "showing distrust"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "s\u0259-\u02c8spi-sh\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/suspic03.mp3"
+}

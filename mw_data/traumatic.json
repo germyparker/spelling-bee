@@ -1,0 +1,174 @@
+{
+  "word": "traumatic",
+  "api_response": [
+    {
+      "meta": {
+        "id": "trauma",
+        "uuid": "00c80bb0-b6bb-45b3-92b0-784ed77f568c",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "trauma",
+          "traumas",
+          "traumata",
+          "traumatic",
+          "traumatically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "trau*ma",
+        "prs": [
+          {
+            "mw": "\u02c8trau\u0307-m\u0259",
+            "sound": {
+              "audio": "trauma02"
+            }
+          },
+          {
+            "mw": "\u02c8tr\u022f-",
+            "sound": {
+              "audio": "trauma01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "traumas"
+        },
+        {
+          "il": "also",
+          "if": "trau*ma*ta",
+          "prs": [
+            {
+              "mw": "-m\u0259t-\u0259",
+              "sound": {
+                "audio": "trauma03"
+              }
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a serious bodily injury (as that caused by an accident or violent act) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "head {it}trauma{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a disordered psychological or behavioral state resulting from severe mental or emotional stress or injury"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a cause of trauma"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "trau*mat*ic",
+          "prs": [
+            {
+              "mw": "tr\u0259-\u02c8mat-ik",
+              "sound": {
+                "audio": "trauma04"
+              }
+            },
+            {
+              "mw": "tr\u022f-"
+            },
+            {
+              "mw": "trau\u0307-"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "trau*mat*i*cal*ly",
+          "prs": [
+            {
+              "mw": "-\u02c8mat-i-k\u0259-l\u0113",
+              "sound": {
+                "audio": "trauma05"
+              }
+            },
+            {
+              "mw": "-kl\u0113"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Greek {it}traumat-,{/it} {it}trauma{/it} {ldquo}wound{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a serious bodily injury (as that caused by an accident or violent act)",
+        "a disordered psychological or behavioral state resulting from severe mental or emotional stress or injury",
+        "a cause of trauma"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "trauma02",
+  "shortdef": [
+    "a serious bodily injury (as that caused by an accident or violent act)",
+    "a disordered psychological or behavioral state resulting from severe mental or emotional stress or injury",
+    "a cause of trauma"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8trau\u0307-m\u0259",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "traumatic",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trauma02.mp3"
+}

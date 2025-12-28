@@ -1,0 +1,860 @@
+{
+  "word": "chance",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chance:1",
+        "uuid": "c7baee0e-cff7-47c6-87f4-d21cf7ac95de",
+        "sort": "030456000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "by chance",
+          "chance",
+          "chances"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "chance",
+        "prs": [
+          {
+            "mw": "\u02c8chans",
+            "sound": {
+              "audio": "chance01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the happening of events that is not planned or controlled "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They met by {it}chance{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|opportunity||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I had a {it}chance{/it} to travel."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|risk:1||1}, {sx|gamble||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "take {it}chances{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the possibility that something will happen "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "There's a slight {it}chance{/it} of rain."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a ticket in a raffle "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He bought five {it}chances{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the happening of events that is not planned or controlled",
+        "opportunity",
+        "risk, gamble"
+      ]
+    },
+    {
+      "meta": {
+        "id": "chance:2",
+        "uuid": "986689e3-060e-4abc-b217-c02704e2eba7",
+        "sort": "030457000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chance",
+          "chance one's arm",
+          "chanced",
+          "chances",
+          "chancing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "chance"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "chanced"
+        },
+        {
+          "if": "chanc*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take place without planning {bc}to happen by luck "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}I merely {it}chanced{/it} to overhear Mr. McGrath remark that he was starting it \u2026{rdquo}",
+                          "aq": {
+                            "auth": "Robert Lawson",
+                            "source": "{it}Rabbit Hill{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to find or meet unexpectedly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}chanced{/it} on a bargain."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to accept the danger of {bc}{sx|risk||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He couldn't {it}chance{/it} another injury."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to take place without planning : to happen by luck",
+        "to find or meet unexpectedly",
+        "to accept the danger of : risk"
+      ]
+    },
+    {
+      "meta": {
+        "id": "chance:3",
+        "uuid": "292a383d-8c7e-403f-8ac5-ac92b7b9944e",
+        "sort": "030458000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chance"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "chance"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}happening without being planned "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}chance{/it} meeting"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "happening without being planned"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stand:1",
+        "uuid": "40868b42-57b3-490e-a934-f26ce653462a",
+        "sort": "191907000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stand",
+          "stand a chance",
+          "stand by",
+          "stand for",
+          "stand on",
+          "stand on one's own feet",
+          "stand one's ground",
+          "stand out",
+          "stand tall",
+          "stand treat",
+          "stand up",
+          "stand up for",
+          "stand up to",
+          "stander",
+          "standers",
+          "standing",
+          "stands",
+          "stood"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "stand",
+        "prs": [
+          {
+            "mw": "\u02c8stand",
+            "sound": {
+              "audio": "stand001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "stood",
+          "prs": [
+            {
+              "mw": "\u02c8stu\u0307d"
+            }
+          ]
+        },
+        {
+          "if": "stand*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be in or take an upright position on the feet "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Stand{/it} for the pledge."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take up or stay in a specified position or condition "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Stand{/it} aside."
+                        },
+                        {
+                          "t": "The judges {it}stood{/it} firm."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to rest, remain, or set in a usually vertical position "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A clock {it}stands{/it} on the shelf."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be in a specified place "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Their house {it}stands{/it} on the hill."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put up with {bc}{sx|endure||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He can't {it}stand{/it} pain."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to have an opinion "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "How do you {it}stand{/it} on the issue?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to stay in effect "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The order still {it}stands{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|undergo||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}stand{/it} trial"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to perform the duty of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}stand{/it} guard"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "stand by",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be or remain loyal or true to "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I {it}stand by{/it} my promise."
+                            },
+                            {
+                              "t": "He {it}stood by{/it} a friend."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be present "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We {it}stood by{/it} and watched the fight."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be or get ready to act "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I'll {it}stand by{/it} to help."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "stand for",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be a symbol for {bc}{sx|represent||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "What does your middle initial {it}stand for{/it}?"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to put up with {bc}{sx|permit||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "His teacher won't {it}stand for{/it} any nonsense."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "stand out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be easily seen or recognized "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Two members of the bodyguard did {it}stand out{/it} from the others.",
+                              "aq": {
+                                "auth": "Judith Berry Griffin",
+                                "source": "{it}Phoebe the Spy{/it}"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "stand up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to stay in good condition "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "This type of watch {it}stands up{/it} well under hard use."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to fail to keep an appointment with "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "You {it}stood{/it} me {it}up{/it} yesterday."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "stand up for",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|defend||2}"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "stand up to",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to face boldly"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to be in or take an upright position on the feet",
+        "to take up or stay in a specified position or condition",
+        "to rest, remain, or set in a usually vertical position"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "chance01",
+  "shortdef": [
+    "the happening of events that is not planned or controlled",
+    "opportunity",
+    "risk, gamble"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8chans",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chance01.mp3"
+}

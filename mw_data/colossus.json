@@ -1,0 +1,83 @@
+{
+  "word": "colossus",
+  "api_response": [
+    {
+      "meta": {
+        "id": "colossus",
+        "uuid": "ffa488a2-9079-4c56-a291-f213692afb75",
+        "sort": "031039000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "colossus",
+          "colossuses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "co*los*sus",
+        "prs": [
+          {
+            "mw": "k\u0259-\u02c8l\u00e4-s\u0259s",
+            "sound": {
+              "audio": "coloss05"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a huge statue"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a very large or powerful person or thing"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a huge statue",
+        "a very large or powerful person or thing"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "coloss05",
+  "shortdef": [
+    "a huge statue",
+    "a very large or powerful person or thing"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "k\u0259-\u02c8l\u00e4-s\u0259s",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coloss05.mp3"
+}

@@ -1,0 +1,1003 @@
+{
+  "word": "tail",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tail:1",
+        "uuid": "577e16b7-68a7-47b4-8a5a-8595d09aff1a",
+        "sort": "200035000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tail",
+          "tailed",
+          "tailless",
+          "taillike",
+          "tails"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "tail",
+        "prs": [
+          {
+            "mw": "\u02c8t\u0101l",
+            "sound": {
+              "audio": "tail0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the rear part of an animal or a usually slender flexible growth that extends from this part"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something that in shape, appearance, or position is like an animal's tail "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}tail{/it} of a coat"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the back, last, or lower part of something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}tail{/it} of an airplane"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the side or end opposite the head"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "tailed",
+          "prs": [
+            {
+              "mw": "\u02c8t\u0101ld"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "tail*less",
+          "prs": [
+            {
+              "mw": "\u02c8t\u0101l-l\u0259s"
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "the rear part of an animal or a usually slender flexible growth that extends from this part",
+        "something that in shape, appearance, or position is like an animal's tail",
+        "the back, last, or lower part of something"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tail:2",
+        "uuid": "6bc9f359-4966-42db-a4fb-ed5fed9985d5",
+        "sort": "200036000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tail",
+          "tailed",
+          "tailing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "tail"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "tailed"
+        },
+        {
+          "if": "tail*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to follow closely to keep watch on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Police {it}tailed{/it} the suspect."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to follow closely to keep watch on"
+      ]
+    },
+    {
+      "meta": {
+        "id": "turn:1",
+        "uuid": "72f58db3-574e-4934-9770-24cd89cb8ecb",
+        "sort": "201071000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "turn",
+          "turn a blind eye",
+          "turn a deaf ear",
+          "turn a hair",
+          "turn a hand",
+          "turn color",
+          "turn down",
+          "turn heads",
+          "turn loose",
+          "turn off",
+          "turn on",
+          "turn one's back on",
+          "turn one's hand",
+          "turn one's head",
+          "turn one's stomach",
+          "turn out",
+          "turn over",
+          "turn tail",
+          "turn the other cheek",
+          "turn the tables",
+          "turn the trick",
+          "turn turtle",
+          "turn up",
+          "turnable",
+          "turned",
+          "turning",
+          "turns"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "turn",
+        "prs": [
+          {
+            "mw": "\u02c8t\u0259rn",
+            "sound": {
+              "audio": "turn0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "turned"
+        },
+        {
+          "if": "turn*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to change in position usually by moving through an arc of a circle "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}turned{/it} and walked away."
+                        },
+                        {
+                          "t": "{it}Turn{/it} the pancakes over."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to change course or direction "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The road {it}turns{/it} to the left."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or direct toward or away from something "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}turned{/it} toward home."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become or cause to become a certain way "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The weather {it}turned{/it} leaves red."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|change:1||1}, {sx|transform||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}turn{/it} lead into gold"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move or cause to move around a center {bc}{sx|rotate||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The earth {it}turns{/it} on its axis."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to twist so as to bring about a desired end "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Turn{/it} the key to unlock the door."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go around "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}turned{/it} the corner."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to reach or pass beyond "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Soon she will {it}turn{/it} ten."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to become or make very unfriendly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We were friends until she {it}turned{/it} on me."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pass from one state to another {bc}{sx|become||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The weather {it}turned{/it} cold."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|execute||2}, {sx|perform||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}turn{/it} somersaults"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to set in another and especially an opposite direction "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "It's difficult to {it}turn{/it} the car on such a narrow street."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|wrench:1||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}turn{/it} an ankle"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "15",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|upset:1||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "His behavior {it}turns{/it} my stomach."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "16",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make an appeal "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}turned{/it} to a friend for help."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "17",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make or become spoiled "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The milk {it}turned{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "18",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|translate||1}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "19",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give a rounded form to (as on a lathe)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "turn down",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to lower by using a control "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Turn down{/it} the heat."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|refuse:1||1}, {sx|reject||} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I {it}turned down{/it} the offer."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to fold back or under "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Turn down{/it} the sheets."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "turn off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to stop by using a control "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Remember to {it}turn off{/it} the alarm."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to change direction "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "They {it}turned off{/it} onto another road."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "turn on",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to make work by using a control "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Turn on{/it} the light."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "turn out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to prove to be "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "The noise {it}turned out{/it} to be from mice."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to turn off"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "turn over",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to give control or responsibility of to someone"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "turn tail",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to turn so as to run away"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "turn up",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to be found or happen unexpectedly "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Don't worry, the key will {it}turn up{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to raise by or as if by using a control "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Turn up{/it} the volume."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "3",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|arrive||1}"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to change in position usually by moving through an arc of a circle",
+        "to change course or direction",
+        "to move or direct toward or away from something"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tail0001",
+  "shortdef": [
+    "the rear part of an animal or a usually slender flexible growth that extends from this part",
+    "something that in shape, appearance, or position is like an animal's tail",
+    "the back, last, or lower part of something"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8t\u0101l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tail0001.mp3"
+}

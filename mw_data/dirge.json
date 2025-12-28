@@ -1,0 +1,92 @@
+{
+  "word": "dirge",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dirge",
+        "uuid": "19fb33f4-1ee1-4867-8ccb-ea4c1d70625d",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "dirge",
+          "dirgelike",
+          "dirges"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dirge",
+        "prs": [
+          {
+            "mw": "\u02c8d\u0259rj",
+            "sound": {
+              "audio": "dirge001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a song or hymn of grief"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}one intended for funeral or memorial rites"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "The meaning of English {it}dirge{/it} is not directly related to the meaning of the Latin word it comes from. {it}Dirge{/it} and its earlier form {it}dirige{/it} come from the first word of a Latin chant used in the church service for the dead: {ldquo}Dirige, Domine deus meus, in conspectu tuo viam meam{rdquo} (Direct, O Lord my God, my way in thy sight). The first word of the Latin chant became the English term for a song or hymn of grief."
+          ]
+        ]
+      },
+      "et": [
+        [
+          "text",
+          "Latin {it}dirige{/it} (the first word of a Late Latin antiphon), imperative of {it}dirigere{/it} {ldquo}to direct{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a song or hymn of grief; especially : one intended for funeral or memorial rites"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "dirge001",
+  "shortdef": [
+    "a song or hymn of grief; especially : one intended for funeral or memorial rites"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8d\u0259rj",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "dirge",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dirge001.mp3"
+}

@@ -1,0 +1,92 @@
+{
+  "word": "garbled",
+  "api_response": [
+    {
+      "meta": {
+        "id": "garble",
+        "uuid": "33e71e86-5aa3-4f3d-958e-a32a84e21ebf",
+        "sort": "070080000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "garble",
+          "garbled",
+          "garbling"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gar*ble",
+        "prs": [
+          {
+            "mw": "\u02c8g\u00e4r-b\u0259l",
+            "sound": {
+              "audio": "garble01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "gar*bled"
+        },
+        {
+          "if": "gar*bling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to change or twist the meaning or sound of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}garbled{/it} the message."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "At first the word {it}garble{/it} meant {ldquo}to sift{rdquo} or {ldquo}to sort or pick out.{rdquo} If you pick out a few misleading parts of a message and report only those parts, you distort the message, and so {it}garble{/it} came to mean {ldquo}to distort.{rdquo} It is the meaning {ldquo}sift,{rdquo} however, that reflects the origin of {it}garble.{/it} The English word {it}garble{/it} came from an old Italian verb {it}garbellare{/it} that meant {ldquo}to sift.{rdquo} This word came in turn from an Arabic word {it}gharbala{/it} that meant {ldquo}sieve.{rdquo} The Arabs took this word ultimately from a Latin word {it}cribellum{/it} that meant {ldquo}sieve.{rdquo}"
+          ]
+        ]
+      },
+      "shortdef": [
+        "to change or twist the meaning or sound of"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "garble01",
+  "shortdef": [
+    "to change or twist the meaning or sound of"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8g\u00e4r-b\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garble01.mp3"
+}

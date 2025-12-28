@@ -1,0 +1,72 @@
+{
+  "word": "pistachio",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pistachio",
+        "uuid": "bb86cc11-a306-4ed1-b8ad-3d7263cf931b",
+        "sort": "160690000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "pistachio",
+          "pistachios"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pis*ta*chio",
+        "prs": [
+          {
+            "mw": "p\u0259-\u02c8sta-sh\u0113-\u02cc\u014d",
+            "sound": {
+              "audio": "pistac02"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "pis*ta*chios"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the greenish edible seed of a small Asian tree"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the greenish edible seed of a small Asian tree"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "pistac02",
+  "shortdef": [
+    "the greenish edible seed of a small Asian tree"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "p\u0259-\u02c8sta-sh\u0113-\u02cc\u014d",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pistac02.mp3"
+}

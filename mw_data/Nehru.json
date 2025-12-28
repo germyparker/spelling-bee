@@ -1,0 +1,81 @@
+{
+  "word": "Nehru",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Nehru:b",
+        "uuid": "1fe6cd6d-52d6-4df2-8735-907ce9171546",
+        "src": "sch_dict",
+        "section": "biog",
+        "stems": [
+          "nehru"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Neh*ru",
+        "prs": [
+          {
+            "mw": "\u02c8ne\u0259r-\u02cc\u00fc",
+            "sound": {
+              "audio": "bixneh02"
+            }
+          },
+          {
+            "mw": "\u02c8n\u0101-\u02ccr\u00fc"
+          }
+        ]
+      },
+      "fl": "biographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "Ja*wa*har*lal "
+                    ],
+                    [
+                      "prs",
+                      [
+                        {
+                          "mw": "j\u0259-\u02c8w\u00e4-h\u0259r-\u02ccl\u00e4l"
+                        }
+                      ]
+                    ],
+                    [
+                      "text",
+                      " 1889-1964 Indian nationalist; 1st prime minister of the Republic of India (1947-64)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "Jawaharlal 1889-1964 Indian nationalist; 1st prime minister of the Republic of India (1947-64)"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "bixneh02",
+  "shortdef": [
+    "Jawaharlal 1889-1964 Indian nationalist; 1st prime minister of the Republic of India (1947-64)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "biographical name",
+  "pronunciation": "\u02c8ne\u0259r-\u02cc\u00fc",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "Nehru",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/bix/bixneh02.mp3"
+}

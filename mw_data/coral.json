@@ -1,0 +1,257 @@
+{
+  "word": "coral",
+  "api_response": [
+    {
+      "meta": {
+        "id": "coral:1",
+        "uuid": "dbdd851f-234a-4b2f-8212-a17da5aaf86e",
+        "sort": "031518000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "coral",
+          "coralloid",
+          "corals"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "cor*al",
+        "prs": [
+          {
+            "mw": "\u02c8k\u022fr-\u0259l",
+            "sound": {
+              "audio": "coral001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tiny soft-bodied animal that typically lives within a stony skeleton grouped in large colonies and that is related to the jellyfish"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a piece of stony material consisting of the skeletons of corals"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a colony of corals {bc}{sx|coral reef||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a dark pink"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a tiny soft-bodied animal that typically lives within a stony skeleton grouped in large colonies and that is related to the jellyfish",
+        "a piece of stony material consisting of the skeletons of corals",
+        "a colony of corals : coral reef"
+      ]
+    },
+    {
+      "meta": {
+        "id": "coral:2",
+        "uuid": "5034ad61-1394-4383-b513-ba3c71d256aa",
+        "sort": "031519000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "coral"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "coral"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}made of coral "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}coral{/it} reef"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}of a dark pink color"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "made of coral",
+        "of a dark pink color"
+      ]
+    },
+    {
+      "meta": {
+        "id": "coral reef",
+        "uuid": "dfafbe54-40ce-4d50-9b43-44885a56460b",
+        "sort": "031520000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "coral reef"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "coral reef"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a reef composed of a large colony of corals including the stony skeletons of both living and dead corals"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a reef composed of a large colony of corals including the stony skeletons of both living and dead corals"
+      ]
+    },
+    {
+      "meta": {
+        "id": "coral snake",
+        "uuid": "3fb43ba6-225a-45f0-939b-767f9c5da006",
+        "sort": "031521000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "coral snake"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "coral snake"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small poisonous tropical American snake brightly ringed with red, black, and yellow or white"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small poisonous tropical American snake brightly ringed with red, black, and yellow or white"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "coral001",
+  "shortdef": [
+    "a tiny soft-bodied animal that typically lives within a stony skeleton grouped in large colonies and that is related to the jellyfish",
+    "a piece of stony material consisting of the skeletons of corals",
+    "a colony of corals : coral reef"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8k\u022fr-\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coral001.mp3"
+}

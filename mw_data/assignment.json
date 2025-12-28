@@ -1,0 +1,103 @@
+{
+  "word": "assignment",
+  "api_response": [
+    {
+      "meta": {
+        "id": "assignment",
+        "uuid": "0d14542e-7212-4fda-a7f0-4c0121b48116",
+        "sort": "011080000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "assignment",
+          "assignments"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "as*sign*ment",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8s\u012bn-m\u0259nt",
+            "sound": {
+              "audio": "assign10"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act of giving out or assigning "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}assignment{/it} of seats"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something (as a job or task) that is given out "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "\u2026 I struggled with some of the reading quizzes and writing {it}assignments{/it}.",
+                          "aq": {
+                            "auth": "John David Anderson",
+                            "source": "{it}Ms. Bixby's Last Day{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act of giving out or assigning",
+        "something (as a job or task) that is given out"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "assign10",
+  "shortdef": [
+    "the act of giving out or assigning",
+    "something (as a job or task) that is given out"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u0259-\u02c8s\u012bn-m\u0259nt",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assign10.mp3"
+}

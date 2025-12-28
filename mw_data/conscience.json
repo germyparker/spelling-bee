@@ -1,0 +1,86 @@
+{
+  "word": "conscience",
+  "api_response": [
+    {
+      "meta": {
+        "id": "conscience",
+        "uuid": "eb1338e3-1bb8-457d-a0b2-1cdaa8ba1122",
+        "sort": "031318000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "conscience",
+          "conscienceless",
+          "consciences",
+          "in all conscience",
+          "in conscience"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*science",
+        "prs": [
+          {
+            "mw": "\u02c8k\u00e4n-sh\u0259ns",
+            "sound": {
+              "audio": "consci01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sense of right and wrong and a feeling that what is right should be done "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Her {it}conscience{/it} told her to tell the truth."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "rootpara": {
+        "pl": "Root",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}sc\u012bre{/it}, meaning {ldquo}to know{rdquo} or {ldquo}to understand,{rdquo} gives us the root {b}sci{/b}. Words from the Latin {it}sc\u012bre{/it} have something to do with knowing or understanding. {b}Sci{/b}{it}ence{/it} is the understanding of the world and how everything in it works. A person's {it}con{/it}{b}sci{/b}{it}ence{/it} is the knowledge of right and wrong and the feeling that he or she should do right. Anything that is {it}con{/it}{b}sci{/b}{it}ous{/it} knows what it is feeling."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a sense of right and wrong and a feeling that what is right should be done"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "consci01",
+  "shortdef": [
+    "a sense of right and wrong and a feeling that what is right should be done"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8k\u00e4n-sh\u0259ns",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consci01.mp3"
+}

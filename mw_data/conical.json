@@ -1,0 +1,74 @@
+{
+  "word": "conical",
+  "api_response": [
+    {
+      "meta": {
+        "id": "conical",
+        "uuid": "fd67a8ab-e621-4672-acde-84851a8284c6",
+        "sort": "031302000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "conical",
+          "conically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "con*i*cal",
+        "prs": [
+          {
+            "mw": "\u02c8k\u00e4-ni-k\u0259l",
+            "sound": {
+              "audio": "conica01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}shaped like a cone "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}conical{/it} hill"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "shaped like a cone"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "conica01",
+  "shortdef": [
+    "shaped like a cone"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8k\u00e4-ni-k\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conica01.mp3"
+}

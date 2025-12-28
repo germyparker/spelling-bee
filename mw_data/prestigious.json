@@ -1,0 +1,99 @@
+{
+  "word": "prestigious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "prestige",
+        "uuid": "5e3a24d6-6c9b-4334-b5bf-c11e248b33aa",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "prestige",
+          "prestigeful",
+          "prestiges",
+          "prestigious",
+          "prestigiously",
+          "prestigiousness"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pres*tige",
+        "prs": [
+          {
+            "mw": "pre-\u02c8st\u0113zh",
+            "sound": {
+              "audio": "presti03"
+            }
+          },
+          {
+            "mw": "-\u02c8st\u0113j"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}usually high standing or fine reputation based on past performance or merit"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "pres*ti*gious",
+          "prs": [
+            {
+              "mw": "-\u02c8stij-\u0259s"
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "pres*ti*gious*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "pres*ti*gious*ness",
+          "fl": "noun"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, from Middle French, {ldquo}conjuror's trick, illusion,{rdquo} from Latin {it}praestigiae,{/it} pl., {ldquo}conjuror's tricks,{rdquo} from {it}praestringere{/it} {ldquo}to graze, blunt, constrict,{rdquo} from {it}prae-{/it} {ldquo}pre-{rdquo} + {it}stringere{/it} {ldquo}to bind tight{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "usually high standing or fine reputation based on past performance or merit"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "presti03",
+  "shortdef": [
+    "usually high standing or fine reputation based on past performance or merit"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "pre-\u02c8st\u0113zh",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "prestigious",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presti03.mp3"
+}

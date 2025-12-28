@@ -1,0 +1,265 @@
+{
+  "word": "skater",
+  "api_response": [
+    {
+      "meta": {
+        "id": "skate:1",
+        "uuid": "d60b0828-1778-49c4-9f30-5823d81274fc",
+        "sort": "191037000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "skate",
+          "skated",
+          "skater",
+          "skaters",
+          "skates",
+          "skating"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "skate",
+        "prs": [
+          {
+            "mw": "\u02c8sk\u0101t",
+            "sound": {
+              "audio": "skate001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "skat*ed"
+        },
+        {
+          "if": "skat*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to glide along on skates"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to slide or glide along "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They watched long-legged water-bugs {it}skate{/it} over the glassy-still pools.",
+                          "aq": {
+                            "auth": "Laura Ingalls Wilder",
+                            "source": "{it}Little House on the Prairie{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "skat*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to glide along on skates",
+        "to slide or glide along"
+      ]
+    },
+    {
+      "meta": {
+        "id": "ice-skate",
+        "uuid": "3036ee35-66cf-4fcb-952b-8104073774db",
+        "sort": "090023000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ice skater",
+          "ice-skate",
+          "ice-skated",
+          "ice-skating"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ice-skate",
+        "prs": [
+          {
+            "mw": "\u02c8\u012bs-\u02ccsk\u0101t"
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ice-skat*ed"
+        },
+        {
+          "if": "ice-skat*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to skate on ice"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ice skat*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to skate on ice"
+      ]
+    },
+    {
+      "meta": {
+        "id": "in-line skate",
+        "uuid": "0f37e3f5-0e21-4ff4-88d3-61b7cb49b676",
+        "sort": "090538000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "in-line skate",
+          "in-line skater",
+          "in-line skating"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "in-line skate",
+        "prs": [
+          {
+            "mw": "\u02c8in-\u02c8l\u012bn-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a roller skate whose wheels are set in a line one behind the other"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a roller skate whose wheels are set in a line one behind the other"
+      ]
+    },
+    {
+      "meta": {
+        "id": "roller skate",
+        "uuid": "50a3711b-ddec-4cf9-994b-719c11137604",
+        "sort": "180923000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "roller skate",
+          "roller skater",
+          "roller-skate",
+          "roller-skated",
+          "roller-skates",
+          "roller-skating"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "roller skate"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a skate that has wheels instead of a runner"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a skate that has wheels instead of a runner"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "skate001",
+  "shortdef": [
+    "to glide along on skates",
+    "to slide or glide along"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8sk\u0101t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/skate001.mp3"
+}

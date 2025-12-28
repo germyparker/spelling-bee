@@ -1,0 +1,78 @@
+{
+  "word": "beige",
+  "api_response": [
+    {
+      "meta": {
+        "id": "beige",
+        "uuid": "8901c161-466e-494f-9418-b3b66a2f77a7",
+        "sort": "020356000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "beige",
+          "beiges",
+          "beigy"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "beige",
+        "prs": [
+          {
+            "mw": "\u02c8b\u0101zh",
+            "sound": {
+              "audio": "beige001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a yellowish brown"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "beige",
+          "fl": "adjective",
+          "vis": [
+            {
+              "t": "a {it}beige{/it} shirt"
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "a yellowish brown"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "beige001",
+  "shortdef": [
+    "a yellowish brown"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8b\u0101zh",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/beige001.mp3"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "lessons",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lesson",
+        "uuid": "d836f016-d5ce-414e-bc08-fa4acacfdde5",
+        "sort": "120307000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lesson",
+          "lessons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "les*son",
+        "prs": [
+          {
+            "mw": "\u02c8le-s\u1d4an",
+            "sound": {
+              "audio": "lesson01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something learned or taught "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Travels to other countries taught him valuable {it}lessons{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a single class or part of a course of instruction "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "music {it}lessons{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "something learned or taught",
+        "a single class or part of a course of instruction"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lesson01",
+  "shortdef": [
+    "something learned or taught",
+    "a single class or part of a course of instruction"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8le-s\u1d4an",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lesson01.mp3"
+}

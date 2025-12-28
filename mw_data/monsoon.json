@@ -1,0 +1,84 @@
+{
+  "word": "monsoon",
+  "api_response": [
+    {
+      "meta": {
+        "id": "monsoon",
+        "uuid": "21202eb2-4ec7-4f9e-a96d-049f9871fb23",
+        "sort": "130845000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "monsoon",
+          "monsoonal",
+          "monsoons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mon*soon",
+        "prs": [
+          {
+            "mw": "m\u00e4n-\u02c8s\u00fcn",
+            "sound": {
+              "audio": "monsoo01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a wind in the Indian Ocean and southern Asia that blows from the southwest from April to October and from the northeast from October to April"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the rainy season that comes with the southwest monsoon"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a wind in the Indian Ocean and southern Asia that blows from the southwest from April to October and from the northeast from October to April",
+        "the rainy season that comes with the southwest monsoon"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "monsoo01",
+  "shortdef": [
+    "a wind in the Indian Ocean and southern Asia that blows from the southwest from April to October and from the northeast from October to April",
+    "the rainy season that comes with the southwest monsoon"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "m\u00e4n-\u02c8s\u00fcn",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monsoo01.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "receptionist",
+  "api_response": [
+    {
+      "meta": {
+        "id": "receptionist",
+        "uuid": "5379d154-fbe3-4500-8a7e-7463bdc2872b",
+        "sort": "180265000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "receptionist",
+          "receptionists"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "re*cep*tion*ist",
+        "prs": [
+          {
+            "mw": "ri-\u02c8sep-sh\u0259-nist",
+            "sound": {
+              "audio": "recept03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an office employee who deals with callers or visitors"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an office employee who deals with callers or visitors"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "recept03",
+  "shortdef": [
+    "an office employee who deals with callers or visitors"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "ri-\u02c8sep-sh\u0259-nist",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recept03.mp3"
+}

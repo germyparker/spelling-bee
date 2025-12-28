@@ -1,0 +1,108 @@
+{
+  "word": "slough",
+  "api_response": [
+    {
+      "meta": {
+        "id": "slough",
+        "uuid": "b12b6546-c381-432b-b2df-b72fdd9ba316",
+        "sort": "191191000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "slew",
+          "slews",
+          "slough",
+          "sloughier",
+          "sloughiest",
+          "sloughs",
+          "sloughy",
+          "slue",
+          "slues",
+          "sluff",
+          "sluffs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "slough",
+        "prs": [
+          {
+            "mw": "\u02c8sl\u00fc",
+            "sound": {
+              "audio": "slough01"
+            }
+          },
+          {
+            "mw": "\u02c8slau\u0307"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a wet marshy or muddy place"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a wet marshy or muddy place"
+      ]
+    },
+    {
+      "meta": {
+        "id": "slew",
+        "uuid": "0f7aa14c-ae71-4208-8b38-cf2da6dbd5c5",
+        "sort": "191141000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "slay",
+          "slew",
+          "slews",
+          "slough"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "slew"
+      },
+      "cxs": [
+        {
+          "cxl": "past tense of",
+          "cxtis": [
+            {
+              "cxt": "slay"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "slough01",
+  "shortdef": [
+    "a wet marshy or muddy place"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sl\u00fc",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/slough01.mp3"
+}

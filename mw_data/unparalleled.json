@@ -1,0 +1,73 @@
+{
+  "word": "unparalleled",
+  "api_response": [
+    {
+      "meta": {
+        "id": "unparalleled",
+        "uuid": "7e587e8e-3de6-4ed5-8556-76606d24f8dd",
+        "sort": "210267000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "unparalleled"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "un*par*al*leled",
+        "prs": [
+          {
+            "mw": "\u02cc\u0259n-\u02c8per-\u0259-\u02ccleld",
+            "sound": {
+              "audio": "unpara01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having no counterpart or equal "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}unparalleled{/it} success"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "having no counterpart or equal"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "unpara01",
+  "shortdef": [
+    "having no counterpart or equal"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02cc\u0259n-\u02c8per-\u0259-\u02ccleld",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unpara01.mp3"
+}

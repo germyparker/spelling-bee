@@ -1,0 +1,104 @@
+{
+  "word": "moustache",
+  "api_response": [
+    {
+      "meta": {
+        "id": "moustache",
+        "uuid": "e59c6621-7381-44ba-812b-995c540f9da3",
+        "sort": "130965000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "moustache",
+          "moustaches",
+          "mustache"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "moustache"
+      },
+      "cxs": [
+        {
+          "cxl": "variant of",
+          "cxtis": [
+            {
+              "cxt": "mustache"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    },
+    {
+      "meta": {
+        "id": "mustache",
+        "uuid": "70454013-91f2-4f7e-beb6-9e6c722585fc",
+        "sort": "131078000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "moustache",
+          "moustached",
+          "moustaches",
+          "mustache",
+          "mustached",
+          "mustaches"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mus*tache"
+      },
+      "vrs": [
+        {
+          "vl": "also",
+          "va": "mous*tache",
+          "prs": [
+            {
+              "mw": "\u02c8m\u0259-\u02ccstash"
+            },
+            {
+              "mw": "m\u0259-\u02c8stash"
+            }
+          ]
+        }
+      ],
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the hair growing on the human upper lip"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the hair growing on the human upper lip"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": null,
+  "pronunciation": null,
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [
+    "mustache"
+  ]
+}

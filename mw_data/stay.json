@@ -1,0 +1,417 @@
+{
+  "word": "stay",
+  "api_response": [
+    {
+      "meta": {
+        "id": "stay:1",
+        "uuid": "7d5ae4a4-9032-4f73-82e4-4b865f9f65c3",
+        "sort": "191972000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "staid",
+          "stay",
+          "stayed",
+          "staying",
+          "stays"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "stay",
+        "prs": [
+          {
+            "mw": "\u02c8st\u0101",
+            "sound": {
+              "audio": "stay0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "stayed"
+        },
+        {
+          "if": "stay*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to remain after others have gone "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}stayed{/it} after the party to help."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to continue in a place or condition "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}stayed{/it} friends for many years."
+                        },
+                        {
+                          "t": "\u2026 you just learn to blend in, {it}stay{/it} out of the way \u2026",
+                          "aq": {
+                            "auth": "John David Anderson",
+                            "source": "{it}Ms. Bixby's Last Day{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to stop going forward {bc}{sx|pause||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He instructed the dog to {it}stay{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to live for a while "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm {it}staying{/it} with friends."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to put a stop to "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The governor {it}stayed{/it} the execution."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to remain after others have gone",
+        "to continue in a place or condition",
+        "to stop going forward : pause"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stay:2",
+        "uuid": "f40fc0e9-6af6-4e31-9fa0-f11e344c9988",
+        "sort": "191973000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stay",
+          "stays"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "stay"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a period of living in a place "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Our {it}stay{/it} in the country was too short."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the action of bringing to a stop {bc}the state of being stopped "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}stay{/it} of the execution"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a period of living in a place",
+        "the action of bringing to a stop : the state of being stopped"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stay:3",
+        "uuid": "727e75ea-b4b7-4948-926c-ed4776085898",
+        "sort": "191974000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stay",
+          "stays"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "stay"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a strong rope or wire used to steady or brace something (as a mast)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a strong rope or wire used to steady or brace something (as a mast)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stay:4",
+        "uuid": "ef096aad-d8ea-49c1-a347-405b48054c63",
+        "sort": "191975000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stay",
+          "stays"
+        ],
+        "offensive": false
+      },
+      "hom": 4,
+      "hwi": {
+        "hw": "stay"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|prop:2||}, {sx|support||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a thin firm strip (as of steel or plastic) used to stiffen a garment (as a corset) or part of a garment (as a shirt collar)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "prop, support",
+        "a thin firm strip (as of steel or plastic) used to stiffen a garment (as a corset) or part of a garment (as a shirt collar)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "stay:5",
+        "uuid": "df5c3b37-b44d-4b40-8453-6954645c82f2",
+        "sort": "191976000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "staid",
+          "stay",
+          "stayed",
+          "staying",
+          "stays"
+        ],
+        "offensive": false
+      },
+      "hom": 5,
+      "hwi": {
+        "hw": "stay"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "stayed"
+        },
+        {
+          "if": "stay*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to hold up "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Supports {it}stayed{/it} the sign."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to hold up"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "stay0001",
+  "shortdef": [
+    "to remain after others have gone",
+    "to continue in a place or condition",
+    "to stop going forward : pause"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8st\u0101",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/stay0001.mp3"
+}

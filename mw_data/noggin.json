@@ -1,0 +1,78 @@
+{
+  "word": "noggin",
+  "api_response": [
+    {
+      "meta": {
+        "id": "noggin",
+        "uuid": "6836c17a-6edc-4080-b0af-881b2f802cc3",
+        "sort": "140295000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "noggin",
+          "noggins"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "nog*gin",
+        "prs": [
+          {
+            "mw": "\u02c8n\u00e4-g\u0259n",
+            "sound": {
+              "audio": "noggin01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person's head "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Lefty Lewis rubbed his hand over my head and said, {ldquo}Look at this {it}noggin{/it} \u2026{rdquo}",
+                          "aq": {
+                            "auth": "Christopher Paul Curtis",
+                            "source": "{it}Bud, Not Buddy{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a person's head"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "noggin01",
+  "shortdef": [
+    "a person's head"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8n\u00e4-g\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/n/noggin01.mp3"
+}

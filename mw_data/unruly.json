@@ -1,0 +1,91 @@
+{
+  "word": "unruly",
+  "api_response": [
+    {
+      "meta": {
+        "id": "unruly",
+        "uuid": "7e5271dd-02a3-4a21-8420-2140b421c646",
+        "sort": "210288000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "unrulier",
+          "unruliest",
+          "unruliness",
+          "unrulinesses",
+          "unruly"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "un*ruly",
+        "prs": [
+          {
+            "mw": "\u02cc\u0259n-\u02c8r\u00fc-l\u0113",
+            "sound": {
+              "audio": "unruly01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "un*rul*i*er"
+        },
+        {
+          "if": "un*rul*i*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}difficult to control "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}unruly{/it} hair"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "un*rul*i*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "difficult to control"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "unruly01",
+  "shortdef": [
+    "difficult to control"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02cc\u0259n-\u02c8r\u00fc-l\u0113",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unruly01.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "word": "studded",
+  "api_response": [
+    {
+      "meta": {
+        "id": "stud:2",
+        "uuid": "2cf90a32-a96c-44d3-8db2-b35d2516273e",
+        "sort": "192240000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "stud",
+          "studded",
+          "studding"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "stud"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "stud*ded"
+        },
+        {
+          "if": "stud*ding"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cover or be covered with many small items "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She wore \u2026 black cowboy boots which were {it}studded{/it} with turquoise stones.",
+                          "aq": {
+                            "auth": "Louis Sachar",
+                            "source": "{it}Holes{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to cover or be covered with many small items"
+      ]
+    }
+  ],
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "to cover or be covered with many small items"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": null,
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": []
+}

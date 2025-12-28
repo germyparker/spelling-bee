@@ -1,0 +1,66 @@
+{
+  "word": "galleon",
+  "api_response": [
+    {
+      "meta": {
+        "id": "galleon",
+        "uuid": "0d133dcf-bbd1-4b7f-b0a4-6ab389a27c3e",
+        "sort": "070040000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "galleon",
+          "galleons"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "gal*le*on",
+        "prs": [
+          {
+            "mw": "\u02c8ga-l\u0113-\u0259n",
+            "sound": {
+              "audio": "galleo01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a large sailing ship used by the Spanish from the 1400s to the 1700s"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a large sailing ship used by the Spanish from the 1400s to the 1700s"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "galleo01",
+  "shortdef": [
+    "a large sailing ship used by the Spanish from the 1400s to the 1700s"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8ga-l\u0113-\u0259n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/galleo01.mp3"
+}

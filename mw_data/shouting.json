@@ -1,0 +1,155 @@
+{
+  "word": "shouting",
+  "api_response": [
+    {
+      "meta": {
+        "id": "shout:1",
+        "uuid": "ed093e62-e35d-422c-9fad-10386e394ca6",
+        "sort": "190834000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "shout",
+          "shouted",
+          "shouter",
+          "shouters",
+          "shouting",
+          "shouts"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "shout",
+        "prs": [
+          {
+            "mw": "\u02c8shau\u0307t",
+            "sound": {
+              "audio": "shout001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "shout*ed"
+        },
+        {
+          "if": "shout*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make a sudden loud cry "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "We {it}shouted{/it} with joy."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to say in a loud voice "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I {it}shouted{/it} a warning."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "syns": [
+        {
+          "pl": "synonyms",
+          "pt": [
+            [
+              "text",
+              "{sc}shout{/sc}, {sc}shriek{/sc}, and {sc}screech{/sc} mean to utter a loud cry. {sc}shout{/sc} means any kind of loud cry meant to be heard either far away or above other noise. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "We {it}shouted{/it} to them across the river."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}shriek{/sc} means a high-pitched cry that is a sign of strong feeling. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "The children {it}shrieked{/it} with excitement."
+                }
+              ]
+            ],
+            [
+              "text",
+              " {sc}screech{/sc} means an extended shriek that is usually without words and very harsh and unpleasant. "
+            ],
+            [
+              "vis",
+              [
+                {
+                  "t": "The cats fought and {it}screeched{/it}."
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to make a sudden loud cry",
+        "to say in a loud voice"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "shout001",
+  "shortdef": [
+    "to make a sudden loud cry",
+    "to say in a loud voice"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8shau\u0307t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/shout001.mp3"
+}

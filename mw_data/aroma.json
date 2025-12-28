@@ -1,0 +1,66 @@
+{
+  "word": "aroma",
+  "api_response": [
+    {
+      "meta": {
+        "id": "aroma",
+        "uuid": "67430929-7745-4e64-b946-9960e32b0018",
+        "sort": "010978000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "aroma",
+          "aromas"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "aro*ma",
+        "prs": [
+          {
+            "mw": "\u0259-\u02c8r\u014d-m\u0259",
+            "sound": {
+              "audio": "aroma001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a noticeable and pleasant smell"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a noticeable and pleasant smell"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "aroma001",
+  "shortdef": [
+    "a noticeable and pleasant smell"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u0259-\u02c8r\u014d-m\u0259",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aroma001.mp3"
+}

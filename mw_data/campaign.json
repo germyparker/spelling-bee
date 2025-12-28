@@ -1,0 +1,157 @@
+{
+  "word": "campaign",
+  "api_response": [
+    {
+      "meta": {
+        "id": "campaign:1",
+        "uuid": "e668c5ca-6118-46d4-896f-3d0d3036ce8a",
+        "sort": "030081000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "campaign",
+          "campaigns"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "cam*paign",
+        "prs": [
+          {
+            "mw": "kam-\u02c8p\u0101n",
+            "sound": {
+              "audio": "campai01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a series of activities meant to produce a particular result "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an election {it}campaign{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a series of military operations in a certain area or for a certain purpose"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a series of activities meant to produce a particular result",
+        "a series of military operations in a certain area or for a certain purpose"
+      ]
+    },
+    {
+      "meta": {
+        "id": "campaign:2",
+        "uuid": "92099816-76a5-4275-a4f2-a310c2f1833c",
+        "sort": "030082000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "campaign",
+          "campaigned",
+          "campaigner",
+          "campaigning"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "campaign"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "cam*paigned"
+        },
+        {
+          "if": "cam*paign*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take part in a series of activities meant to produce a particular result "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}campaigned{/it} for a new library."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "cam*paign*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to take part in a series of activities meant to produce a particular result"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "campai01",
+  "shortdef": [
+    "a series of activities meant to produce a particular result",
+    "a series of military operations in a certain area or for a certain purpose"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "kam-\u02c8p\u0101n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/campai01.mp3"
+}

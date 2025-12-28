@@ -1,0 +1,78 @@
+{
+  "word": "Tucson",
+  "api_response": [
+    {
+      "meta": {
+        "id": "Tucson:g",
+        "uuid": "4c91ec53-5938-4ab6-b8ae-f72808dd9dbc",
+        "src": "sch_dict",
+        "section": "geog",
+        "stems": [
+          "tucson",
+          "tucsonan"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "Tuc*son",
+        "prs": [
+          {
+            "mw": "t\u00fc-\u02c8s\u00e4n",
+            "sound": {
+              "audio": "tucso01g"
+            }
+          },
+          {
+            "mw": "\u02c8t\u00fc-\u02cc"
+          }
+        ]
+      },
+      "fl": "geographical name",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "city "
+                    ],
+                    [
+                      "g",
+                      "SE"
+                    ],
+                    [
+                      "text",
+                      " Arizona"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "city SE Arizona"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "tucso01g",
+  "shortdef": [
+    "city SE Arizona"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "geographical name",
+  "pronunciation": "t\u00fc-\u02c8s\u00e4n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "Tucson",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tucso01g.mp3"
+}

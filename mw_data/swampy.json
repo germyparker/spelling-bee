@@ -1,0 +1,89 @@
+{
+  "word": "swampy",
+  "api_response": [
+    {
+      "meta": {
+        "id": "swampy",
+        "uuid": "6afdbb49-673d-4901-9c5b-67dc57dfa059",
+        "sort": "192532000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "swampier",
+          "swampiest",
+          "swampiness",
+          "swampinesses",
+          "swampy"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "swampy",
+        "prs": [
+          {
+            "mw": "\u02c8sw\u00e4m-p\u0113",
+            "sound": {
+              "audio": "swampy01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "swamp*i*er"
+        },
+        {
+          "if": "swamp*i*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}consisting of or like a swamp "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "{it}swampy{/it} land"
+                      }
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "a {it}swampy{/it} pond"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "consisting of or like a swamp"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "swampy01",
+  "shortdef": [
+    "consisting of or like a swamp"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8sw\u00e4m-p\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/swampy01.mp3"
+}

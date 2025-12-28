@@ -1,0 +1,144 @@
+{
+  "word": "auxiliary",
+  "api_response": [
+    {
+      "meta": {
+        "id": "auxiliary:1",
+        "uuid": "598f03eb-2500-4594-94ca-8e8bf61f80be",
+        "sort": "011245000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "auxiliary"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "aux*il*ia*ry",
+        "prs": [
+          {
+            "mw": "\u022fg-\u02c8zi-ly\u0259-r\u0113",
+            "sound": {
+              "audio": "auxili02"
+            }
+          },
+          {
+            "mw": "-\u02c8zi-l\u0259-r\u0113"
+          },
+          {
+            "mw": "-\u02c8zil-r\u0113"
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}available to provide something extra "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an {it}auxiliary{/it} engine"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "available to provide something extra"
+      ]
+    },
+    {
+      "meta": {
+        "id": "auxiliary:2",
+        "uuid": "7da6a69b-7813-449e-918f-7a65f556941d",
+        "sort": "011246000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "auxiliaries",
+          "auxiliary",
+          "auxiliary bishop"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "auxiliary"
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "aux*il*ia*ries"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a group that provides assistance"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|helping verb||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a group that provides assistance",
+        "helping verb"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "auxili02",
+  "shortdef": [
+    "available to provide something extra"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u022fg-\u02c8zi-ly\u0259-r\u0113",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auxili02.mp3"
+}

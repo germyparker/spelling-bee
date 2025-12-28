@@ -1,0 +1,66 @@
+{
+  "word": "preamble",
+  "api_response": [
+    {
+      "meta": {
+        "id": "preamble",
+        "uuid": "70d160e3-cf0d-414a-bb84-c9471327135a",
+        "sort": "161116000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "preamble",
+          "preambles"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pre*am*ble",
+        "prs": [
+          {
+            "mw": "\u02c8pr\u0113-\u02ccam-b\u0259l",
+            "sound": {
+              "audio": "preamb01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an introduction (as to a law) that often gives the reasons for what follows"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "an introduction (as to a law) that often gives the reasons for what follows"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "preamb01",
+  "shortdef": [
+    "an introduction (as to a law) that often gives the reasons for what follows"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8pr\u0113-\u02ccam-b\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preamb01.mp3"
+}

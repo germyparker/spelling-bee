@@ -1,0 +1,125 @@
+{
+  "word": "lurches",
+  "api_response": [
+    {
+      "meta": {
+        "id": "lurch:1",
+        "uuid": "bfc0ab19-0314-4f09-acf5-5d8492d4d5b0",
+        "sort": "120679000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "in the lurch",
+          "lurch",
+          "lurches"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "lurch",
+        "prs": [
+          {
+            "mw": "\u02c8l\u0259rch",
+            "sound": {
+              "audio": "lurch001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sudden swaying, tipping, or jerking movement"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sudden swaying, tipping, or jerking movement"
+      ]
+    },
+    {
+      "meta": {
+        "id": "lurch:2",
+        "uuid": "ade27b36-2ad5-4a11-948f-24f0a3f834f9",
+        "sort": "120680000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "lurch",
+          "lurched",
+          "lurches",
+          "lurching"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "lurch"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "lurched"
+        },
+        {
+          "if": "lurch*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move with a sudden swaying, tipping, or jerking motion "
+                    ],
+                    [
+                      "vimw",
+                      {
+                        "t": "The boat {it}lurched{/it} in rough seas."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to move with a sudden swaying, tipping, or jerking motion"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "lurch001",
+  "shortdef": [
+    "a sudden swaying, tipping, or jerking movement"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8l\u0259rch",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/lurch001.mp3"
+}

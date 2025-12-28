@@ -1,0 +1,282 @@
+{
+  "word": "focus",
+  "api_response": [
+    {
+      "meta": {
+        "id": "focus:1",
+        "uuid": "935a92f6-f8a7-4c7a-b1de-c6e55f6e879f",
+        "sort": "060624000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "foci",
+          "focus",
+          "focuses",
+          "focusless",
+          "in focus",
+          "out of focus"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "fo*cus",
+        "prs": [
+          {
+            "mw": "\u02c8f\u014d-k\u0259s",
+            "sound": {
+              "audio": "focus001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "fo*ci",
+          "prs": [
+            {
+              "mw": "\u02c8f\u014d-\u02ccs\u012b"
+            }
+          ]
+        },
+        {
+          "il": "also",
+          "if": "fo*cus*es"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a point at which rays (as of light, heat, or sound) meet after being reflected or bent {bc}the point at which an image is formed"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the distance from a lens or mirror to a focus"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an adjustment that gives clear vision "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He turned his head almost upside down to get a more acute {it}focus{/it} on her \u2026",
+                          "aq": {
+                            "auth": "Jean Craighead George",
+                            "source": "{it}Julie of the Wolves{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a center of activity or interest "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Fractions are the {it}focus{/it} of this lesson."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "The Latin word {it}focus{/it} meant {ldquo}hearth, fireplace.{rdquo} In the scientific Latin of the 17th century, {it}focus{/it} was used to refer to the point at which rays of light gathered by a lens come together. Since rays of sunlight when directed by a magnifying glass can produce enough heat to ignite paper, it's appropriate to describe their meeting point with a word that means {ldquo}fireplace.{rdquo} Other senses, such as {ldquo}center of activity,{rdquo} arose from this sense of {it}focus{/it}."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a point at which rays (as of light, heat, or sound) meet after being reflected or bent : the point at which an image is formed",
+        "the distance from a lens or mirror to a focus",
+        "an adjustment that gives clear vision"
+      ]
+    },
+    {
+      "meta": {
+        "id": "focus:2",
+        "uuid": "0db4f260-c9fb-40f7-a46c-343ac3b681e3",
+        "sort": "060625000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "focus",
+          "focusable",
+          "focused",
+          "focuser",
+          "focusers",
+          "focuses",
+          "focusing",
+          "focussed",
+          "focusses",
+          "focussing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "focus"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "fo*cused"
+        },
+        {
+          "il": "also",
+          "if": "fo*cussed"
+        },
+        {
+          "if": "fo*cus*ing"
+        },
+        {
+          "il": "also",
+          "if": "fo*cus*sing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to bring or come to a focus "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}focus{/it} rays of light"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to adjust the focus of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}focused{/it} his binoculars."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to direct or cause to direct at "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Focus{/it} your attention here."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to bring or come to a focus",
+        "to adjust the focus of",
+        "to direct or cause to direct at"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "focus001",
+  "shortdef": [
+    "a point at which rays (as of light, heat, or sound) meet after being reflected or bent : the point at which an image is formed",
+    "the distance from a lens or mirror to a focus",
+    "an adjustment that gives clear vision"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8f\u014d-k\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/focus001.mp3"
+}

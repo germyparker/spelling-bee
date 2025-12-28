@@ -1,0 +1,100 @@
+{
+  "word": "savant",
+  "api_response": [
+    {
+      "meta": {
+        "id": "savant",
+        "uuid": "a921c619-7ea8-4e7a-9334-0c6d4831d79b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "savant",
+          "savants"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "sa*vant",
+        "prs": [
+          {
+            "mw": "sa-\u02c8v\u00e4nt",
+            "sound": {
+              "audio": "savant01"
+            }
+          },
+          {
+            "mw": "-\u02c8v\u00e4\u207f",
+            "pun": ";"
+          },
+          {
+            "mw": "s\u0259-\u02c8vant"
+          },
+          {
+            "mw": "\u02c8sav-\u0259nt"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a learned person {bc}{sx|scholar||}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a person affected with a developmental disorder (as autism) who exhibits exceptional skill or brilliance in some limited field (as mathematics or music)"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "French, from {it}savoir{/it} {ldquo}to know,{rdquo} from Latin {it}sapere{/it} {ldquo}to taste, be wise{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "a learned person : scholar",
+        "a person affected with a developmental disorder (as autism) who exhibits exceptional skill or brilliance in some limited field (as mathematics or music)"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "savant01",
+  "shortdef": [
+    "a learned person : scholar",
+    "a person affected with a developmental disorder (as autism) who exhibits exceptional skill or brilliance in some limited field (as mathematics or music)"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "sa-\u02c8v\u00e4nt",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "savant",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/savant01.mp3"
+}

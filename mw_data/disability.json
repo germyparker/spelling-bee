@@ -1,0 +1,119 @@
+{
+  "word": "disability",
+  "api_response": [
+    {
+      "meta": {
+        "id": "disability",
+        "uuid": "02f0b844-b15a-4e1e-b9e9-fbfd626d36f6",
+        "sort": "040634000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "disabilities",
+          "disability"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dis*abil*i*ty",
+        "prs": [
+          {
+            "mw": "\u02ccdi-s\u0259-\u02c8bi-l\u0259-t\u0113",
+            "sound": {
+              "audio": "disabi01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "dis*abil*i*ties"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a condition (as one present at birth or caused by injury) that interferes with or limits a person's ability to engage in certain physical or mental tasks or actions"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a condition (as one present at birth or caused by injury) that interferes with or limits a person's ability to engage in certain physical or mental tasks or actions"
+      ]
+    },
+    {
+      "meta": {
+        "id": "learning disability",
+        "uuid": "8ae0d52b-4f3f-412e-b26b-1fbc6b0e1be1",
+        "sort": "120224000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "learning difference",
+          "learning disability",
+          "learning disabled"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "learning disability"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of various conditions (as dyslexia) that make learning difficult"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "learning disabled",
+          "fl": "adjective"
+        }
+      ],
+      "shortdef": [
+        "any of various conditions (as dyslexia) that make learning difficult"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "disabi01",
+  "shortdef": [
+    "a condition (as one present at birth or caused by injury) that interferes with or limits a person's ability to engage in certain physical or mental tasks or actions"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccdi-s\u0259-\u02c8bi-l\u0259-t\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/disabi01.mp3"
+}

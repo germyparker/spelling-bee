@@ -1,0 +1,74 @@
+{
+  "word": "comrades",
+  "api_response": [
+    {
+      "meta": {
+        "id": "comrade",
+        "uuid": "3af07fa4-0626-40de-808d-dd45a867a019",
+        "sort": "031206000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "comrade",
+          "comradeliness",
+          "comradelinesses",
+          "comradely",
+          "comrades",
+          "comradeship",
+          "comradeships"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "com*rade",
+        "prs": [
+          {
+            "mw": "\u02c8k\u00e4m-\u02ccrad",
+            "sound": {
+              "audio": "comrad01"
+            }
+          },
+          {
+            "mw": "-r\u0259d"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|companion||1}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "companion"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "comrad01",
+  "shortdef": [
+    "companion"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8k\u00e4m-\u02ccrad",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comrad01.mp3"
+}

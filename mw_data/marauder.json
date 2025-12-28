@@ -1,0 +1,84 @@
+{
+  "word": "marauder",
+  "api_response": [
+    {
+      "meta": {
+        "id": "maraud",
+        "uuid": "c108965b-e807-40a3-8d29-4f1524356509",
+        "sort": "130191000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "maraud",
+          "marauded",
+          "marauder",
+          "marauders",
+          "marauding",
+          "marauds"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ma*raud",
+        "prs": [
+          {
+            "mw": "m\u0259-\u02c8r\u022fd",
+            "sound": {
+              "audio": "maraud01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ma*raud*ed"
+        },
+        {
+          "if": "ma*raud*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to roam about and raid in search of things to steal"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "ma*raud*er",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "to roam about and raid in search of things to steal"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "maraud01",
+  "shortdef": [
+    "to roam about and raid in search of things to steal"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "m\u0259-\u02c8r\u022fd",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maraud01.mp3"
+}

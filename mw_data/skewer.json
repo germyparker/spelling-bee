@@ -1,0 +1,139 @@
+{
+  "word": "skewer",
+  "api_response": [
+    {
+      "meta": {
+        "id": "skewer:1",
+        "uuid": "6f50011f-985e-4133-a92f-0017187a1ee9",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "skewer",
+          "skewers"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "skew*er",
+        "prs": [
+          {
+            "mw": "\u02c8sky\u00fc-\u0259r",
+            "sound": {
+              "audio": "skewer01"
+            }
+          },
+          {
+            "mw": "\u02c8skyu\u0307-\u0259r"
+          },
+          {
+            "mw": "\u02c8skyu\u0307r"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pin for keeping meat in form while roasting or for holding small pieces of meat and vegetables for broiling"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something shaped or used like a meat skewer"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle English {it}skeuier{/it}"
+        ]
+      ],
+      "shortdef": [
+        "a pin for keeping meat in form while roasting or for holding small pieces of meat and vegetables for broiling",
+        "something shaped or used like a meat skewer"
+      ]
+    },
+    {
+      "meta": {
+        "id": "skewer:2",
+        "uuid": "60305586-c8a0-4ce6-8afc-5f3cab2abc3e",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "skewer",
+          "skewered",
+          "skewering",
+          "skewers"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "skewer"
+      },
+      "fl": "transitive verb",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to fasten or pierce with or as if with a skewer"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to fasten or pierce with or as if with a skewer"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "skewer01",
+  "shortdef": [
+    "a pin for keeping meat in form while roasting or for holding small pieces of meat and vegetables for broiling",
+    "something shaped or used like a meat skewer"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sky\u00fc-\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "skewer",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/skewer01.mp3"
+}

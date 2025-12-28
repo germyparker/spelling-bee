@@ -1,0 +1,105 @@
+{
+  "word": "bulletin",
+  "api_response": [
+    {
+      "meta": {
+        "id": "bulletin",
+        "uuid": "b64e13a1-6220-4ca2-b885-70fec4b36655",
+        "sort": "021147000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bulletin",
+          "bulletins"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bul*le*tin",
+        "prs": [
+          {
+            "mw": "\u02c8bu\u0307-l\u0259-t\u0259n",
+            "sound": {
+              "audio": "bullet04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a short public notice usually coming from an informed or official source"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a short public notice usually coming from an informed or official source"
+      ]
+    },
+    {
+      "meta": {
+        "id": "bulletin board",
+        "uuid": "c6fbc421-5ec7-4679-a780-e9de16cbd2fb",
+        "sort": "021148000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "bulletin board"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "bulletin board"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a board for posting bulletins and announcements"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a board for posting bulletins and announcements"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "bullet04",
+  "shortdef": [
+    "a short public notice usually coming from an informed or official source"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8bu\u0307-l\u0259-t\u0259n",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/b/bullet04.mp3"
+}

@@ -1,0 +1,137 @@
+{
+  "word": "curious",
+  "api_response": [
+    {
+      "meta": {
+        "id": "curious",
+        "uuid": "e2b9897c-643f-4a31-adca-340ebe9bd1d1",
+        "sort": "031966000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "curious",
+          "curiouser",
+          "curiousest",
+          "curiously",
+          "curiousness",
+          "curiousnesses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "cu*ri*ous",
+        "prs": [
+          {
+            "mw": "\u02c8kyu\u0307r-\u0113-\u0259s",
+            "sound": {
+              "audio": "curiou01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}eager to learn {bc}{sx|inquisitive||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}Curious{/it} onlookers gathered at the scene."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}showing an eagerness to learn "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}curious{/it} expression"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}attracting attention by being strange or unusual {bc}{sx|odd||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{ldquo}\u2026 I'm a \u2026 collector \u2026 and I like to look at {it}curious{/it} specimens.{rdquo}",
+                          "aq": {
+                            "auth": "Oliver Butterworth",
+                            "source": "{it}The Enormous Egg{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "cu*ri*ous*ly",
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "eager to learn : inquisitive",
+        "showing an eagerness to learn",
+        "attracting attention by being strange or unusual : odd"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "curiou01",
+  "shortdef": [
+    "eager to learn : inquisitive",
+    "showing an eagerness to learn",
+    "attracting attention by being strange or unusual : odd"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8kyu\u0307r-\u0113-\u0259s",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curiou01.mp3"
+}

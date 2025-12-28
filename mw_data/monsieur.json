@@ -1,0 +1,144 @@
+{
+  "word": "monsieur",
+  "api_response": [
+    {
+      "meta": {
+        "id": "monsieur",
+        "uuid": "58645845-7c81-442d-8c21-9955ab8657c2",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "monsieur",
+          "messieurs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "mon*sieur",
+        "prs": [
+          {
+            "mw": "m\u0259s-\u02c8y\u0259",
+            "sound": {
+              "audio": "monsie01"
+            }
+          },
+          {
+            "mw": "m\u0259sh-",
+            "pun": ";"
+          },
+          {
+            "mw": "m\u0259-\u02c8si\u0259r"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "mes*sieurs",
+          "prs": [
+            {
+              "mw": "m\u0259s-\u02c8y\u0259",
+              "sound": {
+                "audio": "monsie02"
+              }
+            },
+            {
+              "mw": "-\u02c8y\u0259z"
+            },
+            {
+              "mw": "m\u0259sh-"
+            },
+            {
+              "mw": "m\u0101s-",
+              "pun": ";"
+            },
+            {
+              "mw": "m\u0259-\u02c8si\u0259r"
+            },
+            {
+              "mw": "-\u02c8si\u0259rz"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used by or to French-speaking people as a courtesy title equivalent to {it}Mr.{/it}"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle French, literally, {ldquo}my lord{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "\u2014used by or to French-speaking people as a courtesy title equivalent to Mr."
+      ]
+    },
+    {
+      "meta": {
+        "id": "messieurs",
+        "uuid": "ab8ab859-1055-4b4f-b683-8e56ea787d4b",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "messieurs",
+          "monsieur"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "messieurs"
+      },
+      "cxs": [
+        {
+          "cxl": "plural of",
+          "cxtis": [
+            {
+              "cxt": "monsieur"
+            }
+          ]
+        }
+      ],
+      "shortdef": []
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "monsie01",
+  "shortdef": [
+    "\u2014used by or to French-speaking people as a courtesy title equivalent to Mr."
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "m\u0259s-\u02c8y\u0259",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "monsieur",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monsie01.mp3"
+}

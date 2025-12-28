@@ -1,0 +1,74 @@
+{
+  "word": "dismissal",
+  "api_response": [
+    {
+      "meta": {
+        "id": "dismissal",
+        "uuid": "28ba9613-4380-46ff-b6c5-af68d78e490d",
+        "sort": "040756000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "dismissal",
+          "dismissals"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dis*miss*al",
+        "prs": [
+          {
+            "mw": "dis-\u02c8mi-s\u0259l",
+            "sound": {
+              "audio": "dismis04"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act of dismissing {bc}the state or fact of being dismissed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The students will have an early {it}dismissal{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the act of dismissing : the state or fact of being dismissed"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "dismis04",
+  "shortdef": [
+    "the act of dismissing : the state or fact of being dismissed"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "dis-\u02c8mi-s\u0259l",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/dismis04.mp3"
+}

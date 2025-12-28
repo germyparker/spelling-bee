@@ -1,0 +1,70 @@
+{
+  "word": "twigs",
+  "api_response": [
+    {
+      "meta": {
+        "id": "twig",
+        "uuid": "6a950d0b-e534-42b3-aba6-a70bf082130b",
+        "sort": "201114000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "twig",
+          "twigged",
+          "twiggier",
+          "twiggiest",
+          "twiggy",
+          "twigs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "twig",
+        "prs": [
+          {
+            "mw": "\u02c8twig",
+            "sound": {
+              "audio": "twig0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a small shoot or branch"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a small shoot or branch"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "twig0001",
+  "shortdef": [
+    "a small shoot or branch"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8twig",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/twig0001.mp3"
+}

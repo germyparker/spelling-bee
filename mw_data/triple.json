@@ -1,0 +1,220 @@
+{
+  "word": "triple",
+  "api_response": [
+    {
+      "meta": {
+        "id": "triple:1",
+        "uuid": "78c0513a-767c-4d95-8d63-a0ee162aedf3",
+        "sort": "200946000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "triple",
+          "tripled",
+          "triples",
+          "tripling"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "tri*ple",
+        "prs": [
+          {
+            "mw": "\u02c8tri-p\u0259l",
+            "sound": {
+              "audio": "triple01"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "tri*pled"
+        },
+        {
+          "if": "tri*pling"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to make or become three times as great or as many"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to make or become three times as great or as many"
+      ]
+    },
+    {
+      "meta": {
+        "id": "triple:2",
+        "uuid": "31bf0f81-69d1-43d6-bb78-4104c694dcc4",
+        "sort": "200947000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "triple",
+          "triples"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "triple"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sum, amount, or number that is three times as great"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a combination, group, or series of three"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a hit in baseball that lets the batter reach third base"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a sum, amount, or number that is three times as great",
+        "a combination, group, or series of three",
+        "a hit in baseball that lets the batter reach third base"
+      ]
+    },
+    {
+      "meta": {
+        "id": "triple:3",
+        "uuid": "eb6abe4a-47e5-472b-9496-d6f09ec35ab9",
+        "sort": "200948000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "triple"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "triple"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}having three units or parts"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}being three times as great or as many"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}repeated three times"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "having three units or parts",
+        "being three times as great or as many",
+        "repeated three times"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "triple01",
+  "shortdef": [
+    "to make or become three times as great or as many"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8tri-p\u0259l",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/triple01.mp3"
+}

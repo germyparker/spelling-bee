@@ -1,0 +1,76 @@
+{
+  "word": "pogrom",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pogrom",
+        "uuid": "4f49e554-5f6b-44e8-a452-ea36a3161824",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "pogrom",
+          "pogroms"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "po*grom",
+        "prs": [
+          {
+            "mw": "\u02c8p\u014d-gr\u0259m",
+            "pun": ";"
+          },
+          {
+            "mw": "p\u014d-\u02c8gr\u00e4m"
+          },
+          {
+            "mw": "p\u0259-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an organized slaughter of helpless people and especially of Jews"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Yiddish, from Russian, literally, {ldquo}devastation{rdquo}"
+        ]
+      ],
+      "shortdef": [
+        "an organized slaughter of helpless people and especially of Jews"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": false,
+  "audio_file": null,
+  "shortdef": [
+    "an organized slaughter of helpless people and especially of Jews"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u014d-gr\u0259m",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "original_search_term": "pogrom"
+}

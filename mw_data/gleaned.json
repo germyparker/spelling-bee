@@ -1,0 +1,96 @@
+{
+  "word": "gleaned",
+  "api_response": [
+    {
+      "meta": {
+        "id": "glean",
+        "uuid": "d828b035-25ab-45b9-9678-0f4e60d79acc",
+        "sort": "070316000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "glean",
+          "gleanable",
+          "gleaned",
+          "gleaner",
+          "gleaners",
+          "gleaning",
+          "gleans"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "glean",
+        "prs": [
+          {
+            "mw": "\u02c8gl\u0113n",
+            "sound": {
+              "audio": "glean001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "gleaned"
+        },
+        {
+          "if": "glean*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to gather from a field what is left by the harvesters"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to gather (as information) little by little with patient effort"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to gather from a field what is left by the harvesters",
+        "to gather (as information) little by little with patient effort"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "glean001",
+  "shortdef": [
+    "to gather from a field what is left by the harvesters",
+    "to gather (as information) little by little with patient effort"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8gl\u0113n",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glean001.mp3"
+}

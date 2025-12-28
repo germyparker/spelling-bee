@@ -1,0 +1,206 @@
+{
+  "word": "deck",
+  "api_response": [
+    {
+      "meta": {
+        "id": "deck:1",
+        "uuid": "485ff3fa-12ec-40c0-abcf-2c909bd17776",
+        "sort": "040192000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "deck",
+          "decks",
+          "on deck"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "deck",
+        "prs": [
+          {
+            "mw": "\u02c8dek",
+            "sound": {
+              "audio": "deck0001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a floor that goes from one side of a ship to the other"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something like the deck of a ship "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {it}deck{/it} of a house"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a pack of playing cards"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a floor that goes from one side of a ship to the other",
+        "something like the deck of a ship",
+        "a pack of playing cards"
+      ]
+    },
+    {
+      "meta": {
+        "id": "deck:2",
+        "uuid": "674f6876-5357-4e03-bafe-3d4c7c64d206",
+        "sort": "040193000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "deck",
+          "decked",
+          "decking"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "deck"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "decked"
+        },
+        {
+          "if": "deck*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to dress or decorate especially in a fancy way "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The house is {it}decked{/it} out for the holidays."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to dress or decorate especially in a fancy way"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tape deck",
+        "uuid": "c7e8947a-a5fb-4e83-a53d-f4973a52ce37",
+        "sort": "200098000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tape deck"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tape deck"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a device used to play back and often to record on magnetic tapes"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a device used to play back and often to record on magnetic tapes"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "deck0001",
+  "shortdef": [
+    "a floor that goes from one side of a ship to the other",
+    "something like the deck of a ship",
+    "a pack of playing cards"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8dek",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/deck0001.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "word": "winsome",
+  "api_response": [
+    {
+      "meta": {
+        "id": "winsome",
+        "uuid": "a96a0afa-5551-4a52-8af7-77ff1a05e9d2",
+        "sort": "230503000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "winsome",
+          "winsomely",
+          "winsomeness",
+          "winsomenesses",
+          "winsomer",
+          "winsomest"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "win*some",
+        "prs": [
+          {
+            "mw": "\u02c8win-s\u0259m",
+            "sound": {
+              "audio": "winsom01"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|winning:2||2}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "winning"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "winsom01",
+  "shortdef": [
+    "winning"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8win-s\u0259m",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/w/winsom01.mp3"
+}

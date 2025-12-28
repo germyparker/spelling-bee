@@ -1,0 +1,75 @@
+{
+  "word": "recipe",
+  "api_response": [
+    {
+      "meta": {
+        "id": "recipe",
+        "uuid": "8fb5b064-84f8-44b4-9584-e04390f89313",
+        "sort": "180272000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "recipe",
+          "recipes"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "rec*i*pe",
+        "prs": [
+          {
+            "mw": "\u02c8re-s\u0259-p\u0113",
+            "sound": {
+              "audio": "recipe01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a set of instructions for making something (as a food dish) by combining various things"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "history": {
+        "pl": "Word History",
+        "pt": [
+          [
+            "text",
+            "In the Middle Ages, a doctor's instructions for taking a drug would begin with the Latin word {it}recipe{/it}, literally, {ldquo}take!{rdquo} {it}Recipe{/it} is a form used in commands of the verb {it}recipere{/it}, meaning {ldquo}to take{rdquo} or {ldquo}to receive.{rdquo} The verb {it}receive{/it} itself comes from Latin {it}recipere{/it}, but through French\u2014as does the word {it}receipt{/it}, which was once commonly used to mean {ldquo}recipe.{rdquo} From its use as a name for a drug prescription, {it}recipe{/it} extended its meaning to cover instructions for making other things we consume, such as prepared food."
+          ]
+        ]
+      },
+      "shortdef": [
+        "a set of instructions for making something (as a food dish) by combining various things"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "recipe01",
+  "shortdef": [
+    "a set of instructions for making something (as a food dish) by combining various things"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8re-s\u0259-p\u0113",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recipe01.mp3"
+}

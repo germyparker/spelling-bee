@@ -1,0 +1,91 @@
+{
+  "word": "thesaurus",
+  "api_response": [
+    {
+      "meta": {
+        "id": "thesaurus",
+        "uuid": "a2a8cabc-5264-491a-bf02-e05322ae5513",
+        "sort": "200368000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "thesaural",
+          "thesauri",
+          "thesaurus",
+          "thesauruses"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "the*sau*rus",
+        "prs": [
+          {
+            "mw": "thi-\u02c8s\u022fr-\u0259s",
+            "sound": {
+              "audio": "thesau01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "the*sau*ri",
+          "prs": [
+            {
+              "mw": "-\u02c8s\u022fr-\u02cc\u012b"
+            },
+            {
+              "mw": "-\u02cc\u0113"
+            }
+          ]
+        },
+        {
+          "il": "or",
+          "if": "the*sau*rus*es",
+          "prs": [
+            {
+              "mw": "-\u02c8s\u022fr-\u0259-s\u0259z"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a book of words and their synonyms"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a book of words and their synonyms"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "thesau01",
+  "shortdef": [
+    "a book of words and their synonyms"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "thi-\u02c8s\u022fr-\u0259s",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thesau01.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "scorcher",
+  "api_response": [
+    {
+      "meta": {
+        "id": "scorcher",
+        "uuid": "7cbcc1be-bda2-4fab-820b-af9d6b17036f",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "scorcher",
+          "scorchers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "scorch*er",
+        "prs": [
+          {
+            "mw": "\u02c8sk\u022fr-ch\u0259r",
+            "sound": {
+              "audio": "scorch03"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one that scorches"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}a very hot day"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "one that scorches; especially : a very hot day"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "scorch03",
+  "shortdef": [
+    "one that scorches; especially : a very hot day"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sk\u022fr-ch\u0259r",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "scorcher",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/scorch03.mp3"
+}

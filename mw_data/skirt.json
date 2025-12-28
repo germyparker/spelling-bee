@@ -1,0 +1,186 @@
+{
+  "word": "skirt",
+  "api_response": [
+    {
+      "meta": {
+        "id": "skirt:1",
+        "uuid": "b188d8e5-ffc0-4051-b6a2-33471ec89b6e",
+        "sort": "191073000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "skirt",
+          "skirted",
+          "skirts"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "skirt",
+        "prs": [
+          {
+            "mw": "\u02c8sk\u0259rt",
+            "sound": {
+              "audio": "skirt001"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a piece of clothing or part of a piece of clothing worn by women or girls that hangs from the waist down"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a part or attachment serving as a rim, border, or edging"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a piece of clothing or part of a piece of clothing worn by women or girls that hangs from the waist down",
+        "a part or attachment serving as a rim, border, or edging"
+      ]
+    },
+    {
+      "meta": {
+        "id": "skirt:2",
+        "uuid": "1da682df-36cc-4c5e-aba8-553ca1c8050c",
+        "sort": "191074000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "skirt",
+          "skirted",
+          "skirting"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "skirt"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "skirt*ed"
+        },
+        {
+          "if": "skirt*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|border:2||2}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go or pass around or about the outer edge of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Using the two-bladed paddle I quickly {it}skirted{/it} the south part of the island.",
+                          "aq": {
+                            "auth": "Scott O'Dell",
+                            "source": "{it}Island of the Blue Dolphins{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to avoid for fear of difficulty "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}skirted{/it} the issue."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "border",
+        "to go or pass around or about the outer edge of",
+        "to avoid for fear of difficulty"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "skirt001",
+  "shortdef": [
+    "a piece of clothing or part of a piece of clothing worn by women or girls that hangs from the waist down",
+    "a part or attachment serving as a rim, border, or edging"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sk\u0259rt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/skirt001.mp3"
+}

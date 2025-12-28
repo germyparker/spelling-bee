@@ -1,0 +1,81 @@
+{
+  "word": "roam",
+  "api_response": [
+    {
+      "meta": {
+        "id": "roam",
+        "uuid": "6e3367ae-9307-4154-8a69-693808ae8aad",
+        "sort": "180880000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "roam",
+          "roamed",
+          "roamer",
+          "roamers",
+          "roaming",
+          "roams"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "roam",
+        "prs": [
+          {
+            "mw": "\u02c8r\u014dm",
+            "sound": {
+              "audio": "roam0001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "roamed"
+        },
+        {
+          "if": "roam*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go from place to place with no fixed purpose or direction"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "srefs": [
+        "wander"
+      ],
+      "shortdef": [
+        "to go from place to place with no fixed purpose or direction"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "roam0001",
+  "shortdef": [
+    "to go from place to place with no fixed purpose or direction"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "verb",
+  "pronunciation": "\u02c8r\u014dm",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/roam0001.mp3"
+}

@@ -1,0 +1,167 @@
+{
+  "word": "sluice",
+  "api_response": [
+    {
+      "meta": {
+        "id": "sluice:1",
+        "uuid": "3ba820cb-e2cd-419d-b3e2-86e38a83598a",
+        "sort": "191205000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sluice",
+          "sluices"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "sluice",
+        "prs": [
+          {
+            "mw": "\u02c8sl\u00fcs",
+            "sound": {
+              "audio": "sluice01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a man-made channel for water with a gate for controlling its flow or changing its direction"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a device for controlling the flow of water"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a sloping trough for washing ore or for floating logs"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a man-made channel for water with a gate for controlling its flow or changing its direction",
+        "a device for controlling the flow of water",
+        "a sloping trough for washing ore or for floating logs"
+      ]
+    },
+    {
+      "meta": {
+        "id": "sluice:2",
+        "uuid": "b87b48cc-9294-4fe4-9471-4c0366bb0358",
+        "sort": "191206000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "sluice",
+          "sluiced",
+          "sluices",
+          "sluicing"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "sluice"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "sluiced"
+        },
+        {
+          "if": "sluic*ing"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to wash in a stream of water running through a sluice"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|flush:3||2}, {sx|drench||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "to wash in a stream of water running through a sluice",
+        "flush, drench"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "sluice01",
+  "shortdef": [
+    "a man-made channel for water with a gate for controlling its flow or changing its direction",
+    "a device for controlling the flow of water",
+    "a sloping trough for washing ore or for floating logs"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8sl\u00fcs",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sluice01.mp3"
+}

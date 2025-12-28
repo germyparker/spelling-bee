@@ -1,0 +1,67 @@
+{
+  "word": "leather",
+  "api_response": [
+    {
+      "meta": {
+        "id": "leather",
+        "uuid": "8bcdf1bf-ecb6-42cb-aec3-c2e20436feef",
+        "sort": "120234000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "leather",
+          "leatherlike",
+          "leathers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "leath*er",
+        "prs": [
+          {
+            "mw": "\u02c8le-t\u035fh\u0259r",
+            "sound": {
+              "audio": "leathe01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}animal skin that is prepared for use"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "animal skin that is prepared for use"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "leathe01",
+  "shortdef": [
+    "animal skin that is prepared for use"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8le-t\u035fh\u0259r",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/l/leathe01.mp3"
+}

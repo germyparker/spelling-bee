@@ -1,0 +1,68 @@
+{
+  "word": "pirates",
+  "api_response": [
+    {
+      "meta": {
+        "id": "pirate",
+        "uuid": "02589eac-2077-4abd-abfe-1d72ad856773",
+        "sort": "160687000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "pirate",
+          "pirates",
+          "piratical",
+          "piratically"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pi*rate",
+        "prs": [
+          {
+            "mw": "\u02c8p\u012b-r\u0259t",
+            "sound": {
+              "audio": "pirate01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a robber of ships at sea {bc}a person who commits piracy"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a robber of ships at sea : a person who commits piracy"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "pirate01",
+  "shortdef": [
+    "a robber of ships at sea : a person who commits piracy"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02c8p\u012b-r\u0259t",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pirate01.mp3"
+}

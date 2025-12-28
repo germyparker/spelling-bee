@@ -1,0 +1,84 @@
+{
+  "word": "deferential",
+  "api_response": [
+    {
+      "meta": {
+        "id": "deferential",
+        "uuid": "b87a5f38-dcf2-4624-80c8-0f954fff2628",
+        "src": "sch_dict",
+        "section": "alpha",
+        "stems": [
+          "deferential",
+          "deferentially"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "def*er*en*tial",
+        "prs": [
+          {
+            "mw": "\u02ccdef-\u0259-\u02c8ren-ch\u0259l",
+            "sound": {
+              "audio": "defere03"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}showing or expressing deference"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "def*er*en*tial*ly",
+          "prs": [
+            {
+              "mw": "-\u02c8rench-l\u0113",
+              "sound": {
+                "audio": "defere04"
+              }
+            },
+            {
+              "mw": "-\u0259-l\u0259"
+            }
+          ],
+          "fl": "adverb"
+        }
+      ],
+      "shortdef": [
+        "showing or expressing deference"
+      ]
+    }
+  ],
+  "api_level": "elementary",
+  "has_audio": true,
+  "audio_file": "defere03",
+  "shortdef": [
+    "showing or expressing deference"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02ccdef-\u0259-\u02c8ren-ch\u0259l",
+  "difficulty_level": 2,
+  "level_name": "TWO_BEE",
+  "alternates": [],
+  "original_search_term": "deferential",
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/d/defere03.mp3"
+}

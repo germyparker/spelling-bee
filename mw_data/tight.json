@@ -1,0 +1,1205 @@
+{
+  "word": "tight",
+  "api_response": [
+    {
+      "meta": {
+        "id": "tight:1",
+        "uuid": "11b57da1-82c8-45c1-bc46-f2c9d0518e6c",
+        "sort": "200529000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tight",
+          "tighter",
+          "tightest",
+          "tightly",
+          "tightness",
+          "tightnesses"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "tight",
+        "prs": [
+          {
+            "mw": "\u02c8t\u012bt",
+            "sound": {
+              "audio": "tight001"
+            }
+          }
+        ]
+      },
+      "fl": "adjective",
+      "ins": [
+        {
+          "if": "tight*er"
+        },
+        {
+          "if": "tight*est"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}very closely packed or compressed "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}tight{/it} bundle"
+                        },
+                        {
+                          "t": "a {it}tight{/it} fist"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}fixed or held very firmly in place "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}tight{/it} jar cover"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}fitting too closely "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "{it}tight{/it} shoes"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}firmly stretched or drawn {bc}{sx|taut||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Pull the rope until it's {it}tight{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}difficult to get through or out of "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm in a {it}tight{/it} spot."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}firm in control "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She keeps a {it}tight{/it} hand on affairs."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|stingy||1}"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}low in supply {bc}{sx|scarce||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Money is {it}tight{/it} until I get paid."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}painfully or uncomfortably tense "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}tight{/it} throat"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}barely allowing enough time "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {it}tight{/it} schedule"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "tight*ly",
+          "fl": "adverb"
+        },
+        {
+          "ure": "tight*ness",
+          "fl": "noun"
+        }
+      ],
+      "shortdef": [
+        "very closely packed or compressed",
+        "fixed or held very firmly in place",
+        "fitting too closely"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tight:2",
+        "uuid": "29245488-b42d-4672-a211-7ae31b1f673b",
+        "sort": "200530000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "tight",
+          "tighter",
+          "tightest"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "tight"
+      },
+      "fl": "adverb",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in a firm, secure, or close manner "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Shut the door {it}tight{/it}."
+                        },
+                        {
+                          "t": "Hold on {it}tight{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}in a deep and uninterrupted manner {bc}{sx|soundly||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Sleep {it}tight{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "in a firm, secure, or close manner",
+        "in a deep and uninterrupted manner : soundly"
+      ]
+    },
+    {
+      "meta": {
+        "id": "run:1",
+        "uuid": "2b2b3e8f-1f2b-4925-b7ea-a6f2da5506d6",
+        "sort": "181063000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "ran",
+          "run",
+          "run a fever",
+          "run a temperature",
+          "run a tight ship",
+          "run across",
+          "run after",
+          "run against",
+          "run away",
+          "run by",
+          "run circles around",
+          "run dry",
+          "run interference",
+          "run into",
+          "run low on",
+          "run off",
+          "run one's mouth",
+          "run out",
+          "run out of",
+          "run over",
+          "run past",
+          "run rings around",
+          "run riot",
+          "run short",
+          "run short of",
+          "run the numbers",
+          "run the table",
+          "run to",
+          "run upon",
+          "run with",
+          "running"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "run",
+        "prs": [
+          {
+            "mw": "\u02c8r\u0259n",
+            "sound": {
+              "audio": "run00001"
+            }
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ran",
+          "prs": [
+            {
+              "mw": "\u02c8ran"
+            }
+          ]
+        },
+        {
+          "if": "run"
+        },
+        {
+          "if": "run*ning"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go at a pace faster than a walk"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go rapidly or hurriedly "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}ran{/it} home to get her book."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take to flight "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They saw the police and {it}ran{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pass over, across, or through "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}ran{/it} her fingers through her hair."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "5",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|function:2||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "That old car is still {it}running{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "6",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to function "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Can you {it}run{/it} this machine?"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "7",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|extend||2} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The trail {it}runs{/it} from here to the border."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "8",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move freely about "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He let the animals {it}run{/it} loose."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "9",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|flow:1||1} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "A brook {it}runs{/it} through the field."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "10",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be in charge of {bc}{sx|manage||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My pop {it}runs{/it} a newspaper here in town.",
+                          "aq": {
+                            "auth": "Oliver Butterworth",
+                            "source": "{it}The Enormous Egg{/it}"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "11",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to do something by or as if by running "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I'm {it}running{/it} errands."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "12",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take part in a race"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "13",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to move on or as if on wheels"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "14",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to go back and forth often according to a fixed schedule "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The train {it}runs{/it} between Boston and Chicago."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "15",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to migrate or move in schools "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The salmon are {it}running{/it} early this year."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "16",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to continue in force "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The exhibit {it}runs{/it} until the end of the month."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "17",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to pass into a specified condition "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The well {it}ran{/it} dry."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "18",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to spread into another area "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The dyes are guaranteed not to {it}run{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "19",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to give off liquid "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "My nose is {it}running{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "20",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to tend to develop a specified feature or quality "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The shirts {it}run{/it} small."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "21",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to slip through or past "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They {it}ran{/it} the blockade."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "22",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to penetrate "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He {it}ran{/it} a knife through the bread."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "23",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to cause to go "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The sheriff {it}ran{/it} them out of town."
+                        },
+                        {
+                          "t": "I {it}ran{/it} my car off the road."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "24",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to take on "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}ran{/it} the risk of being caught."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "25",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to print or broadcast "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Every channel {it}runs{/it} the ad."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "26",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to be a candidate for office "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "She {it}ran{/it} for mayor."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "27",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to occur again and again "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The condition {it}runs{/it} in the family."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "dros": [
+        {
+          "drp": "run away",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to leave home secretly without intending to return"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "run into",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to meet by chance"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "run off",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to leave in a hurry"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "run out",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "1",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to come to an end "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Time {it}ran out{/it} before I finished."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "2",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to become used up "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Supplies were {it}running out{/it}."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "run out of",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}to use up the available supply of "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "We {it}ran out of{/it} gas."
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "drp": "run over",
+          "def": [
+            {
+              "sseq": [
+                [
+                  [
+                    "sense",
+                    {
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}{sx|overflow:1||1}"
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "shortdef": [
+        "to go at a pace faster than a walk",
+        "to go rapidly or hurriedly",
+        "to take to flight"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "tight001",
+  "shortdef": [
+    "very closely packed or compressed",
+    "fixed or held very firmly in place",
+    "fitting too closely"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "adjective",
+  "pronunciation": "\u02c8t\u012bt",
+  "difficulty_level": 1,
+  "level_name": "ONE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tight001.mp3"
+}

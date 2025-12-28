@@ -1,0 +1,67 @@
+{
+  "word": "chandelier",
+  "api_response": [
+    {
+      "meta": {
+        "id": "chandelier",
+        "uuid": "19828c2c-8ab6-4cc2-ac98-75a73d3da326",
+        "sort": "030460000",
+        "src": "sd2",
+        "section": "alpha",
+        "stems": [
+          "chandelier",
+          "chandeliered",
+          "chandeliers"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "chan*de*lier",
+        "prs": [
+          {
+            "mw": "\u02ccshan-d\u0259-\u02c8lir",
+            "sound": {
+              "audio": "chande01"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a lighting fixture with several branches that usually hangs from the ceiling"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a lighting fixture with several branches that usually hangs from the ceiling"
+      ]
+    }
+  ],
+  "has_audio": true,
+  "audio_file": "chande01",
+  "shortdef": [
+    "a lighting fixture with several branches that usually hangs from the ceiling"
+  ],
+  "is_inflection": false,
+  "base_word": null,
+  "functional_label": "noun",
+  "pronunciation": "\u02ccshan-d\u0259-\u02c8lir",
+  "difficulty_level": 3,
+  "level_name": "THREE_BEE",
+  "alternates": [],
+  "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chande01.mp3"
+}
